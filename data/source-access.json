@@ -4286,5 +4286,121 @@
     "url": "https://blackbook.co.in/current-affairs/november-2026",
     "access": "Opening chunk 0/6 and chunk 2/6 read for breadth/discovery only. Daily editions can report the previous day; some coaching labels conflict with primary dates. Judicial/sports/appointment claims are not treated as verified merely because listed. No complete magazine review.",
     "checked_on": "2026-11-07"
+  },
+  "E19-APCBRO": {
+    "title": "AP Finance · G.O.Ms.No.19, CBRO budget-release guidelines, 9 April 2026",
+    "url": "https://apfinance.gov.in/images/BE_2026-27_CBRO_Guidelines.pdf",
+    "access": "Both extracted PDF chunks 0 and 1 read through the signature/addressees. All substantive numbered paragraphs inspected; full appropriation statute and consolidated FRBM legislation not independently read. The extraction boundary cut a few words in paragraph 8; no unsupported reconstruction is used.",
+    "checked_on": "2026-11-07",
+    "retrieval_sha256": "05262e6e4492d4da54a44fd850fc7c8eda39033898ac9a259640ad9413f62c99",
+    "pdf_pages_at_local_test": 4
+  },
+  "E19-APMETER": {
+    "title": "AP Finance · government-department prepaid-meter billing memo, 5 May 2026",
+    "url": "https://apfinance.gov.in/images/Smart_Metering.pdf",
+    "access": "Complete one-chunk primary circular read, including DDO mapping, HOD billing and 5th/7th/9th sequence. Referenced Energy GO of 23 March not independently read; implementation outcomes not audited.",
+    "checked_on": "2026-11-07",
+    "retrieval_sha256": "0f95e16b0db40984725982b2d582c1a654eb901162134c3aa3722527b189fbd9",
+    "pdf_pages_at_local_test": 2
+  },
+  "E19-APDIST": {
+    "title": "AP Finance · district/mandal budget allocation memo, 11 March 2026",
+    "url": "https://apfinance.gov.in/images/Budget_Outreach_2026-27_Memo.pdf",
+    "access": "Complete one-chunk primary memo read. NIDHI logins and underlying allocation tables were not accessed. Its reference to 28 districts is reported as the memo’s allocation instruction, not independent verification of district-reorganisation notifications.",
+    "checked_on": "2026-11-07",
+    "retrieval_sha256": "7a2090179dc70e9d30d9b343ae6b5b754ccfc246dfcaa7443e072a72d9964af6",
+    "pdf_pages_at_local_test": 2
+  },
+  "E19-APMEET": {
+    "title": "AP Finance · budget outreach meetings circular, 28 March 2026",
+    "url": "https://apfinance.gov.in/images/Budget_Outreach_Programme_2026-27_Circular_Memo.pdf",
+    "access": "Complete three-page circular as one extracted chunk read. Instructions, 30 March–4 April window and required feedback are verified as instructions, not proof every meeting occurred.",
+    "checked_on": "2026-11-07",
+    "retrieval_sha256": "6e6fc8b574e664cd0a68933eb65da001ba426a4ec0b7c855eb03d55cc063b4fd",
+    "pdf_pages_at_local_test": 3
+  },
+  "E19-ASI": {
+    "title": "MoSPI · ASI 2024–25 publications and methodology",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332475&reg=3&lang=1",
+    "access": "Chunks 0,1,2 of 5 inspected: complete unique release prose, tables 1–2 and methodological endnote through release ID; later material repeats the release. Underlying unit-level data and complete Volume I were not downloaded or independently analysed.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-HORIZON": {
+    "title": "Science Ministry · India–EU Horizon Europe negotiations",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333903&reg=3&lang=1",
+    "access": "Complete unique release body in chunk 0/3 read. Signature, ratification, entry into force and a concluded association instrument were not inspected; participation is not treated as already operational.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-NSQ": {
+    "title": "Health Ministry · draft NSQ manufacturing-licence suspension amendments",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332796&reg=3&lang=1",
+    "access": "Complete unique release body in chunk 0/4 read, including proposed parameters, root-cause analysis, CAPA and consultation timing. Linked session-bound e-Gazette request returned a runtime-error page; original draft notification and legal commencement were NOT verified.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-BATCH": {
+    "title": "Health Ministry · proposed authorised drug-batch release personnel",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332192&reg=3&lang=1",
+    "access": "Complete unique release body in chunk 0/3 read. Original draft Gazette and precise qualification schedule were not inspected; no final enactment or universal effective date claimed.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-HEALTH": {
+    "title": "NHA · PM-JAY/ABDM national review, 5–6 November",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333617&reg=3&lang=1",
+    "access": "Chunks 0 and 1/5 read through the end of the unique release: claims, NAFU, BODH, NHCX, data-quality, cybersecurity and doctor-reviewed voice-scribe demonstration. Products/models and state outcome data were not independently tested.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-WATER": {
+    "title": "DoLR/NRAA/ICAR · draft watershed technical guidelines consultation",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332894&reg=3&lang=1",
+    "access": "Chunks 0 and 1/4 read through the end of the unique release. Draft guidelines, World Bank legal agreement and final WDC-PMKSY 3.0 sanction were not independently inspected.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-GRIEV": {
+    "title": "Rural Development · reported VB–G RAM G grievance rules",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331390&reg=3&lang=1",
+    "access": "Complete unique release body in chunk 0/4 read through notification summary and release ID. Original Rules, Schedule I appeal provisions and legal commencement not independently read. Timelines attributed to the ministry’s account.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-MLFF": {
+    "title": "NHAI · four-lane-and-above free-flow toll-plaza design guidelines",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333654&reg=3&lang=1",
+    "access": "Complete unique release body in chunk 0/3 read. Full policy circular, technical drawings, national rollout dates, enforcement standards and project contracts were not independently read.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-SARAS": {
+    "title": "Rural Development · Vijayawada National SARAS Mela outcomes",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332675&reg=3&lang=1",
+    "access": "Chunks 0 and 1/5 read through the end of the unique release. Sales/footfall/enterprise metrics are administrative claims, not independently audited outcomes. Compared with the separately read 3 November TOI report; event-duration/date descriptions are not silently reconciled.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-FREIGHT": {
+    "title": "NITI Aayog · NDC-TIA II road-freight agreement",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332576&reg=3&lang=1",
+    "access": "Complete unique release body in chunk 0/3 read. Agreement signed 3 November, released 4 November. Signed instrument, budget, truck purchase commitments and quantified emissions reductions not independently inspected.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-TRIFED": {
+    "title": "MSME–TRIFED · PM Vishwakarma tribal-artisan market access",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333311&reg=3&lang=1",
+    "access": "Complete unique release body in chunk 0/3 read, including eligibility, consent and onboarding conditions. Signed MoU, seller contracts and achieved commercial orders not independently inspected.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-EU": {
+    "title": "European Commission · India research-cooperation background",
+    "url": "https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/europe-world/international-cooperation/bilateral-cooperation-science-and-technology-agreements-non-eu-countries/india_en",
+    "access": "Opening chunk 0/3 read through bilateral science framework, 6 February exploratory talks, 15 July TTC and 17 July formal-negotiation distinction. Background page is not represented as the independently inspected 6 November conclusion announcement or signed agreement.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-TNIE": {
+    "title": "The New Indian Express · Horizon Europe signature and funding conditions",
+    "url": "https://www.newindianexpress.com/india/2026/Nov/06/ahead-of-pm-modis-visit-india-eu-conclude-negotiations-on-flagship-research-innovation-programme",
+    "access": "Opening chunk 0/2 read through association conditions, expected January 2027, financial contribution and TTC background. End of wider digital-cooperation paragraph not read. Expected future timing is attributed reporting, not an independently verified entry-into-force instrument.",
+    "checked_on": "2026-11-07"
+  },
+  "E19-TOI": {
+    "title": "Times of India · Vijayawada SARAS Mela sales report, 3 November",
+    "url": "https://timesofindia.indiatimes.com/city/vijayawada/saras-mela-clocks-rs-12-8-crore-sales-5-73-lakh-products-sold/articleshow/135472010.cms",
+    "access": "Opening chunk 0/10 includes the complete unique local article through cultural-programme paragraph. ₹12.84 crore/5.73 lakh products/2 November conclusion are attributed reporting; dates and 11-day wording differ from the PIB inauguration chronology. Neither account independently audited.",
+    "checked_on": "2026-11-07"
   }
 }

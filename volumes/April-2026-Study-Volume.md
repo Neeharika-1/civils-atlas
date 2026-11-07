@@ -1,13 +1,13 @@
 # CIVILS ATLAS
 ## April 2026 · Expanded research volume
 
-UPSC × Andhra Pradesh APPSC · English · Research cut-off: 7 November 2026 · 48 notes
+UPSC × Andhra Pradesh APPSC · English · Research cut-off: 7 November 2026 · 49 notes
 
 **Coverage warning:** Not exhaustive. Expanded monthly volumes are selected research batches; the rest of the requested archive remains incomplete. No month has passed a complete daily source audit. Full-text and source-extract evidence are distinguished. Historical notes do not certify current law, implementation or latest statistics.
 
 New notes separate reported facts from original static connections, analysis, cautions and Mains prompts. P1 = core; P2 = consolidation; P3 = selective factual recall. Broad AP relevance is not exact APPSC paper mapping. Read the research audit for omissions and unresolved claims.
 
-Daily discovery is NOT activated: GitHub repository deployment or first scheduled execution is pending. Automation collects unreviewed source links, not researched study notes.
+Hosted push run observed; first scheduled execution remains unverified. Automation collects unreviewed source links, not researched study notes.
 
 ## Subject guide
 
@@ -19,7 +19,7 @@ Daily discovery is NOT activated: GitHub repository deployment or first schedule
 - Science & Technology: 3 notes
 - Security: 2 notes
 - International Relations: 3 notes
-- Andhra Pradesh: 8 notes
+- Andhra Pradesh: 9 notes
 - Culture & History: 2 notes
 
 ## Polity & Governance
@@ -1223,6 +1223,40 @@ E11-2604-043 · P1 · 2026-04-16 · AP-linked
 **Sources:** [E11-APCENSUS]
 **Status:** Historical April-indexed snapshot, not certification of current law, latest data or completed implementation · researched 2026-11-07
 
+### 04 · Budget execution and public financial management
+
+#### AP CBRO: appropriation is not an unconditional spending release
+E19-001 · P1 · 2026-04-09 · AP-linked
+
+**Why in the news:** Primary G.O.Ms.No.19 gives the machinery that turns AP’s FY2026–27 budget into departmental spending authority. This backfills April; the date is not changed to November merely because the document was researched now.
+
+**Source-backed essentials**
+- The 9 April order refers to AP Appropriation Act No.3 of 2026 and regulates expenditure for the financial year beginning 1 April 2026 against approved estimates. The Act itself was not independently read.
+- A Comprehensive Budget Release Order (CBRO) is a prerequisite to expenditure, with Chief Controlling Officers distributing budget to Sub-Controlling Officers and Drawing and Disbursing Officers through the CFMS Budget Module.
+- For heads governed by paragraph 5, first-quarter distribution may not exceed 35% of annual BE; cumulative distribution through quarter two may not exceed 55%, and through quarter three 75%. The four-quarter total cannot exceed 100%. Relaxation needs a justified Finance proposal.
+- Centrally Sponsored Scheme releases, with specified salary exceptions, require a specific BRO after receipt of central/funding-agency funds or mother sanction. New schemes require departmental proposals, detailed guidelines/work plans and specific BROs.
+- Paragraph 6 separately lists BRO-controlled heads and heads operated in relaxation of budget control. Its salary, pension, disaster-relief and other exceptions make a blanket interpretation of the general quarterly limits unsafe.
+- The order requires monthly, need-based adjustments to institutional PD accounts. It also restricts new-work commitments, including spillover liabilities, to three times the relevant BE, citing FRBM; this legal attribution is not an independent reading of the FRBM statute.
+- The administrative schedule was CFMS upload by 13 April, HOD distribution submission by 17 April and FMU CBRO issue by 20 April. These deadlines are not evidence that each step was actually completed.
+
+**Static connection · original guidance:** Legislative appropriation, administrative/financial sanction, budget distribution, treasury liquidity and actual expenditure are different stages. A budget estimate is not money already paid to a beneficiary.
+
+**Analysis · original guidance**
+- Use the order to explain cash management rather than merely memorising percentages. Predictable quarterly ceilings can reduce year-end spending rush, but implementation must accommodate seasonal procurement, emergencies and clearly recorded exceptions.
+- An APPSC answer can follow the accountability chain: legislature → Finance → CCO → SCO/DDO → treasury/payment → audit. Match each bill to the correct head, verify conditions and distinguish committed liabilities from a fresh sanction.
+- For evaluation, compare budget distribution, actual releases, paid bills and outcomes by quarter. A digital portal entry does not itself prove funds reached an implementing agency, much less that service delivery improved.
+
+**Read across months · note IDs:** CA-042
+
+**Prelims caution:** 35%, 55% and 75% are not three separate quarterly allocations to add together. “Full budget release” does not waive the listed conditions, specific BRO controls or Finance approvals.
+
+**Mains prompt:** Explain why legislative appropriation alone cannot ensure timely and accountable public expenditure, using AP’s CBRO framework.
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-APCBRO]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
+
 ### 04 · Heat risk and public health
 
 #### AP heatwave alerts: forecast versus observation
@@ -1975,6 +2009,10 @@ Public body retrieved; selected lead/substantive passages inspected, not full is
 ### [E11-V15] Vision IAS · April 2026 · 3.1 Conscious Capitalism
 https://visionias.in/current-affairs/monthly-magazine/2026-05-22/ethics/conscious-capitalism
 Public body retrieved; selected lead/substantive passages inspected, not full issue/article or independent review of all underlying references.
+
+### [E19-APCBRO] AP Finance · G.O.Ms.No.19, CBRO budget-release guidelines, 9 April 2026
+https://apfinance.gov.in/images/BE_2026-27_CBRO_Guidelines.pdf
+Both extracted PDF chunks 0 and 1 read through the signature/addressees. All substantive numbered paragraphs inspected; full appropriation statute and consolidated FRBM legislation not independently read. The extraction boundary cut a few words in paragraph 8; no unsupported reconstruction is used.
 
 ## Research close-out
 See research/Research-Status.md, research/remaining-period-inventory.csv and the day/month coverage ledgers. Neither counts nor queued links prove completeness.

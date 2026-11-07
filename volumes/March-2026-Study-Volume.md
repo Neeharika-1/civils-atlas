@@ -1,13 +1,13 @@
 # CIVILS ATLAS
 ## March 2026 · Expanded research volume
 
-UPSC × Andhra Pradesh APPSC · English · Research cut-off: 7 November 2026 · 48 notes
+UPSC × Andhra Pradesh APPSC · English · Research cut-off: 7 November 2026 · 50 notes
 
 **Coverage warning:** Not exhaustive. Expanded monthly volumes are selected research batches; the rest of the requested archive remains incomplete. No month has passed a complete daily source audit. Full-text and source-extract evidence are distinguished. Historical notes do not certify current law, implementation or latest statistics.
 
 New notes separate reported facts from original static connections, analysis, cautions and Mains prompts. P1 = core; P2 = consolidation; P3 = selective factual recall. Broad AP relevance is not exact APPSC paper mapping. Read the research audit for omissions and unresolved claims.
 
-Daily discovery is NOT activated: GitHub repository deployment or first scheduled execution is pending. Automation collects unreviewed source links, not researched study notes.
+Hosted push run observed; first scheduled execution remains unverified. Automation collects unreviewed source links, not researched study notes.
 
 ## Subject guide
 
@@ -19,7 +19,7 @@ Daily discovery is NOT activated: GitHub repository deployment or first schedule
 - Science & Technology: 4 notes
 - Security: 1 notes
 - International Relations: 2 notes
-- Andhra Pradesh: 8 notes
+- Andhra Pradesh: 10 notes
 - Culture & History: 1 notes
 
 ## Polity & Governance
@@ -1306,6 +1306,70 @@ E10-2603-045 · P2 · 2026-03-26 · AP-linked
 **Sources:** [E10-APCAB]
 **Status:** Historical March coverage snapshot; legal commencement, subsequent changes and implementation require separately dated checks · researched 2026-11-07
 
+### 05 · Fiscal transparency and local accountability
+
+#### AP district–mandal budget mapping: allocation is not local expenditure
+E19-003 · P2 · 2026-03-11 · AP-linked
+
+**Why in the news:** The 11 March circular sets out the data preparation behind AP’s budget outreach. Reading the original document reveals the roles and limits that a headline about constituency allocations can miss.
+
+**Source-backed essentials**
+- HoD-wise NIDHI formats were pre-populated with FY2026–27 BE for schemes, programmes and projects under revenue and capital heads.
+- HODs were instructed to distribute their totals through “District Wise Budget Distribution 2026–27”. The memo refers to 28 districts for this exercise; district-reorganisation notifications were not independently checked.
+- Past expenditure trends or other criteria considered appropriate by the department could be used for district allocations. The circular does not prescribe a single universal population-only formula.
+- Chief Planning Officers were enabled a mandal-distribution tile and were to coordinate with district-level officers. District Collectors were to verify and approve the distribution for constituency-report generation.
+- The prescribed data-entry/submission deadline was 5 p.m. on 13 March 2026. Neither the underlying NIDHI tables nor actual submissions were accessed.
+- The document’s sequencing is administrative: departmental BE → district allocation → mandal distribution → constituency reports. It is not a fresh appropriation for every constituency.
+
+**Static connection · original guidance:** Fiscal transparency requires distinguishing approved estimates, territorial apportionment, administrative release, expenditure and outcomes. The same rupee may appear in multiple geographic aggregation tables without becoming new money.
+
+**Analysis · original guidance**
+- Historical spending can make allocation practical, but may perpetuate the disadvantage of areas with weak administrative capacity. An evidence-based assessment should also examine deprivation, unit costs, service gaps and implementability.
+- Check for double counting when aggregating department-wise tables or comparing district and constituency totals. Cross-boundary infrastructure and statewide services may not fit neatly into one constituency.
+- An APPSC governance answer should ask whether residents can access readable tables and compare them with releases and outcomes. The existence of an internal login or a deadline is not equivalent to open budget data.
+
+**Read across months · note IDs:** CA-042
+
+**Prelims caution:** Do not infer completed works, equal constituency entitlements or a verified statewide district count from this allocation memo alone. A reporting distribution is not proof of a payment or a legal reorganisation.
+
+**Mains prompt:** Discuss the opportunities and risks of geographically disaggregated state budgets for local accountability.
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-APDIST]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
+
+#### AP Budget Outreach: public communication versus participatory budgeting
+E19-004 · P2 · 2026-03-28 · AP-linked
+
+**Why in the news:** A second primary circular moves from the allocation-data exercise to district and constituency meetings. It provides a concrete AP case for assessing whether budget communication creates a meaningful feedback loop.
+
+**Source-backed essentials**
+- The 28 March circular scheduled outreach meetings during 30 March–4 April 2026, after the budget provisions had been finalised through passage of the Appropriation Bill.
+- District meetings were to be chaired by the district in-charge minister with elected representatives; constituency meetings were to be held by Constituency Special Officers with MLAs and other representatives.
+- Before meetings, Collectors/CPOs were to distribute district budgets among mandals using historical usage or needs-based judgement and generate constituency reports through NIDHI.
+- Discussion topics included allocations, Swarna Andhra Vision KPIs, state fiscal stress and human-resource expenditure. The circular describes communication about an already finalised budget, not a binding citizen vote on budget formulation.
+- Collectors and special officers were to hold press meets. Post-meeting feedback required a one-page discussion/outcome summary, attendee list and two high-resolution photographs through the Collector’s login.
+- The complete circular was read, but meeting records, feedback forms and independent evidence of statewide completion were not inspected.
+
+**Static connection · original guidance:** Budget transparency, consultation, deliberation and participatory budgeting are different degrees of public influence. Information dissemination can support accountability without transferring allocation authority.
+
+**Analysis · original guidance**
+- The strongest evaluation follows questions raised, written official responses, subsequent correction of data and changes in implementation. Attendance and photographs measure activity; they do not prove comprehension or influence.
+- Accessible Telugu/English explanations, disaggregated local figures and treatment of marginalised groups can make outreach useful. Analytical recommendations should not be misrepresented as mandatory clauses in the memo.
+- Compare the 11 March data-preparation order with the 28 March meeting order: a district’s reported allocation should be traceable to the departmental total before it is used in public communication.
+
+**Read across months · note IDs:** E19-003, CA-042
+
+**Prelims caution:** An instruction to organise outreach is not proof that meetings happened. Post-budget communication is not automatically participatory budgeting or a new legislative appropriation.
+
+**Mains prompt:** Assess how a post-budget outreach programme can move beyond publicity towards measurable fiscal accountability.
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-APMEET], [E19-APDIST]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
+
 ### 06 · Occupational livelihoods and minerals
 
 #### Vaddera cooperative quarry support: targeted concessions
@@ -1923,6 +1987,14 @@ Selected lead/substantive passages inspected from retrieved public article body;
 ### [E11-JAN] PIB · Jan Vishwas introduction,27 March
 https://www.pib.gov.in/PressReleasePage.aspx?PRID=2246226&reg=3&lang=1
 Full substantive release in chunk 0 of 2 read: 79 Acts,784 provisions,717 decriminalisation/67 ease-of-living. Corrects March note’s PRS-derived 80 Acts. Detailed final Gazette/commencement not read.
+
+### [E19-APDIST] AP Finance · district/mandal budget allocation memo, 11 March 2026
+https://apfinance.gov.in/images/Budget_Outreach_2026-27_Memo.pdf
+Complete one-chunk primary memo read. NIDHI logins and underlying allocation tables were not accessed. Its reference to 28 districts is reported as the memo’s allocation instruction, not independent verification of district-reorganisation notifications.
+
+### [E19-APMEET] AP Finance · budget outreach meetings circular, 28 March 2026
+https://apfinance.gov.in/images/Budget_Outreach_Programme_2026-27_Circular_Memo.pdf
+Complete three-page circular as one extracted chunk read. Instructions, 30 March–4 April window and required feedback are verified as instructions, not proof every meeting occurred.
 
 ## Research close-out
 See research/Research-Status.md, research/remaining-period-inventory.csv and the day/month coverage ledgers. Neither counts nor queued links prove completeness.

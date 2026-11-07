@@ -1,0 +1,29 @@
+[
+  {
+    "id": "RESEARCH-2026-11-07-E19",
+    "date": "2026-11-07",
+    "title": "Deep research: budget execution, health regulation and November policy",
+    "note_ids": [
+      "E19-001",
+      "E19-002",
+      "E19-003",
+      "E19-004",
+      "E19-005",
+      "E19-006",
+      "E19-007",
+      "E19-008",
+      "E19-009",
+      "E19-010",
+      "E19-011",
+      "E19-012",
+      "E19-013",
+      "E19-014"
+    ],
+    "new_notes": 14,
+    "new_primary_source_records": 15,
+    "new_context_source_records": 3,
+    "scope": "Four AP primary-document backfills dated March–May 2026 plus ten November first-week notes; not a new day’s complete coverage",
+    "pdf": "volumes/Edition-19-Research-Supplement.pdf",
+    "editorial": "Manually researched in this session; not automatically authored by the daily collector"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "E19-Q01",
+    "question": "AP’s general CBRO limits of 35%, 55% and 75% are best understood as:",
+    "options": [
+      "First-quarter and cumulative end-Q2/end-Q3 distribution ceilings, subject to the order’s scope and exceptions",
+      "Three independent quarterly shares that must be added",
+      "Mandatory equal cash disbursements to every department",
+      "A waiver of specific BRO conditions"
+    ],
+    "answer": 0,
+    "explanation": "The figures have different cumulative horizons. Specific heads, exceptions and Finance relaxation must still be considered.",
+    "ref": "E19-001"
+  },
+  {
+    "id": "E19-Q02",
+    "question": "Under the inspected government-department smart-meter memo, the correct monthly sequence is:",
+    "options": [
+      "DDO pays every domestic consumer by the 5th",
+      "DISCOM data by the 5th, HOD bill by the 7th, treasury audit/pass by the 9th",
+      "Treasury audit by the 5th, DISCOM data by the 9th",
+      "Every government service connection is exempt from prepayment"
+    ],
+    "answer": 1,
+    "explanation": "The memo assigns connection mapping to DDOs and bill initiation to HODs. Its scope is government departments, not all households.",
+    "ref": "E19-002"
+  },
+  {
+    "id": "E19-Q03",
+    "question": "An AP constituency allocation report generated from departmental budget estimates establishes:",
+    "options": [
+      "That every allocated rupee has reached beneficiaries",
+      "A new appropriation separate from the state budget",
+      "A geographical reporting distribution, not by itself expenditure or a fresh legal entitlement",
+      "Equal per-capita spending in all districts"
+    ],
+    "answer": 2,
+    "explanation": "Allocation, release, payment and outcomes are separate. The internal reporting exercise cannot prove completed service delivery.",
+    "ref": "E19-003"
+  },
+  {
+    "id": "E19-Q04",
+    "question": "Which is the most defensible interpretation of AP’s March 2026 Budget Outreach circular?",
+    "options": [
+      "It requires citizens to approve every line item before appropriation",
+      "It proves all meetings were completed successfully",
+      "It independently establishes fiscal outcomes for every constituency",
+      "It organises communication and feedback on an already finalised budget"
+    ],
+    "answer": 3,
+    "explanation": "The circular is an instruction. Meeting completion and substantive citizen influence need evidence beyond the order and photographs.",
+    "ref": "E19-004"
+  },
+  {
+    "id": "E19-Q05",
+    "question": "ASI 2024–25 detailed results published in November 2026 principally refer to:",
+    "options": [
+      "April 2024–March 2025, distinct from the later survey and publication periods",
+      "Manufacturing output generated only in November 2026",
+      "All informal enterprises regardless of survey coverage",
+      "The statutory MSME category defined only by ASI capital-size bands"
+    ],
+    "answer": 0,
+    "explanation": "The reference period, survey operation and dissemination date must be kept distinct. ASI coverage and capital bands do not define the whole informal sector or current MSME law.",
+    "ref": "E19-005"
+  },
+  {
+    "id": "E19-Q06",
+    "question": "Completion of India–EU Horizon Europe negotiations means that:",
+    "options": [
+      "Every Indian institution has already received an EU grant",
+      "Further signature/procedural and call-specific conditions remain relevant before operational funding",
+      "India has become an EU member",
+      "All Pillar I, II and III grants are automatically available without conditions"
+    ],
+    "answer": 1,
+    "explanation": "A concluded negotiation is not proof of entry into force. The inspected reporting makes future direct funding conditional; individual calls remain competitive.",
+    "ref": "E19-006"
+  },
+  {
+    "id": "E19-Q07",
+    "question": "Which statement correctly reflects the inspected November drug-quality announcements?",
+    "options": [
+      "Final amendments and their commencement were independently verified",
+      "Every manufacturer’s entire product portfolio is automatically banned",
+      "They describe draft safeguards, and the NSQ consultation clock is tied to public availability of Gazette copies",
+      "Batch-release authorisation replaces all GMP obligations"
+    ],
+    "answer": 2,
+    "explanation": "The original Gazette could not be verified through the session-bound link. Draft proposals must not be represented as final operative rules.",
+    "ref": "E19-007"
+  },
+  {
+    "id": "E19-Q08",
+    "question": "An ABHA number is best distinguished from PM-JAY entitlement because:",
+    "options": [
+      "It guarantees every medical treatment is free",
+      "It is itself an insurer’s final claims decision",
+      "It proves an AI model has been clinically validated",
+      "A digital health identifier does not itself confer health-insurance eligibility"
+    ],
+    "answer": 3,
+    "explanation": "ABDM identification/interoperability, PM-JAY financial protection and clinical outcomes serve different functions.",
+    "ref": "E19-008"
+  },
+  {
+    "id": "E19-Q09",
+    "question": "The inspected watershed consultation specifically identifies REWARD project states as:",
+    "options": [
+      "Odisha and Karnataka; the release does not prove AP project inclusion",
+      "Andhra Pradesh alone",
+      "Every Indian state automatically, with identical approved projects",
+      "Only states that have completed WDC-PMKSY 3.0 implementation"
+    ],
+    "answer": 0,
+    "explanation": "AP application is analytical. A draft-guideline consultation is not a final phase sanction or proof of an AP allocation.",
+    "ref": "E19-009"
+  },
+  {
+    "id": "E19-Q10",
+    "question": "According to the ministry’s grievance-rule summary, which timing interpretation is correct?",
+    "options": [
+      "Seven working days plus fifteen days, sequentially after the enquiry ends",
+      "Seven working days for enquiry and fifteen days for resolution, both described from receipt",
+      "Fifteen working days is expressly specified for every stage",
+      "The 15-day period applies only after escalation"
+    ],
+    "answer": 1,
+    "explanation": "The different units and common receipt trigger matter. The original appeal schedule remains a separate verification task.",
+    "ref": "E19-010"
+  },
+  {
+    "id": "E19-Q11",
+    "question": "NHAI’s MLFF design announcement establishes:",
+    "options": [
+      "A universal waiver of tolls",
+      "Completed conversion of every existing AP toll plaza",
+      "A standardised infrastructure framework, with contractual adoption for relevant ongoing projects",
+      "An independently verified nationwide GNSS-only rollout deadline"
+    ],
+    "answer": 2,
+    "explanation": "Barrier-free movement is not toll-free travel. A design framework is not completed deployment or a universal technology mandate.",
+    "ref": "E19-011"
+  },
+  {
+    "id": "E19-Q12",
+    "question": "Which inference from the Vijayawada SARAS figures is unsafe?",
+    "options": [
+      "Reported event sales can be compared while retaining source dates",
+      "Repeated visits may contribute to footfall",
+      "Event sales should be distinguished from year-round repeat orders",
+      "Enterprise turnover can be treated as net household income"
+    ],
+    "answer": 3,
+    "explanation": "Revenue, profit and household income differ. Footfall is not necessarily unique visitors, and the event-duration discrepancy remains unresolved.",
+    "ref": "E19-012"
+  },
+  {
+    "id": "E19-Q13",
+    "question": "The NDC-TIA II announcement is correctly described as:",
+    "options": [
+      "An implementation agreement signed on 3 November and reported on 4 November, without a verified statutory truck-purchase mandate",
+      "A law banning diesel trucks on all AP roads immediately",
+      "A verified quantified emissions reduction already achieved",
+      "A procurement award to a named AP logistics corridor"
+    ],
+    "answer": 0,
+    "explanation": "The short release formalises cooperation and describes enabling needs; it does not provide those mandates, outcomes or project awards.",
+    "ref": "E19-013"
+  },
+  {
+    "id": "E19-Q14",
+    "question": "The MSME–TRIFED arrangement principally provides:",
+    "options": [
+      "Automatic government purchase of every artisan’s goods",
+      "Conditional market facilitation for eligible tribal PM Vishwakarma artisans, with consent and onboarding requirements",
+      "Guaranteed minimum profits for all registered MSMEs",
+      "Verified export orders for every AP tribal cooperative"
+    ],
+    "answer": 1,
+    "explanation": "Institutional market access is not a purchase guarantee or verified realised income. Eligibility and seller terms remain material.",
+    "ref": "E19-014"
+  }
+]

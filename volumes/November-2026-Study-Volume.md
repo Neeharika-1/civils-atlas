@@ -1,25 +1,25 @@
 # CIVILS ATLAS
 ## 1–7 November 2026 · Expanded research volume
 
-UPSC × Andhra Pradesh APPSC · English · Research cut-off: 7 November 2026 · 25 notes
+UPSC × Andhra Pradesh APPSC · English · Research cut-off: 7 November 2026 · 35 notes
 
 **Coverage warning:** Not exhaustive. Expanded monthly volumes are selected research batches; the rest of the requested archive remains incomplete. No month has passed a complete daily source audit. Full-text and source-extract evidence are distinguished. Historical notes do not certify current law, implementation or latest statistics.
 
 New notes separate reported facts from original static connections, analysis, cautions and Mains prompts. P1 = core; P2 = consolidation; P3 = selective factual recall. Broad AP relevance is not exact APPSC paper mapping. Read the research audit for omissions and unresolved claims.
 
-Daily discovery is NOT activated: GitHub repository deployment or first scheduled execution is pending. Automation collects unreviewed source links, not researched study notes.
+Hosted push run observed; first scheduled execution remains unverified. Automation collects unreviewed source links, not researched study notes.
 
 ## Subject guide
 
-- Polity & Governance: 5 notes
-- Economy: 4 notes
-- Agriculture: 1 notes
-- Society & Welfare: 2 notes
-- Environment: 2 notes
-- Science & Technology: 1 notes
+- Polity & Governance: 6 notes
+- Economy: 6 notes
+- Agriculture: 2 notes
+- Society & Welfare: 4 notes
+- Environment: 3 notes
+- Science & Technology: 2 notes
 - Security: 3 notes
-- International Relations: 1 notes
-- Andhra Pradesh: 6 notes
+- International Relations: 2 notes
+- Andhra Pradesh: 7 notes
 
 ## Polity & Governance
 
@@ -164,6 +164,37 @@ CA-043 · P1 · 2026-11-05 · AP-linked
 **Sources:** [NOV]
 **Status:** Expanded historical first-week note; regular instalment and release date primary-read. Daily-source audit remains incomplete. · researched 2026-11-07
 
+### 11 · Grievance institutions and administrative justice
+
+#### Reported rural-employment grievance rules: registration, enquiry and escalation
+E19-010 · P1 · 2026-11-02 (reporting date) · National / other
+
+**Why in the news:** The Rural Development Ministry reports notification of VB–G RAM G grievance rules. The ministry’s summary gives distinct deadlines and channels; the original legal text and appeal schedule remain a separate verification task.
+
+**Source-backed essentials**
+- The release describes grievance officers at gram-panchayat, block and district levels, with district coordination and a designated digital tracking infrastructure.
+- Any person may complain about scheme implementation through in-person submission, speed post with delivery proof, digital infrastructure, telephone/helplines or other state-decided modes.
+- Physical complaints must be entered digitally on receipt or, if infeasible, by the next working day; acknowledgement records the registration number, receipt date and receiving authority.
+- The summary says registration cannot be refused for format, language, mode or procedural deficiency. Physical submission does not become invalid merely because tracking is digital.
+- Enquiry is to be completed within seven working days of receipt; resolution within 15 days of receipt. The release does not describe the latter as 15 working days.
+- Unresolved cases after the specified 15 days escalate to the next level and remain monitored. Appeals are described as governed by Schedule I to the Act; that schedule and the Rules themselves were not independently read.
+
+**Static connection · original guidance:** Registration, enquiry, a reasoned decision, remedial action, escalation and appeal are different stages. Closing an electronic ticket is not necessarily substantive redress.
+
+**Analysis · original guidance**
+- Inclusive grievance systems preserve offline entry, receipt evidence and a way to contest a wrong outcome. Digital tracking can improve accountability without making a smartphone a precondition for access.
+- Measure acknowledgement delay, actual remedy, repeat complaints and reversal rates, disaggregated by vulnerable groups. A high disposal rate can conceal premature closure or weak remedies.
+- Keep the press summary’s seven-working-day enquiry period distinct from its 15-day resolution period. An exam answer should not invent the detailed appeal authority, limitation period or compensation without the legal schedule.
+
+**Prelims caution:** Do not add seven working days and 15 days into a sequential 22-day entitlement: both are described from receipt. Escalation is not the same legal mechanism as an appeal.
+
+**Mains prompt:** What institutional safeguards turn time-bound digital grievance tracking into effective administrative justice?
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-GRIEV]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
+
 ## Economy
 
 ### 01 · Official statistics and evidence governance
@@ -280,6 +311,71 @@ E18-2611-004 · P1 · 2026-11-04 · National / other
 **Sources:** [E18-ESS]
 **Status:** Selected 1–7 November research, not a full November month or completed daily audit. Announcements, targets, future effect and analytical applications are distinguished. · researched 2026-11-07
 
+### 06 · Industrial statistics and interpretation
+
+#### ASI 2024–25: separate reference year, survey period and publication date
+E19-005 · P1 · 2026-11-04 (reporting date) · National / other
+
+**Why in the news:** MoSPI’s 4 November release disseminates detailed factory-sector results following a September factsheet. Its methodological endnote is essential to avoid treating a registered-factory survey as an estimate of every Indian enterprise.
+
+**Source-backed essentials**
+- The reference period is April 2024–March 2025; the release describes field survey work during October 2025–June 2026. The factsheet appeared on 30 September 2026; detailed publications and unit-level data were disseminated in November.
+- Volume I reports factory-sector capital, inputs, output, employment, emoluments and value-added measures. National tables use NIC-2008 at 2/3/4 digits; state tables at 2/3 digits.
+- The methodology lists registered factories, registered bidi/cigar establishments, specified electricity undertakings not registered with CEA, and qualifying BRE units as state lists become available. It is not a complete census of all informal enterprises.
+- The release reports manufacturing corporate-sector GVA growth of 9.28%; this sector accounted for more than 89% of total GVA in the stated survey context. That is not 89% of India’s entire economy.
+- Factories with gross plant-and-machinery investment up to ₹5 crore represented 78.69% of operating factories and 34.32% of persons engaged, but 17.61% of net value added in the table.
+- The ₹10-crore-and-above capital group represented 15.84% of operating factories, 59.66% of persons engaged and 78.07% of net value added. These capital-size bands are not, by themselves, current statutory MSME classifications.
+- Data collection follows an establishment rather than enterprise approach under the Collection of Statistics Act framework. The endnote permits some consolidated returns under specified same-state/industry conditions; unit-level microdata were not independently analysed.
+
+**Static connection · original guidance:** GVA differs from gross output because intermediate consumption is excluded; NVA additionally accounts for depreciation. Persons engaged, employees and workers are not interchangeable denominators.
+
+**Analysis · original guidance**
+- Use the size distribution to discuss industrial concentration and employment intensity, but do not infer causal productivity advantages solely from cross-sectional shares. Industry mix, capital intensity, outsourcing and prices can affect comparisons.
+- Distinguish the corporate-sector growth figure from an all-sector real manufacturing growth rate. The release does not justify silently relabelling the quoted increase as inflation-adjusted productivity.
+- For APPSC, seek the actual AP state tables before assigning a state rank or extrapolating employment. Compare like reference years, industry coverage and price concepts across ASI rounds.
+
+**Read across months · note IDs:** E6-2510-021
+
+**Prelims caution:** Publication in November 2026 does not make these FY2026–27 output data. Factory capital bands are not a substitute for a statutory MSME definition; nominal value-added changes are not automatically real growth.
+
+**Mains prompt:** How should ASI data be used to assess employment-intensive industrialisation without confusing coverage, scale and productivity?
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-ASI]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
+
+### 12 · Transport infrastructure and implementation
+
+#### MLFF tolling: barrier-free design does not mean toll-free travel
+E19-011 · P1 · 2026-11-06 (reporting date) · National / other
+
+**Why in the news:** NHAI’s November guidelines address the physical design needed for multi-lane free-flow tolling. The release is narrower than a claim that every toll plaza has already become barrier-free.
+
+**Source-backed essentials**
+- The announcement concerns standardised toll-plaza infrastructure for four-lane and above national highways, including upcoming and ongoing projects.
+- Uniform provisions cover layouts, lane configurations, gantries, lighting, signage, road-safety features and operational/maintenance facilities.
+- Barrier-free collection is intended to remove the need to stop at booths. Lane requirements are rationalised compared with conventional plazas, but the release does not specify one universal lane count for every road configuration.
+- Projects at DPR stage are to incorporate the design in their documents. Awarded or under-construction projects are to adopt changes through applicable contractual provisions.
+- Advance information, variable-message signs and adequate lighting are specified for visibility and user guidance; an administrative/operations-maintenance facility is also described.
+- The complete policy circular, detailed technology specifications, nationwide completion date and every existing concession contract were not independently read.
+
+**Static connection · original guidance:** Toll liability, vehicle identification, electronic payment, enforcement and road geometry are related but separate. Free flow describes movement through a tolling zone, not a waiver of payment.
+
+**Analysis · original guidance**
+- Assess benefits through queue time, fuel use, safety and operating cost, while checking wrongful charging, exceptions, complaints and enforcement consistency. Technology can reduce stopping without eliminating disputes.
+- Contractual adoption matters: retrospectively changing an awarded project is not the same as writing requirements into a new DPR. Costs, responsibility and rollout schedules must follow the applicable project framework.
+- For APPSC, national-highway logistics links offer a practical application, but this release does not prove any named AP plaza’s conversion. Site-specific claims require a project or operational record.
+
+**Prelims caution:** MLFF is not toll-free travel, and a design guideline is not completed national deployment. Do not silently label this a universal GNSS-only or distance-based tolling mandate.
+
+**Mains prompt:** Examine the infrastructure and governance conditions needed for fair, safe and efficient free-flow tolling.
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-MLFF]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
+
 ## Agriculture
 
 ### 01 · Animal-health surveillance and rural livelihoods
@@ -310,6 +406,39 @@ E18-2611-009 · P1 · 2026-11-05 · National / other
 
 **Sources:** [E18-FMD]
 **Status:** Selected 1–7 November research, not a full November month or completed daily audit. Announcements, targets, future effect and analytical applications are distinguished. · researched 2026-11-07
+
+### 10 · Watershed science and climate resilience
+
+#### REWARD technical consultation: scientific baselines without rigid planning
+E19-009 · P1 · 2026-11-05 (reporting date) · National / other
+
+**Why in the news:** A 4–5 November consultation at ICAR-NBSS&LUP examines draft watershed guidelines. Its substance is about matching land-resource science, feasible implementation and community maintenance—not merely buying drones.
+
+**Source-backed essentials**
+- The Department of Land Resources (DoLR), National Rainfed Area Authority (NRAA) and ICAR-NBSS&LUP convened the third national consultation on draft National Technical Guidelines under World Bank-assisted REWARD (Rejuvenating Watersheds for Agricultural Resilience through Innovative Development).
+- The release identifies Odisha and Karnataka as REWARD project states represented. It does not establish AP’s inclusion in that project.
+- Land Resource Inventory, digital soil libraries, hydrological assessment, GIS/remote sensing and decision-support systems were discussed as inputs to location-specific planning.
+- Officials advocated essential uniform parameters with flexibility for institutional capacity, cost, implementation time and local conditions. A proposed harmonised DSS would draw on Odisha and Karnataka experience.
+- The release calls for baseline data and impact assessment of WDC-PMKSY 2.0 to inform future design. It describes a move from seven-year project timelines under 1.0 to five years under 2.0.
+- The draft technical guidelines were described as inputs towards WDC-PMKSY 3.0. FPOs, SHGs and user groups were emphasised for livelihoods and post-project maintenance; no completed final-guideline notification was inspected.
+
+**Static connection · original guidance:** A watershed is a hydrological planning unit, not automatically an administrative district. Water-harvesting structures, groundwater recharge, soil moisture, cropping decisions and maintenance should be assessed together.
+
+**Analysis · original guidance**
+- Robust evaluation starts with comparable baselines, rainfall variability and downstream effects. A structure count is a construction output; resilience requires functioning assets, reliable water and better livelihood outcomes.
+- For rainfed AP regions, the analytical lesson is to combine scientific maps with local knowledge and equitable access. This is an application, not proof of a particular AP allocation or approved REWARD project.
+- Avoid technology-first procurement that collects high-resolution data without field capacity to use it. Community ownership and a funded maintenance arrangement can be more consequential than the novelty of the mapping platform.
+
+**Read across months · note IDs:** E13-2606-030
+
+**Prelims caution:** A consultation on draft guidelines is not final adoption or sanction of a new programme phase. An AP relevance argument does not establish AP as a named REWARD project state.
+
+**Mains prompt:** Explain how watershed planning can combine scientific evidence, implementation flexibility and community ownership.
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-WATER]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
 
 ## Society & Welfare
 
@@ -369,6 +498,68 @@ E18-2611-015 · P1 · 2026-11-07 · National / other
 **Sources:** [E18-CANCER]
 **Status:** Selected 1–7 November research, not a full November month or completed daily audit. Announcements, targets, future effect and analytical applications are distinguished. · researched 2026-11-07
 
+### 09 · Health financing, data and service outcomes
+
+#### PM-JAY and ABDM review: a health ID is not insurance or better care
+E19-008 · P1 · 2026-11-06 (reporting date) · National / other
+
+**Why in the news:** The 5–6 November NHA review in Kolkata links financial protection, interoperable records, claims and health AI. The complete release distinguishes several systems that are often misleadingly bundled as one health-insurance platform.
+
+**Source-backed essentials**
+- The review treats AB PM-JAY financial protection and ABDM digital-health adoption as complementary rather than identical functions; it calls for better access, quality and health outcomes, not only more cards.
+- State presentations reported 4.2 crore West Bengal beneficiaries enrolled and 2.2 lakh people treated after its 16 August 2026 launch. These are attributed administrative figures, not independently validated measures of effective coverage or causality.
+- The National Anti-Fraud Unit (NAFU), State Anti-Fraud Units and auto-adjudication were discussed for claims oversight. The National Health Claims Exchange was reviewed alongside ABDM-enabled hospital information systems.
+- BODH, a health-AI benchmarking platform using Indian datasets, was presented. States were encouraged to assess suitability and performance before procurement; a demonstration is not independent validation of every model.
+- Sandbox 2.0 demonstrated an ABHA-creation integration. An ambient voice-scribe demonstration produced structured records that doctors review and approve before linkage to ABHA.
+- Cybersecurity discussion covered phishing, fraudulent apps/URLs, credential leaks and third-party vulnerabilities. States were advised on cybersecurity leads, access controls and regular application/API audits.
+
+**Static connection · original guidance:** Insurance entitlement, a digital identifier, health-record exchange, a claims messaging standard and an AI model have different legal and operational purposes. More digital transactions alone do not demonstrate improved health.
+
+**Analysis · original guidance**
+- Measure financial protection through out-of-pocket expenditure, denied/delayed claims and care access—not card counts alone. Pair digital integration with clinical quality, primary care and grievance mechanisms.
+- Auto-adjudication should be evaluated for false denials, bias, auditability and appeal/clinical-review pathways. Efficiency gains can coexist with exclusion if data quality and exception handling are weak.
+- AI procurement requires task-specific external validation, privacy safeguards, security and workflow accountability. The doctor-review requirement in the demonstrated scribe is significant; it is not an endorsement of autonomous diagnosis.
+
+**Prelims caution:** An ABHA number does not itself confer PM-JAY eligibility, and a claims exchange is not an insurer. Demonstrated software integration is not proof of universal hospital adoption or improved patient outcomes.
+
+**Mains prompt:** Assess how digital health can strengthen financial protection without confusing interoperability with clinical effectiveness.
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-HEALTH]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
+
+### 15 · Tribal livelihoods and market institutions
+
+#### MSME–TRIFED: conditional market access for tribal Vishwakarma artisans
+E19-014 · P2 · 2026-11-05 (reporting date) · National / other
+
+**Why in the news:** The MoU links eligible tribal artisans registered under PM Vishwakarma with TRIFED’s retail and digital channels. Reading the actual eligibility and consent clauses avoids turning market facilitation into a guaranteed purchase scheme.
+
+**Source-backed essentials**
+- The Ministry of MSME and the Tribal Cooperative Marketing Development Federation of India (TRIFED), under the Ministry of Tribal Affairs, describe a collaboration for eligible tribal artisans registered under PM Vishwakarma.
+- Product-based trades include carpentry, metal work, sculpture, pottery, basket/mat/broom/coir work, toys and other listed craft activities. Registration in a scheme is not by itself proof of automatic onboarding into every retail outlet.
+- TRIFED is to facilitate onboarding, capacity building and market access through Tribes India outlets and its e-marketplace, subject to its applicable conditions and policies.
+- The proposed “Tribes India–PM Vishwakarma Collection” is subject to seller consent and policy compliance. The release also describes aggregation, quality assurance, packaging, imaging and cataloguing support.
+- The MSME ministry is to identify/facilitate potential sellers and coordinate awareness and listing. The release reports an institutional arrangement, not completed orders, a minimum guaranteed price or assured export income.
+- The signed MoU, individual seller terms, margins and actual commercial results were not independently inspected. Existing TRIFED product categories do not imply every category is newly eligible under this specific arrangement.
+
+**Static connection · original guidance:** Market linkage differs from procurement guarantee, credit assistance and statutory entitlement. Consent, quality standards, transaction costs and payment terms shape the actual value to artisans.
+
+**Analysis · original guidance**
+- Assess whether aggregation and cataloguing reduce entry barriers without shifting unreasonable inventory, rejection or logistics risk onto small producers. Local-language terms and accessible dispute resolution matter.
+- Track repeat sales, net producer realisation, timely payments and continued participation—not registrations or catalogue uploads alone. Disaggregate who is excluded by geography, digital access or compliance costs.
+- For APPSC, tribal craft ecosystems provide a relevant application, but no particular AP cooperative or artisan group is confirmed as onboarded by this release. Avoid treating a national MoU as a verified local award.
+
+**Prelims caution:** The arrangement concerns eligible tribal PM Vishwakarma artisans and conditional onboarding, not automatic benefits for every artisan or guaranteed government purchase of all products.
+
+**Mains prompt:** How can public market-linkage institutions improve tribal artisan incomes without substituting registration counts for commercial outcomes?
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-TRIFED]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
+
 ## Environment
 
 ### 01 · Landscape governance and ecological recovery
@@ -427,6 +618,36 @@ E18-2611-010 · P2 · 2026-11-03 · National / other
 **Sources:** [E18-SUV]
 **Status:** Selected 1–7 November research, not a full November month or completed daily audit. Announcements, targets, future effect and analytical applications are distinguished. · researched 2026-11-07
 
+### 14 · Freight decarbonisation and climate cooperation
+
+#### NDC-TIA II: a freight implementation agreement is not an electric-truck mandate
+E19-013 · P1 · 2026-11-04 (reporting date) · National / other
+
+**Why in the news:** NITI Aayog’s release reports an agreement signed on 3 November for road-freight decarbonisation. It identifies policy barriers rather than announcing a national truck-purchase obligation.
+
+**Source-backed essentials**
+- NITI Aayog and GIZ signed an implementation agreement under the Nationally Determined Contribution–Transport Initiative for Asia Phase II (NDC-TIA II) on 3 November; the PIB release is dated 4 November.
+- The regional initiative is supported by the German Government’s International Climate Initiative, IKI. Named implementing partners include WRI India, ICCT India and Agora Energiewende.
+- The release describes medium- and heavy-duty freight electrification as being at an early stage and identifies charging infrastructure, innovative finance and an enabling regulatory framework as needs.
+- The agreement formalises collaboration towards low-carbon freight and India’s NDC/long-term climate goals. The short announcement gives no verified national procurement quota, statutory deadline or quantified emissions saving.
+- The signed agreement, funding commitment and detailed implementation matrix were not inspected. The initiative’s regional identity should not be converted into a treaty-binding commitment for every Asian country.
+
+**Static connection · original guidance:** Freight decarbonisation involves vehicle efficiency, energy source, utilisation, load factors, logistics and mode choice. Tailpipe emissions and lifecycle greenhouse-gas emissions are different measures.
+
+**Analysis · original guidance**
+- Consider total cost of ownership, predictable high-utilisation routes, depot/highway charging, grid capacity and residual-value/credit risk. Vehicle subsidies alone may not overcome operational constraints.
+- Tonnage shifted or trucks purchased are outputs, not a complete emissions account. Assess tonne-kilometres, electricity emissions, payload and avoided diesel use with a transparent baseline.
+- For AP’s logistics economy, port-linked freight routes are an analytical application, not a confirmed beneficiary corridor. Do not invent AP funding or a named pilot absent the implementation documents.
+
+**Prelims caution:** An implementation agreement does not itself mandate electric-truck purchases or prove that quantified emissions reductions have occurred. Event date 3 November differs from release date 4 November.
+
+**Mains prompt:** Outline a credible policy package for decarbonising heavy road freight while preserving logistics competitiveness.
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-FREIGHT]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
+
 ## Science & Technology
 
 ### 01 · Foundation models and trustworthy deployment
@@ -457,6 +678,37 @@ E18-2611-017 · P1 · 2026-11-03 · National / other
 
 **Sources:** [E18-AI]
 **Status:** Selected 1–7 November research, not a full November month or completed daily audit. Announcements, targets, future effect and analytical applications are distinguished. · researched 2026-11-07
+
+### 08 · Medicine quality and regulatory accountability
+
+#### Draft drug-quality reforms: immediate suspension and accountable batch release
+E19-007 · P1 · 2026-11-04 (reporting date) · National / other
+
+**Why in the news:** Two Health Ministry releases on 3–4 November concern distinct proposed safeguards: identifying who authorises a drug batch and acting rapidly when critical quality tests fail. Neither release proves that final amendments were already in force.
+
+**Source-backed essentials**
+- The 4 November proposal would allow immediate suspension of the concerned drug’s manufacturing licence after a Government Analyst reports a not-of-standard-quality (NSQ) result for assay, dissolution, related substances, impurities or sterility.
+- The relevant central licensing approving authority or state licensing authority would act according to jurisdiction. The release describes the existing prescribed process, including show-cause procedure, as a potential source of delay.
+- Restoration is proposed only after effective root-cause analysis and corrective and preventive action, verified to the licensing authority’s satisfaction. A manufacturer’s unsupported assurance is not the stated standard.
+- Consequential Form 13 changes would communicate the analyst’s report to the Drugs Controller General (India), or DCGI, the relevant state/UT licensing authority, manufacturer and marketer, supporting coordinated action.
+- The 3 November proposal separately calls for formally authorised, appropriately qualified/experienced batch-release personnel, maintained records and a prescribed batch-release certificate.
+- The NSQ proposal invites comments within 30 days from public availability of the Gazette copies—not automatically 30 days from the PIB release. The linked session-bound Gazette request returned a runtime error, so its original text and publication trigger were not verified.
+
+**Static connection · original guidance:** Quality assurance before release, post-market testing, product recall, manufacturing-licence action and criminal liability are distinct tools. NSQ should not automatically be equated with intentional counterfeiting.
+
+**Analysis · original guidance**
+- Fast interim intervention can reduce exposure to unsafe products, but sound regulation also needs reliable testing, proportionate scope, clear communication, lawful review and verified remediation. Do not invent an appeal process absent the instrument.
+- Authorised batch release adds traceable responsibility; it does not replace Good Manufacturing Practice (GMP), validation or an independent regulator. An accountable signatory needs access to complete manufacturing and testing records.
+- For AP’s pharmaceutical ecosystem, the analytical concern is coordination between manufacturing-site regulators, destination states, procurement bodies and hospitals. No AP factory violation or specific suspended licence is established by these proposals.
+
+**Prelims caution:** These are draft proposals, not proof of an operative automatic suspension rule. The suspension concerns the specified drug/licence context; do not infer that every product of a manufacturer is automatically banned.
+
+**Mains prompt:** How can drug regulation combine rapid patient protection with reliable evidence, traceability and verified corrective action?
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-NSQ], [E19-BATCH]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
 
 ## Security
 
@@ -573,6 +825,37 @@ E18-2611-018 · P2 · 2026-11-03 · National / other
 
 **Sources:** [E18-BIM]
 **Status:** Selected 1–7 November research, not a full November month or completed daily audit. Announcements, targets, future effect and analytical applications are distinguished. · researched 2026-11-07
+
+### 07 · Research cooperation and regulatory stages
+
+#### India–EU Horizon Europe: concluded talks are not operational association
+E19-006 · P1 · 2026-11-07 (reporting date) · National / other
+
+**Why in the news:** India’s 7 November announcement and 6 November newspaper reporting describe the conclusion of association negotiations. Background EU material helps separate political announcements, formal talks and the conditions for actual research funding.
+
+**Source-backed essentials**
+- The Science Ministry reports successful completion of negotiations on India’s association with Horizon Europe, building on bilateral science cooperation and the Trade and Technology Council.
+- Pillar II concerns collaborative research on global challenges and industrial competitiveness, including health, digital/industry/space, climate/energy/mobility, food and bioeconomy themes.
+- The European Commission’s background page distinguishes the January summit announcement, exploratory talks on 6 February, the TTC meeting on 15 July and the planned start of formal negotiations on 17 July. These are different milestones, not contradictory dates for one event.
+- The separately read TNIE report says direct funding and project leadership would follow signature and completion of required procedures, with association expected from January 2027. That expectation is reported, not verified as a completed legal entry into force.
+- Associated-country participation applies to programme areas covered by the agreement; it involves a financial contribution. Neither a signed instrument nor India’s contribution amount was independently inspected.
+- The existing science-and-technology agreement, renewed until 2030, is a separate framework. Horizon Europe association is not EU membership, an FTA or an automatic grant to every Indian institution.
+
+**Static connection · original guidance:** International cooperation has stages: exploratory discussion → negotiations → agreed text → signature/internal procedures → operational eligibility → competitive call and grant award.
+
+**Analysis · original guidance**
+- A strong Mains answer weighs access to consortia and infrastructure against proposal capacity, intellectual-property arrangements, research integrity and the cost of participation. These are analytical issues, not invented terms of an unread agreement.
+- Eligibility expands the opportunity set but does not remove competitive selection. University support offices, transparent partner agreements and compliance capability can determine whether opportunities become funded projects.
+- Keep trade negotiations and research association separate even when both appear in the same diplomatic narrative. Do not assert an FTA’s signature, a specific grant amount or universal mobility rights from this release.
+
+**Prelims caution:** Negotiations concluded does not mean association is already in force. The 15 July TTC decision and 17 July formal-talk start are distinct; do not collapse them into a single date.
+
+**Mains prompt:** Examine how international research association can strengthen India’s innovation ecosystem while retaining clear funding and governance safeguards.
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-HORIZON], [E19-EU], [E19-TNIE]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
 
 ## Andhra Pradesh
 
@@ -743,6 +1026,37 @@ E18-2611-024 · P1 · 2026-11-06 (reporting date) · AP-linked
 
 **Sources:** [E18-APLETTER], [E18-APLOSS]
 **Status:** Selected 1–7 November research, not a full November month or completed daily audit. Announcements, targets, future effect and analytical applications are distinguished. · researched 2026-11-07
+
+### 13 · SHG enterprise, markets and outcome measurement
+
+#### Vijayawada SARAS: turnover, household income and lasting market access differ
+E19-012 · P1 · 2026-11-04 (reporting date) · AP-linked
+
+**Why in the news:** A detailed ministry account and a separately read local newspaper report provide an AP-linked case on rural women’s market access. Their metrics support analysis, but do not establish audited household-income gains.
+
+**Source-backed essentials**
+- The ministry describes the event at Punnami Ghat, Vijayawada as the first National SARAS Mela outside Delhi-NCR, involving roughly 1,500 women entrepreneurs and SHG members from more than 30 states/UTs, through about 600 stalls.
+- PIB reports over ₹12.8 crore in sales, over 12 lakh footfalls and over ₹1.9 crore food-court sales. The food-court figure is part of the event narrative, not an additional amount to add automatically to the cumulative total.
+- The 3 November TOI article reports ₹12.84 crore and 5.73 lakh products, and says the event concluded on 2 November. It also describes an 11-day exhibition; PIB cites inauguration on 15 October and October weather closures. The timing/duration discrepancy is unresolved.
+- PIB says handloom/handicrafts accounted for 75% of sales and describes buyer-seller meetings, product readiness, packaging, Udyam registration and e-commerce onboarding support.
+- The ministry defines Lakhpati Didis by sustainable annual household income of at least ₹1 lakh. The cited ₹50 lakh–₹1 crore enterprise figures are turnover, not automatically personal income or profit.
+- Administrative counts of training attendances, seller onboarding and registrations may refer to overlapping people or a wider helpdesk reach. They cannot be summed into a unique-beneficiary total without underlying records.
+
+**Static connection · original guidance:** Turnover differs from profit; enterprise revenue differs from household income; footfalls differ from unique customers. A market-access intervention should be assessed beyond the exhibition’s gross sales.
+
+**Analysis · original guidance**
+- The stronger outcome is repeat orders and viable year-round demand after the fair. Track margins after travel, packaging and platform fees, payment reliability, rejection rates and control over income.
+- Public support can address the whole enterprise chain: product quality, photography, compliance, credit and buyer linkage. Onboarding is an intermediate step, not evidence that a seller received or fulfilled an order.
+- For APPSC, connect SERP/SHGs and local craft ecosystems to procurement and retail channels. Use attributed figures with dates, preserve the timing discrepancy and avoid promotional success stories as causal evaluation.
+
+**Prelims caution:** Do not add food-court sales again to the headline total or treat footfalls as unique visitors. A ₹1 crore enterprise turnover does not establish ₹1 crore net household income.
+
+**Mains prompt:** How should rural women’s marketing initiatives be evaluated beyond fair attendance and gross turnover?
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-SARAS], [E19-TOI]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
 
 ## Original practice · 30 MCQs
 Attempt first; the answer key follows all questions. These are not previous-year questions.
@@ -1166,6 +1480,62 @@ Complete one-chunk report read. 2 November release to 17 districts: six×₹3 cr
 ### [E18-APLETTER] IANS/SocialNews · Murasu interim-assistance request
 https://www.socialnews.xyz/2026/11/06/cyclone-murasu-andhra-pradesh-cm-seeks-immediate-assistance-from-centre/
 Complete one-chunk report read. 6 November letter, preliminary ₹1,919.59 crore; agriculture 1,43,122 hectares/1,86,063 farmers, horticulture 6,504.38 hectares/12,178 farmers. Different TNIE/PTI snapshot not combined. Original letter/GO, final losses and actual central sanction not read.
+
+### [E19-ASI] MoSPI · ASI 2024–25 publications and methodology
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332475&reg=3&lang=1
+Chunks 0,1,2 of 5 inspected: complete unique release prose, tables 1–2 and methodological endnote through release ID; later material repeats the release. Underlying unit-level data and complete Volume I were not downloaded or independently analysed.
+
+### [E19-HORIZON] Science Ministry · India–EU Horizon Europe negotiations
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333903&reg=3&lang=1
+Complete unique release body in chunk 0/3 read. Signature, ratification, entry into force and a concluded association instrument were not inspected; participation is not treated as already operational.
+
+### [E19-NSQ] Health Ministry · draft NSQ manufacturing-licence suspension amendments
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332796&reg=3&lang=1
+Complete unique release body in chunk 0/4 read, including proposed parameters, root-cause analysis, CAPA and consultation timing. Linked session-bound e-Gazette request returned a runtime-error page; original draft notification and legal commencement were NOT verified.
+
+### [E19-BATCH] Health Ministry · proposed authorised drug-batch release personnel
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332192&reg=3&lang=1
+Complete unique release body in chunk 0/3 read. Original draft Gazette and precise qualification schedule were not inspected; no final enactment or universal effective date claimed.
+
+### [E19-HEALTH] NHA · PM-JAY/ABDM national review, 5–6 November
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333617&reg=3&lang=1
+Chunks 0 and 1/5 read through the end of the unique release: claims, NAFU, BODH, NHCX, data-quality, cybersecurity and doctor-reviewed voice-scribe demonstration. Products/models and state outcome data were not independently tested.
+
+### [E19-WATER] DoLR/NRAA/ICAR · draft watershed technical guidelines consultation
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332894&reg=3&lang=1
+Chunks 0 and 1/4 read through the end of the unique release. Draft guidelines, World Bank legal agreement and final WDC-PMKSY 3.0 sanction were not independently inspected.
+
+### [E19-GRIEV] Rural Development · reported VB–G RAM G grievance rules
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331390&reg=3&lang=1
+Complete unique release body in chunk 0/4 read through notification summary and release ID. Original Rules, Schedule I appeal provisions and legal commencement not independently read. Timelines attributed to the ministry’s account.
+
+### [E19-MLFF] NHAI · four-lane-and-above free-flow toll-plaza design guidelines
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333654&reg=3&lang=1
+Complete unique release body in chunk 0/3 read. Full policy circular, technical drawings, national rollout dates, enforcement standards and project contracts were not independently read.
+
+### [E19-SARAS] Rural Development · Vijayawada National SARAS Mela outcomes
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332675&reg=3&lang=1
+Chunks 0 and 1/5 read through the end of the unique release. Sales/footfall/enterprise metrics are administrative claims, not independently audited outcomes. Compared with the separately read 3 November TOI report; event-duration/date descriptions are not silently reconciled.
+
+### [E19-FREIGHT] NITI Aayog · NDC-TIA II road-freight agreement
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332576&reg=3&lang=1
+Complete unique release body in chunk 0/3 read. Agreement signed 3 November, released 4 November. Signed instrument, budget, truck purchase commitments and quantified emissions reductions not independently inspected.
+
+### [E19-TRIFED] MSME–TRIFED · PM Vishwakarma tribal-artisan market access
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333311&reg=3&lang=1
+Complete unique release body in chunk 0/3 read, including eligibility, consent and onboarding conditions. Signed MoU, seller contracts and achieved commercial orders not independently inspected.
+
+### [E19-EU] European Commission · India research-cooperation background
+https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/europe-world/international-cooperation/bilateral-cooperation-science-and-technology-agreements-non-eu-countries/india_en
+Opening chunk 0/3 read through bilateral science framework, 6 February exploratory talks, 15 July TTC and 17 July formal-negotiation distinction. Background page is not represented as the independently inspected 6 November conclusion announcement or signed agreement.
+
+### [E19-TNIE] The New Indian Express · Horizon Europe signature and funding conditions
+https://www.newindianexpress.com/india/2026/Nov/06/ahead-of-pm-modis-visit-india-eu-conclude-negotiations-on-flagship-research-innovation-programme
+Opening chunk 0/2 read through association conditions, expected January 2027, financial contribution and TTC background. End of wider digital-cooperation paragraph not read. Expected future timing is attributed reporting, not an independently verified entry-into-force instrument.
+
+### [E19-TOI] Times of India · Vijayawada SARAS Mela sales report, 3 November
+https://timesofindia.indiatimes.com/city/vijayawada/saras-mela-clocks-rs-12-8-crore-sales-5-73-lakh-products-sold/articleshow/135472010.cms
+Opening chunk 0/10 includes the complete unique local article through cultural-programme paragraph. ₹12.84 crore/5.73 lakh products/2 November conclusion are attributed reporting; dates and 11-day wording differ from the PIB inauguration chronology. Neither account independently audited.
 
 ## Research close-out
 See research/Research-Status.md, research/remaining-period-inventory.csv and the day/month coverage ledgers. Neither counts nor queued links prove completeness.

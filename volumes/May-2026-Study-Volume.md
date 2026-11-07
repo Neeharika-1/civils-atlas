@@ -1,13 +1,13 @@
 # CIVILS ATLAS
 ## May 2026 · Expanded research volume
 
-UPSC × Andhra Pradesh APPSC · English · Research cut-off: 7 November 2026 · 64 notes
+UPSC × Andhra Pradesh APPSC · English · Research cut-off: 7 November 2026 · 65 notes
 
 **Coverage warning:** Not exhaustive. Expanded monthly volumes are selected research batches; the rest of the requested archive remains incomplete. No month has passed a complete daily source audit. Full-text and source-extract evidence are distinguished. Historical notes do not certify current law, implementation or latest statistics.
 
 New notes separate reported facts from original static connections, analysis, cautions and Mains prompts. P1 = core; P2 = consolidation; P3 = selective factual recall. Broad AP relevance is not exact APPSC paper mapping. Read the research audit for omissions and unresolved claims.
 
-Daily discovery is NOT activated: GitHub repository deployment or first scheduled execution is pending. Automation collects unreviewed source links, not researched study notes.
+Hosted push run observed; first scheduled execution remains unverified. Automation collects unreviewed source links, not researched study notes.
 
 ## Subject guide
 
@@ -19,7 +19,7 @@ Daily discovery is NOT activated: GitHub repository deployment or first schedule
 - Science & Technology: 3 notes
 - Security: 2 notes
 - International Relations: 5 notes
-- Andhra Pradesh: 10 notes
+- Andhra Pradesh: 11 notes
 - Culture & History: 1 notes
 - Awards & Sports: 3 notes
 
@@ -1607,6 +1607,39 @@ E12-2605-058 · P1 · 2026-05-15 · AP-linked
 **Sources:** [E12-APAMCA]
 **Status:** Historical May-indexed snapshot; not certification of current law, latest data or completed implementation · researched 2026-11-07
 
+### 04 · Budget execution and public financial management
+
+#### AP prepaid government meters: the DDO–HOD–treasury accountability chain
+E19-002 · P1 · 2026-05-05 · AP-linked
+
+**Why in the news:** A 5 May Finance circular specifies how government-department service connections are mapped and prepaid electricity bills are processed. It is a government-office billing instruction, not a universal household-meter order.
+
+**Source-backed essentials**
+- The circular refers to Energy Department G.O.Rt.No.22 of 23 March 2026; that underlying GO was not independently inspected.
+- Service connections under each DDO are to be grouped into a consolidated prepaid account. DDOs must confirm or add Unified Service Connections through CFMS “USC Number Confirmation”; correct mapping is expressly their responsibility.
+- The concerned HOD initiates the prepaid-meter payment process for DDOs under its administrative control. The circular identifies head 3451-00-090-00-(11) Energy-200-209 Electricity Charges for HOD bill generation.
+- DISCOMs are to share each HOD’s current-month recharge/advance amount, based on previous-month consumption, with CFMS by the 5th. HODs must raise bills by the 7th through the dedicated electricity-charge tile.
+- The Pay and Accounts Officer/Treasury Officer is to audit and pass bills on or before the 9th. Consumption is deducted from the HOD-level consolidated advance account.
+- APCFSS is tasked with portal facilities/manuals; treasury authorities and APCFSS are asked to prepare the billing module. These instructions do not independently prove statewide operational completion or savings.
+
+**Static connection · original guidance:** Prepayment concerns the timing and control of payment. Meter accuracy, tariff setting, electricity subsidy, distribution losses and reliable service are separate regulatory and operational issues.
+
+**Analysis · original guidance**
+- The 5th–7th–9th sequence creates a testable service-level chain. Map a delayed payment to the responsible stage instead of assuming every disconnection is a meter defect or every unpaid bill is the DDO’s fault.
+- Good implementation requires a verified connection inventory, treatment of closed/transferred offices, reconciliation of advance balances, consumption alerts and escalation for essential facilities. These are analytical recommendations, not extra conditions claimed to appear in the circular.
+- For APPSC, link digital treasury integration with energy-sector financial discipline while preserving human responsibility. Centralising payment at HOD level does not remove the DDO’s connection-mapping duty or the treasury’s audit role.
+
+**Read across months · note IDs:** CA-042
+
+**Prelims caution:** Do not turn this government-department memo into a claim that all domestic or agricultural consumers must follow the same payment mechanism. The referenced Energy GO and actual field implementation still need separate examination.
+
+**Mains prompt:** How can digital prepaid billing improve government electricity-payment discipline without disrupting essential public services?
+
+**Evidence access:** See the individual E19 source-access records and research/edition19/Research-Log.md. Primary release summaries are not substituted for unread legal instruments or audited implementation.
+
+**Sources:** [E19-APMETER]
+**Status:** Edition 19 researched addendum: source bodies and limitations recorded; original analysis is distinct from reported facts. Selected coverage only; no daily-source audit closed. · researched 2026-11-07
+
 ### 05 · AI investment — commitments and resources
 
 #### AI data-centre approval: land and power are not completed capacity
@@ -2502,6 +2535,10 @@ Public body retrieved and selected lead/substantive passages read; not a full ar
 ### [E12-V46] Vision IAS · May 2026 · 9.3 Rashtriya Bal Swasthya Karyakram (RBSK)
 https://visionias.in/current-affairs/monthly-magazine/2026-06-30/schemes-in-news/rashtriya-bal-swasthya-karyakram-rbsk
 Public body retrieved and selected lead/substantive passages read; not a full article/issue or full underlying-primary review.
+
+### [E19-APMETER] AP Finance · government-department prepaid-meter billing memo, 5 May 2026
+https://apfinance.gov.in/images/Smart_Metering.pdf
+Complete one-chunk primary circular read, including DDO mapping, HOD billing and 5th/7th/9th sequence. Referenced Energy GO of 23 March not independently read; implementation outcomes not audited.
 
 ## Research close-out
 See research/Research-Status.md, research/remaining-period-inventory.csv and the day/month coverage ledgers. Neither counts nor queued links prove completeness.

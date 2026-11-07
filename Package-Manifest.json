@@ -1,11 +1,11 @@
 {
-  "edition": "18",
+  "edition": "19",
   "date": "2026-11-07",
-  "notes": 1178,
-  "source_references": 678,
+  "notes": 1192,
+  "source_references": 696,
   "monthly_volumes": 23,
-  "original_mcqs": 690,
-  "original_mains_frameworks": 184,
+  "original_mcqs": 704,
+  "original_mains_frameworks": 188,
   "reading_journeys": 18,
   "notes_linked_to_journeys": 702,
   "vision_inventory_urls": 760,
@@ -95,23 +95,27 @@
   "september_correction": "E16-2609-055 energy CBG; 056 Amaravati CIIP; 057 two dated DA/DR instalments. Working exports rebuilt; historical Edition16 ZIP unchanged. September MCQ29 context clarified.",
   "october_2026_pdf_pages": 84,
   "october_2026_pdf_words": 24805,
-  "november_2026_notes": 25,
-  "november_2026_new_notes": 24,
+  "november_2026_notes": 35,
+  "november_2026_new_notes": 34,
   "november_2026_expanded_existing_ids": [
     "CA-043"
   ],
   "november_2026_scope": "1–7 November only; selected first-week batch, not full month or daily audit",
-  "november_2026_ap_notes": 8,
+  "november_2026_ap_notes": 9,
   "november_2026_priority_counts": {
-    "P1": 19,
-    "P2": 6
+    "P1": 28,
+    "P2": 7,
+    "P3": 0
   },
   "daily_scheduler_configuration": "Revised/local-tested GitHub Actions 06:30 IST; repository deployment and first scheduled hosted run pending",
   "daily_live_sources_ok": 5,
   "daily_live_sources_tested": 8,
-  "november_2026_pdf_pages": 41,
-  "november_2026_pdf_words": 12405,
   "automation_setup_guide": "DAILY-UPDATES-SETUP.md",
-  "packaged_file_count": 381,
-  "final_handoff_status": "Saved workspace rechecked and repackaged; app/data/Word archive consistent. Not a new research edition. Historical ZIP copies removed during authorised workspace cleanup."
+  "final_handoff_status": "Saved workspace rechecked and repackaged; app/data/Word archive consistent. Not a new research edition. Historical ZIP copies removed during authorised workspace cleanup.",
+  "monthly_mcqs": 690,
+  "supplementary_mcqs": 14,
+  "research_addendum_notes": 14,
+  "research_addendum_sources": 18,
+  "daily_website": "Self-contained workflow prepared; actual run/deployment must be verified from hosted evidence",
+  "full_archive_complete": false
 }

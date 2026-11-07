@@ -1,0 +1,169 @@
+{
+  "updated_at": "2026-11-07T16:01:50.727061+00:00",
+  "fully_utilised": false,
+  "scope": "Endpoint access is not article reading. Archive domain references are historical, not proof of daily utilisation.",
+  "sources": [
+    {
+      "source_id": "pib-daily",
+      "name": "PIB daily",
+      "category": "Official releases",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 166,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "pib-reviews",
+      "name": "PIB 2025 ministry reviews",
+      "category": "Historical reconciliation",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 166,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "prs-2025",
+      "name": "PRS 2025 policy reviews",
+      "category": "Historical reconciliation",
+      "required": true,
+      "status": "ok",
+      "archive_notes_referencing_domain": 526,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "prs-current",
+      "name": "PRS 2026 policy reviews",
+      "category": "Legislation",
+      "required": true,
+      "status": "ok",
+      "archive_notes_referencing_domain": 526,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "hindu-national",
+      "name": "The Hindu national",
+      "category": "Newspapers",
+      "required": true,
+      "status": "ok",
+      "archive_notes_referencing_domain": 25,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "hindu-ap",
+      "name": "The Hindu Andhra Pradesh",
+      "category": "Andhra Pradesh",
+      "required": true,
+      "status": "ok",
+      "archive_notes_referencing_domain": 25,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "express-india",
+      "name": "Indian Express India",
+      "category": "Newspapers",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 5,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "express-explained",
+      "name": "Indian Express Explained",
+      "category": "Newspapers",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 5,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "isro",
+      "name": "ISRO news",
+      "category": "Science",
+      "required": true,
+      "status": "ok",
+      "archive_notes_referencing_domain": 8,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "vision-daily",
+      "name": "Vision IAS News Today",
+      "category": "Magazine gap checks",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 227,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "vision-monthly",
+      "name": "Vision IAS monthly archive",
+      "category": "Magazine gap checks",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 227,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "ap-ipr",
+      "name": "AP Information & Public Relations",
+      "category": "Andhra Pradesh",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 0,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "ap-finance",
+      "name": "AP Finance / budget / orders",
+      "category": "Andhra Pradesh",
+      "required": true,
+      "status": "ok",
+      "archive_notes_referencing_domain": 7,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "ap-orders",
+      "name": "AP government orders portal",
+      "category": "Andhra Pradesh",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 0,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "appsc",
+      "name": "APPSC official announcements",
+      "category": "Andhra Pradesh",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 0,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "rbi",
+      "name": "RBI press releases",
+      "category": "Economy",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 5,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "gazette",
+      "name": "Gazette of India",
+      "category": "Primary legal documents",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 13,
+      "today_utilisation_verified": false
+    },
+    {
+      "source_id": "supreme-court",
+      "name": "Supreme Court judgments",
+      "category": "Primary legal documents",
+      "required": true,
+      "status": "failed",
+      "archive_notes_referencing_domain": 0,
+      "today_utilisation_verified": false
+    }
+  ]
+}

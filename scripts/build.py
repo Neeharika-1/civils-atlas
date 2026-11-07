@@ -22,8 +22,8 @@ for f in sorted((R/'data').glob('*-mcqs.json')):
  QS[month_key]=json.loads(f.read_text())
 expanded=sorted(QS)
 AUTO=load('automation-status.json',{})
-AUTO_TEXT=('A scheduled discovery run has been observed; inspect current source health.' if AUTO.get('scheduler_active') else 'Daily discovery is NOT activated: GitHub repository deployment or first scheduled execution is pending.')+' Automation collects unreviewed source links, not researched study notes.'
-D=dict(notes=notes,sources=sources,inbox=inbox,logs=logs,quiz=[dict(q,month=m) for m,qs in QS.items() for q in qs],source_access=access,expanded=expanded,linkages=load('linkages.json',[]),automation=AUTO)
+AUTO_TEXT=('A scheduled discovery run has been observed; inspect current source health.' if AUTO.get('scheduler_active') else ('Hosted '+str(AUTO.get('last_event'))+' run observed; first scheduled execution remains unverified.' if AUTO.get('last_run_environment')=='github-actions' else 'Local build: inspect hosted deployment and first scheduled execution separately.'))+' Automation collects unreviewed source links, not researched study notes.'
+D=dict(notes=notes,sources=sources,inbox=inbox,logs=logs,quiz=[dict(q,month=m) for m,qs in QS.items() for q in qs],source_access=access,expanded=expanded,linkages=load('linkages.json',[]),automation=AUTO,registry=load('source-registry.json',[]),source_coverage=load('source-coverage.json',{}),research_updates=load('research-updates.json',[]),research_practice=load('research-practice.json',[]),document_intake=load('document-intake.json',{}))
 MONTH='January 2025'
 (R/'index.html').write_text((R/'template.html').read_text().replace('__DATA__',json.dumps(D,ensure_ascii=False).replace('</','<\\/')))
 ORDER=['Polity & Governance','Economy','Agriculture','Society & Welfare','Environment','Science & Technology','Security','International Relations','Andhra Pradesh','Culture & History','Awards & Sports']
@@ -70,9 +70,9 @@ def docx_make(ns,path,jan):
  doc.styles['Caption'].font.size=Pt(8);doc.styles['Caption'].font.color.rgb=RGBColor.from_string('53685D')
  sec.header.paragraphs[0].text='CIVILS ATLAS  /  UPSC × ANDHRA PRADESH APPSC'
  sec.header.paragraphs[0].style=doc.styles['Caption']
- foot=sec.footer.paragraphs[0];foot.style=doc.styles['Caption'];foot.add_run('RESEARCH EDITION 18 · 7 NOV 2026 · Incomplete archive    /    ')
+ foot=sec.footer.paragraphs[0];foot.style=doc.styles['Caption'];foot.add_run('RESEARCH EDITION 19 · 7 NOV 2026 · Incomplete archive    /    ')
  field=OxmlElement('w:fldSimple');field.set(qn('w:instr'),'PAGE');foot._p.append(field)
- doc.add_paragraph('EVIDENCE-LED CURRENT AFFAIRS / EDITION 18','Subtitle');doc.add_heading(MONTH if jan else 'The working archive',0)
+ doc.add_paragraph('EVIDENCE-LED CURRENT AFFAIRS / EDITION 19','Subtitle');doc.add_heading(MONTH if jan else 'The working archive',0)
  doc.add_paragraph('Understand the news.\nRetain what matters.','Subtitle')
  doc.add_paragraph(f'{len(ns)} study notes · English · UPSC + Andhra Pradesh APPSC')
  doc.add_paragraph('Requested period: 1 January 2025–7 November 2026\n'+('This volume: '+MONTH+', with explicitly labelled later corroboration.' if jan else 'This volume: selected notes across the requested period; monthly selections and daily-source audits remain incomplete.'))
@@ -143,7 +143,7 @@ def pdf_make(ns,path):
   story.append(Paragraph(html.escape(text).replace('\n','<br/>'),st[style]))
  def bullet(text):p('•  '+text)
  def label(label,text):story.append(Paragraph('<b>'+html.escape(label)+'</b> '+html.escape(text),st['body']))
- p('CIVILS ATLAS / RESEARCH EDITION 18','small');story.append(Spacer(1,50));p(MONTH,'cover');p('Understand the news.\nRetain what matters.','h2');p(f'{len(ns)} study notes · {len(quiz)} MCQs · Mains frameworks');p('UPSC × Andhra Pradesh APPSC · English\nResearch cut-off: 7 November 2026');story.append(Spacer(1,25));p('Read the coverage contract','h2');p(LIMIT);p(METHOD);p(AUTO_TEXT);p('Source extracts are not whole-document reviews. November covers only 1–7 November. Review research/Research-Status.md before treating any month as complete.');story.append(PageBreak())
+ p('CIVILS ATLAS / RESEARCH EDITION 19','small');story.append(Spacer(1,50));p(MONTH,'cover');p('Understand the news.\nRetain what matters.','h2');p(f'{len(ns)} study notes · {len(quiz)} MCQs · Mains frameworks');p('UPSC × Andhra Pradesh APPSC · English\nResearch cut-off: 7 November 2026');story.append(Spacer(1,25));p('Read the coverage contract','h2');p(LIMIT);p(METHOD);p(AUTO_TEXT);p('Source extracts are not whole-document reviews. November covers only 1–7 November. Review research/Research-Status.md before treating any month as complete.');story.append(PageBreak())
  p('Subject guide','h1')
  for s in ORDER:
   c=sum(n['subject']==s for n in ns)
@@ -185,7 +185,7 @@ def pdf_make(ns,path):
    p('['+k+'] '+sources[k][0],'h3');u=sources[k][1];story.append(Paragraph('<link href="'+html.escape(u,quote=True)+'" color="#21645c">'+html.escape(u)+'</link>',st['small']));p(access.get(k,{}).get('access','Not recorded'),'small')
  story.append(PageBreak());p('Unfinished research','h1');p(LIMIT);p('Daily-source reconciliation remains open for every month. Further periods remain unfinished. The monthly inventory and daily/monthly ledgers record work required, not additional completed coverage.');p('The automation files collect links only after deployment and enabling. No hidden researcher will fill the remaining months after this response.');p('Read research/Research-Status.md for corrections, exclusions, evidence caveats and close-out tasks.')
  def furniture(c,d):
-  w,h=d.pagesize;c.setStrokeColor(colors.HexColor('#D9DFD6'));c.line(44,h-34,w-44,h-34);c.setFont('Atlas',7);c.setFillColor(muted);c.drawString(44,h-26,'CIVILS ATLAS  /  '+MONTH.upper()+'  /  UPSC × APPSC');c.drawString(44,25,'RESEARCH EDITION 18 · INCOMPLETE MONTHLY/DAY-BY-DAY AUDIT');c.drawRightString(w-44,25,str(d.page))
+  w,h=d.pagesize;c.setStrokeColor(colors.HexColor('#D9DFD6'));c.line(44,h-34,w-44,h-34);c.setFont('Atlas',7);c.setFillColor(muted);c.drawString(44,h-26,'CIVILS ATLAS  /  '+MONTH.upper()+'  /  UPSC × APPSC');c.drawString(44,25,'RESEARCH EDITION 19 · INCOMPLETE MONTHLY/DAY-BY-DAY AUDIT');c.drawRightString(w-44,25,str(d.page))
  doc=SimpleDocTemplate(str(path),pagesize=(595.28,841.89),rightMargin=46,leftMargin=46,topMargin=49,bottomMargin=45,title='Civils Atlas · '+MONTH,author='Civils Atlas research edition')
  doc.build(story,onFirstPage=furniture,onLaterPages=furniture)
 (R/'volumes').mkdir(exist_ok=True)
@@ -207,7 +207,7 @@ def reading_atlas():
  from reportlab.lib.styles import ParagraphStyle
  from reportlab.lib import colors
  md=(R/'volumes/Cross-Month-Reading-Journeys.md').read_text();doc=Document();normal=doc.styles['Normal'];normal.font.name='Calibri';normal.font.size=Pt(10.5)
- doc.sections[0].header.paragraphs[0].text='CIVILS ATLAS / EDITION 18 / UPSC × APPSC'
+ doc.sections[0].header.paragraphs[0].text='CIVILS ATLAS / EDITION 19 / UPSC × APPSC'
  doc.add_paragraph('7 November 2026 · Original reading guidance · Historical snapshots require current checks')
  story=[]
  styles={k:ParagraphStyle(k,fontName='AtlasSerif' if k!='body' else 'Atlas',fontSize=z,leading=z*1.4,spaceAfter=8,keepWithNext=k!='body',textColor=colors.HexColor('#193F37')) for k,z in [('cover',26),('head',15),('body',9)]}

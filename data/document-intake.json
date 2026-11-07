@@ -1,0 +1,92 @@
+{
+  "updated_at": "2026-11-07T16:01:55.956834+00:00",
+  "scope": "AP Finance primary PDFs only; extraction is not verification. Other publishers remain separate access obligations.",
+  "attempted": 4,
+  "pending": 0,
+  "extracted": 4,
+  "documents": [
+    {
+      "url": "https://apfinance.gov.in/images/BE_2026-27_CBRO_Guidelines.pdf",
+      "source": "AP Finance / budget / orders",
+      "checked_at": "2026-11-07T16:01:51.177070+00:00",
+      "status": "machine_text_extracted",
+      "human_verified": false,
+      "pages": 4,
+      "pages_with_text": 4,
+      "ocr_pages": [],
+      "text_characters": 9968,
+      "sha256": "05262e6e4492d4da54a44fd850fc7c8eda39033898ac9a259640ad9413f62c99",
+      "bytes": 269113,
+      "publication_date_verified": false,
+      "document_date_candidate": "2026-04-09",
+      "reading_limit": "Machine extraction/OCR attempted across 4 pages; no legal-status certification or human fact verification. OCR may contain errors; scanned-page OCR is limited to eight pages per document. Full text is not republished.",
+      "cited_source_ids": [
+        "E19-APCBRO"
+      ],
+      "cited_version_changed": false
+    },
+    {
+      "url": "https://apfinance.gov.in/images/Budget_Outreach_2026-27_Memo.pdf",
+      "source": "AP Finance / budget / orders",
+      "checked_at": "2026-11-07T16:01:51.177488+00:00",
+      "status": "machine_text_extracted",
+      "human_verified": false,
+      "pages": 2,
+      "pages_with_text": 2,
+      "ocr_pages": [],
+      "text_characters": 2656,
+      "sha256": "7a2090179dc70e9d30d9b343ae6b5b754ccfc246dfcaa7443e072a72d9964af6",
+      "bytes": 91609,
+      "publication_date_verified": false,
+      "document_date_candidate": "2026-03-11",
+      "reading_limit": "Machine extraction/OCR attempted across 2 pages; no legal-status certification or human fact verification. OCR may contain errors; scanned-page OCR is limited to eight pages per document. Full text is not republished.",
+      "cited_source_ids": [
+        "E19-APDIST"
+      ],
+      "cited_version_changed": false
+    },
+    {
+      "url": "https://apfinance.gov.in/images/Budget_Outreach_Programme_2026-27_Circular_Memo.pdf",
+      "source": "AP Finance / budget / orders",
+      "checked_at": "2026-11-07T16:01:51.178598+00:00",
+      "status": "machine_text_extracted",
+      "human_verified": false,
+      "pages": 3,
+      "pages_with_text": 3,
+      "ocr_pages": [],
+      "text_characters": 5446,
+      "sha256": "6e6fc8b574e664cd0a68933eb65da001ba426a4ec0b7c855eb03d55cc063b4fd",
+      "bytes": 92395,
+      "publication_date_verified": false,
+      "document_date_candidate": "2026-03-28",
+      "reading_limit": "Machine extraction/OCR attempted across 3 pages; no legal-status certification or human fact verification. OCR may contain errors; scanned-page OCR is limited to eight pages per document. Full text is not republished.",
+      "cited_source_ids": [
+        "E19-APMEET"
+      ],
+      "cited_version_changed": false
+    },
+    {
+      "url": "https://apfinance.gov.in/images/Smart_Metering.pdf",
+      "source": "AP Finance / budget / orders",
+      "checked_at": "2026-11-07T16:01:52.197113+00:00",
+      "status": "machine_text_extracted",
+      "human_verified": false,
+      "pages": 2,
+      "pages_with_text": 2,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "text_characters": 3749,
+      "sha256": "0f95e16b0db40984725982b2d582c1a654eb901162134c3aa3722527b189fbd9",
+      "bytes": 709363,
+      "publication_date_verified": false,
+      "document_date_candidate": "2026-05-05",
+      "reading_limit": "Machine extraction/OCR attempted across 2 pages; no legal-status certification or human fact verification. OCR may contain errors; scanned-page OCR is limited to eight pages per document. Full text is not republished.",
+      "cited_source_ids": [
+        "E19-APMETER"
+      ],
+      "cited_version_changed": false
+    }
+  ]
+}

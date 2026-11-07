@@ -1,3 +1,15 @@
+# Edition 19 update · 7 November 2026
+
+Current working inventory: **1,192 notes; 696 source references; 690 monthly + 14 supplementary MCQs; 184 monthly + four supplementary Mains frameworks; 23 selected period volumes**. Added 14 notes, including four primary AP-document backfills and ten November notes. November first-week selection now has 35 notes; it remains only 1–7 November.
+
+The original 1,178 note objects and 690 monthly question records are preserved. Read `research/edition19/Research-Log.md` for new primary-document readings, independent-report comparisons, draft-rule and implementation cautions. All 23 historical daily-source audits remain open.
+
+Local expanded discovery: 6/18 streams returned links. Local AP Finance intake: four PDFs / 11 pages extracted, with OCR on two scanned pages. This is not proof of future access, human verification, all-source coverage or automatic researched-note publication.
+
+The public repository was rechecked and still had the old eight-source bootstrap workflow. The self-contained replacement workflow is prepared, but its hosted deployment, Pages publication and first scheduled execution are not observed. Earlier status below is an historical Edition 18 record, not the latest deployment claim.
+
+---
+
 # CIVILS ATLAS · Edition 18
 English · UPSC × Andhra Pradesh APPSC · Research cut-off: **7 November 2026**
 

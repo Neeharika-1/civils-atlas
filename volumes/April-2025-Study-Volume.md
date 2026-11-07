@@ -7,7 +7,7 @@ UPSC × Andhra Pradesh APPSC · English · Research cut-off: 7 November 2026 · 
 
 New notes separate reported facts from original static connections, analysis, cautions and Mains prompts. P1 = core; P2 = consolidation; P3 = selective factual recall. Broad AP relevance is not exact APPSC paper mapping. Read the research audit for omissions and unresolved claims.
 
-Daily discovery is NOT activated: GitHub repository deployment or first scheduled execution is pending. Automation collects unreviewed source links, not researched study notes.
+Hosted push run observed; first scheduled execution remains unverified. Automation collects unreviewed source links, not researched study notes.
 
 ## Subject guide
 
