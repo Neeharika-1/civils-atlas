@@ -1,0 +1,86 @@
+name: Daily source discovery
+on:
+  push:
+    paths: ['.github/workflows/daily.yml', '*.zip']
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *' # 06:30 IST; GitHub scheduling may be delayed.
+permissions:
+  contents: write
+concurrency:
+  group: civils-atlas-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Import the uploaded ZIP once
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import zipfile
+          if not Path('.atlas-imported').exists():
+              files = sorted(Path('.').glob('Civils-Atlas-Final*.zip'))
+              if not files:
+                  raise SystemExit('Upload Civils-Atlas-Final.zip at the repository root first.')
+              with zipfile.ZipFile(files[-1]) as z:
+                  if z.testzip():
+                      raise SystemExit('ZIP integrity check failed.')
+                  for item in z.infolist():
+                      p = Path(item.filename)
+                      if '..' in p.parts or '.git' in p.parts or p.is_absolute():
+                          raise SystemExit('Unsafe ZIP path rejected.')
+                      if item.is_dir() or not p.parts or p.parts[0] != 'Civils-Atlas':
+                          continue
+                      relative = Path(*p.parts[1:])
+                      # Actions cannot safely install its own additional workflow files.
+                      # Keep those templates as ordinary files; preserve this user-added workflow.
+                      if relative.parts[0] == '.github':
+                          relative = Path('setup-workflow-templates') / (relative.name + '.txt')
+                      relative.parent.mkdir(parents=True, exist_ok=True)
+                      relative.write_bytes(z.read(item))
+              Path('.atlas-imported').write_text('Original Edition 18 imported; later runs preserve changes.\n')
+          PY
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-dejavu-core
+          pip install -r requirements.txt
+      - name: Discover source links with visible failure status
+        id: discover
+        continue-on-error: true
+        run: python scripts/update.py
+      - name: Validate and rebuild
+        run: |
+          python scripts/reconcile.py
+          python scripts/validate.py
+          python scripts/build.py
+      - name: Save imported project and daily results
+        run: |
+          git config user.name 'Civils Atlas updater'
+          git config user.email 'civils-atlas-updater@users.noreply.github.com'
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m 'Import project or refresh daily source discovery'
+            git push
+          fi
+      - name: Upload source-health report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-health-${{ github.run_id }}
+          path: |
+            data/automation-status.json
+            data/update-log.json
+            data/update-history.json
+          if-no-files-found: warn
+      - name: Report blocked or failed sources
+        if: steps.discover.outcome == 'failure'
+        run: |
+          echo '::error::Some sources failed. Successful discoveries and rebuilt files were saved if the build and push steps passed. Inspect source-health; no access controls were bypassed.'
+          exit 1
