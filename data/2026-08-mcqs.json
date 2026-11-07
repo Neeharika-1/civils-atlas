@@ -1,0 +1,392 @@
+[
+  {
+    "id": "AUG26-01",
+    "question": "The GDP estimate released on 31 August records 7.8% growth. Which interpretation is correct?",
+    "options": [
+      "Full-year real GDP growth for FY2026–27",
+      "Month-on-month nominal GDP growth in August",
+      "Year-on-year real GDP growth in April–June FY2026–27 at constant 2022–23 prices",
+      "The RBI’s observed August industrial-production rate"
+    ],
+    "answer": 2,
+    "explanation": "The primary release separates real GDP 7.8%, nominal GDP 10.3% and real GVA 8.2%. Publication date is not the reference period, and an official estimate is not a forecast from the earlier MPC meeting.",
+    "ref": "E15-2608-001"
+  },
+  {
+    "id": "AUG26-02",
+    "question": "Which set completes the four-sector coverage of the inspected new-series IIP?",
+    "options": [
+      "Mining; manufacturing; electricity/gas; water supply, sewerage and waste management",
+      "Mining; manufacturing; electricity only",
+      "Agriculture; manufacturing; electricity; transport services",
+      "Mining; manufacturing; construction; banking"
+    ],
+    "answer": 0,
+    "explanation": "The 2022–23-base release gives weights 11.053, 76.062, 10.865 and 2.020, summing to 100. Omitting the fourth sector leaves a real coverage gap, not just rounding.",
+    "ref": "E15-2608-002"
+  },
+  {
+    "id": "AUG26-03",
+    "question": "The IIP release mentions June growth of 7.3% and later shows June growth of 8.8%. What is the sound treatment?",
+    "options": [
+      "Conclude that neither rate can ever be revised",
+      "Preserve the earlier quick estimate and later final-table vintage as distinct",
+      "Average both rates to construct an official final estimate",
+      "Label 7.3% as July growth and 8.8% as April–July cumulative growth"
+    ],
+    "answer": 1,
+    "explanation": "The opening narrative compares against June’s earlier quick estimate; the final sectoral table incorporates updated data. July quick growth is 6.7%; April–July cumulative growth is 6.3%.",
+    "ref": "E15-2608-002"
+  },
+  {
+    "id": "AUG26-04",
+    "question": "Consider: 1. The August MPC retained repo at 5.25%. 2. A neutral stance guarantees that the next decision will be a rate cut. Which is correct?",
+    "options": [
+      "Neither 1 nor 2",
+      "2 only",
+      "1 only",
+      "Both 1 and 2"
+    ],
+    "answer": 2,
+    "explanation": "The primary resolution confirms unchanged rates and a neutral stance. Neutrality preserves flexibility; it is not forward commitment to a cut or a guarantee about every commercial bank’s lending rate.",
+    "ref": "E15-2608-003"
+  },
+  {
+    "id": "AUG26-05",
+    "question": "Which sequence best preserves the legal stages of an ordinary parliamentary Bill?",
+    "options": [
+      "Introduction, automatic assent, then optional passage",
+      "Cabinet approval, judicial approval, then automatic commencement",
+      "Passage by both Houses, assent, then commencement according to the applicable provisions",
+      "Committee referral, automatic commencement, then assent"
+    ],
+    "answer": 2,
+    "explanation": "The reviewed session’s 11 passed Bills are not independently verified as 11 commenced Acts. Some Acts commence on assent; others use specified dates or later notifications, so commencement must be checked.",
+    "ref": "E15-2608-004"
+  },
+  {
+    "id": "AUG26-06",
+    "question": "Which distinction is correct in the MSME/TReDS context?",
+    "options": [
+      "Every discounted invoice is a government capital grant",
+      "Invoice registration and financing are distinct from final buyer payment",
+      "A mediation timeline proves all disputes were actually resolved",
+      "TReDS registration cancels the buyer’s liability"
+    ],
+    "answer": 1,
+    "explanation": "Receivables financing can address liquidity, but buyer acceptance, payment discipline and dispute settlement remain important. A proposed or statutory mechanism should not be confused with actual performance.",
+    "ref": "E15-2608-006"
+  },
+  {
+    "id": "AUG26-07",
+    "question": "What does the reviewed BHAVYA–Rasayan approval establish?",
+    "options": [
+      "A waiver of all environmental appraisal for common infrastructure",
+      "An unlimited central grant for every chemical enterprise",
+      "A national support framework for three greenfield parks, not verified selection of an AP location",
+      "Completion of three operational parks in Andhra Pradesh"
+    ],
+    "answer": 2,
+    "explanation": "PRS records ₹3,030 crore over FY2026–27 to FY2030–31, with central support capped at ₹1,000 crore per park and state participation. Approval does not certify site selection, commissioning or compliance.",
+    "ref": "E15-2608-008"
+  },
+  {
+    "id": "AUG26-08",
+    "question": "Why distinguish Exporter of Record from Seller of Record?",
+    "options": [
+      "It makes returned export goods automatically domestic sales",
+      "They can carry different compliance and commercial responsibilities under the reviewed framework",
+      "Only the seller can ever be responsible for customs filings",
+      "The distinction exempts every online transaction from foreign-exchange rules"
+    ],
+    "answer": 1,
+    "explanation": "The reviewed arrangement separates EOR and SOR, addresses confirmed orders, seller payments and returns, and does not eliminate customs or other regulatory obligations.",
+    "ref": "E15-2608-009"
+  },
+  {
+    "id": "AUG26-09",
+    "question": "Which statement about the reviewed SHANTI rules is defensible?",
+    "options": [
+      "Every proposed licence transfers nuclear safety oversight to a private operator",
+      "Composite licensing can coexist with phase-specific safety authorisations, but the reviewed rules were drafts",
+      "A composite licence automatically proves commercial nuclear operation",
+      "A comment deadline establishes that the draft is already final law"
+    ],
+    "answer": 1,
+    "explanation": "PRS describes consultation-stage rules and phase-specific AERB authorisations. Licensing, construction, safety approval and operation remain distinct milestones.",
+    "ref": "E15-2608-013"
+  },
+  {
+    "id": "AUG26-10",
+    "question": "A CBG project has eligible installed capacity of 5 tonnes per day. At a ceiling of ₹2 crore per TPD, what is the corresponding maximum capacity-linked assistance before other eligibility conditions?",
+    "options": [
+      "₹10 crore",
+      "₹2 crore per year for five years automatically",
+      "₹23,731 crore",
+      "₹10 crore for every tonne of fuel actually sold"
+    ],
+    "answer": 0,
+    "explanation": "5 TPD × ₹2 crore/TPD = ₹10 crore. This is a ceiling illustration, not a sanction. Capacity-linked capital assistance is different from the administered energy price of ₹2,110/MMBTU.",
+    "ref": "E15-2608-014"
+  },
+  {
+    "id": "AUG26-11",
+    "question": "Which is NOT established by the GOBARdhan approval alone?",
+    "options": [
+      "That pipeline infrastructure and credit support are included",
+      "That assured offtake is part of scheme design",
+      "That a multi-year scheme outlay was approved",
+      "That nearly ten-fold production growth has already been achieved"
+    ],
+    "answer": 3,
+    "explanation": "The ₹23,731 crore approval runs from FY2026–27 to FY2035–36. The release’s production expansion and investment outcomes are objectives, not an independently audited realised result.",
+    "ref": "E15-2608-014"
+  },
+  {
+    "id": "AUG26-12",
+    "question": "The 200 SCM incentive in the inspected domestic PNG scheme is allocated to whom and on what basis?",
+    "options": [
+      "Only state electricity utilities per new power connection",
+      "Every household as 200 SCM of free gas each month",
+      "Eligible CGD entities per incremental billed domestic connection above a GA threshold",
+      "Every LNG importer per tonne of gas imported"
+    ],
+    "answer": 2,
+    "explanation": "The company-level allocation substitutes costlier gas sourcing and is intended to improve connection economics. Approval is 18 August, with effectiveness from 1 September; it is not a universal household free-gas benefit.",
+    "ref": "E15-2608-015"
+  },
+  {
+    "id": "AUG26-13",
+    "question": "Why is a tribunals commission not by itself sufficient to guarantee independent adjudication?",
+    "options": [
+      "Appointments, tenure, resources and safeguards against executive dominance also matter",
+      "Tribunals cannot use technical experts under any circumstances",
+      "Commission creation automatically removes constitutional judicial review",
+      "All tribunal vacancies are necessarily filled on the date of a Bill’s passage"
+    ],
+    "answer": 0,
+    "explanation": "Institutional form and actual independence differ. The reviewed Bill’s appointment provisions do not establish operational capacity or eliminate the supervisory role of constitutional courts.",
+    "ref": "E15-2608-016"
+  },
+  {
+    "id": "AUG26-14",
+    "question": "Which combination correctly describes the reviewed ISI proposal?",
+    "options": [
+      "Supreme Court judgment; closure of all research programmes",
+      "State-only executive order; no parliamentary proposal",
+      "Commenced Act; mandatory conversion into a listed profit-making company",
+      "Pending Bill; proposed body-corporate not-for-profit framework"
+    ],
+    "answer": 3,
+    "explanation": "The 3 August Bill remained pending in the reviewed session. Corporate legal personality does not necessarily mean a profit-making private company or completed transformation.",
+    "ref": "E15-2608-017"
+  },
+  {
+    "id": "AUG26-15",
+    "question": "The conventional-missile ToT approval should be read as what?",
+    "options": [
+      "Permission for industrial production subject to applicable qualifications, certifications and regulation",
+      "Automatic export clearance for every missile to every country",
+      "Proof all approved systems have already entered mass production",
+      "Transfer of all military operational command to industry"
+    ],
+    "answer": 0,
+    "explanation": "The 25 August primary release links technology transfer to domestic capability and MSME participation. Technology absorption, qualified production and export permission are different stages.",
+    "ref": "E15-2608-019"
+  },
+  {
+    "id": "AUG26-16",
+    "question": "Which treatment of the telecom-identification evidence is accurate?",
+    "options": [
+      "The inspected document was only an unnotified consultation draft",
+      "Aadhaar establishes a subscriber’s citizenship",
+      "Commencement on publication is directly checked; later detailed KYC provisions were followed through PRS",
+      "Every clause of the eight-chunk Gazette was independently read"
+    ],
+    "answer": 2,
+    "explanation": "The opening Gazette passage confirms the 21 August notification and commencement. Source provenance must not exaggerate how much of the primary instrument was inspected; identity, citizenship and authentication remain distinct.",
+    "ref": "E15-2608-021"
+  },
+  {
+    "id": "AUG26-17",
+    "question": "The rural-employment audit document includes a proposed commencement clause. Does that make it final operative rules?",
+    "options": [
+      "Yes; every clause inside any Gazette publication is final law",
+      "No; the containing Gazette notice publishes draft rules for consultation",
+      "No; draft rules can never contain commencement wording",
+      "Yes; the comment period applies only after automatic nationwide implementation"
+    ],
+    "answer": 1,
+    "explanation": "The 7 August preamble is a consultation notice. Annual financial audit and at least six-monthly social audit are proposed arrangements, not proof that the final instrument was notified.",
+    "ref": "E15-2608-024"
+  },
+  {
+    "id": "AUG26-18",
+    "question": "What does a digitised parcel map establish by itself?",
+    "options": [
+      "Transfer of every common land parcel to the mapped occupier",
+      "A mapped record, not necessarily conclusive and dispute-free title",
+      "Automatic approval of every bank loan application",
+      "An automatic court decree resolving all competing claims"
+    ],
+    "answer": 1,
+    "explanation": "Survey, mutation, registration and title adjudication have distinct legal roles. Public notice, correction and appeal are essential where records or boundaries are contested.",
+    "ref": "E15-2608-026"
+  },
+  {
+    "id": "AUG26-19",
+    "question": "The US$5 billion India–Uzbekistan trade figure in the reviewed visit is what?",
+    "options": [
+      "A compulsory payment under a new customs union",
+      "The exact value of trade in August alone",
+      "A completed Indian budget grant to Uzbekistan",
+      "A bilateral target for 2030, not verified already realised annual trade"
+    ],
+    "answer": 3,
+    "explanation": "PRS supplies the substantive visit summary. The attempted MEA outcomes page returned navigation only, so no full primary verification is claimed. Partnership targets depend on connectivity and commercial follow-through.",
+    "ref": "E15-2608-030"
+  },
+  {
+    "id": "AUG26-20",
+    "question": "Which is a component of non-revenue water that need NOT involve physical leakage?",
+    "options": [
+      "Water leaking from a valve",
+      "Authorised unbilled consumption",
+      "Water lost from a burst pipe",
+      "Water overflowing a storage tank"
+    ],
+    "answer": 1,
+    "explanation": "NRW includes real losses, apparent losses and authorised unbilled use. Different components need different technical, metering and billing responses; treating all NRW as leakage misdiagnoses the problem.",
+    "ref": "E15-2608-033"
+  },
+  {
+    "id": "AUG26-21",
+    "question": "For otherwise comparable bonds, what does a greenium generally imply?",
+    "options": [
+      "Lower green-bond yield and correspondingly higher price",
+      "Identical liquidity and risk for every issuer",
+      "Guaranteed greater emissions reduction regardless of use of proceeds",
+      "Higher green-bond yield and necessarily lower price"
+    ],
+    "answer": 0,
+    "explanation": "Price and yield move inversely. A greenium does not itself prove environmental additionality; comparable maturity, liquidity and credible allocation/reporting still matter.",
+    "ref": "E15-2608-035"
+  },
+  {
+    "id": "AUG26-22",
+    "question": "Can a glacier become thinner while moving more slowly?",
+    "options": [
+      "No; flow speed and mass balance are identical variables",
+      "No; slower flow always proves recovery",
+      "Yes; thinning can reduce driving stress and ice flow",
+      "Yes, but only if all downstream river flow immediately stops"
+    ],
+    "answer": 2,
+    "explanation": "The reviewed Zanskar mechanism illustrates that movement, mass balance and runoff differ. Response varies by geometry and debris cover; a precise basin-wide peak-water date was not independently verified.",
+    "ref": "E15-2608-036"
+  },
+  {
+    "id": "AUG26-23",
+    "question": "Which observation alone is insufficient to establish a cloudburst?",
+    "options": [
+      "A time-resolved local record consistent with the threshold",
+      "100 mm rainfall accumulated over an entire day",
+      "A suitably documented hourly extreme meeting IMD’s threshold",
+      "At least 100 mm within an hour over a small local area"
+    ],
+    "answer": 1,
+    "explanation": "Daily accumulation does not establish the required hourly intensity. Flood damage alone also cannot identify a cloudburst; exposure, drainage and catchment saturation matter.",
+    "ref": "E15-2608-037"
+  },
+  {
+    "id": "AUG26-24",
+    "question": "Which statement best distinguishes AI-assisted biological design from an approved therapy?",
+    "options": [
+      "No laboratory work is necessary after a model generates DNA",
+      "Every bacteriophage infects human cells rather than bacteria",
+      "A generated genome sequence is automatically a safe medicine",
+      "A computational design still requires synthesis, testing and biosafety/clinical validation"
+    ],
+    "answer": 3,
+    "explanation": "Generative tools propose biological designs. Viability, safety, efficacy and regulatory approval are distinct stages, and exact experimental counts were not independently verified in this batch.",
+    "ref": "E15-2608-040"
+  },
+  {
+    "id": "AUG26-25",
+    "question": "Which pairing is correct for the inspected 2026 Dirac Medal announcement?",
+    "options": [
+      "Deepak Dhar — statistical mechanics and sandpile-model contributions",
+      "Deepak Dhar — sole winner for discovery of a new elementary particle",
+      "Haim Sompolinsky — a 2026 Nobel Prize announced by ICTP",
+      "Marc Mézard — a medal awarded exclusively by ISRO"
+    ],
+    "answer": 0,
+    "explanation": "ICTP names four recipients: Derrida, Dhar, Mézard and Sompolinsky. The award recognises theoretical-physics contributions; it is not a Nobel Prize or a sole-recipient award.",
+    "ref": "E15-2608-044"
+  },
+  {
+    "id": "AUG26-26",
+    "question": "Which assertion about lab-grown diamonds requires correction?",
+    "options": [
+      "HPHT and CVD are major production routes",
+      "They have diamond’s crystalline carbon structure",
+      "Energy sources influence lifecycle emissions",
+      "They necessarily possess the same geological rarity as mined diamonds"
+    ],
+    "answer": 3,
+    "explanation": "Laboratory-grown diamonds are real diamonds, but origin, geological scarcity and market value can differ. Ethical traceability and low-carbon production require evidence rather than a label alone.",
+    "ref": "E15-2608-045"
+  },
+  {
+    "id": "AUG26-27",
+    "question": "What is the best interpretation of AP’s reported ₹1,500 crore PPP Bridge/VGF fund?",
+    "options": [
+      "A draft-policy support provision requiring later appraisal and implementation checks",
+      "Audited expenditure already completed on every PPP project",
+      "Proof that infrastructure creates no future public liability",
+      "A universal grant payable to every private developer"
+    ],
+    "answer": 0,
+    "explanation": "The 6 August Cabinet report concerns draft-policy approval. Tendering, financial closure, project operation and public fiscal exposure require separate scrutiny; original GOs were not read.",
+    "ref": "E15-2608-050"
+  },
+  {
+    "id": "AUG26-28",
+    "question": "Which legal distinction matters in reporting the Disha decision?",
+    "options": [
+      "Every Cabinet decision immediately repeals all conflicting criminal law",
+      "Withdrawal of one proposal removes all existing legal protections",
+      "A withdrawn Bill must already have completed assent and commencement",
+      "Cabinet approval to withdraw a Bill is not automatically repeal of a commenced Act"
+    ],
+    "answer": 3,
+    "explanation": "The report describes a Bill-withdrawal approval. Further legislative action and the operative legal framework require verification; women’s safety also depends on institutions and applicable existing law.",
+    "ref": "E15-2608-051"
+  },
+  {
+    "id": "AUG26-29",
+    "question": "Which calculation is consistent with the Netanna Sevalo report?",
+    "options": [
+      "71,536 families × ₹25,000 = ₹178.84 crore, rounded to about ₹179 crore",
+      "The 62,541 electricity-support families must be identical to the Netanna count",
+      "71,536 families × ₹25,000 = ₹17.884 crore",
+      "₹179 crore proves every household in AP received ₹25,000"
+    ],
+    "answer": 0,
+    "explanation": "Different schemes have different units and eligibility. A reported launch and release are not an independent audit of every account credit or proof that all eligible families were included.",
+    "ref": "E15-2608-057"
+  },
+  {
+    "id": "AUG26-30",
+    "question": "Which statement correctly interprets the elephant-conservation release?",
+    "options": [
+      "The release establishes an identical event date despite its conflicting posting/day wording",
+      "The source proves every corridor was fully restored by 12 August",
+      "₹500 crore was verified as exclusively spent in Andhra Pradesh",
+      "₹500 crore concerns the combined southern four-state plan; 13 August is used as a reporting date"
+    ],
+    "answer": 3,
+    "explanation": "The plan covers Karnataka, Kerala, AP and Tamil Nadu. PIB is posted 13 August and says today while World Elephant Day is 12 August, so the note preserves reporting-date precision and does not infer completion.",
+    "ref": "E15-2608-061"
+  }
+]

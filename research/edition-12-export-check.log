@@ -1,0 +1,163 @@
+{
+  "status": "PASS",
+  "date": "2026-11-07",
+  "monthly_volumes": [
+    {
+      "month": "2025-01",
+      "notes": 85,
+      "pages": 86,
+      "pdf_bytes": 274531,
+      "docx_paragraphs": 1858,
+      "pdf_links": 84,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2025-02",
+      "notes": 82,
+      "pages": 86,
+      "pdf_bytes": 266188,
+      "docx_paragraphs": 1741,
+      "pdf_links": 69,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2025-03",
+      "notes": 60,
+      "pages": 76,
+      "pdf_bytes": 232308,
+      "docx_paragraphs": 1369,
+      "pdf_links": 52,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2025-04",
+      "notes": 51,
+      "pages": 68,
+      "pdf_bytes": 217326,
+      "docx_paragraphs": 1209,
+      "pdf_links": 48,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2025-05",
+      "notes": 46,
+      "pages": 54,
+      "pdf_bytes": 190474,
+      "docx_paragraphs": 1101,
+      "pdf_links": 38,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2025-06",
+      "notes": 31,
+      "pages": 39,
+      "pdf_bytes": 153581,
+      "docx_paragraphs": 831,
+      "pdf_links": 21,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2025-07",
+      "notes": 44,
+      "pages": 50,
+      "pdf_bytes": 178709,
+      "docx_paragraphs": 1056,
+      "pdf_links": 24,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2025-08",
+      "notes": 45,
+      "pages": 52,
+      "pdf_bytes": 180320,
+      "docx_paragraphs": 1063,
+      "pdf_links": 19,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2025-09",
+      "notes": 32,
+      "pages": 38,
+      "pdf_bytes": 149991,
+      "docx_paragraphs": 843,
+      "pdf_links": 15,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2025-10",
+      "notes": 33,
+      "pages": 40,
+      "pdf_bytes": 152224,
+      "docx_paragraphs": 865,
+      "pdf_links": 15,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2025-11",
+      "notes": 30,
+      "pages": 43,
+      "pdf_bytes": 159567,
+      "docx_paragraphs": 832,
+      "pdf_links": 17,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2025-12",
+      "notes": 44,
+      "pages": 50,
+      "pdf_bytes": 174989,
+      "docx_paragraphs": 1000,
+      "pdf_links": 20,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2026-01",
+      "notes": 45,
+      "pages": 54,
+      "pdf_bytes": 186770,
+      "docx_paragraphs": 1091,
+      "pdf_links": 21,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2026-02",
+      "notes": 45,
+      "pages": 63,
+      "pdf_bytes": 204908,
+      "docx_paragraphs": 1114,
+      "pdf_links": 29,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2026-03",
+      "notes": 48,
+      "pages": 67,
+      "pdf_bytes": 221850,
+      "docx_paragraphs": 1171,
+      "pdf_links": 33,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2026-04",
+      "notes": 48,
+      "pages": 69,
+      "pdf_bytes": 228701,
+      "docx_paragraphs": 1209,
+      "pdf_links": 46,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    },
+    {
+      "month": "2026-05",
+      "notes": 64,
+      "pages": 84,
+      "pdf_bytes": 268203,
+      "docx_paragraphs": 1511,
+      "pdf_links": 60,
+      "status": "IDs / questions / framework count / OOXML / nonblank pages / replacement glyph checks PASS"
+    }
+  ],
+  "archive_notes": 835,
+  "reading_atlas_paths": 18,
+  "reading_atlas_pages": 19,
+  "scope": "Text/package integrity only; no independent factual/completeness certification"
+}

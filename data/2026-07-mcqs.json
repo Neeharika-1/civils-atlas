@@ -1,0 +1,392 @@
+[
+  {
+    "id": "JUL26-01",
+    "question": "What is the safest July snapshot of the public examinations amendment?",
+    "options": [
+      "Parliamentary passage is recorded, but assent and commencement need separate verification.",
+      "Introduction proves commencement.",
+      "It applies identically to every classroom test.",
+      "Higher penalties prove higher conviction rates."
+    ],
+    "answer": 0,
+    "explanation": "Legislative stages and implementation outcomes are distinct. The reviewed source records passage on 30 July, not an independently checked commencement notification.",
+    "ref": "E14-2607-001"
+  },
+  {
+    "id": "JUL26-02",
+    "question": "A proposed Supreme Court strength of 37 judges excluding the CJI means what total including the CJI?",
+    "options": [
+      "37",
+      "41",
+      "38",
+      "34"
+    ],
+    "answer": 2,
+    "explanation": "Adding the single CJI position gives 38. A replacement Bill should not be counted as another four posts in addition to the May Ordinance increase.",
+    "ref": "E14-2607-002"
+  },
+  {
+    "id": "JUL26-03",
+    "question": "What best distinguishes TReDS discounting from a subsidy?",
+    "options": [
+      "It replaces all buyer verification.",
+      "It finances accepted receivables rather than automatically forgiving the borrower’s debt.",
+      "It is an unconditional fiscal grant.",
+      "It cancels every disputed invoice."
+    ],
+    "answer": 1,
+    "explanation": "Invoice acceptance, financier participation and financing cost matter; platform registration alone does not prove prompt payment.",
+    "ref": "E14-2607-003"
+  },
+  {
+    "id": "JUL26-04",
+    "question": "Which statement correctly describes the July rural-employment payment rules?",
+    "options": [
+      "Cash must always be paid without an order.",
+      "Unemployment allowance is necessarily paid entirely by the Union.",
+      "A generated payment order guarantees successful credit.",
+      "DBT to bank/post-office accounts is the norm, with a Union exemption by order possible in extraordinary circumstances."
+    ],
+    "answer": 3,
+    "explanation": "The Gazette allows an extraordinary exemption. Wages and unemployment allowance have distinct responsibilities and actual receipt must be checked.",
+    "ref": "E14-2607-006"
+  },
+  {
+    "id": "JUL26-05",
+    "question": "A household has already used some employment days before transition. What is the sound principle?",
+    "options": [
+      "The household automatically gets a fresh full annual entitlement in addition.",
+      "Old wages are extinguished.",
+      "Days used are accounted for when determining the remaining financial-year entitlement.",
+      "The 180 day certificate deadline becomes a universal wage-payment grace period."
+    ],
+    "answer": 2,
+    "explanation": "The transition preserves a balance-day approach and verified old liabilities; accounting deadlines are not a licence to delay every wage.",
+    "ref": "E14-2607-007"
+  },
+  {
+    "id": "JUL26-06",
+    "question": "Which is not equivalent to wafer fabrication?",
+    "options": [
+      "Processing wafers in a fabrication facility",
+      "Producing semiconductor devices on wafers",
+      "ATMP/OSAT packaging and testing",
+      "Manufacturing wafers in a fab"
+    ],
+    "answer": 2,
+    "explanation": "Packaging/testing is an important but distinct value-chain stage. Approved units are also different from commissioned commercial production.",
+    "ref": "E14-2607-008"
+  },
+  {
+    "id": "JUL26-07",
+    "question": "Why should mobile-phone production not be equated with domestic value addition?",
+    "options": [
+      "Export value never includes imported inputs.",
+      "All assembled products are entirely imported finished goods.",
+      "Gross sales automatically measure net domestic content.",
+      "Domestic assembly may still use imported components and foreign-owned IP."
+    ],
+    "answer": 3,
+    "explanation": "Value-chain analysis separates assembly, component sourcing and design/IP ownership; incentives have differentiated eligibility conditions.",
+    "ref": "E14-2607-009"
+  },
+  {
+    "id": "JUL26-08",
+    "question": "What legislative stage does the reviewed July birth-registration Bill account report?",
+    "options": [
+      "Lok Sabha passage on 31 July, not passage by both Houses",
+      "Enactment of every proposed judicial-verification clause",
+      "Automatic citizenship for every registered birth",
+      "A general permission to avoid registration for two years"
+    ],
+    "answer": 0,
+    "explanation": "One-house passage and proposed delayed-registration procedures do not establish final enactment or citizenship status.",
+    "ref": "E14-2607-011"
+  },
+  {
+    "id": "JUL26-09",
+    "question": "Under the draft foreign-investment framework, how is the 10% threshold described?",
+    "options": [
+      "FDI only above 50% in every entity",
+      "FDI at 10% or more and FPI below 10% in company/LLP equity",
+      "Exactly 10% is always FPI",
+      "Every foreign investment is debt"
+    ],
+    "answer": 1,
+    "explanation": "These are draft definitions. They should not be substituted for the reviewed 2019 baseline, especially its treatment of unlisted-company equity.",
+    "ref": "E14-2607-012"
+  },
+  {
+    "id": "JUL26-10",
+    "question": "The proposed ₹25 lakh PMS ticket applies to which category in the consultation?",
+    "options": [
+      "All retail mutual-fund purchases",
+      "Every PMS without exception",
+      "A proposed mutual-fund-only portfolio-management category",
+      "The net worth of every client"
+    ],
+    "answer": 2,
+    "explanation": "The consultation also proposes ₹2 crore applicant net worth for that category. Client investment and manager net worth are different, and proposals are not final rules.",
+    "ref": "E14-2607-013"
+  },
+  {
+    "id": "JUL26-11",
+    "question": "Which insurance-governance principle is described in the July regulatory review?",
+    "options": [
+      "Policyholder money is unrestricted shareholder capital.",
+      "The education fund pays every disputed claim in full.",
+      "Every merger is automatically approved.",
+      "Policyholder funds cannot meet liabilities arising from the specified amalgamation."
+    ],
+    "answer": 3,
+    "explanation": "Ring-fencing and board assessment of adverse policyholder effects are distinct from proof that any particular merger complied.",
+    "ref": "E14-2607-014"
+  },
+  {
+    "id": "JUL26-12",
+    "question": "The Securities Markets Code Committee recommendations should be treated as what?",
+    "options": [
+      "Proof all exchanges have unlimited regulatory power",
+      "Scrutiny proposals on delegation, offences and appeals, not automatically enacted law",
+      "A new court judgment annulling all SEBI orders",
+      "Automatic suspension of every SEBI order"
+    ],
+    "answer": 1,
+    "explanation": "Committee scrutiny can inform legislation. Clear delegation boundaries and independent appeals must be distinguished from final statutory text.",
+    "ref": "E14-2607-015"
+  },
+  {
+    "id": "JUL26-13",
+    "question": "Which qualification matters when applying the reviewed waterfront policy to Andhra Pradesh?",
+    "options": [
+      "Renewal without tender always means zero price.",
+      "Identify whether the port is a Union major port before applying that framework.",
+      "Every AP port is administered exclusively by the Union.",
+      "The policy transfers permanent land ownership to every company."
+    ],
+    "answer": 1,
+    "explanation": "Major and non-major ports have different governance. Reviewed renewal pricing uses market/existing-revenue safeguards, not free unconditional transfer.",
+    "ref": "E14-2607-016"
+  },
+  {
+    "id": "JUL26-14",
+    "question": "What exact PM-KISAN continuation outlay does the inspected primary release specify?",
+    "options": [
+      "₹3.15 lakh crore",
+      "₹36,441 crore",
+      "₹6,000 crore",
+      "₹3.2 lakh crore exactly"
+    ],
+    "answer": 0,
+    "explanation": "The Cabinet release gives ₹3.15 lakh crore for FY 2026–27 to FY 2030–31. PRS rounds it. The annual eligible-family benefit remains ₹6,000 in three instalments.",
+    "ref": "E14-2607-019"
+  },
+  {
+    "id": "JUL26-15",
+    "question": "Which is the most defensible digital-PDS evaluation?",
+    "options": [
+      "Every deleted card proves fraud.",
+      "Check eligible inclusion, failed authentication and actual food receipt alongside database coverage.",
+      "Aadhaar seeding guarantees nutrition adequacy.",
+      "A committee report automatically replaces food with cash nationwide."
+    ],
+    "answer": 1,
+    "explanation": "Digitisation and entitlement fulfilment are different. Administrative deletions and authentication need verification and accessible correction mechanisms.",
+    "ref": "E14-2607-021"
+  },
+  {
+    "id": "JUL26-16",
+    "question": "When is distribution under the reviewed revised broken-rice norms scheduled to begin?",
+    "options": [
+      "Kharif marketing season 2027–28",
+      "Only after 2047",
+      "All July 2026 deliveries immediately",
+      "The first day of calendar 2025"
+    ],
+    "answer": 0,
+    "explanation": "Raw-rice broken content moves 25% to 10% and parboiled 16% to 5%. These are quality norms, not reductions in household ration kilograms.",
+    "ref": "E14-2607-022"
+  },
+  {
+    "id": "JUL26-17",
+    "question": "Which correctly captures the 29 July retrospective-EC conclusions?",
+    "options": [
+      "Every existing EC automatically became void.",
+      "All pending applications must automatically receive EC.",
+      "The 2017 limited notification was upheld; the 2021 perpetual OM was quashed prospectively.",
+      "Every future project can start without prior EC."
+    ],
+    "answer": 2,
+    "explanation": "The Court preserved existing ECs subject to individual challenge and barred fresh applications under the impugned instruments. Prior clearance remains the norm and pending cases require specific directions.",
+    "ref": "E14-2607-023"
+  },
+  {
+    "id": "JUL26-18",
+    "question": "A 5,000 MW power scale with two-hour storage corresponds to what energy amount?",
+    "options": [
+      "10,000 MW of annual electricity",
+      "5,000 MW per hour",
+      "2,500 MWh",
+      "10,000 MWh"
+    ],
+    "answer": 3,
+    "explanation": "Power multiplied by duration gives energy. The scheme’s roughly 700 MW baseline refers to floating PV, not all Indian solar capacity.",
+    "ref": "E14-2607-024"
+  },
+  {
+    "id": "JUL26-19",
+    "question": "What is not established merely by offshore exploration approval?",
+    "options": [
+      "Support for seismic information",
+      "A policy framework for exploration",
+      "The possibility of unsuccessful wells",
+      "That an expected resource addition is already commercially produced oil"
+    ],
+    "answer": 3,
+    "explanation": "Exploration estimates, discoveries, recoverable reserves and production are different stages. Cabinet approval is not a realised state-specific discovery.",
+    "ref": "E14-2607-025"
+  },
+  {
+    "id": "JUL26-20",
+    "question": "What is the correct period for the combined ₹36,441 crore Khelo India/ANSF approval?",
+    "options": [
+      "Only calendar 2026",
+      "FY 2026–27 to FY 2023–31",
+      "FY 2026–27 to FY 2030–31",
+      "FY 2035–36 to FY 2040–41"
+    ],
+    "answer": 2,
+    "explanation": "The primary PIB release corrects the PRS end-year typo. Funding approval and athlete-development targets are not completed outcomes or awarded Olympic hosting rights.",
+    "ref": "E14-2607-031"
+  },
+  {
+    "id": "JUL26-21",
+    "question": "Which is the sound constitutional approach to internet restrictions?",
+    "options": [
+      "Any protest is by itself sufficient ground.",
+      "Test legal authority, necessity, proportionality, scope, duration and less restrictive alternatives.",
+      "Publication of reasons is never relevant.",
+      "Indefinite shutdowns are automatically permissible."
+    ],
+    "answer": 1,
+    "explanation": "Internet use engages speech and profession rights. A statutory public-order response must satisfy lawful predicates and procedural safeguards.",
+    "ref": "E14-2607-033"
+  },
+  {
+    "id": "JUL26-22",
+    "question": "Which distinction is correct for vital statistics?",
+    "options": [
+      "Every registered death necessarily has a medical cause certificate.",
+      "CRS continuously registers events; SRS supplies sample-based demographic estimates.",
+      "The 2024 report measures only July 2026 births.",
+      "CRS is only a five-year opinion poll."
+    ],
+    "answer": 1,
+    "explanation": "Completeness, timeliness and cause-of-death certification measure different qualities. An estimated denominator also affects completeness ratios.",
+    "ref": "E14-2607-036"
+  },
+  {
+    "id": "JUL26-23",
+    "question": "White Rabbit timing should not be confused with which claim?",
+    "options": [
+      "That India changed its time zone or achieved universally invulnerable timing",
+      "Traceability to a maintained time standard",
+      "Precision time transfer over fibre",
+      "Timing needs in financial and telecom systems"
+    ],
+    "answer": 0,
+    "explanation": "IST remains UTC+5:30. Demonstration, national rollout and security assurance are separate issues; redundancy and calibration remain important.",
+    "ref": "E14-2607-044"
+  },
+  {
+    "id": "JUL26-24",
+    "question": "Which quantum-computing statement is scientifically sound?",
+    "options": [
+      "All qubit platforms use identical temperatures.",
+      "Every quantum computer is faster on every task.",
+      "Entanglement sends usable messages faster than light.",
+      "Superposition does not allow simply reading every possible answer, and logical reliability differs from raw qubit count."
+    ],
+    "answer": 3,
+    "explanation": "Algorithm design, measurement, noise and error-correction overhead constrain useful capability. Avoid marketing claims based solely on physical-qubit totals.",
+    "ref": "E14-2607-048"
+  },
+  {
+    "id": "JUL26-25",
+    "question": "Which treatment of the Hero investment report is sound?",
+    "options": [
+      "The site must be the well-known Madanapalle town.",
+      "Separate the ₹750 crore parts centre from the wider ₹3,200 crore expansion announcement and verify overlap.",
+      "Both sums prove completed July expenditure.",
+      "Projected jobs are already verified permanent employment."
+    ],
+    "answer": 1,
+    "explanation": "The report locates this Madanapalle in Satyavedu mandal, Tirupati. Foundation, expansion intent, commercial operation and realised jobs are distinct.",
+    "ref": "E14-2607-052"
+  },
+  {
+    "id": "JUL26-26",
+    "question": "The reported Union Bank SHG decision in AP is best described as what?",
+    "options": [
+      "A processing/inspection fee waiver, not principal or all-interest cancellation",
+      "Cancellation of every woman’s debt at every bank",
+      "A waiver applying only to corporate bonds",
+      "A universal interest-free loan statute"
+    ],
+    "answer": 0,
+    "explanation": "The Telugu report concerns specified SHG charges. The original bank circular and headline savings assumptions were not independently reconciled.",
+    "ref": "E14-2607-053"
+  },
+  {
+    "id": "JUL26-27",
+    "question": "What caution is necessary about the 412 tribal Aadhaar centres report?",
+    "options": [
+      "The headline says cancellation, while quoted officials describe temporary suspension pending correction.",
+      "All allegations were finally proved in court.",
+      "Every beneficiary’s Aadhaar was permanently cancelled.",
+      "Aadhaar conclusively establishes citizenship."
+    ],
+    "answer": 0,
+    "explanation": "Original UIDAI orders were not read. Agency compliance action must be distinguished from resident identity validity and legal guilt.",
+    "ref": "E14-2607-054"
+  },
+  {
+    "id": "JUL26-28",
+    "question": "Which accurately describes the reported NiVU rollout?",
+    "options": [
+      "A mandatory downloaded app for every visitor",
+      "Proof every generated historical answer is correct",
+      "A phased three-year Explurger partnership, with 30 sites in the first year and over 100 planned",
+      "A completed rollout at every AP destination"
+    ],
+    "answer": 2,
+    "explanation": "The report describes QR-based voice/text access and Mangalagiri pilots. A target is not completion and AI output needs curation and privacy safeguards.",
+    "ref": "E14-2607-057"
+  },
+  {
+    "id": "JUL26-29",
+    "question": "AP’s 5.39% headline CPI and 8.18% food inflation in the 13 July release refer to which period?",
+    "options": [
+      "June 2026 year-on-year, provisional",
+      "July 2026 month-on-month, final",
+      "The CPI index level itself",
+      "An annual GDP growth rate"
+    ],
+    "answer": 0,
+    "explanation": "The primary release uses 2024=100. Publication month, reference month, rate and index level must remain distinct.",
+    "ref": "E14-2607-059"
+  },
+  {
+    "id": "JUL26-30",
+    "question": "What is the correct interpretation of the 15% skill-guarantee figure?",
+    "options": [
+      "The only guarantee percentage for every borrower",
+      "A promise that 15% of every course fee is a grant",
+      "An automatic borrower interest subsidy",
+      "An aggregate relevant-year claim payout cap, not individual default cover"
+    ],
+    "answer": 3,
+    "explanation": "PRS describes individual cover 75% up to ₹4 lakh and 70% above ₹4 lakh to ₹7.5 lakh. Portfolio ceiling, individual guarantee and borrower repayment are different.",
+    "ref": "E14-2607-065"
+  }
+]

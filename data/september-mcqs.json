@@ -1,0 +1,392 @@
+[
+  {
+    "id": "SEP-01",
+    "question": "Which current-account statement is correct?",
+    "options": [
+      "Financial-account inflows are services exports.",
+      "A goods deficit necessarily equals a current-account deficit.",
+      "A goods deficit can coexist with a current-account surplus.",
+      "A quarterly balance establishes the full-year balance."
+    ],
+    "answer": 2,
+    "explanation": "The current account includes goods, services, income and transfers; it differs from financial flows. Compare like quarters and underlying flows, not a Q4 surplus mechanically against a Q1 deficit. Caution: Release month, reference quarter and revised vintage differ; one quarter does not establish the full-year balance.",
+    "ref": "E6-2509-001"
+  },
+  {
+    "id": "SEP-02",
+    "question": "The September GST restructuring should be described as:",
+    "options": [
+      "Immediate uniform 40% treatment for all tobacco on 22 September.",
+      "Two main slabs with a special demerit rate and phased exceptions.",
+      "Exactly two rates for every supply.",
+      "Abolition of all exemptions."
+    ],
+    "answer": 1,
+    "explanation": "Council recommendations, operative notifications and product classifications are different legal layers. Simplification can reduce friction while affecting state revenue and credit chains. Caution: Do not say every product has only 5%/18%, or all tobacco rates changed on 22 September.",
+    "ref": "E6-2509-002"
+  },
+  {
+    "id": "SEP-03",
+    "question": "An insurance GST exemption necessarily means:",
+    "options": [
+      "Every premium falls by exactly the former tax rate.",
+      "Every insurer retains all input credits unchanged.",
+      "All group policies automatically receive identical treatment.",
+      "Neither universal input-credit retention nor an identical premium reduction."
+    ],
+    "answer": 3,
+    "explanation": "Exempt output can retain embedded input costs; zero rating is a different tax concept. Compare actual premiums and coverage, not assume an identical percentage fall for every policy. Caution: Do not generalise individual-policy relief to every group policy or assume exemption preserves every input credit.",
+    "ref": "E6-2509-003"
+  },
+  {
+    "id": "SEP-04",
+    "question": "MPO and MPS differ because they concern:",
+    "options": [
+      "Initial offer requirements and ongoing public shareholding respectively.",
+      "Retail quotas and guaranteed dividends.",
+      "Monetary policy and pension savings.",
+      "Only foreign-investor registration."
+    ],
+    "answer": 0,
+    "explanation": "An omnibus approval covers defined repetitive transactions, not unlimited immunity from conflict rules. Flexibility can improve large-issuer access if liquidity and minority safeguards remain credible. Caution: Do not confuse public float with the retail-investor quota or give every issuer the longest timeline.",
+    "ref": "E6-2509-004"
+  },
+  {
+    "id": "SEP-05",
+    "question": "SWAGAT-FI primarily concerns:",
+    "options": [
+      "Universal access for every foreign retail investor.",
+      "Unified registration for eligible trusted foreign-investor categories.",
+      "An exemption from all beneficial-ownership checks.",
+      "Guaranteed investment returns for sovereign funds."
+    ],
+    "answer": 1,
+    "explanation": "Simpler registration does not abolish beneficial-ownership checks or all investment limits. Risk differentiation can reduce friction if eligibility remains defensible. Caution: Do not extend the route automatically to every foreign retail investor or claim rollout was complete immediately.",
+    "ref": "E6-2509-005"
+  },
+  {
+    "id": "SEP-06",
+    "question": "September’s Waqf interim decision was:",
+    "options": [
+      "Final unconditional constitutional approval.",
+      "A repeal by the Court of all property law.",
+      "Final invalidation of the whole Act.",
+      "Selective interim relief rather than a whole-Act stay."
+    ],
+    "answer": 3,
+    "explanation": "Interim protection differs from final invalidation; judicial recommendations and mandatory directions differ. Follow January scrutiny, April enactment and July rules into September litigation. Caution: Do not say the whole Act was stayed, finally upheld, or all membership rules wholly suspended.",
+    "ref": "E6-2509-006"
+  },
+  {
+    "id": "SEP-07",
+    "question": "In the Bihar SIR context Aadhaar was accepted as:",
+    "options": [
+      "An identity document, not proof of citizenship.",
+      "Conclusive citizenship evidence.",
+      "An unconditional right to vote in any state.",
+      "A substitute for every electoral eligibility condition."
+    ],
+    "answer": 0,
+    "explanation": "Citizenship, identity and inclusion in a particular electoral roll are distinct legal questions. Accessible documents reduce exclusion only when verification and appeals are fair. Caution: Do not call Aadhaar proof of Indian citizenship or an unconditional voting entitlement.",
+    "ref": "E6-2509-007"
+  },
+  {
+    "id": "SEP-08",
+    "question": "Publication of draft OSH rules establishes:",
+    "options": [
+      "Universal compliance by all workplaces.",
+      "A consultation stage distinct from commencement and enforcement.",
+      "Immediate operation of every proposed rule.",
+      "Automatic repeal of the parent Code."
+    ],
+    "answer": 1,
+    "explanation": "A parent Code, draft rules, commencement and enforcement capacity are separate layers. Sectoral hazards need worker participation and functioning inspections. Caution: Consultation is not proof every proposed obligation was already operative in September.",
+    "ref": "E6-2509-008"
+  },
+  {
+    "id": "SEP-09",
+    "question": "A draft green-zone drone provision should not be read as:",
+    "options": [
+      "Part of an aviation safety framework.",
+      "A proposal requiring legal-stage tracking.",
+      "A waiver of every registration and safety duty.",
+      "A differentiated airspace-permission approach."
+    ],
+    "answer": 2,
+    "explanation": "Ownership, airspace permission and operator training address different risks. Proportionate rules can enable agriculture/logistics without ignoring privacy and aviation safety. Caution: Draft green-zone treatment is not blanket exemption from all safety duties or enacted replacement law.",
+    "ref": "E6-2509-009"
+  },
+  {
+    "id": "SEP-10",
+    "question": "Maritime finance approval is best distinguished from:",
+    "options": [
+      "An industrial-policy input.",
+      "A source of patient finance.",
+      "A framework potentially supporting clusters.",
+      "Ships already delivered and verified jobs already created."
+    ],
+    "answer": 3,
+    "explanation": "Gross tonnage capacity, ships delivered and jobs created are different measures. Patient finance also needs design skills, suppliers, orders and credible contracts. Caution: Do not treat investment/job expectations as achieved outcomes or double-count fund components.",
+    "ref": "E6-2509-010"
+  },
+  {
+    "id": "SEP-11",
+    "question": "The telecom identity draft envisaged:",
+    "options": [
+      "Specified alternative digital KYC alongside Aadhaar authentication.",
+      "No alternative route under any condition.",
+      "No biometric checks at all.",
+      "A final enacted repeal of all KYC."
+    ],
+    "answer": 0,
+    "explanation": "Identity collection creates retention, access and security risks as well as fraud-control benefits. Purpose limitation and accessible corrections should accompany stronger checks. Caution: Do not label a draft final law or say there is no alternative to Aadhaar authentication.",
+    "ref": "E6-2509-011"
+  },
+  {
+    "id": "SEP-12",
+    "question": "The cross-state interception route involves:",
+    "options": [
+      "An exemption from all recorded reasons.",
+      "The same procedure as routine SIM registration.",
+      "Unlimited power for any officer nationwide.",
+      "A specified state request and Union-level competent authority."
+    ],
+    "answer": 3,
+    "explanation": "Competent authority, lawful grounds, procedure and review must be read together. Coordination should preserve necessary and proportionate use with accountable records. Caution: Do not infer that any officer gained unlimited national interception authority.",
+    "ref": "E6-2509-012"
+  },
+  {
+    "id": "SEP-13",
+    "question": "Geothermal policy covers:",
+    "options": [
+      "Direct heat uses as well as potential electricity generation.",
+      "Only solar photovoltaic panels.",
+      "Only offshore wind farms.",
+      "Only a universal household cash payment."
+    ],
+    "answer": 0,
+    "explanation": "Geothermal uses subsurface heat and need not generate electricity in every application. Drilling risk, fluid chemistry and ecology shape viability. Caution: Policy notification does not establish commissioned plants or universal subsidy entitlement.",
+    "ref": "E6-2509-013"
+  },
+  {
+    "id": "SEP-14",
+    "question": "September storage changes should be linked to June by:",
+    "options": [
+      "Assuming every battery uses only renewable electricity.",
+      "Distinguishing final amendments from the earlier draft.",
+      "Assuming every June proposal survived unchanged.",
+      "Treating storage as a primary energy source."
+    ],
+    "answer": 1,
+    "explanation": "Storage shifts electricity across time; it is not a primary energy source or necessarily renewable-fed. Wider participation helps flexibility with clear pricing and grid obligations. Caution: Do not infer a free battery entitlement or exemption from connectivity and safety requirements.",
+    "ref": "E6-2509-014"
+  },
+  {
+    "id": "SEP-15",
+    "question": "The ISI Bill consultation should be analysed through:",
+    "options": [
+      "An assumption the old Act was already replaced.",
+      "A guarantee governance changes alone improve research.",
+      "Academic autonomy and accountable public governance.",
+      "A claim all proposed appointments occurred."
+    ],
+    "answer": 2,
+    "explanation": "Public finance and professional statistical independence require distinct accountability arrangements. Assess transparent appointments, academic quality and autonomy safeguards. Caution: Consultation is not an already replaced Act or proof appointments occurred.",
+    "ref": "E6-2509-015"
+  },
+  {
+    "id": "SEP-16",
+    "question": "The medical-seat approval targets:",
+    "options": [
+      "Future capacity requiring faculty, permissions and clinical facilities.",
+      "An equal fixed allocation to every state.",
+      "Guaranteed doctor deployment in every village.",
+      "All seats already functioning in September."
+    ],
+    "answer": 0,
+    "explanation": "Approved seats, permitted intake, enrolled trainees and practising doctors are different stages. Faculty, clinical exposure and deployment determine access benefits. Caution: Future targets are not all operational September admissions.",
+    "ref": "E6-2509-016"
+  },
+  {
+    "id": "SEP-17",
+    "question": "Anganwadi–school convergence includes:",
+    "options": [
+      "Compulsory physical relocation of every centre.",
+      "Transfer of all child-care responsibility to parents.",
+      "Physical co-location and mapping to a nearby school as distinct models.",
+      "Replacement of nutrition duties by exams."
+    ],
+    "answer": 2,
+    "explanation": "Co-location does not erase nutrition, care or early-childhood developmental duties. Shared facilities help with age-appropriate pedagogy and adequate staff. Caution: Do not say every centre must move physically or schooling replaces all ICDS functions.",
+    "ref": "E6-2509-017"
+  },
+  {
+    "id": "SEP-18",
+    "question": "Critical-mineral recycling policy must distinguish:",
+    "options": [
+      "Incentive approval and instant self-sufficiency as identical.",
+      "All handlers as automatically eligible.",
+      "Collection, recovery and refining.",
+      "Collection and refining as identical activities."
+    ],
+    "answer": 2,
+    "explanation": "Collection, dismantling, recovery and refining are different value-chain steps. Safe processing and demand for recovered materials determine benefits. Caution: Do not infer grants for unregistered handlers or instant mineral self-sufficiency.",
+    "ref": "E6-2509-018"
+  },
+  {
+    "id": "SEP-19",
+    "question": "An investment treaty differs from a goods FTA because:",
+    "options": [
+      "Every investment treaty removes all import duties.",
+      "Signature guarantees realised investment.",
+      "It insures every investor against all commercial losses.",
+      "Investment protection is distinct from tariff concessions."
+    ],
+    "answer": 3,
+    "explanation": "An investment agreement and a goods FTA are distinct instruments. Predictability should coexist with legitimate public regulation. Caution: Do not describe this as a completed goods FTA or insurance against all commercial loss.",
+    "ref": "E6-2509-019"
+  },
+  {
+    "id": "SEP-20",
+    "question": "Organic mutual recognition means:",
+    "options": [
+      "Universal exemption from food-safety rules.",
+      "Recognition within a defined certification and product scope.",
+      "Automatic coverage of all excluded categories.",
+      "Zero tariffs on every product."
+    ],
+    "answer": 1,
+    "explanation": "Mutual recognition reduces repeated certification, not all food-safety/import duties. Traceability and applicable schedules determine exporter benefits. Caution: Do not equate recognition with universal zero tariffs or every organic-labelled product.",
+    "ref": "E6-2509-020"
+  },
+  {
+    "id": "SEP-21",
+    "question": "Affidavit analysis of criminal cases identifies:",
+    "options": [
+      "Automatic disqualification in every case.",
+      "A judicial verdict on every candidate.",
+      "Declared allegations/cases, not necessarily convictions.",
+      "Only finally convicted persons."
+    ],
+    "answer": 2,
+    "explanation": "Integrity objectives do not make every accused person guilty or every prosecution politically neutral. Fair timely trials and transparent party decisions complement voter information. Caution: Do not label case percentages as convicted-minister percentages or quote undated denominators.",
+    "ref": "E6-2509-021"
+  },
+  {
+    "id": "SEP-22",
+    "question": "Judicial pendency is best assessed with:",
+    "options": [
+      "Disposals alone as proof of fair justice.",
+      "Dated stocks, incoming cases, disposals and age profiles.",
+      "A timeless single count.",
+      "Unverified percentages without denominators."
+    ],
+    "answer": 1,
+    "explanation": "A disposal ratio does not prove old cases declined or fair access improved. Prioritise vulnerable litigants and improve government litigation practices. Caution: Do not treat an undated count as current or speed as a substitute for due process.",
+    "ref": "E6-2509-022"
+  },
+  {
+    "id": "SEP-23",
+    "question": "The Biofoundry Network chronology is:",
+    "options": [
+      "September launch merely because of issue date.",
+      "August launch followed by September magazine coverage.",
+      "India’s first-ever biotechnology policy.",
+      "Proof every facility was commercially profitable at launch."
+    ],
+    "answer": 1,
+    "explanation": "Laboratory feasibility, manufacturing scale and commercial demand are different tests. Infrastructure needs biosafety, quality, trained staff and usable access rules. Caution: Coverage month is not launch date; a network announcement does not prove commercial success.",
+    "ref": "E6-2509-023"
+  },
+  {
+    "id": "SEP-24",
+    "question": "A specified EIA consultation exemption implies:",
+    "options": [
+      "Automatic exemption from all environmental law.",
+      "No need for any project-specific assessment.",
+      "Other appraisal and applicable legal duties remain distinct.",
+      "Automatic clearance for every mineral project."
+    ],
+    "answer": 2,
+    "explanation": "EIA stages, forest/community rights and other permissions are distinct legal obligations. Strategic security should not erase local ecological evidence. Caution: Do not call strategic status an automatic waiver of all environmental/community duties.",
+    "ref": "E6-2509-024"
+  },
+  {
+    "id": "SEP-25",
+    "question": "Disaster-risk allocation should consider:",
+    "options": [
+      "Only population totals.",
+      "A composite index as a perfect loss forecast.",
+      "Hazard, exposure and vulnerability.",
+      "Only past spending, irrespective of risk."
+    ],
+    "answer": 2,
+    "explanation": "An index is an allocation tool, not a physical prediction of all future losses. Hill and AP coastal risks differ, but both need local vulnerability evidence. Caution: A request to revise an index is not an adopted Finance Commission formula.",
+    "ref": "E6-2509-025"
+  },
+  {
+    "id": "SEP-26",
+    "question": "Nepal’s interim transition must be distinguished from:",
+    "options": [
+      "A historical political development.",
+      "A subject of neighbourhood-policy analysis.",
+      "A context for civic-participation debate.",
+      "A completed later election or permanent constitutional settlement."
+    ],
+    "answer": 3,
+    "explanation": "Digital mobilisation does not automatically represent every citizen or resolve constitutional continuity. Neighbourhood policy should respect sovereignty and practical people-to-people ties. Caution: Do not call a transition announcement a completed permanent constitutional settlement.",
+    "ref": "E6-2509-026"
+  },
+  {
+    "id": "SEP-27",
+    "question": "PWDVA remedies can address:",
+    "options": [
+      "Only physical injury.",
+      "Guaranteed final disposal within sixty days in every case.",
+      "Economic and emotional abuse as well as physical injury.",
+      "Automatic ownership transfer in every residence claim."
+    ],
+    "answer": 2,
+    "explanation": "Residence protection is not automatically a transfer of ownership; case-specific scope matters. Rights require safe reporting, shelter and enforceable orders. Caution: Enactment and commencement anniversaries differ; an allegation does not automatically establish every legal element.",
+    "ref": "E6-2509-027"
+  },
+  {
+    "id": "SEP-28",
+    "question": "Naoroji was associated with:",
+    "options": [
+      "The 1925 launch of Self-Respect.",
+      "A claim every modern external payment is colonial drain.",
+      "Chairmanship of the Welby Commission.",
+      "Drain theory and membership of the Welby Commission."
+    ],
+    "answer": 3,
+    "explanation": "The drain critique concerned colonial political/fiscal relations, not every modern international payment. Connect economic nationalism with critical use of fiscal evidence. Caution: Do not equate the drain theory with every current-account deficit or misattribute commission chairmanship.",
+    "ref": "E6-2509-028"
+  },
+  {
+    "id": "SEP-29",
+    "question": "AP’s hybrid health approval proves:",
+    "options": [
+      "Every citizen already had an issued policy.",
+      "A policy/procurement milestone, not universal active cover.",
+      "A verified universal ₹25 lakh entitlement from the cited excerpt.",
+      "All hospitals had already settled claims."
+    ],
+    "answer": 1,
+    "explanation": "Approval, procurement, issuance, hospital access and settled claims are separate milestones. Use the operative GO/RFP/policy for entitlements, exclusions and provider payments. Caution: A Cabinet headline does not prove every citizen already had active insurance.",
+    "ref": "E6-2509-031"
+  },
+  {
+    "id": "SEP-30",
+    "question": "Approval of ten AP medical PPP projects should be evaluated through:",
+    "options": [
+      "An assumption every PPP is outright asset sale.",
+      "An automatic guarantee every service is free.",
+      "Contracts, permissions, fees and service obligations.",
+      "Assumed immediate intake at ten finished colleges."
+    ],
+    "answer": 2,
+    "explanation": "A PPP allocates contractual risks; it is not automatically proof of outright sale or universally free service. Assess fees, seat allocation, faculty and enforceable service obligations. Caution: Ten approved projects are not ten fully staffed colleges already admitting students.",
+    "ref": "E6-2509-032"
+  }
+]

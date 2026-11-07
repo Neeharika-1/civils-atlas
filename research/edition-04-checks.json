@@ -1,0 +1,60 @@
+{
+  "edition": "04",
+  "checked_on": "2026-11-06",
+  "notes": 332,
+  "references": 251,
+  "monthly_notes": {
+    "2025-01": 83,
+    "2025-02": 80,
+    "2025-03": 58,
+    "2025-04": 49,
+    "2025-05": 42
+  },
+  "new_jan_april_magazine_notes": 46,
+  "new_may_notes": 41,
+  "may_magazine_notes": 16,
+  "total_magazine_assisted_notes": 62,
+  "mcqs": 150,
+  "mains_frameworks": 40,
+  "checks": {
+    "schema_and_references": "PASS",
+    "jsdom_five_month_filters_practice_links_search_bookmarks_priorities": "PASS",
+    "pdf_all_expected_note_ids_present": "PASS",
+    "selected_may_magazine_body_visual_check": "PASS; legible labels/spacing, no headline orphan on inspected page",
+    "http_app_may_pdf_audit": "PASS: HTTP 200"
+  },
+  "documents": {
+    "April-2025-Study-Volume.pdf": {
+      "pages": 66,
+      "notes": 49,
+      "missing_note_ids": []
+    },
+    "February-2025-Study-Volume.pdf": {
+      "pages": 83,
+      "notes": 80,
+      "missing_note_ids": []
+    },
+    "January-2025-Study-Volume.pdf": {
+      "pages": 84,
+      "notes": 83,
+      "missing_note_ids": []
+    },
+    "March-2025-Study-Volume.pdf": {
+      "pages": 74,
+      "notes": 58,
+      "missing_note_ids": []
+    },
+    "May-2025-Study-Volume.pdf": {
+      "pages": 49,
+      "notes": 42,
+      "missing_note_ids": []
+    }
+  },
+  "limitations": [
+    "Structural checks are not factual certification",
+    "Selected magazine passages, not complete magazine reconciliation",
+    "All daily source audits open",
+    "18 later periods need substantial chronological backfill",
+    "Daily discovery scheduler inactive"
+  ]
+}

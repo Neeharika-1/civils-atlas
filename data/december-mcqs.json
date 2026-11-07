@@ -1,0 +1,392 @@
+[
+  {
+    "id": "DEC-01",
+    "question": "December’s move from 5.5% to 5.25% is:",
+    "options": [
+      "A 2.5-percentage-point cut.",
+      "A 25-basis-point cut.",
+      "A 25% rate cut.",
+      "A measured full-year GDP outcome."
+    ],
+    "answer": 1,
+    "explanation": "A forecast revision is not a statistical outturn; rate and stance convey different information. Follow February, April, June, August and October before this next step. Caution: Do not describe a 0.25 percentage-point move as a 25% cut or 7.3% as measured annual GDP growth.",
+    "ref": "E7-2512-001"
+  },
+  {
+    "id": "DEC-02",
+    "question": "The later Q1 current-account comparator requires:",
+    "options": [
+      "Preserving release vintages and identifying the revision.",
+      "Silently presenting both estimates as final simultaneously.",
+      "Treating publication month as the reference quarter.",
+      "Calling a deficit a merchandise surplus."
+    ],
+    "answer": 0,
+    "explanation": "Revision vintage, reference quarter and publication month must be recorded separately. Net services and transfers can cushion a goods deficit. Caution: A lower year-on-year Q2 deficit does not mean no goods deficit or that the initial Q1 estimate was the final figure.",
+    "ref": "E7-2512-002"
+  },
+  {
+    "id": "DEC-03",
+    "question": "IIP differs from GDP because:",
+    "options": [
+      "It measures all services directly.",
+      "It is identical to nominal GDP.",
+      "Its growth equals every sector’s growth.",
+      "It is a covered-industries production index, not whole-economy value added."
+    ],
+    "answer": 3,
+    "explanation": "IIP measures production volume in covered industries; GDP/GVA are value-added concepts. Sector weights mean an aggregate need not mirror the weakest or strongest component. Caution: Do not call IIP growth GDP growth or infer every industrial sector expanded.",
+    "ref": "E7-2512-003"
+  },
+  {
+    "id": "DEC-04",
+    "question": "An NSC statutory-autonomy recommendation:",
+    "options": [
+      "Does not itself enact statutory autonomy.",
+      "Automatically creates a new Act.",
+      "Abolishes the need for transparent methods.",
+      "Immediately replaces ISI."
+    ],
+    "answer": 0,
+    "explanation": "A parliamentary recommendation differs from an enacted change in institutional powers. Transparent methods and revisions support trust more than suppressing inconvenient estimates. Caution: Do not say the report itself enacted a new NSC law or replaced every statistical agency.",
+    "ref": "E7-2512-004"
+  },
+  {
+    "id": "DEC-05",
+    "question": "SHANTI’s passage should be distinguished from:",
+    "options": [
+      "A framework concerning safety regulation.",
+      "Licensing and commissioning actual private nuclear plants.",
+      "A framework concerning liability.",
+      "A legislative milestone."
+    ],
+    "answer": 1,
+    "explanation": "Legislative passage, assent, commencement, licensing and plant commissioning are distinct milestones. Investment mobilisation needs independent safety capacity and transparent compensation arrangements. Caution: Do not describe unrestricted foreign operation or new private plants already commissioned from passage alone.",
+    "ref": "E7-2512-005"
+  },
+  {
+    "id": "DEC-06",
+    "question": "Removal of one supplier-recourse ground means:",
+    "options": [
+      "All nuclear safety obligations end.",
+      "Every contractual remedy is abolished.",
+      "Victims can never receive compensation.",
+      "Neither all operator liability nor all possible recourse necessarily disappears."
+    ],
+    "answer": 3,
+    "explanation": "Operator liability to victims and recovery from a supplier are different legal relationships. Assess incentives for quality, insurability and speed of compensation separately. Caution: Do not call the change an abolition of all operator liability or all possible supplier responsibility.",
+    "ref": "E7-2512-006"
+  },
+  {
+    "id": "DEC-07",
+    "question": "Under the reviewed Petroleum Rules:",
+    "options": [
+      "Geological storage needs no authorisation.",
+      "Every offshore lease is issued by any state.",
+      "Onshore and offshore granting jurisdictions differ.",
+      "A lease waives every environmental approval."
+    ],
+    "answer": 2,
+    "explanation": "A petroleum lease does not itself substitute for every environmental or safety approval. Shared infrastructure can lower costs but needs liability and access arrangements. Caution: Do not generalise offshore authority to state governments or call carbon storage automatically authorised everywhere.",
+    "ref": "E7-2512-007"
+  },
+  {
+    "id": "DEC-08",
+    "question": "A VPPA is principally:",
+    "options": [
+      "A guarantee price risk disappears.",
+      "A private-wire electricity exchange by definition.",
+      "A freely transferable ordinary spot commodity.",
+      "A financial contract with renewable-attribute transfer, not physical supply between its parties."
+    ],
+    "answer": 3,
+    "explanation": "A VPPA financially settles price differences while electricity is sold through permitted routes; it is not a private wire supply. Track renewable attributes to avoid double counting claims. Caution: Do not say the two parties physically exchange the contracted electricity or can freely trade the VPPA.",
+    "ref": "E7-2512-008"
+  },
+  {
+    "id": "DEC-09",
+    "question": "Solar module assembly is not identical to:",
+    "options": [
+      "A potential value-chain stage.",
+      "An industrial activity.",
+      "An area for policy evaluation.",
+      "Domestic upstream polysilicon, ingot and wafer capability."
+    ],
+    "answer": 3,
+    "explanation": "Module assembly, upstream manufacturing and reliable delivered energy are distinct capabilities. Installed capacity alone does not show domestic value addition or round-the-clock supply. Caution: Do not treat a proposed PLI expansion as already notified or every nameplate MW as constant output.",
+    "ref": "E7-2512-009"
+  },
+  {
+    "id": "DEC-10",
+    "question": "Electrification audit success requires more than:",
+    "options": [
+      "Counting connections without service-quality checks.",
+      "Inspection follow-through.",
+      "Verified beneficiary lists.",
+      "Sound field surveys."
+    ],
+    "answer": 0,
+    "explanation": "Sanctioned expenditure, expenditure incurred, connections and reliable electricity service are separate measures. Verify beneficiary lists before funding and inspect defects through closure. Caution: A connection count does not guarantee reliable, affordable supply or certify all legacy targets were met.",
+    "ref": "E7-2512-010"
+  },
+  {
+    "id": "DEC-11",
+    "question": "The reviewed 125-day rural guarantee is:",
+    "options": [
+      "Funded without any state role.",
+      "Already paid to everyone upon passage.",
+      "Per rural household, not an automatic individual salary.",
+      "Per person regardless of work demand."
+    ],
+    "answer": 2,
+    "explanation": "A household guarantee is not an individual guaranteed salary; law, budgets, work demand and actual payments differ. Compare expanded days with state fiscal exposure and enforceability. Caution: Do not say 125 days were automatically worked/paid by every rural person immediately upon passage.",
+    "ref": "E7-2512-011"
+  },
+  {
+    "id": "DEC-12",
+    "question": "A provision allowing a seasonal work pause means:",
+    "options": [
+      "Automatic subtraction of sixty from every entitlement.",
+      "An obligatory identical calendar everywhere.",
+      "No need to consider vulnerable households.",
+      "A defined scheduling power, not necessarily an identical nationwide pause."
+    ],
+    "answer": 3,
+    "explanation": "A seasonal pause differs from reducing the annual entitlement by precisely sixty days in every case. Scheduling should reflect local labour needs and protect vulnerable households. Caution: Do not assume a mandatory identical nationwide pause or that technology eliminates payment exclusion.",
+    "ref": "E7-2512-012"
+  },
+  {
+    "id": "DEC-13",
+    "question": "A committee proposal for broader Gram Sabha consent:",
+    "options": [
+      "Immediately changes every acquisition statute.",
+      "Makes rehabilitation readiness irrelevant.",
+      "Must not be represented as an enacted universal amendment.",
+      "Abolishes all public-infrastructure acquisition."
+    ],
+    "answer": 2,
+    "explanation": "The report’s recommendations must not be presented as fresh amendments already enacted. Meaningful participation requires understandable information and real rehabilitation readiness. Caution: Do not convert a committee proposal for all acquisitions into an existing universal statutory rule.",
+    "ref": "E7-2512-013"
+  },
+  {
+    "id": "DEC-14",
+    "question": "A 100% insurance FDI ceiling means:",
+    "options": [
+      "Universal automatic insurance.",
+      "Guaranteed lower claims rejection.",
+      "Permission, not proof every insurer is foreign-owned or every household covered.",
+      "Compulsory foreign takeover."
+    ],
+    "answer": 2,
+    "explanation": "Foreign ownership permission, capital inflows, product availability and effective household coverage differ. Competition needs sound solvency and accessible claims/complaint systems. Caution: Do not say every insurer became foreign-owned or every household automatically insured.",
+    "ref": "E7-2512-014"
+  },
+  {
+    "id": "DEC-15",
+    "question": "The Securities Markets Code’s December stage was:",
+    "options": [
+      "A final court ruling.",
+      "Introduction and committee referral.",
+      "Completed implementation and repeal of all predecessor Acts.",
+      "Automatic removal of intermediary registration."
+    ],
+    "answer": 1,
+    "explanation": "Consolidation can simplify a framework without resolving every regulatory-capacity problem. Clear recusal standards and accessible redress matter alongside structural changes. Caution: Do not claim the three Acts had already been repealed merely because the Code was introduced.",
+    "ref": "E7-2512-015"
+  },
+  {
+    "id": "DEC-16",
+    "question": "December tobacco excise and pan-masala cess changes:",
+    "options": [
+      "Need separate legal and commencement checks from GST.",
+      "Abolish every other tax.",
+      "Were one identical GST rate from September.",
+      "Can be added mechanically without tax-base checks."
+    ],
+    "answer": 0,
+    "explanation": "Excise, cess and GST have different legal bases and implementation instruments. Follow September’s deferred tobacco transition rather than claim an identical rate began then. Caution: Do not add headline percentages mechanically or backdate December legislation to all September supplies.",
+    "ref": "E7-2512-016"
+  },
+  {
+    "id": "DEC-17",
+    "question": "The suggested 51% IBC threshold was:",
+    "options": [
+      "The same as every shareholder vote.",
+      "A Select Committee recommendation, not operative law merely from the report.",
+      "A monetary-policy threshold.",
+      "Already universal upon publication of the report."
+    ],
+    "answer": 1,
+    "explanation": "A committee recommendation is not an operative amendment; creditor roles and statutory adjudication differ. Assess incentives to prefer liquidation for additional fees and guard commercial wisdom with due process. Caution: Do not apply the suggested 51% threshold as already binding solely on this report.",
+    "ref": "E7-2512-017"
+  },
+  {
+    "id": "DEC-18",
+    "question": "The VBSA proposal separates:",
+    "options": [
+      "Every function into one unchanged UGC office.",
+      "Funding and regulation as necessarily identical.",
+      "Higher-education regulation from institutional grant allocation.",
+      "Final enactment from no legislative process."
+    ],
+    "answer": 2,
+    "explanation": "Regulatory power and funding authority are different institutional tools. Assess autonomy, accountability and coordination between funders/regulators. Caution: Do not call the Bill enacted or assume every UGC function transfers unchanged to one new body.",
+    "ref": "E7-2512-018"
+  },
+  {
+    "id": "DEC-19",
+    "question": "The education-loan report should not be treated as:",
+    "options": [
+      "A committee recommendation.",
+      "An automatic universal debt waiver or operative moratorium change.",
+      "An access-to-finance discussion.",
+      "Evidence for further policy scrutiny."
+    ],
+    "answer": 1,
+    "explanation": "Loan sanction, interest subsidy, collateral rules and repayment moratorium are separate benefits. Assess information access, processing delay and graduate earnings risk. Caution: An education-loan committee report does not automatically waive debt or guarantee admission/funding.",
+    "ref": "E7-2512-019"
+  },
+  {
+    "id": "DEC-20",
+    "question": "A Russia urea-project MoU is:",
+    "options": [
+      "Proof all fertiliser dependence ended.",
+      "A completed project by definition.",
+      "A cooperation milestone, not a factory already producing.",
+      "An unconditional worker-placement guarantee."
+    ],
+    "answer": 2,
+    "explanation": "An MoU, investment decision, operating factory and actual worker placement are different milestones. Strategic autonomy requires evaluating interests and constraints across partnerships. Caution: A bilateral summit does not prove all announced projects were implemented immediately.",
+    "ref": "E7-2512-020"
+  },
+  {
+    "id": "DEC-21",
+    "question": "Tariff-line share differs from import-value share because:",
+    "options": [
+      "They are always numerically identical.",
+      "Tariff lines measure only persons.",
+      "Product classifications and actual trade values have different denominators.",
+      "Import value is the number of chapters in a treaty."
+    ],
+    "answer": 2,
+    "explanation": "A tariff line is a product classification; its count is not the same as its share of actual trade value. Benefits depend on entry into force, schedules, origin rules and non-tariff conditions. Caution: Do not equate 78% of lines with 78% of import value or signature with immediate universal duty-free trade.",
+    "ref": "E7-2512-021"
+  },
+  {
+    "id": "DEC-22",
+    "question": "The primary India–NZ conclusion announcement is dated:",
+    "options": [
+      "18 December solely because of the PRS reference label.",
+      "The date of automatic entry into force.",
+      "22 December 2025.",
+      "1 October 2025."
+    ],
+    "answer": 2,
+    "explanation": "Conclusion, signature, ratification/commencement and realised trade are separate stages. The primary release’s tariff-line share corrects the review’s imprecise 95% export phrasing. Caution: Do not call the investment already received or all Indian sensitive products opened without exceptions.",
+    "ref": "E7-2512-022"
+  },
+  {
+    "id": "DEC-23",
+    "question": "December Labour Code draft rules:",
+    "options": [
+      "Prove the Codes never commenced.",
+      "Are final nationwide detail at consultation launch.",
+      "Remove the role of state applicability.",
+      "Do not become final merely because the parent Codes commenced in November."
+    ],
+    "answer": 3,
+    "explanation": "Code commencement in November does not make every December draft clause final. Compare parent-law protections with the mechanisms needed for enforcement. Caution: Do not describe a draft as nationwide operative detail or assume all daily hours were finalised uniformly.",
+    "ref": "E7-2512-023"
+  },
+  {
+    "id": "DEC-24",
+    "question": "Draft gig-worker thresholds establish:",
+    "options": [
+      "Final implementation of every scheme.",
+      "No need for enrolment.",
+      "Universal PF payment to every platform user.",
+      "Proposed eligibility conditions, not proof benefits were paid."
+    ],
+    "answer": 3,
+    "explanation": "Meeting a draft engagement threshold differs from enrolment in a functioning benefit scheme. Portability needs credible platform records, accessible corrections and financing. Caution: The 90/120-day proposals are not proof of universal automatic benefits already delivered in December.",
+    "ref": "E7-2512-024"
+  },
+  {
+    "id": "DEC-25",
+    "question": "The PMKVY placement ratio requires:",
+    "options": [
+      "Applying it to every phase and every trainee automatically.",
+      "Assuming every placement was sustained high-paid work.",
+      "Its component and audit-period denominator.",
+      "Reading it as the national unemployment rate."
+    ],
+    "answer": 2,
+    "explanation": "The denominator excludes some components; a placement ratio does not necessarily establish sustained employment or adequate pay. Align training with district demand and verify retention, wages and employer feedback. Caution: The reported 41% is component- and audit-period-specific, not an all-time unemployment rate.",
+    "ref": "E7-2512-025"
+  },
+  {
+    "id": "DEC-26",
+    "question": "Withdrawal of mandatory app pre-installation:",
+    "options": [
+      "Removes all privacy questions.",
+      "Makes the withdrawn mandate permanently operative.",
+      "Does not necessarily abolish the underlying service.",
+      "Proves every installation is compulsory."
+    ],
+    "answer": 2,
+    "explanation": "The existence of a service does not prove every installation is mandatory, and withdrawal must be reflected in chronology. Evaluate lawful purpose, necessity, alternatives and independent redress. Caution: A withdrawn mandate is not an ongoing compulsory-installation rule.",
+    "ref": "E7-2512-027"
+  },
+  {
+    "id": "DEC-27",
+    "question": "PESA principally concerns:",
+    "options": [
+      "Only Sixth Schedule councils.",
+      "An identical absolute veto in every consultation provision.",
+      "Fifth Schedule Areas with Part IX modifications.",
+      "Every square kilometre of AP uniformly."
+    ],
+    "answer": 2,
+    "explanation": "Fifth Schedule PESA and Sixth Schedule autonomous councils are not interchangeable. AP application needs state rules, actual devolution and alignment with land/mineral/forest law. Caution: Do not apply PESA uniformly to all AP territory or replace every consultation duty with an identical absolute veto.",
+    "ref": "E7-2512-028"
+  },
+  {
+    "id": "DEC-28",
+    "question": "Groundwater stage of extraction uses:",
+    "options": [
+      "Extraction divided by annual extractable resources.",
+      "Extraction divided by total recharge in all cases.",
+      "Rainfall divided by population.",
+      "National average as proof every block is safe."
+    ],
+    "answer": 0,
+    "explanation": "Stage of extraction uses annual extraction divided by annual extractable resources, not total recharge. A national average below 100% does not establish every block is safe or water is uncontaminated. Caution: Do not use total recharge as the ratio denominator or treat all assessed aquifers as equally sustainable.",
+    "ref": "E7-2512-030"
+  },
+  {
+    "id": "DEC-29",
+    "question": "Deepavali’s UNESCO recognition is:",
+    "options": [
+      "An exemption from environmental rules.",
+      "A physical World Heritage site by definition.",
+      "Ownership monopoly over every celebration.",
+      "Living heritage on the Representative List, not a new World Heritage monument."
+    ],
+    "answer": 3,
+    "explanation": "The 2003 living-heritage framework differs from the 1972 World Heritage sites convention. Safeguarding supports communities and evolving practice rather than freezing one authorised form. Caution: Do not describe the inscription as a newly designated physical World Heritage site or ownership monopoly.",
+    "ref": "E7-2512-034"
+  },
+  {
+    "id": "DEC-30",
+    "question": "The final reported AP arrangement adds:",
+    "options": [
+      "Only a new revenue division with no districts.",
+      "Three districts taking the total to twenty-nine.",
+      "A separate third district solely from a headquarters shift.",
+      "Markapuram and Polavaram; Madanapalle becomes Annamayya headquarters."
+    ],
+    "answer": 3,
+    "explanation": "A headquarters shift, new revenue division and new district are different administrative actions. Distinguish November proposals from the final December account. Caution: Do not repeat the earlier three-new-districts/29-total proposal as the final arrangement.",
+    "ref": "E7-2512-035"
+  }
+]

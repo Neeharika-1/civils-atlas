@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "notes": 965,
+  "expanded_months": 19,
+  "quizzes": 19,
+  "journeys": 18,
+  "javascript_errors": [],
+  "checks": [
+    "month filters",
+    "all archive",
+    "duplicate CETA check",
+    "quiz/volume links",
+    "bookmarks",
+    "priority/AP/search",
+    "18 journeys",
+    "cross-month note navigation",
+    "related-note navigation",
+    "quick buttons",
+    "23 month ledger",
+    "Talliki exception visibility",
+    "magazine date labels",
+    "relative links"
+  ]
+}

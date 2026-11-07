@@ -1,0 +1,26 @@
+{
+  "new_notes": 61,
+  "coverage": "61new June-indexed selected notes plus inherited CETAseed; not complete month",
+  "vision": "OfficialJuneissueconfirmed at31Julyposting; one public reader article found; full download requires authentication; not a completeissueinventory",
+  "alternative": "PublicDrishtiJunecompilation25May–24June;selected passages only,128pages retrieved not all read",
+  "independent": "PRSall6chunks; selected officialGDP,MPC,BOP,tax,FEMA,RBIconsumer,IBBI,coal,DFPD,NAS,DISHA,ATF,PIBcapitalprojects,WHO,ATLAS; APPTIbody",
+  "important_corrections": [
+    "RBIJuneconsumerdirections effective1Jan2027; compensationone-yearlosswindow/lifetimelimit preserved",
+    "MPC5Junedecision/19Juneminutes",
+    "BOPsecondary+41.3,primary−11.1,grosspersonal43.5;donotusePRS30.1",
+    "NFSA7kgpersonmax35household;draftnotlaw;badPRSfootnoteexcluded",
+    "IIP1Junelaunch/29JunePPI;GDP5Junerelease",
+    "Coal/IBBIpublicationcommencementdistinctfromsignature/upload",
+    "APtransplantlaw1994original/2011amendment;ordinanceunread",
+    "APPolavaram796/797amountnotreconciled;exactfigurewithheld",
+    "WHOJuneupdate/17MayPHEIC;ATLASJunepublication/2025collisions"
+  ],
+  "open": [
+    "CompleteVisionJuneissueandmissingarticles",
+    "DrishtiNFHSprimaryverification,Mayoverlap,eventdateaudit",
+    "FCRAfullGazette,medical/drugdrafts,finalminingprocedure",
+    "APGOs,DPRs,transplantordinance,employmenttransition,companyfilings",
+    "InheritedCETAseednotrevalidated",
+    "All23monthlysourceauditsanddailyreconciliation"
+  ]
+}

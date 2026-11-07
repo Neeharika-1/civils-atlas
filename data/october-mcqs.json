@@ -1,0 +1,392 @@
+[
+  {
+    "id": "OCT-01",
+    "question": "October MPC policy combined:",
+    "options": [
+      "A guarantee the next decision would be a cut.",
+      "A 5.5% repo rate and neutral stance.",
+      "A 6.5% repo rate and permanent tightening.",
+      "An observed full-year growth rate of 6.8%."
+    ],
+    "answer": 1,
+    "explanation": "The policy rate, stance and forecast are distinct signals. A neutral stance permits data-dependent choices, not a promise of the next move. Caution: Do not confuse the projection with an NSO outturn or neutral with a permanent rate freeze.",
+    "ref": "E6-2510-001"
+  },
+  {
+    "id": "OCT-02",
+    "question": "Q2 food inflation of −1.6% implies:",
+    "options": [
+      "Every household’s total cost fell 1.6%.",
+      "Every food item became cheaper.",
+      "The food index fell on that comparison, not necessarily overall CPI.",
+      "Overall CPI was necessarily negative."
+    ],
+    "answer": 2,
+    "explanation": "Disinflation is slower positive inflation; deflation is a falling price index. Food volatility can lower headline inflation without eliminating other pressures. Caution: Negative food inflation does not establish negative overall CPI or lower prices for every household.",
+    "ref": "E6-2510-002"
+  },
+  {
+    "id": "OCT-03",
+    "question": "Eighth Pay Commission Terms of Reference mean:",
+    "options": [
+      "Every revised salary was already paid.",
+      "An officially accepted universal fitment factor.",
+      "Automatic state-government adoption.",
+      "A mandate for examination, not a final pay award."
+    ],
+    "answer": 3,
+    "explanation": "A commission recommends; expenditure requires accepted decisions and implementation instruments. Assess fiscal space and service quality as well as consumption effects. Caution: Approval is not proof salaries already rose or that a guessed factor is official.",
+    "ref": "E6-2510-003"
+  },
+  {
+    "id": "OCT-04",
+    "question": "Risk-based deposit-insurance premiums concern:",
+    "options": [
+      "A guaranteed return on equity investments.",
+      "Unlimited insurance on every asset.",
+      "An automatic rise in every insured balance.",
+      "Risk differentiation in bank premiums, distinct from coverage ceilings."
+    ],
+    "answer": 3,
+    "explanation": "Deposit insurance is not protection against every investment loss or unlimited bank liabilities. Risk pricing can reduce cross-subsidy but needs credible metrics and transition safeguards. Caution: Draft premium reform does not automatically expand every depositor’s insured amount.",
+    "ref": "E6-2510-004"
+  },
+  {
+    "id": "OCT-05",
+    "question": "The reviewed rupee-lending relaxation named:",
+    "options": [
+      "Only all EU members.",
+      "Only EFTA countries.",
+      "Nepal, Bhutan and Sri Lanka.",
+      "Every country without conditions."
+    ],
+    "answer": 2,
+    "explanation": "Currency denomination, borrower eligibility and repayment risk are distinct. Rupee finance can support regional links without guaranteeing currency-risk elimination. Caution: Do not expand the measure to every country or describe loans as grants.",
+    "ref": "E6-2510-005"
+  },
+  {
+    "id": "OCT-06",
+    "question": "Draft ECB reform should be distinguished from:",
+    "options": [
+      "Final operative borrowing permissions.",
+      "A subject requiring currency-risk analysis.",
+      "A consultation process.",
+      "An external-finance policy proposal."
+    ],
+    "answer": 0,
+    "explanation": "Bank exposure, foreign borrowing and equity flows are different channels. Simplification needs safeguards against concentrated and currency-mismatched risk. Caution: A proposal is not an already effective permission; do not mix domestic bank limits and ECB conditions.",
+    "ref": "E6-2510-006"
+  },
+  {
+    "id": "OCT-07",
+    "question": "A wider pension investment ceiling is:",
+    "options": [
+      "Neither a guaranteed return nor necessarily compulsory allocation.",
+      "A guaranteed positive return every year.",
+      "A requirement every saver invest at the maximum.",
+      "Insurance against all market losses."
+    ],
+    "answer": 0,
+    "explanation": "An investment ceiling is not a guaranteed return or a compulsory allocation. Long horizons do not remove market, governance or liquidity risks. Caution: Do not merge draft NPS and mutual-fund rules or promise returns from a wider investment universe.",
+    "ref": "E6-2510-007"
+  },
+  {
+    "id": "OCT-08",
+    "question": "Electricity reform should track:",
+    "options": [
+      "A draft as immediate national tariff replacement.",
+      "Draft, enactment, implementation and actual subsidy payments separately.",
+      "A subsidy promise as money already received.",
+      "Financial viability as unrelated to service quality."
+    ],
+    "answer": 1,
+    "explanation": "A subsidy promise, budgeted transfer and utility receipt are different financial stages. Efficiency and contestability need universal-service and consumer safeguards. Caution: Do not claim draft provisions already changed every consumer tariff.",
+    "ref": "E6-2510-008"
+  },
+  {
+    "id": "OCT-09",
+    "question": "The approved pulses mission spans:",
+    "options": [
+      "A verified end to all imports at approval.",
+      "FY2025–26 to FY2030–31 with ₹11,440 crore outlay.",
+      "One month with a ₹11,440 payment to each farmer.",
+      "A universal change in every crop MSP."
+    ],
+    "answer": 1,
+    "explanation": "Self-reliance is an objective; output, imports and farmer income need separate evidence. Assured demand helps only with operational procurement, quality acceptance and payment. Caution: An approved mission does not prove imports ended or every farmer received a universal cash amount.",
+    "ref": "E6-2510-009"
+  },
+  {
+    "id": "OCT-10",
+    "question": "The announced wheat MSP is:",
+    "options": [
+      "₹2,585 per kilogram.",
+      "An unconditional transfer regardless of sales.",
+      "A compulsory market price for every transaction.",
+      "₹2,585 per quintal, not a guaranteed realised price everywhere."
+    ],
+    "answer": 3,
+    "explanation": "MSP announcement, procurement eligibility and actual purchase are separate. Market access and effective procurement determine benefits beyond headline increases. Caution: Do not quote these as per-kilogram prices or assured payments to every grower.",
+    "ref": "E6-2510-010"
+  },
+  {
+    "id": "OCT-11",
+    "question": "The ₹37,952 crore P&K decision is:",
+    "options": [
+      "Identical policy treatment for all fertilisers including urea.",
+      "An equal cash transfer to every farmer.",
+      "A verified fall in all retail prices by the same amount.",
+      "Seasonal nutrient-based subsidy support."
+    ],
+    "answer": 3,
+    "explanation": "Nutrient-based subsidy is distinct from a uniform transfer to every cultivator. Balanced nutrition, availability and soil information matter with affordability. Caution: Do not divide the outlay into a promised individual payment or claim it covers all fertilisers identically.",
+    "ref": "E6-2510-011"
+  },
+  {
+    "id": "OCT-12",
+    "question": "Takedown accountability is strengthened by:",
+    "options": [
+      "Treating every AI-labelling draft as notified law.",
+      "Assuming all restrictions are automatically proportionate.",
+      "Unrecorded informal instructions alone.",
+      "Reasoned orders identifying the relevant content/URLs."
+    ],
+    "answer": 3,
+    "explanation": "A takedown order, platform response and court review are different stages. Traceable reasons support accountability and meaningful challenge. Caution: Do not conflate a notified procedural amendment with a separate AI-labelling consultation.",
+    "ref": "E6-2510-013"
+  },
+  {
+    "id": "OCT-13",
+    "question": "Synthetic-content labels are best regarded as:",
+    "options": [
+      "A final blanket ban merely from a draft.",
+      "Proof every unlabelled item is genuine.",
+      "Proof every labelled claim is false.",
+      "A provenance tool with limitations, not an infallible truth test."
+    ],
+    "answer": 3,
+    "explanation": "Provenance, authenticity and truthfulness are related but different. Labels need reliability, accessibility and remedies against false attribution. Caution: A labelling draft is not an enacted ban on every AI image.",
+    "ref": "E6-2510-014"
+  },
+  {
+    "id": "OCT-14",
+    "question": "An industrial incentive’s investment threshold is:",
+    "options": [
+      "Proof all planned capacity is commissioned.",
+      "A guarantee of project profitability.",
+      "The same as verified subsidy disbursement.",
+      "An eligibility condition, not the amount paid to every applicant."
+    ],
+    "answer": 3,
+    "explanation": "Investment commitments, production milestones and verified incentives differ. Evaluate additional capacity, technology and fiscal cost rather than applications alone. Caution: Do not treat a qualifying investment threshold as money paid to every producer.",
+    "ref": "E6-2510-016"
+  },
+  {
+    "id": "OCT-15",
+    "question": "When emissions intensity falls while output rises:",
+    "options": [
+      "Absolute emissions must always fall equally.",
+      "All facilities necessarily become carbon-neutral.",
+      "Absolute emissions may still increase.",
+      "Output ceases to matter."
+    ],
+    "answer": 2,
+    "explanation": "Absolute emissions equal output multiplied by intensity on a consistent basis. An intensity reduction can coexist with higher total emissions as output grows. Caution: Do not call every intensity improvement an equal absolute emissions reduction.",
+    "ref": "E6-2510-017"
+  },
+  {
+    "id": "OCT-16",
+    "question": "A national expert road-safety board:",
+    "options": [
+      "Does not by itself establish a verified fall in deaths.",
+      "Automatically eliminates hazardous road design.",
+      "Replaces all state police powers.",
+      "Makes emergency response unnecessary."
+    ],
+    "answer": 0,
+    "explanation": "Road safety is a systems problem rather than solely driver blame. Track outcomes with exposure-aware indicators and reliable reporting. Caution: Do not treat a board as replacing every state agency or announcing a proven casualty reduction.",
+    "ref": "E6-2510-018"
+  },
+  {
+    "id": "OCT-17",
+    "question": "Prison Statistics 2023 in a 2025 issue refers to:",
+    "options": [
+      "Only convicted prisoners.",
+      "A 2023 data period rather than 2025 observations.",
+      "Proof custody establishes guilt.",
+      "A model law automatically enacted in every state."
+    ],
+    "answer": 1,
+    "explanation": "Custody is not a finding of guilt; overcrowding also affects health and legal access. Bail, legal aid, case management and humane facilities need coordinated reform. Caution: Do not label 2023 statistics as 2025 observations or undertrials as convicted offenders.",
+    "ref": "E6-2510-019"
+  },
+  {
+    "id": "OCT-18",
+    "question": "Which TEPA pairing is correct?",
+    "options": [
+      "EU; signature in October 2025.",
+      "ASEAN; a one-year investment guarantee.",
+      "EFTA; USD 100 billion already received in full.",
+      "EFTA; entry into force on 1 October 2025."
+    ],
+    "answer": 3,
+    "explanation": "A trade framework, investment target and measured capital inflow differ. Assess tariff schedules, origin rules and institutional follow-through. Caution: Do not call the target money already received or date the signature to October 2025.",
+    "ref": "E6-2510-020"
+  },
+  {
+    "id": "OCT-19",
+    "question": "ASI’s 11.89% GVA growth is:",
+    "options": [
+      "A measure covering every informal establishment.",
+      "Current-price growth for the referenced factory survey period.",
+      "Real GDP growth of the entire economy.",
+      "An observation for October alone."
+    ],
+    "answer": 1,
+    "explanation": "Nominal growth includes price effects; real output needs appropriate deflation. Use employment, productivity and industry composition alongside aggregate GVA. Caution: Do not describe current-price GVA growth as real GDP growth for all sectors.",
+    "ref": "E6-2510-021"
+  },
+  {
+    "id": "OCT-20",
+    "question": "The WTO fisheries agreement chronology is:",
+    "options": [
+      "15 September entry into force; India not ratified at the reviewed point.",
+      "A complete settlement of every fisheries negotiation.",
+      "October entry merely because of magazine date.",
+      "All WTO members automatically ratified."
+    ],
+    "answer": 0,
+    "explanation": "A multilateral agreement does not automatically bind every non-accepting member identically. Balance sustainability, monitoring and developing-country livelihoods. Caution: October magazine coverage is not the entry date; India’s non-ratification must not be omitted.",
+    "ref": "E6-2510-022"
+  },
+  {
+    "id": "OCT-21",
+    "question": "UN Cybercrime Convention entry into force requires:",
+    "options": [
+      "Forty ratifications and the stipulated ninety-day interval.",
+      "Only the first signature.",
+      "Only publication of a magazine article.",
+      "No ratification process."
+    ],
+    "answer": 0,
+    "explanation": "Treaty adoption, signature, ratification and entry into force are distinct milestones. Cross-border evidence cooperation needs necessity, proportionality and rights protection. Caution: Do not say the treaty was already in force merely because states signed it.",
+    "ref": "E6-2510-023"
+  },
+  {
+    "id": "OCT-22",
+    "question": "UNESCO’s Cold Desert profile places it in:",
+    "options": [
+      "The Thar Desert alone.",
+      "Ladakh alone.",
+      "Himachal Pradesh’s Lahaul–Spiti.",
+      "All Himalayan territory as one national park."
+    ],
+    "answer": 2,
+    "explanation": "A biosphere reserve’s zonation and designated boundary differ from an entire ecological region. Use the official profile to correct overbroad Ladakh–Kinnaur descriptions. Caution: Do not relocate the designated reserve to Ladakh or equate a biosphere reserve with a single national park.",
+    "ref": "E6-2510-024"
+  },
+  {
+    "id": "OCT-23",
+    "question": "A GHI score of 25.8 is:",
+    "options": [
+      "A direct nationwide hunger headcount percentage.",
+      "A measure based on a single current-year indicator.",
+      "A UN-agency joint publication merely because inputs use UN data.",
+      "A composite score, not the percentage of all Indians hungry."
+    ],
+    "answer": 3,
+    "explanation": "A composite index and a directly observed headcount are different measures. Compare methodology and indicator changes, not rank alone. Caution: Do not call 25.8 the percentage of all Indians hungry or assume rank changes establish causation.",
+    "ref": "E6-2510-025"
+  },
+  {
+    "id": "OCT-24",
+    "question": "A claimed 2025 Narayana Guru death centenary is unreliable because:",
+    "options": [
+      "His death year is 1928.",
+      "He founded Self-Respect in 1925.",
+      "His birth year is 1928.",
+      "Publication date automatically determines an anniversary."
+    ],
+    "answer": 0,
+    "explanation": "A historical profile’s publication date does not establish an anniversary claim. Compare Guru and Self-Respect reform without erasing their different settings. Caution: Do not repeat an unsupported centenary or assume all reform traditions were identical.",
+    "ref": "E6-2510-026"
+  },
+  {
+    "id": "OCT-25",
+    "question": "Google’s Vizag announcement describes:",
+    "options": [
+      "The full USD 15 billion already spent in October.",
+      "Verified AP GDP gains already measured.",
+      "Proposed investment across 2026–30, not an October commissioned hub.",
+      "A project requiring no supporting infrastructure."
+    ],
+    "answer": 2,
+    "explanation": "Announced commitments, financial closure, construction and operation are separate milestones. AP opportunities need reliable power/water, skills and resilient connectivity. Caution: Do not say the entire investment was spent or the hub commissioned in October 2025.",
+    "ref": "E6-2510-027"
+  },
+  {
+    "id": "OCT-26",
+    "question": "The cited Montha report establishes:",
+    "options": [
+      "A completed crossing at the moment the process started.",
+      "Every forecast wind as an observed maximum.",
+      "Final verified damage totals.",
+      "Landfall-start near Kakinada, not audited final losses."
+    ],
+    "answer": 3,
+    "explanation": "Forecast intensity, observed conditions and audited impacts are different evidence types. Connect risk finance with evacuation, warnings and resilient infrastructure. Caution: This source does not certify final damage totals or a completed crossing at its start time.",
+    "ref": "E6-2510-028"
+  },
+  {
+    "id": "OCT-27",
+    "question": "The Physics Nobel recognised:",
+    "options": [
+      "Metal–organic frameworks.",
+      "Macroscopic quantum tunnelling and energy quantisation in an electric circuit.",
+      "Creative destruction alone.",
+      "Peripheral immune tolerance."
+    ],
+    "answer": 1,
+    "explanation": "Quantum tunnelling is not classical passage over an energy barrier. Connect circuit-scale quantum behaviour to technological possibilities without claiming a universal fault-tolerant computer was delivered. Caution: Do not swap the laureates with chemistry or claim the award certifies all quantum-computing promises.",
+    "ref": "E6-2510-029"
+  },
+  {
+    "id": "OCT-28",
+    "question": "MOFs are associated with:",
+    "options": [
+      "Guaranteed identical selectivity for every gas.",
+      "Only a single conventional metal alloy.",
+      "Metal-based nodes, organic linkers and porous frameworks.",
+      "The 2025 literature citation."
+    ],
+    "answer": 2,
+    "explanation": "Porosity and tunable chemistry do not make every material suitable for every gas or operating condition. Assess stability, cost and regeneration energy before extrapolating a laboratory application. Caution: Do not confuse MOFs with a single metal alloy or claim identical selectivity across all frameworks.",
+    "ref": "E6-2510-030"
+  },
+  {
+    "id": "OCT-29",
+    "question": "Peripheral immune tolerance is associated with:",
+    "options": [
+      "Clarke, Devoret and Martinis.",
+      "Brunkow, Ramsdell and Sakaguchi.",
+      "Kitagawa, Robson and Yaghi.",
+      "Mokyr, Aghion and Howitt."
+    ],
+    "answer": 1,
+    "explanation": "Tolerance helps prevent harmful responses to self; it differs from general absence of immunity. Immune regulation matters for autoimmunity and treatment design. Caution: Do not confuse peripheral tolerance with every vaccine mechanism or promise a cure from an award citation.",
+    "ref": "E6-2510-031"
+  },
+  {
+    "id": "OCT-30",
+    "question": "Creative destruction highlights:",
+    "options": [
+      "A guarantee every disruptive firm improves welfare.",
+      "Growth with no institutional prerequisites.",
+      "A claim transition costs never matter.",
+      "Innovation-led growth alongside displacement of old activities."
+    ],
+    "answer": 3,
+    "explanation": "Innovation, diffusion, institutions and transition costs differ from a simple increase in spending. Use skills, competition and social protection to connect growth theory with policy. Caution: Do not attribute all three laureates to one identical contribution or ignore displaced workers.",
+    "ref": "E6-2510-033"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "OCT26-01",
+    "question": "Which interpretation of the 7 October MPC resolution is correct?",
+    "options": [
+      "Every member unanimously preferred calibrated tightening",
+      "The stance guarantees a hike at every later meeting",
+      "The 25 bp rate hike was unanimous, while two members preferred a neutral stance",
+      "A 25 bp rise means a 25% increase in repo"
+    ],
+    "answer": 2,
+    "explanation": "The primary resolution distinguishes the rate decision from stance preferences. Repo becomes 5.50%, SDF 5.25%, and MSF/Bank Rate 5.75%; a stance does not fix every later action regardless of conditions.",
+    "ref": "E17-2610-001"
+  },
+  {
+    "id": "OCT26-02",
+    "question": "PRS and the inspected RBI prose give different FY2026–27 projections. What is the sound treatment?",
+    "options": [
+      "Use the primary prose’s 7.1% growth and 5.2% CPI forecasts, documenting disagreements rather than inventing an average",
+      "Assume the chart proves every earlier GDP observation was formally revised",
+      "Average all prose and chart values into a new official series",
+      "Treat the forecasts as already realised annual results"
+    ],
+    "answer": 0,
+    "explanation": "Primary prose differs from PRS’s 6.7%/5%, and charts also conflict with prose. Source hierarchy, forecast vintage and explicit uncertainty are preferable to silent reconciliation or invented revisions.",
+    "ref": "E17-2610-001"
+  },
+  {
+    "id": "OCT26-03",
+    "question": "If a bank’s required CRR balance is illustratively ₹100 crore, what does a 99% daily minimum imply?",
+    "options": [
+      "A requirement to immobilise 99% of all deposits",
+      "A daily floor of ₹1 crore",
+      "A permanent abolition of the fortnight-average rule",
+      "A daily floor of ₹99 crore, with the separate fortnight-average requirement retained"
+    ],
+    "answer": 3,
+    "explanation": "The notification changes daily maintenance from 90% to 99% of the required reserve, effective the fortnight beginning 16 October. It does not announce a 99% headline CRR on liabilities.",
+    "ref": "E17-2610-002"
+  },
+  {
+    "id": "OCT26-04",
+    "question": "Which correctly distinguishes the reviewed inflation figures?",
+    "options": [
+      "Q2 CPI average 4.9% and September CPI 5.5% are different observations reported in October",
+      "A quarterly average must equal the final month",
+      "Both figures measure October CPI inflation",
+      "The attempted MoSPI PDF was fully read and independently confirmed every figure"
+    ],
+    "answer": 0,
+    "explanation": "These figures remain PRS-attributed because the primary PDF returned 403. Observation period, release date, index base and average should be kept separate.",
+    "ref": "E17-2610-003"
+  },
+  {
+    "id": "OCT26-05",
+    "question": "Which stake composition matches the primary IDBI approval?",
+    "options": [
+      "60.72% = 30.48% government + 30.24% LIC",
+      "30.48% = 60.72% government + 30.24% LIC",
+      "60.72% = 15% government + 19% LIC",
+      "60.72% is the government’s residual stake after sale"
+    ],
+    "answer": 0,
+    "explanation": "The transaction leaves government and LIC with 15% and 19% respectively, subject to completion. Approval of the strategic buyer is not independently verified closing or realised FDI.",
+    "ref": "E17-2610-004"
+  },
+  {
+    "id": "OCT26-06",
+    "question": "What follows from the GST Council recommending omission of arrest powers?",
+    "options": [
+      "Statutory amendment and commencement still need instrument-specific verification",
+      "The Council release itself automatically deletes the CGST provision",
+      "Every past proceeding becomes void solely on publication of the recommendation",
+      "No legislative process can be required"
+    ],
+    "answer": 0,
+    "explanation": "Recommendations, enacted law, delegated rules and portal implementation are different stages. Proposed prosecution and penalty changes should not be reported as already operative without the legal chain.",
+    "ref": "E17-2610-005"
+  },
+  {
+    "id": "OCT26-07",
+    "question": "Which pairing of forex thresholds is correct under the inspected release?",
+    "options": [
+      "Both thresholds mean a universal ban on foreign-currency purchases",
+      "US$5 million for establishing underlying exposure; specified contracts above US$2 million for FERR",
+      "FERR is a 20% import duty on all goods",
+      "US$2 million for all underlying exposure; US$100 million for every FERR contract"
+    ],
+    "answer": 1,
+    "explanation": "The FERR is a specified cash reserve maintained by authorised dealers, equal to 20% of INR-equivalent notional. Rebooking restrictions and permitted maturity rollovers are also distinct.",
+    "ref": "E17-2610-007"
+  },
+  {
+    "id": "OCT26-08",
+    "question": "What is the legally careful commencement description of the reviewed SEBI advertisement amendment?",
+    "options": [
+      "The 180th day from publication, rather than immediate effect in October",
+      "Automatically retroactive to every advertisement since 2008",
+      "Immediately on the date of the October press summary",
+      "Only after each investor individually consents"
+    ],
+    "answer": 0,
+    "explanation": "Opening primary provisions specify deferred commencement; PRS broadly labels April 2027. A future code should not be described as already operative throughout the notification month.",
+    "ref": "E17-2610-008"
+  },
+  {
+    "id": "OCT26-09",
+    "question": "Which best describes the SME Growth Fund approval?",
+    "options": [
+      "A cancellation of every SME bank debt",
+      "An automatic grant to every micro enterprise",
+      "Proof ₹10,000 crore was fully invested on announcement day",
+      "Patient growth equity through an AIF framework, not a universal subsidised loan"
+    ],
+    "answer": 3,
+    "explanation": "The government commitment addresses growth-stage risk capital, with majority allocation for manufacturing-focused SMEs. Ownership, valuation, governance and exits differ from ordinary debt financing.",
+    "ref": "E17-2610-010"
+  },
+  {
+    "id": "OCT26-10",
+    "question": "What does the 7.5 lakh TEU figure in the container scheme represent?",
+    "options": [
+      "An automatic AP port-capacity allocation",
+      "A target for annual domestic manufacturing capacity",
+      "A verified count of tonnes of cargo already carried",
+      "An achieved count of all physical containers regardless of size"
+    ],
+    "answer": 1,
+    "explanation": "TEU is a capacity-equivalence unit, not a tonne. Approval, installed manufacturing capacity, actual output and port throughput differ; the source component-total mismatch is documented, not silently assigned.",
+    "ref": "E17-2610-011"
+  },
+  {
+    "id": "OCT26-11",
+    "question": "Which preserves the primary ITLA threshold wording?",
+    "options": [
+      "Both thresholds exclude exactly ₹500 crore",
+      "All projects of every private firm are automatically subject to the same stated scope",
+      "ITLA replaces all financial appraisal mechanisms",
+      "Technical appraisal includes ₹500 crore projects; monitoring is described for projects above ₹500 crore"
+    ],
+    "answer": 3,
+    "explanation": "The release says ₹500 crore or more for technical appraisal and above ₹500 crore for monitoring. Existing financial appraisal mechanisms continue.",
+    "ref": "E17-2610-012"
+  },
+  {
+    "id": "OCT26-12",
+    "question": "What is a dry lease in the reviewed aviation context?",
+    "options": [
+      "A contract always providing aircraft, crew, maintenance and insurance together",
+      "An automatic permission to operate any scheduled airline",
+      "A transfer of airport land ownership",
+      "An arrangement providing the aircraft without crew"
+    ],
+    "answer": 3,
+    "explanation": "Dry and wet leasing differ. The new aviation rules also have future commencement from 1 January 2027; owner, lessor, manager and operator obligations must not be conflated.",
+    "ref": "E17-2610-013"
+  },
+  {
+    "id": "OCT26-13",
+    "question": "Which fuel-label statement is correct?",
+    "options": [
+      "E100 and B100 are identical names for petrol",
+      "E100 means every existing diesel vehicle is compatible",
+      "E100 concerns ethanol and B100 concerns biodiesel",
+      "A test amendment automatically mandates immediate pure-biofuel sale nationwide"
+    ],
+    "answer": 2,
+    "explanation": "Fuel composition, type approval and actual compatibility are different. Materials, engine calibration and the operative standard must be checked before use.",
+    "ref": "E17-2610-014"
+  },
+  {
+    "id": "OCT26-14",
+    "question": "Which statement preserves the NSAP disability changes correctly?",
+    "options": [
+      "Every approved change was independently verified as paid immediately in October",
+      "Every state’s total pension becomes exactly ₹375 for all ages",
+      "Old-age and widow support were abolished in the same approval",
+      "Approved central assistance is ₹375 for ages 0–79 and ₹625 for 80+, with a 40% benchmark and coverage from birth subject to other conditions"
+    ],
+    "answer": 3,
+    "explanation": "The release provides implementation guidelines within three months and continues other specified schemes. Central assistance and state top-ups are distinct.",
+    "ref": "E17-2610-016"
+  },
+  {
+    "id": "OCT26-15",
+    "question": "Which correctly describes PM Viksit Gram Swaraj Yojana?",
+    "options": [
+      "A centrally sponsored governance/capacity scheme with no permanent posts created under the announcement",
+      "A central-sector scheme with no state share",
+      "A verified permanent job appointment for every panchayat resident",
+      "Proof every village plan and audit was already completed"
+    ],
+    "answer": 0,
+    "explanation": "The precise outlay ₹7,395.55 crore combines central ₹4,869.48 crore and state ₹2,526.07 crore. Planning, training, disclosure and online audit support are not completed outcomes.",
+    "ref": "E17-2610-018"
+  },
+  {
+    "id": "OCT26-16",
+    "question": "What does the reviewed melt-and-pour condition concern?",
+    "options": [
+      "Every private purchase being banned",
+      "Steelmaking and the first solid form occurring in India, not merely final fabrication",
+      "Any local packaging operation automatically meeting origin requirements",
+      "Only repainting imported finished steel in India"
+    ],
+    "answer": 1,
+    "explanation": "A stronger upstream sourcing test is distinct from simple finishing or a percentage value-addition test. Product scope, buyer category and applicable exceptions matter.",
+    "ref": "E17-2610-020"
+  },
+  {
+    "id": "OCT26-17",
+    "question": "Why is a 5% hydrogen-by-volume blend not automatically a 5% emissions reduction?",
+    "options": [
+      "The draft authorises any household to alter its supply",
+      "Every appliance is universally compatible at every concentration",
+      "Energy content and hydrogen production pathways differ, as do volume and energy shares",
+      "Hydrogen always has the same heat per unit volume as natural gas"
+    ],
+    "answer": 2,
+    "explanation": "The draft explicitly does not itself authorise supply. Network qualification, approval, safe control and fair calorific-value billing are essential; lifecycle performance cannot be inferred from volume alone.",
+    "ref": "E17-2610-022"
+  },
+  {
+    "id": "OCT26-18",
+    "question": "Which preserves the RoW guidelines’ scope?",
+    "options": [
+      "A complete abolition of constitutional judicial review",
+      "Specified tower-supported 66 kV-and-above ISTS lines, with stated land-value and state-policy conditions",
+      "Every distribution wire of any voltage",
+      "Automatic transfer of the entire landholding to the utility"
+    ],
+    "answer": 1,
+    "explanation": "Right of way and full acquisition differ. The operative guidelines address valuation, defined tower/corridor areas, compensation and an administrative appeal; blanket applications are misleading.",
+    "ref": "E17-2610-023"
+  },
+  {
+    "id": "OCT26-19",
+    "question": "What does the October DAC figure of about ₹2.12 lakh crore establish?",
+    "options": [
+      "An audited payment for all listed equipment",
+      "82% domestic content in every subsystem",
+      "Estimated in-principle AoN, not completed contracts or delivered capability",
+      "Proof every named state has received a manufacturing order"
+    ],
+    "answer": 2,
+    "explanation": "The primary release gives about ₹2,12,000 crore and 82% planned Indian-industry procurement. AoN, tender, contract, manufacture, delivery and operation remain separate.",
+    "ref": "E17-2610-025"
+  },
+  {
+    "id": "OCT26-20",
+    "question": "Which denominator matters for the reviewed additional component incentive?",
+    "options": [
+      "Automatically 25% of the final phone’s retail price",
+      "A universal waiver for final assembly of semi-assembled imports",
+      "At least 25% of that component’s total quantity locally sourced, with specified manufacturing processes",
+      "25% of all Indian households owning the brand"
+    ],
+    "answer": 2,
+    "explanation": "The PRS-reviewed guidelines distinguish global turnover, eligible sales, baseline and component quantity. Additional component incentives do not automatically validate superficial assembly.",
+    "ref": "E17-2610-026"
+  },
+  {
+    "id": "OCT26-21",
+    "question": "Under the reviewed Census-town criterion, 75% refers to what?",
+    "options": [
+      "All land being used for commercial buildings",
+      "Every woman working in an office",
+      "All residents working outside agriculture",
+      "Male main workers in non-agricultural work"
+    ],
+    "answer": 3,
+    "explanation": "The other criteria include at least 5,000 population and 400 persons/km². Statistical classification does not automatically create a statutory municipality; the committee also discusses gender-inclusive measurement.",
+    "ref": "E17-2610-033"
+  },
+  {
+    "id": "OCT26-22",
+    "question": "Which is correct about IceCube and the Physics Nobel 2026?",
+    "options": [
+      "IceCube is an optical telescope launched into orbit in 2026",
+      "The Nobel announcement itself commissioned a new Indian detector",
+      "Neutrinos have electric charge and cannot pass through matter",
+      "Francis Halzen was recognised for work on a South Pole neutrino observatory completed in 2011"
+    ],
+    "answer": 3,
+    "explanation": "Neutral weakly interacting neutrinos can reveal energetic cosmic sources. Rare interactions produce secondary particles/light for reconstruction; the award date differs from the instrument’s completion.",
+    "ref": "E17-2610-038"
+  },
+  {
+    "id": "OCT26-23",
+    "question": "Which statement avoids an overgeneralisation about amino-acid chirality?",
+    "options": [
+      "Autocatalysis means no product influences reaction behaviour",
+      "All amino acids necessarily have two chiral enantiomers",
+      "Glycine is achiral, so not every amino acid has chiral mirror-image forms",
+      "One enantiomer is always beneficial and the other always poisonous"
+    ],
+    "answer": 2,
+    "explanation": "The 2026 Chemistry award recognises Kagan/Soai’s non-linear effects and asymmetric autocatalysis. Specific molecular structure and biological interaction matter; a popular summary is not a licence for universal claims.",
+    "ref": "E17-2610-039"
+  },
+  {
+    "id": "OCT26-24",
+    "question": "What distinguishes optogenetics from simply shining light on tissue?",
+    "options": [
+      "The Nobel award authorises every proposed therapy",
+      "Appropriate light-responsive biological machinery is introduced/used to control selected cellular activity",
+      "It is merely an ordinary MRI image",
+      "Every unmodified neuron automatically responds identically to external blue light"
+    ],
+    "answer": 1,
+    "explanation": "The medicine award honours Deisseroth, Hegemann and Nagel. Light-gated channels and targeted biological methods enable causal research; experimental success is not automatic clinical approval.",
+    "ref": "E17-2610-040"
+  },
+  {
+    "id": "OCT26-25",
+    "question": "What is basis risk in parametric insurance?",
+    "options": [
+      "The government automatically paying every private premium",
+      "A mismatch between a measured trigger and actual loss",
+      "The certainty that every loss receives a full payout",
+      "The physical elimination of every insured hazard"
+    ],
+    "answer": 1,
+    "explanation": "Fast trigger-based payments can miss affected households or pay where individual loss differs. Data, geography, contract design and accessible remedies remain essential.",
+    "ref": "E17-2610-046"
+  },
+  {
+    "id": "OCT26-26",
+    "question": "Which correctly describes AP’s foreign-university policy stage?",
+    "options": [
+      "State approval removes every applicable central regulatory requirement",
+      "All incentives and land have proven zero opportunity cost",
+      "Cabinet facilitation approval does not itself establish a UGC-approved operational campus",
+      "Every foreign university automatically opened a campus on 7 October"
+    ],
+    "answer": 2,
+    "explanation": "The actual policy and individual permissions were not independently inspected. Quality, affordability, research and student protection require implementation follow-through.",
+    "ref": "E17-2610-053"
+  },
+  {
+    "id": "OCT26-27",
+    "question": "Which pairing preserves the Thalliki Vandanam report’s denominators?",
+    "options": [
+      "58,601 new inclusions and 3,29,201 second-phase beneficiaries are different counts",
+      "68,05,791 is the additional new inclusion count",
+      "Both numbers must be identical groups",
+      "Administrative sanction proves every bank credit succeeded"
+    ],
+    "answer": 0,
+    "explanation": "Reported coverage rises from67,47,190 to68,05,791, and sanction from ₹10,120.78 to ₹10,208.69 crore. Eligibility, sanction, release and receipt are distinct stages.",
+    "ref": "E17-2610-055"
+  },
+  {
+    "id": "OCT26-28",
+    "question": "Which condition must be retained for the reviewed ASHA gratuity decision?",
+    "options": [
+      "The Cabinet report proves every family already received payment",
+      "The report specifies eligible workers dying in service, with ₹5,000 per completed year and ₹1.50 lakh cap",
+      "It is a universal ₹5,000 monthly pension",
+      "Every retiring ASHA automatically received an unlimited payout"
+    ],
+    "answer": 1,
+    "explanation": "The Hans body provides the death-in-service qualification omitted in a shorter summary. Original eligibility/claim orders remain unread; support, insurance, honorarium and pension should not be conflated.",
+    "ref": "E17-2610-059"
+  },
+  {
+    "id": "OCT26-29",
+    "question": "What is the planned bed increase at Repalle’s proposed upgrade?",
+    "options": [
+      "66 beds because 66 posts are approved",
+      "70 additional beds, from 30 to 100",
+      "100 additional beds, from 30 to 130",
+      "No change because approval equals construction completion"
+    ],
+    "answer": 1,
+    "explanation": "Approved bed capacity and staffing posts are inputs, not verified operational services.₹58.42 crore sanction and 66 additional posts do not establish complete recruitment, equipment or commissioning.",
+    "ref": "E17-2610-060"
+  },
+  {
+    "id": "OCT26-30",
+    "question": "Which statement correctly handles Arnab reporting?",
+    "options": [
+      "The early IMD bulletin is a timestamped forecast; later reporting establishes landfall completion on 28 October",
+      "Yanam is an Andhra Pradesh district",
+      "Weakening automatically ends flash-flood and electrical risks",
+      "Every forecast wind speed is a final observed maximum"
+    ],
+    "answer": 0,
+    "explanation": "The inspected bulletin issued 0130 IST 28 October uses 2330 IST 27 October observations and forecasts. Later newspaper reporting is separate; Yanam is part of Puducherry, and final loss totals were not audited here.",
+    "ref": "E17-2610-063"
+  }
+]

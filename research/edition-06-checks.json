@@ -1,0 +1,16 @@
+{
+  "edition": "06",
+  "date": "2026-11-07",
+  "status": "PASS",
+  "notes": 527,
+  "sources": 343,
+  "new_notes": 65,
+  "monthly_volumes": 10,
+  "original_mcqs": 300,
+  "mains_frameworks": 80,
+  "reading_paths": 18,
+  "magazine_inventory_urls": 465,
+  "magazine_urls_linked": 119,
+  "checks": ["Note IDs, dates, fields, references and cross-links", "Ten month filters and quizzes", "September/October quick buttons and AP filter", "PDF/DOCX/Markdown note-ID integrity", "Eight framework headings per month", "OOXML packages and nonblank PDF pages", "Representative September GST and October Google PDF pages visually inspected", "Relative document paths and five live HTTP routes"],
+  "limitations": "Structural and rendering checks only, not independent factual or completeness certification. All 23 monthly audits remain open. Scheduler not activated."
+}

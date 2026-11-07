@@ -1,0 +1,20 @@
+{
+  "pages": 84,
+  "words": 21774,
+  "notes": 64,
+  "original_mcqs": 30,
+  "original_mains_frameworks": 8,
+  "priority_counts": {
+    "P1": 32,
+    "P2": 31,
+    "P3": 1
+  },
+  "sampled_pages": {
+    "SC": 3,
+    "Gig": 27,
+    "AP-Storage": 58,
+    "MCQs": 67,
+    "IIP": 19
+  },
+  "scope": "Text/package integrity and sampled render checks, not independent factual or completeness certification"
+}

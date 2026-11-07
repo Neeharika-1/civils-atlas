@@ -1,0 +1,392 @@
+[
+  {
+    "id": "NOV-01",
+    "question": "The November Q2 GDP estimate measures:",
+    "options": [
+      "Real July–September year-on-year growth at a stated historical base.",
+      "Full-year nominal growth.",
+      "Identical growth in every sector.",
+      "The December annual growth forecast."
+    ],
+    "answer": 0,
+    "explanation": "GDP at market prices differs from sectoral GVA; constant-price growth differs from nominal growth. Examine the base, sector contributions and jobs rather than one headline. Caution: This is a quarterly outturn estimate, not full-year growth, a December forecast, or proof every sector grew 8.2%.",
+    "ref": "E7-2511-001"
+  },
+  {
+    "id": "NOV-02",
+    "question": "Withdrawal of selected QCOs means:",
+    "options": [
+      "Product-specific mandatory conformity requirements changed.",
+      "All products became exempt from every safety law.",
+      "All BIS standards disappeared.",
+      "Every change was a permanent economy-wide repeal."
+    ],
+    "answer": 0,
+    "explanation": "Mandatory conformity requirements and the underlying existence of a technical standard are distinct. Input-cost relief should be balanced with safety and testing capacity. Caution: Do not say every QCO or every BIS standard was abolished nationwide.",
+    "ref": "E7-2511-002"
+  },
+  {
+    "id": "NOV-03",
+    "question": "Which Labour Code chronology is correct?",
+    "options": [
+      "All central and state rules were finalised years earlier.",
+      "November commencement, with detailed rule-making and transition still relevant.",
+      "All Codes remained only draft Bills.",
+      "Every worker received every benefit on commencement day."
+    ],
+    "answer": 1,
+    "explanation": "Enactment, commencement and operational implementation are separate stages; delegated rules fill statutory detail. Connect September drafts and October consultations to this commencement milestone. Caution: Neither “only a draft in November” nor “all detailed rules and benefits fully operational everywhere” is accurate.",
+    "ref": "E7-2511-003"
+  },
+  {
+    "id": "NOV-04",
+    "question": "Under the EPF enrolment window ₹100 represents:",
+    "options": [
+      "Waiver of every past employer obligation.",
+      "Specified damages, not the total employer contribution liability.",
+      "The value of all interest and administrative charges combined.",
+      "A universal monthly benefit to all workers."
+    ],
+    "answer": 1,
+    "explanation": "Regularisation differs from cancellation of all liabilities or compulsory new benefits for unrelated workers. Accessible enrolment and credible records can expand coverage. Caution: Do not call ₹100 the total employer liability or extend the relief automatically outside the covered period.",
+    "ref": "E7-2511-004"
+  },
+  {
+    "id": "NOV-05",
+    "question": "Site-specific oil-mine emergency plans differ from:",
+    "options": [
+      "Risk assessment.",
+      "Planning for toxic-gas hazards.",
+      "A generic checklist proving every hazard is controlled.",
+      "Contractor training."
+    ],
+    "answer": 2,
+    "explanation": "A generic compliance checklist cannot substitute for a site-specific hazard assessment. Contractor competence and maintenance integrity matter alongside owner duties. Caution: The draft is not proof every site already complied or that every proposed rule had final force.",
+    "ref": "E7-2511-005"
+  },
+  {
+    "id": "NOV-06",
+    "question": "Notification of DPDP Rules means:",
+    "options": [
+      "The parent Act was repealed.",
+      "Every rule was deferred identically.",
+      "Every processing duty became immediately operative.",
+      "Different provisions may have different commencement timelines."
+    ],
+    "answer": 3,
+    "explanation": "A notified rulebook can have staggered commencement; institutional establishment and enforceable processing duties differ. Map January consultation to November notification without assuming every draft clause survived. Caution: Do not say every processing duty began on notification day or every provision was deferred equally.",
+    "ref": "E7-2511-006"
+  },
+  {
+    "id": "NOV-07",
+    "question": "Parental verification exceptions for specified institutions imply:",
+    "options": [
+      "A token gives consent for every later purpose.",
+      "All education data is exempt from every duty.",
+      "Purpose-limited exceptions, not unrestricted commercial reuse.",
+      "Healthcare status permits unlimited resale."
+    ],
+    "answer": 2,
+    "explanation": "Age assurance and data minimisation must work together; collecting more identity data creates risks of its own. Design accessible alternatives and minimise repeated sensitive-data collection. Caution: Do not treat every education-related data use as exempt or a token as permission for any later purpose.",
+    "ref": "E7-2511-007"
+  },
+  {
+    "id": "NOV-08",
+    "question": "Which Export Promotion Mission pairing is correct?",
+    "options": [
+      "Protsahan—trade finance; Disha—non-financial readiness.",
+      "The entire outlay was already disbursed at approval.",
+      "Disha—only monetary policy; Protsahan—only heritage.",
+      "Both are direct equal cash payments to all citizens."
+    ],
+    "answer": 0,
+    "explanation": "Credit constraints, standards compliance and logistics are different bottlenecks requiring complementary interventions. AP marine/MSME exporters need both finance and credible quality/traceability. Caution: An approved envelope is not money already paid; do not reverse the two sub-schemes.",
+    "ref": "CA-035"
+  },
+  {
+    "id": "NOV-09",
+    "question": "The 6,000 MTPA REPM target refers to:",
+    "options": [
+      "Output already produced on Cabinet approval day.",
+      "Mineral reserves already mined.",
+      "Planned annual integrated magnet capacity.",
+      "A monthly cash payment to every manufacturer."
+    ],
+    "answer": 2,
+    "explanation": "Reserves, separated oxides, metals, alloys and finished magnets are different supply-chain capabilities. Competitive selection and reliable inputs must accompany capital support. Caution: 6,000 MTPA is planned annual capacity, not output already produced or a measure of mineral reserves.",
+    "ref": "E7-2511-009"
+  },
+  {
+    "id": "NOV-10",
+    "question": "A processed product using a GI ingredient:",
+    "options": [
+      "Always inherits the logo without conditions.",
+      "Does not automatically gain GI-logo entitlement under the discussed draft.",
+      "Can ignore product standards.",
+      "Automatically becomes a new registered GI."
+    ],
+    "answer": 1,
+    "explanation": "A GI links origin with a quality or reputation; it is not a generic quality mark for any producer. AP craft/food value chains need authentic producer access and enforcement. Caution: Using a GI ingredient does not automatically entitle a processed product to use the GI logo.",
+    "ref": "E7-2511-010"
+  },
+  {
+    "id": "NOV-11",
+    "question": "Israel FTA terms of reference are:",
+    "options": [
+      "Proof all tariffs were abolished.",
+      "The same instrument as every investment agreement.",
+      "Evidence the FTA was already in force.",
+      "A negotiation milestone distinct from September’s investment treaty."
+    ],
+    "answer": 3,
+    "explanation": "Negotiation launch, conclusion, signature and entry into force have different legal consequences. Predictability can benefit trade but depends on final schedules and origin rules. Caution: Terms of reference do not prove tariffs were already eliminated.",
+    "ref": "E7-2511-011"
+  },
+  {
+    "id": "NOV-12",
+    "question": "An export-credit moratorium is:",
+    "options": [
+      "A conditional pause in payments, not automatic debt cancellation.",
+      "An unconditional principal write-off.",
+      "A universal grant to every exporter.",
+      "An abolition of all foreign-exchange reporting."
+    ],
+    "answer": 0,
+    "explanation": "A moratorium postpones payments; it does not automatically extinguish principal or interest. Cash-flow relief helps viable exporters survive external shocks. Caution: Do not call the measures an unconditional loan waiver or apply the covered dates to every borrower.",
+    "ref": "E7-2511-012"
+  },
+  {
+    "id": "NOV-13",
+    "question": "The November assent-reference opinion should be read as:",
+    "options": [
+      "Keeping April’s timeline position wholly unchanged.",
+      "Endorsing deemed assent as a universal rule.",
+      "Rejecting court-prescribed universal timelines while allowing limited directions for prolonged inaction.",
+      "Removing every possible response to indefinite inactivity."
+    ],
+    "answer": 2,
+    "explanation": "Article 143 advisory jurisdiction differs from ordinary merits adjudication; operative reasoning matters. Link April’s ruling, May’s reference and November’s opinion as a developing constitutional debate. Caution: Do not repeat April’s timeline propositions as an unchanged November position or say every delay is beyond all scrutiny.",
+    "ref": "E7-2511-013"
+  },
+  {
+    "id": "NOV-14",
+    "question": "A direction to establish a Tribunals Commission proves:",
+    "options": [
+      "The new commission was functioning immediately.",
+      "A judicial direction, not actual operational establishment.",
+      "Every tribunal was abolished.",
+      "Executive control over adjudication became unrestricted."
+    ],
+    "answer": 1,
+    "explanation": "Appointment design affects independence; a direction to establish a body is not proof the body exists. Executive accountability must not become control over adjudication. Caution: Do not say all tribunals were abolished or the commission was operational immediately.",
+    "ref": "E7-2511-014"
+  },
+  {
+    "id": "NOV-15",
+    "question": "The retrospective-EC review does not imply:",
+    "options": [
+      "The relevance of the 2017 cut-off.",
+      "An unrestricted prospective licence for future violations.",
+      "A changed position from the earlier May ruling.",
+      "A need to preserve legal chronology."
+    ],
+    "answer": 1,
+    "explanation": "Exceptional regularisation is not a prospective licence to violate environmental law. Read the review with the earlier May note; retain dated positions instead of silently presenting both as current. Caution: Do not call every future violation regularisable or omit the notification’s cut-off date.",
+    "ref": "E7-2511-015"
+  },
+  {
+    "id": "NOV-16",
+    "question": "The draft Seeds Bill must be distinguished from:",
+    "options": [
+      "Quality regulation.",
+      "A traceability framework.",
+      "A consultation proposal.",
+      "An already enacted replacement and a ban on all traditional seed exchange."
+    ],
+    "answer": 3,
+    "explanation": "Seed quality regulation and plant-variety intellectual-property protection are separate regimes. Traceability can deter spurious seeds when inspection, testing and accessible remedies work. Caution: The draft is not an enacted replacement or a ban on every traditional seed exchange.",
+    "ref": "E7-2511-016"
+  },
+  {
+    "id": "NOV-17",
+    "question": "A new PLI application round is not necessarily:",
+    "options": [
+      "Subject to product eligibility.",
+      "Linked to verified performance.",
+      "A fresh independent budget to add mechanically to every earlier headline.",
+      "A policy-stage development."
+    ],
+    "answer": 2,
+    "explanation": "New rounds, revised eligibility and realised incremental production are not interchangeable. Specialised grades can matter for defence/power supply chains. Caution: A capacity target is not commissioned production or a guaranteed incentive to every applicant.",
+    "ref": "E7-2511-017"
+  },
+  {
+    "id": "NOV-18",
+    "question": "DRDO–DGA cooperation establishes:",
+    "options": [
+      "Unlimited ownership of all French defence IP.",
+      "A completed procurement of every listed platform.",
+      "Guaranteed local absorption without skills.",
+      "A framework, not automatic delivery of every technology."
+    ],
+    "answer": 3,
+    "explanation": "A cooperation instrument differs from delivery of a particular weapon or unrestricted technology ownership. Local absorption needs skilled teams, manufacturing capability and workable IP arrangements. Caution: Do not call an R&D framework a completed procurement or unlimited transfer of all French technology.",
+    "ref": "E7-2511-018"
+  },
+  {
+    "id": "NOV-19",
+    "question": "The revised thermal co-firing policy:",
+    "options": [
+      "Makes every coal plant wholly renewable.",
+      "Has differentiated NCR and non-NCR blend requirements.",
+      "Mandates the identical NCR blend everywhere.",
+      "Eliminates all combustion emissions."
+    ],
+    "answer": 1,
+    "explanation": "Torrefaction uses low-oxygen heating; co-firing mixes fuels rather than making coal renewable. Reliable feedstock and pollution safeguards determine practical benefits. Caution: Do not generalise the NCR blend to every plant or assume mixed-fuel combustion is emission-free.",
+    "ref": "E7-2511-019"
+  },
+  {
+    "id": "NOV-20",
+    "question": "The legal-aid anniversary distinguishes:",
+    "options": [
+      "1987 enactment from 1995 implementation.",
+      "Only income-based eligibility with no statutory categories.",
+      "1995 enactment from 1987 implementation.",
+      "Eligibility only for convicted people."
+    ],
+    "answer": 0,
+    "explanation": "Statutory eligibility includes categories as well as prescribed income conditions; income is not the only route. Competent representation and early help matter beyond assigning a lawyer. Caution: 1995 commencement does not mean the Act was enacted in 1995 or aid is only for convicted prisoners.",
+    "ref": "E7-2511-020"
+  },
+  {
+    "id": "NOV-21",
+    "question": "A G20 voluntary minerals framework is:",
+    "options": [
+      "A supranational mining statute.",
+      "Political cooperation, not automatically binding domestic law.",
+      "A guarantee every announced investment occurred.",
+      "A replacement for all national mining permissions."
+    ],
+    "answer": 1,
+    "explanation": "G20 political coordination does not create a supranational legislature or automatic domestic law. Assess follow-through and financing, not declarations alone. Caution: Do not treat every target as binding or a political declaration as proof of delivered electrification.",
+    "ref": "E7-2511-021"
+  },
+  {
+    "id": "NOV-22",
+    "question": "COP30’s adaptation-finance signal should not be called:",
+    "options": [
+      "Part of an implementation debate.",
+      "A political direction for scaling finance.",
+      "Money already paid under an automatically binding commitment.",
+      "Relevant to vulnerable communities."
+    ],
+    "answer": 2,
+    "explanation": "Mitigation, adaptation and just-transition support address different needs. Distinguish negotiated decisions, presidency initiatives and actual disbursements. Caution: Do not call a presidency roadmap a universally negotiated phase-out or a finance signal a binding paid commitment.",
+    "ref": "E7-2511-022"
+  },
+  {
+    "id": "NOV-23",
+    "question": "One Health links:",
+    "options": [
+      "Human, animal and environmental systems.",
+      "Only human hospitals.",
+      "A claim every mission stage originated in November.",
+      "Only veterinary exports."
+    ],
+    "answer": 0,
+    "explanation": "Zoonotic threats cross administrative sectors; data integration requires compatible standards and lawful sharing. AP livestock, aquaculture and public-health systems provide practical convergence settings. Caution: Do not date every approval, institution and launch to the coverage month or equate One Health with only zoonoses.",
+    "ref": "E7-2511-023"
+  },
+  {
+    "id": "NOV-24",
+    "question": "Antimicrobial resistance means:",
+    "options": [
+      "Microorganisms resist treatment, not that a person becomes immune to antibiotics.",
+      "The human body becomes immune to every drug.",
+      "Appropriate treatment should always be denied.",
+      "Only hospitals can contribute to resistance."
+    ],
+    "answer": 0,
+    "explanation": "Resistance develops in microorganisms, not because a human body becomes immune to an antibiotic. Prescription audits and diagnostics must coexist with access to necessary treatment. Caution: Do not equate AMR solely with antibiotic use in human hospitals or recommend denial of appropriate therapy.",
+    "ref": "E7-2511-024"
+  },
+  {
+    "id": "NOV-25",
+    "question": "Birsa Munda’s November 2025 commemoration concerns:",
+    "options": [
+      "His 150th birth anniversary.",
+      "His birth in an AP tribal community.",
+      "The 150th anniversary of every tribal rebellion.",
+      "His death in 1875."
+    ],
+    "answer": 0,
+    "explanation": "Tribal resistance involved political, economic and cultural claims rather than a single undifferentiated cause. Link historical land alienation to contemporary safeguards without implying all tribal movements were identical. Caution: Do not confuse a birth anniversary with the year of the uprising or relocate him to an AP tribe.",
+    "ref": "E7-2511-025"
+  },
+  {
+    "id": "NOV-26",
+    "question": "A brain–computer interface should not be assumed to provide:",
+    "options": [
+      "Sensitive-data governance challenges.",
+      "Potential therapeutic assistance.",
+      "Infallible unrestricted access to every private thought.",
+      "Task-specific neural-signal interpretation."
+    ],
+    "answer": 2,
+    "explanation": "Decoding a limited task signal is not infallible unrestricted reading of every private thought. Consent must address sensitive data, updates and withdrawal possibilities. Caution: Do not call every neural inference accurate or assume ordinary app consent is sufficient for all invasive uses.",
+    "ref": "E7-2511-026"
+  },
+  {
+    "id": "NOV-27",
+    "question": "Farmers’ seed rights under PPV&FR do not imply:",
+    "options": [
+      "A sui generis rights framework.",
+      "A balance with breeders’ interests.",
+      "Unrestricted branded commercial sale of every protected variety.",
+      "An interest in seed conservation."
+    ],
+    "answer": 2,
+    "explanation": "Sui generis protection differs from granting patents over every plant; seed-quality law is another layer. Innovation incentives should coexist with conservation and farmer access. Caution: Farmer seed rights do not mean unrestricted commercial branded sales of every protected variety.",
+    "ref": "E7-2511-027"
+  },
+  {
+    "id": "NOV-28",
+    "question": "The CII summit’s MoU totals represent:",
+    "options": [
+      "Reported proposals, not audited realised spending.",
+      "Full money already spent.",
+      "Verified net jobs already created.",
+      "Amounts necessarily additional to every earlier announcement."
+    ],
+    "answer": 0,
+    "explanation": "MoU value, financial closure, construction, commissioned assets and net employment are different indicators. Track implementation milestones, cancellations and overlap with earlier announcements. Caution: Headlines saying investment “attracted” do not prove the full amount was already spent or jobs created.",
+    "ref": "E7-2511-028"
+  },
+  {
+    "id": "NOV-29",
+    "question": "A plan for 175 AP MSME parks establishes:",
+    "options": [
+      "A finished viable park in every constituency.",
+      "Identical jobs in every constituency.",
+      "A geographic ambition, not proof all parks are operational.",
+      "No need for market and infrastructure assessment."
+    ],
+    "answer": 2,
+    "explanation": "A spatial target is not evidence of serviced land, occupancy or viable enterprises at every site. Evaluate power, logistics, credit, market links and local skills before site-count success claims. Caution: Do not describe all 175 parks as operational or promise identical industries/jobs to every constituency.",
+    "ref": "E7-2511-029"
+  },
+  {
+    "id": "NOV-30",
+    "question": "A parliamentary committee’s work programme is:",
+    "options": [
+      "Proof the government accepted unissued recommendations.",
+      "A completed audit conclusion.",
+      "An agenda for examination, not a report of findings.",
+      "A binding law amending every scheme."
+    ],
+    "answer": 2,
+    "explanation": "Agenda-setting, evidence-taking, report adoption and implementation are separate oversight stages. Use the list to identify research gaps rather than cite unissued conclusions. Caution: Do not turn “to examine” into “committee found” or “government implemented”.",
+    "ref": "E7-2511-030"
+  }
+]

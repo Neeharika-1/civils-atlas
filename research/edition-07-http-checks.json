@@ -1,0 +1,32 @@
+[
+  {
+    "path": "index.html",
+    "status": 200,
+    "bytes": 1432363
+  },
+  {
+    "path": "volumes/November-2025-Study-Volume.pdf",
+    "status": 200,
+    "bytes": 159276
+  },
+  {
+    "path": "volumes/December-2025-Study-Volume.pdf",
+    "status": 200,
+    "bytes": 174431
+  },
+  {
+    "path": "volumes/December-2025-Study-Volume.docx",
+    "status": 200,
+    "bytes": 64804
+  },
+  {
+    "path": "volumes/Cross-Month-Reading-Journeys.pdf",
+    "status": 200,
+    "bytes": 63007
+  },
+  {
+    "path": "research/Research-Status.md",
+    "status": 200,
+    "bytes": 6738
+  }
+]

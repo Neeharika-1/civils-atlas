@@ -1,0 +1,392 @@
+[
+  {
+    "id": "MAY26-01",
+    "question": "The May ordinance’s statutory ceiling of 37 Supreme Court judges implies a total sanctioned strength of:",
+    "options": [
+      "38 including the Chief Justice.",
+      "74 including the Chief Justice.",
+      "37 including the Chief Justice.",
+      "A number fixed only by the current working strength."
+    ],
+    "answer": 0,
+    "explanation": "The substitution concerns judges in addition to the CJI: 37 + 1 = 38. Sanctioned posts are not proof every seat is filled.",
+    "ref": "E12-2605-001"
+  },
+  {
+    "id": "MAY26-02",
+    "question": "An ordinance’s ordinary six-week constitutional reassembly clock runs from:",
+    "options": [
+      "Its newspaper publication date regardless of reassembly.",
+      "Reassembly of Parliament, using the later date where the Houses reassemble on different dates.",
+      "The next general election.",
+      "The day the Cabinet first discusses it."
+    ],
+    "answer": 1,
+    "explanation": "Article 123 links cessation to six weeks after parliamentary reassembly, with the later reassembly date where the Houses differ. Earlier disapproval/withdrawal and other constitutional conditions remain relevant.",
+    "ref": "E12-2605-001"
+  },
+  {
+    "id": "MAY26-03",
+    "question": "The inspected central OSH rule provides which general weekly ceiling for covered workers?",
+    "options": [
+      "48 hours.",
+      "No limit where a digital attendance system exists.",
+      "12 hours.",
+      "84 hours."
+    ],
+    "answer": 0,
+    "explanation": "The inspected Rule 64 states 48 hours per week. This is not an unconditional 12-hour daily-work permission or proof every establishment falls within central jurisdiction.",
+    "ref": "E12-2605-002"
+  },
+  {
+    "id": "MAY26-04",
+    "question": "Under the inspected multi-aggregator engagement rule, 40 calendar days earning from each of three aggregators can contribute:",
+    "options": [
+      "Only 40 days because multiple aggregators can never be counted separately.",
+      "120 cumulative aggregator-days, subject to the remaining scheme conditions.",
+      "An automatic lifelong pension without any other condition.",
+      "360 days because every shift counts as three calendar days."
+    ],
+    "answer": 1,
+    "explanation": "The rule explicitly allows engagement with three aggregators on one calendar day to count as three days.40×3=120. Registration, scheme conditions and actual benefits remain distinct.",
+    "ref": "E12-2605-003"
+  },
+  {
+    "id": "MAY26-05",
+    "question": "A central floor-wage rule and a minimum-wage notification should be distinguished because:",
+    "options": [
+      "The rule itself necessarily fixes one identical rupee wage for every worker.",
+      "Every consumer-price index automatically substitutes for CPI-IW.",
+      "Floor wage means the current RBI repo rate.",
+      "The floor is a benchmark, while appropriate-government minimum wages and prescribed adjustments involve separate decisions."
+    ],
+    "answer": 3,
+    "explanation": "The inspected rules describe consultation and floor-setting; VDA uses the specifically prescribed CPI-IW. A legal framework is not itself a newly announced universal rupee rate.",
+    "ref": "E12-2605-005"
+  },
+  {
+    "id": "MAY26-06",
+    "question": "The May VB–G RAM G allocation consultation should be read as:",
+    "options": [
+      "Proof no transition liabilities can exist.",
+      "Draft rules ahead of stated 1 July commencement, not a final May allocation formula.",
+      "Final rules operative on every date in May merely because comments were invited.",
+      "An automatic termination of every pending wage claim."
+    ],
+    "answer": 1,
+    "explanation": "The review identifies the instruments as drafts and distinguishes the Act’s 1 July commencement. Consultation cannot be treated as final subordinate law.",
+    "ref": "E12-2605-006"
+  },
+  {
+    "id": "MAY26-07",
+    "question": "An otherwise eligible non-airline borrower’s peak utilised Q4 working capital is ₹200 crore. Before other checks, 20% under ECLGS 5.0 is:",
+    "options": [
+      "₹100 crore for every borrower automatically.",
+      "₹20 crore because utilised credit is irrelevant.",
+      "₹40 crore, below the ₹100 crore borrower cap.",
+      "₹200 crore as a debt waiver."
+    ],
+    "answer": 2,
+    "explanation": "20%×₹200 crore=₹40 crore. The scheme uses peak utilised working capital, not an unused sanctioned limit; the support is repayable credit with a guarantee, not a grant.",
+    "ref": "E12-2605-007"
+  },
+  {
+    "id": "MAY26-08",
+    "question": "For a 100-acre private-developer collaboration with ₹80 crore eligible infrastructure cost, the reviewed lower-of test gives which ceiling before other conditions?",
+    "options": [
+      "₹80 crore because the entire cost is reimbursed.",
+      "₹100 crore as an unconditional acreage grant.",
+      "₹40 crore.",
+      "₹50 crore regardless of the cost limb."
+    ],
+    "answer": 2,
+    "explanation": "₹50 lakh×100 acres=₹50 crore; 50%×₹80 crore=₹40 crore. The lower figure is ₹40 crore, still subject to land-value, sanction and other conditions.",
+    "ref": "E12-2605-008"
+  },
+  {
+    "id": "MAY26-09",
+    "question": "Which entity remains under a distinct 20% foreign-investment cap in the reviewed May framework?",
+    "options": [
+      "Every private insurance company without exception.",
+      "Every listed Indian company.",
+      "Life Insurance Corporation of India.",
+      "Every mutual fund investor."
+    ],
+    "answer": 2,
+    "explanation": "The reviewed insurance-company liberalisation is not a 100% cap for LIC. Licensing, prudential and policyholder requirements also remain separate from the investment route.",
+    "ref": "E12-2605-009"
+  },
+  {
+    "id": "MAY26-10",
+    "question": "If a company’s total CSR expenditure in a year is ₹20 crore, the 10% ZCZP-route ceiling corresponds to:",
+    "options": [
+      "₹20 crore because the instrument has no coupon.",
+      "An instrument guaranteed to repay ₹2 crore principal.",
+      "10% of the company’s profit regardless of actual CSR expenditure.",
+      "₹2 crore, subject to qualifying-instrument conditions."
+    ],
+    "answer": 3,
+    "explanation": "The percentage base is total annual CSR expenditure: 10%×₹20 crore=₹2 crore. A ZCZP instrument pays neither coupon nor principal redemption.",
+    "ref": "E12-2605-012"
+  },
+  {
+    "id": "MAY26-11",
+    "question": "Among the reviewed 2026–27 kharif MSP changes, the highest absolute increase is for:",
+    "options": [
+      "Moong.",
+      "Maize.",
+      "Common paddy.",
+      "Sunflower seed."
+    ],
+    "answer": 3,
+    "explanation": "The primary table gives sunflower+₹622/quintal, versus paddy+₹72, maize+₹10 and moong+₹12. Highest absolute rise is not necessarily highest percentage rise.",
+    "ref": "E12-2605-013"
+  },
+  {
+    "id": "MAY26-12",
+    "question": "The cost description accompanying the primary kharif MSP table includes:",
+    "options": [
+      "Only the national average retail food price.",
+      "Only the farmer’s cash spending on seed.",
+      "Every individual farmer’s full cost guaranteed to be reimbursed.",
+      "Paid-out costs plus imputed family labour, rather than automatically every C 2 opportunity-cost component."
+    ],
+    "answer": 3,
+    "explanation": "The release explicitly includes paid-out production expenses and imputed family labour. The stated 1.5-times benchmark must not be relabelled as 1.5 times each individual farmer’s full C 2 cost.",
+    "ref": "E12-2605-013"
+  },
+  {
+    "id": "MAY26-13",
+    "question": "The ₹9,000 crore product-level incentive cap in the reviewed surface-gasification scheme explicitly excepts:",
+    "options": [
+      "Synthetic natural gas and urea.",
+      "All imported solar cells.",
+      "Only household electricity meters.",
+      "Every product without distinction."
+    ],
+    "answer": 0,
+    "explanation": "The primary coal release preserves the SNG/urea exception. Other caps include ₹5,000 crore/project and ₹12,000 crore/entity group, with a 20% plant-and-machinery incentive maximum.",
+    "ref": "E12-2605-017"
+  },
+  {
+    "id": "MAY26-14",
+    "question": "Which Nordic pair belongs to EFTA rather than the EU?",
+    "options": [
+      "Finland and Denmark.",
+      "Norway and Iceland.",
+      "Denmark and Sweden.",
+      "Sweden and Finland."
+    ],
+    "answer": 1,
+    "explanation": "Norway and Iceland are EFTA members; Denmark, Finland and Sweden are EU members. Nordic, Scandinavian, EU and EFTA are not identical groups.",
+    "ref": "E12-2605-026"
+  },
+  {
+    "id": "MAY26-15",
+    "question": "Failure of an NPT review conference to adopt a consensus outcome means:",
+    "options": [
+      "The CTBT automatically entered into force.",
+      "The review failed to agree a document, not that the treaty automatically ceased to exist.",
+      "India automatically became an NPT-recognised nuclear-weapon state.",
+      "All parties automatically withdrew from the NPT."
+    ],
+    "answer": 1,
+    "explanation": "A review process and the legal existence of the treaty are distinct. Non-consensus does not automatically amend membership or terminate obligations.",
+    "ref": "E12-2605-028"
+  },
+  {
+    "id": "MAY26-16",
+    "question": "Which chronology matches the inspected official UAE withdrawal extract?",
+    "options": [
+      "Announcement 28 April; stated effect 1 May 2026.",
+      "Announcement 1 May; effect 28 April.",
+      "No exit from OPEC+, only a stop to all oil exports.",
+      "An immediate guarantee of lower Indian pump prices."
+    ],
+    "answer": 0,
+    "explanation": "The WAM extract distinguishes 28 April announcement from 1 May effect. Actual output, quota coordination and oil prices are separate variables.",
+    "ref": "E12-2605-029"
+  },
+  {
+    "id": "MAY26-17",
+    "question": "The later MoSPI release confirms which new-IIP chronology?",
+    "options": [
+      "Initial new-series launch 1 June, followed by PPI-based supersession 29 June.",
+      "No change after the old 2011–12 series.",
+      "Actual launch necessarily 28 May because an earlier calendar scheduled it.",
+      "Every June development was already published on 1 May."
+    ],
+    "answer": 0,
+    "explanation": "The inspected 29 June primary text explicitly identifies the earlier 1 June launch and subsequent PPI-based supersession. A scheduled release date is not evidence it occurred on time.",
+    "ref": "E12-2605-032"
+  },
+  {
+    "id": "MAY26-18",
+    "question": "Risk-weighted assets in bank-capital calculations are:",
+    "options": [
+      "The amount of capital a bank is required to hold, by definition.",
+      "The annual interest rate paid to depositors.",
+      "Always identical to cash reserves at RBI.",
+      "Exposures adjusted for prescribed risks, forming the denominator of capital ratios."
+    ],
+    "answer": 3,
+    "explanation": "CRAR compares eligible regulatory capital with risk-weighted exposures. Capital, liquidity reserves and the risk-adjusted asset denominator are different concepts.",
+    "ref": "E12-2605-035"
+  },
+  {
+    "id": "MAY26-19",
+    "question": "A credible marine-carbon-removal claim must establish:",
+    "options": [
+      "Net additional durable atmospheric removal after leakage, reversals and relevant energy costs.",
+      "That emissions reduction elsewhere is no longer necessary.",
+      "That every pilot can immediately operate safely at gigatonne scale.",
+      "Only gross carbon moved into seawater at one instant."
+    ],
+    "answer": 0,
+    "explanation": "Gross uptake is not the same as durable net removal. MRV, ecosystem effects, additionality and permanence must be assessed; removal complements emissions cuts.",
+    "ref": "E12-2605-040"
+  },
+  {
+    "id": "MAY26-20",
+    "question": "A forecast strong El Niño implies for an Indian district:",
+    "options": [
+      "A probabilistic risk factor, not deterministic rainfall or guaranteed drought.",
+      "That no local observations or other climate drivers matter.",
+      "Certain drought in every district.",
+      "A fourth ENSO phase distinct from warm, cool and neutral."
+    ],
+    "answer": 0,
+    "explanation": "ENSO affects risk, but regional rainfall also depends on other ocean/atmosphere and local influences. Preserve issue date, lead time and forecast probability.",
+    "ref": "E12-2605-043"
+  },
+  {
+    "id": "MAY26-21",
+    "question": "Infant mortality rate uses which denominator?",
+    "options": [
+      "Only insured households.",
+      "Total mid-year population, identical to crude death rate.",
+      "Live births, normally expressed per 1,000.",
+      "Only registered deaths of adults."
+    ],
+    "answer": 2,
+    "explanation": "IMR counts deaths under age one per 1,000 live births. CBR/CDR use population denominators, while TFR is a different synthetic fertility measure.",
+    "ref": "E12-2605-046"
+  },
+  {
+    "id": "MAY26-22",
+    "question": "Given private-hospital shares of 57.9% rural and 64.6% urban, a national combined share requires:",
+    "options": [
+      "Appropriate rural/urban hospitalisation weights.",
+      "A simple unweighted average regardless of survey design.",
+      "Treating rural people as urban respondents.",
+      "The unsupported claim every region exceeds 60%."
+    ],
+    "answer": 0,
+    "explanation": "The denominators and survey weights matter. One subgroup is below 60%; a combined national estimate cannot be established from the two percentages alone.",
+    "ref": "E12-2605-048"
+  },
+  {
+    "id": "MAY26-23",
+    "question": "May’s Padma investiture should be distinguished from the annual announcement because:",
+    "options": [
+      "Every ceremony necessarily announces a wholly new list.",
+      "Conferral at a ceremony does not create another award for the same recipient.",
+      "The award becomes a hereditary legal title.",
+      "All annual recipients must attend the first ceremony."
+    ],
+    "answer": 1,
+    "explanation": "Announcement/approval and ceremonial presentation are different stages. Do not double-count honours or assume first-ceremony attendance equals the complete annual list.",
+    "ref": "E12-2605-052"
+  },
+  {
+    "id": "MAY26-24",
+    "question": "In the reviewed South Coast Railway report, May notification and 1 June operation are:",
+    "options": [
+      "Proof the railway became a state-owned corporation.",
+      "Proof every requested train was sanctioned in May.",
+      "The same event because both concern Visakhapatnam.",
+      "Different administrative/legal milestones."
+    ],
+    "answer": 3,
+    "explanation": "The contemporary report welcomed notification in May but scheduled operation from 1 June. New trains and project approvals require their own evidence.",
+    "ref": "E12-2605-055"
+  },
+  {
+    "id": "MAY26-25",
+    "question": "Which sum reconstructs the AP BharatNet GP scope?",
+    "options": [
+      "13,426+3,942=13,426.",
+      "Five lakh homes equal 13,426 GPs by definition.",
+      "1,692+480=13,426.",
+      "1,692+11,254+480=13,426."
+    ],
+    "answer": 3,
+    "explanation": "The primary release separates Phase I upgrades, Phase II GPs and new GPs.3,942 demand-based villages and projected home connections are different units, not extra GP categories.",
+    "ref": "E12-2605-056"
+  },
+  {
+    "id": "MAY26-26",
+    "question": "A proposed 29,000 MWh battery storage system’s duration cannot be derived without:",
+    "options": [
+      "Its usable discharge-power rating and operating assumptions.",
+      "Assuming 29,000 MWh means 29,000 hours.",
+      "Converting every MWh into one MW without time.",
+      "Adding solar AC and DC nameplate capacities as independent plants."
+    ],
+    "answer": 0,
+    "explanation": "Duration in hours equals usable energy in MWh divided by discharge power in MW. Capacity ratings and project approval also do not prove commissioning.",
+    "ref": "E12-2605-060"
+  },
+  {
+    "id": "MAY26-27",
+    "question": "The AP deep-tech initiative’s two-lakh figure is:",
+    "options": [
+      "A count of universities already functioning.",
+      "A guarantee every learner becomes a quantum researcher.",
+      "An audited number of jobs already created on 11 May.",
+      "A 2026–27 learner target, not verified completed training or job placement."
+    ],
+    "answer": 3,
+    "explanation": "The PTI report states targets of two lakh learners in 2026–27 and ten lakh over five years. Enrolment, completion, competence and placement must be tracked separately.",
+    "ref": "E12-2605-057"
+  },
+  {
+    "id": "MAY26-28",
+    "question": "The 15 May Puttaparthi AMCA event establishes:",
+    "options": [
+      "A combat squadron already inducted.",
+      "That April’s 350-acre DRDO allotment has an identical project/land scope.",
+      "That all projected 7,500 jobs existed that day.",
+      "A reported infrastructure foundation milestone, not operational fighter induction."
+    ],
+    "answer": 3,
+    "explanation": "The inspected newspaper report concerns the foundation of infrastructure. Prototype testing, certification, production and service induction remain distinct stages.",
+    "ref": "E12-2605-058"
+  },
+  {
+    "id": "MAY26-29",
+    "question": "For AP’s ₹30,000/₹40,000 birth-incentive announcement, the sound historical inference is:",
+    "options": [
+      "A cash announcement alone proves fertility returned to replacement level.",
+      "Reproductive choice is legally extinguished by a demographic target.",
+      "Announced figures require separate verification of eligibility, operating rules and payments.",
+      "Every qualifying family had already been paid on 16 May."
+    ],
+    "answer": 2,
+    "explanation": "The inspected report supports the announcement, not a primary implementation GO or payment audit. Demographic objectives must preserve informed choice and health.",
+    "ref": "E12-2605-062"
+  },
+  {
+    "id": "MAY26-30",
+    "question": "AP headline CPI inflation 4.20% minus national headline 3.48% equals:",
+    "options": [
+      "The same statistic as national food inflation merely because it is 4.20%.",
+      "0.72 quintals.",
+      "72% growth in AP prices.",
+      "0.72 percentage points."
+    ],
+    "answer": 3,
+    "explanation": "4.20−3.48=0.72 percentage points. These are April provisional observations published 12 May; AP food inflation 5.64% is a separate basket.",
+    "ref": "E12-2605-064"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "routes": [
+    {
+      "route": "index.html",
+      "status": 200,
+      "bytes": 2021126
+    },
+    {
+      "route": "volumes/April-2026-Study-Volume.pdf",
+      "status": 200,
+      "bytes": 228736
+    },
+    {
+      "route": "volumes/April-2026-Study-Volume.docx",
+      "status": 200,
+      "bytes": 78629
+    },
+    {
+      "route": "volumes/April-2025-Study-Volume.pdf",
+      "status": 200,
+      "bytes": 217343
+    },
+    {
+      "route": "data/2026-04-mcqs.json",
+      "status": 200,
+      "bytes": 25404
+    },
+    {
+      "route": "research/magazine-review/vision-reconciliation.csv",
+      "status": 200,
+      "bytes": 184601
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "new_notes": 69,
+  "ap_notes": 12,
+  "primary_limits": "See data/source-access.json; selected reading not whole instruments",
+  "vision_july_verified": false,
+  "alternative_pages": 118,
+  "alternative_coverage": "25 June–24 July 2026",
+  "alternative_complete_review": false,
+  "corrections": [
+    "PM-KISAN exact3.15lakhcrore",
+    "Khelo2030–31",
+    "700MWfloatingonly",
+    "EC prospective quashing and existing EC caveats",
+    "CPI June reference/July publication",
+    "APdateandlocationcorrections",
+    "Quantum/younginfantdefinitioncorrections"
+  ],
+  "open": [
+    "Complete July Vision access/verification",
+    "Drishti full reconciliation and original statistical tables",
+    "AP original orders and bank/UIDAI circulars",
+    "Primary bilateral outcomes/visit-date reconciliation",
+    "August–November substantial backfill",
+    "All23monthlydaily source audits",
+    "Daily automation deployment"
+  ]
+}

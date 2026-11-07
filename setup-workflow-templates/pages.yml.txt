@@ -1,0 +1,38 @@
+name: Publish study website
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ['Daily source discovery']
+    types: [completed]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: atlas-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    # Opt in with repository variable PUBLISH_PAGES=true; configure Pages source as GitHub Actions.
+    if: vars.PUBLISH_PAGES == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Stage original public study deliverables
+        run: |
+          mkdir -p _site
+          cp index.html START-HERE.md README.md Study-Notes.docx Package-Manifest.json _site/
+          cp -R volumes research data _site/
+          touch _site/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy website including partial-source health notices
+        id: deploy
+        uses: actions/deploy-pages@v4

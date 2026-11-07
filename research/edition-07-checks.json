@@ -1,0 +1,28 @@
+{
+  "edition": "07",
+  "date": "2026-11-07",
+  "status": "PASS",
+  "notes": 592,
+  "source_references": 370,
+  "net_new_notes": 65,
+  "enriched_seed_notes": 1,
+  "monthly_volumes": 12,
+  "original_mcqs": 360,
+  "mains_frameworks": 96,
+  "reading_paths": 18,
+  "notes_in_paths": 144,
+  "magazine_inventory_urls": 566,
+  "magazine_urls_linked": 135,
+  "checks": [
+    "IDs, fields, dates, references and related-note integrity",
+    "12 monthly app filters and quizzes",
+    "November/December quick buttons and AP filter",
+    "PDF/DOCX/Markdown note-ID integrity",
+    "8 framework headings per month",
+    "Nonblank pages and OOXML packages",
+    "Representative labour and AP district pages visually inspected",
+    "6 live HTTP routes",
+    "Duplicate Export Promotion Mission merged into CA-035"
+  ],
+  "limitations": "Structural/rendering checks only, not independent factual/completeness certification. All 23 monthly audits remain open; scheduler inactive."
+}

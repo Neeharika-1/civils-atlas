@@ -1,0 +1,881 @@
+[
+  {
+    "id": "CA-001",
+    "subject": "Economy",
+    "block": "01 · Fiscal policy",
+    "date": "2025-02-01",
+    "title": "Union Budget 2025–26: fiscal anchor",
+    "facts": [
+      "Total expenditure BE: ₹50.65 lakh crore; non-borrowing receipts: ₹34.96 lakh crore.",
+      "Fiscal deficit BE: 4.4% of GDP; capital expenditure: ₹11.21 lakh crore (3.1% of GDP)."
+    ],
+    "trap": "Budget estimates are planned figures, not actual spending.",
+    "mains": "Explain the growth–fiscal consolidation trade-off. Use capex quality, multiplier effects and debt sustainability.",
+    "sources": [
+      "B25"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-002",
+    "subject": "Economy",
+    "block": "01 · Fiscal policy",
+    "date": "2026-02-01",
+    "title": "Union Budget 2026–27: compare like with like",
+    "facts": [
+      "Expenditure BE: ₹53.5 lakh crore; non-debt receipts BE: ₹36.5 lakh crore.",
+      "Fiscal deficit BE: 4.3% of GDP; debt-to-GDP BE: 55.6%.",
+      "Public capital expenditure proposed at ₹12.2 lakh crore."
+    ],
+    "trap": "Do not compare 2025–26 BE with 2026–27 BE and describe the result as realised growth.",
+    "mains": "Assess whether capex-led consolidation can crowd in private investment.",
+    "sources": [
+      "B26"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-003",
+    "subject": "Economy",
+    "block": "02 · Taxation",
+    "date": "2025-02-01",
+    "title": "New-regime personal income-tax relief",
+    "facts": [
+      "Budget announced no personal income tax up to ₹12 lakh of eligible income under the new regime, excluding special-rate income such as capital gains.",
+      "For salaried taxpayers, the stated threshold was ₹12.75 lakh with ₹75,000 standard deduction."
+    ],
+    "trap": "This is not a blanket nil-rate slab up to ₹12 lakh; distinguish slab, deduction and rebate. Historical budget position, not current tax advice.",
+    "mains": "Evaluate consumption stimulus against revenue foregone and distributional effects.",
+    "sources": [
+      "B25"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-004",
+    "subject": "Agriculture",
+    "block": "01 · Productivity & credit",
+    "date": "2025-02-01",
+    "title": "PM Dhan-Dhaanya Krishi Yojana: announcement",
+    "facts": [
+      "Budget proposed a state-partnership programme covering 100 districts with low productivity, moderate crop intensity and below-average credit.",
+      "The stated potential reach was 1.7 crore farmers."
+    ],
+    "trap": "Announcement, approval and operational launch have different dates; launch guidelines remain a backfill task.",
+    "mains": "Design district-specific convergence using credit, irrigation, extension and market access.",
+    "sources": [
+      "B25"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-005",
+    "subject": "Agriculture",
+    "block": "01 · Productivity & credit",
+    "date": "2025-02-01",
+    "title": "Pulses self-reliance mission",
+    "facts": [
+      "Six-year mission announced with focus on tur, urad and masoor.",
+      "Budget proposed NAFED and NCCF procurement of these pulses over the next four years."
+    ],
+    "trap": "Do not confuse the mission duration with the procurement commitment period.",
+    "mains": "Discuss procurement credibility, diversification and water-efficient cropping.",
+    "sources": [
+      "B25"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-006",
+    "subject": "Agriculture",
+    "block": "01 · Productivity & credit",
+    "date": "2025-02-01",
+    "title": "Kisan Credit Card: proposed subvention ceiling",
+    "facts": [
+      "Budget proposed increasing the loan limit under the Modified Interest Subvention Scheme from ₹3 lakh to ₹5 lakh for KCC loans."
+    ],
+    "trap": "A credit or subvention limit is not a cash grant; verify operational circulars before treating the change as in force.",
+    "mains": "How can formal farm credit reduce dependence on informal lenders without worsening indebtedness?",
+    "sources": [
+      "B25"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-007",
+    "subject": "Agriculture",
+    "block": "02 · Fisheries & blue economy",
+    "date": "2025-02-01",
+    "title": "EEZ and high-seas fisheries framework",
+    "facts": [
+      "Budget proposed a sustainable fisheries framework for India’s EEZ and high seas, with special focus on Andaman & Nicobar and Lakshadweep."
+    ],
+    "trap": "EEZ rights and high-seas freedoms are different legal categories.",
+    "mains": "Connect marine exports with stock conservation, traceability and fisher safety; add AP coastal examples.",
+    "sources": [
+      "B25"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-008",
+    "subject": "Economy",
+    "block": "03 · Industry & MSMEs",
+    "date": "2025-02-01",
+    "title": "MSME classification: proposed expansion",
+    "facts": [
+      "Budget proposed enhancing investment limits by 2.5 times and turnover limits by 2 times for MSME classification."
+    ],
+    "trap": "The multipliers differ. The notification and effective date must be checked separately.",
+    "mains": "Evaluate whether threshold revision improves scale without weakening support for small firms.",
+    "sources": [
+      "B25"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-009",
+    "subject": "Science & Technology",
+    "block": "02 · Energy technology",
+    "date": "2025-02-01",
+    "title": "Nuclear Energy Mission and SMRs",
+    "facts": [
+      "Budget announced ₹20,000 crore for research and development of small modular reactors.",
+      "The stated goal was at least five indigenously developed SMRs operational by 2033.",
+      "Amendments to nuclear-energy and liability legislation were proposed."
+    ],
+    "trap": "A 2033 target is not an achieved capacity figure; a proposed amendment is not an enacted law.",
+    "mains": "Discuss nuclear expansion through safety, liability, finance, fuel security and decarbonisation.",
+    "sources": [
+      "B25"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-010",
+    "subject": "Society & Welfare",
+    "block": "01 · Health & social protection",
+    "date": "2025-02-01",
+    "title": "Gig workers: proposed social-security linkage",
+    "facts": [
+      "Budget announced identity cards, e-Shram registration and healthcare under PM Jan Arogya Yojana for online-platform gig workers."
+    ],
+    "trap": "Registration does not establish that every worker has received all benefits.",
+    "mains": "Balance platform flexibility with portable benefits, occupational safety and grievance redress.",
+    "sources": [
+      "B25"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-011",
+    "subject": "Society & Welfare",
+    "block": "02 · Education & skills",
+    "date": "2025-02-01",
+    "title": "Schools, broadband and AI education",
+    "facts": [
+      "50,000 Atal Tinkering Labs proposed in government schools over five years.",
+      "BharatNet broadband proposed for all government secondary schools and PHCs in rural areas.",
+      "AI-for-education Centre of Excellence announced with ₹500 crore outlay."
+    ],
+    "trap": "These are targets and announcements, not verified completed installations.",
+    "mains": "Digital access must be paired with teacher capacity, accessible content and learning-outcome measurement.",
+    "sources": [
+      "B25"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-012",
+    "subject": "Environment",
+    "block": "03 · Water & urban sustainability",
+    "date": "2025-02-01",
+    "title": "Jal Jeevan Mission and urban financing",
+    "facts": [
+      "Budget proposed extending Jal Jeevan Mission until 2028.",
+      "Urban Challenge Fund announced at ₹1 lakh crore, with ₹10,000 crore proposed for 2025–26."
+    ],
+    "trap": "A multi-year fund corpus differs from the annual allocation and actual releases.",
+    "mains": "Examine water-service sustainability through source protection, O&M and local fiscal capacity.",
+    "sources": [
+      "B25"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-013",
+    "subject": "Economy",
+    "block": "04 · Critical minerals",
+    "date": "2025-01-29",
+    "title": "National Critical Mineral Mission",
+    "facts": [
+      "Cabinet approved ₹16,300 crore expenditure with expected ₹18,000 crore investment by PSUs and others, totalling ₹34,300 crore over seven years.",
+      "Value chain spans exploration, mining, beneficiation, processing and end-of-life recovery.",
+      "Overseas assets, stockpiles, recycling and processing parks are included."
+    ],
+    "trap": "₹34,300 crore is not entirely direct government budgetary expenditure.",
+    "mains": "Explain why processing capability and recycling matter as much as mineral ownership.",
+    "sources": [
+      "NCMM"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-014",
+    "subject": "Science & Technology",
+    "block": "01 · Space",
+    "date": "2025-01-16",
+    "title": "SpaDeX: docking milestone",
+    "facts": [
+      "ISRO’s two SpaDeX satellites docked on 16 January 2025.",
+      "The mission demonstrated rendezvous, docking and post-docking control capabilities."
+    ],
+    "trap": "Mission launch was in December 2024; the docking milestone falls within this archive’s period.",
+    "mains": "Explain relevance to multi-launch missions, orbital infrastructure and future human spaceflight.",
+    "sources": [
+      "SPACE"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-015",
+    "subject": "Science & Technology",
+    "block": "01 · Space",
+    "date": "2025-03-13",
+    "title": "SpaDeX: undocking milestone",
+    "facts": [
+      "ISRO reported successful undocking on 13 March 2025 at about 09:20 IST.",
+      "Undocking occurred in a 460 km circular orbit with 45° inclination; satellites subsequently operated independently."
+    ],
+    "trap": "Docking and undocking are separate milestones; do not merge their dates.",
+    "mains": "Distinguish rendezvous, docking, power transfer and undocking as separate capabilities.",
+    "sources": [
+      "SPACE"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-016",
+    "subject": "Andhra Pradesh",
+    "block": "01 · State economy & budget",
+    "date": "2025-02-28",
+    "title": "AP Budget 2025–26: fiscal snapshot",
+    "facts": [
+      "Total expenditure including debt repayment: ₹3,22,359 crore.",
+      "Net expenditure excluding debt repayment: ₹2,97,929 crore.",
+      "Fiscal deficit BE: ₹79,927 crore, about 4.4% of GSDP; revenue deficit BE: ₹33,186 crore, about 1.8%."
+    ],
+    "trap": "PRS rounds amounts; news reports may use less-rounded figures. Never mix gross and net expenditure.",
+    "mains": "Evaluate AP’s fiscal space through revenue mobilisation, committed expenditure and capital-asset quality.",
+    "sources": [
+      "AP25",
+      "NEWS"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-017",
+    "subject": "Andhra Pradesh",
+    "block": "01 · State economy & budget",
+    "date": "2025-02-28",
+    "title": "AP GSDP: nominal projection versus real growth",
+    "facts": [
+      "AP’s 2025–26 current-price GSDP projected at about ₹18.3 lakh crore.",
+      "The projected 14% increase is over the 2024–25 revised estimate."
+    ],
+    "trap": "Current-price growth is not real economic growth.",
+    "mains": "Use sectoral diversification, productivity and resilient coastal livelihoods to assess growth quality.",
+    "sources": [
+      "AP25"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-018",
+    "subject": "Andhra Pradesh",
+    "block": "02 · Welfare & human development",
+    "date": "2025-02-28",
+    "title": "Talliki Vandanam: budget proposal",
+    "facts": [
+      "AP Budget proposed ₹15,000 annually for each school-going child in Classes I–XII from 2025–26.",
+      "Budget policy description included both government and private schools."
+    ],
+    "trap": "Budget policy intent is not a substitute for beneficiary eligibility GOs, deductions or payment records.",
+    "mains": "Assess enrolment incentives alongside attendance, learning outcomes and fiscal sustainability.",
+    "sources": [
+      "AP25"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-019",
+    "subject": "Andhra Pradesh",
+    "block": "03 · Coastal livelihoods",
+    "date": "2025-02-28",
+    "title": "Fishing-ban relief: budget commitment",
+    "facts": [
+      "AP Budget proposed increasing fishing-ban financial relief from ₹10,000 to ₹20,000."
+    ],
+    "trap": "A budget commitment does not prove disbursal to every eligible fisher.",
+    "mains": "How can closed-season compensation align livelihood protection with marine stock recovery?",
+    "sources": [
+      "AP25"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-020",
+    "subject": "Andhra Pradesh",
+    "block": "04 · Innovation & infrastructure",
+    "date": "2025-02-28",
+    "title": "Amaravati innovation hub: proposal",
+    "facts": [
+      "Budget proposed an Amaravati innovation hub linked with five zonal centres.",
+      "Mentoring, emerging-sector skills and technology upgrading were stated functions."
+    ],
+    "trap": "Proposed infrastructure should not be described as operational without follow-up evidence.",
+    "mains": "Propose a decentralised start-up ecosystem linking universities, districts and local industry.",
+    "sources": [
+      "AP25"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-021",
+    "subject": "Environment",
+    "block": "01 · Forests & biodiversity",
+    "date": "2025-12-31",
+    "title": "Forest metrics: distinguish ISFR and FAO",
+    "facts": [
+      "MoEFCC review cites ISFR 2023 forest and tree cover at 25.17% of geographical area: forest 21.76%, tree 3.41%.",
+      "FAO Global Forest Resources Assessment 2025 placed India ninth in total forest area and third in annual net forest gain."
+    ],
+    "trap": "Report year, underlying data year and definitions differ; these are not interchangeable forest rankings.",
+    "mains": "Evaluate green-cover gains using ecological quality, native species, fragmentation and community rights.",
+    "sources": [
+      "ENV"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-022",
+    "subject": "Environment",
+    "block": "02 · Wetlands",
+    "date": "2025-12-31",
+    "title": "Ramsar sites: dated 2025 snapshot",
+    "facts": [
+      "MoEFCC’s 2025 review reported 96 Ramsar sites covering about 1.36 million hectares.",
+      "It reported 11 additions during 2025."
+    ],
+    "trap": "This is a 2025 year-end count, NOT a verified November 2026 count.",
+    "mains": "Explain wise use, catchment management and community participation in wetland conservation.",
+    "sources": [
+      "ENV"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-023",
+    "subject": "Environment",
+    "block": "02 · Wetlands",
+    "date": "2025-01-31",
+    "title": "Indore and Udaipur: Ramsar Wetland Cities",
+    "facts": [
+      "The year-end review identifies Indore and Udaipur as India’s first Ramsar Wetland Cities in January 2025.",
+      "Exact announcement day is not established here; the date is month-end indexing only."
+    ],
+    "trap": "Wetland City Accreditation is not the same as declaring the entire city a Ramsar site.",
+    "mains": "Discuss urban wetlands as flood buffers, biodiversity habitats and water-quality infrastructure.",
+    "sources": [
+      "ENV"
+    ],
+    "priority": "P2",
+    "ap": false,
+    "status": "Month verified; day is indexing placeholder",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-024",
+    "subject": "Environment",
+    "block": "01 · Forests & biodiversity",
+    "date": "2025-12-31",
+    "title": "Madhav Tiger Reserve and reserve counts",
+    "facts": [
+      "The 2025 environment review reported 58 tiger reserves and identified Madhav Tiger Reserve in Madhya Pradesh as a new reserve."
+    ],
+    "trap": "58 is the review’s dated snapshot, not a guaranteed current total.",
+    "mains": "Link protected-area expansion to corridor continuity, relocation safeguards and coexistence.",
+    "sources": [
+      "ENV"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-025",
+    "subject": "Environment",
+    "block": "01 · Forests & biodiversity",
+    "date": "2025-01-23",
+    "title": "International Big Cat Alliance framework",
+    "facts": [
+      "According to MoEFCC’s review, the IBCA framework agreement entered into force on 23 January 2025.",
+      "The alliance, launched in 2023, covers seven big-cat species."
+    ],
+    "trap": "Launch in 2023 and framework entry into force in 2025 are separate events.",
+    "mains": "Assess species-focused international cooperation through science, funding and habitat protection.",
+    "sources": [
+      "ENV"
+    ],
+    "priority": "P2",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-026",
+    "subject": "Environment",
+    "block": "03 · Water & urban sustainability",
+    "date": "2025-07-24",
+    "title": "Contaminated Sites Rules 2025",
+    "facts": [
+      "MoEFCC review records notification of Environment Protection (Management of Contaminated Sites) Rules, 2025 on 24 July 2025.",
+      "The review describes a framework for identification, assessment and remediation."
+    ],
+    "trap": "Operational duties and liability must be studied from the Gazette; the review alone is not a complete legal brief.",
+    "mains": "Apply polluter-pays and precautionary principles to legacy industrial contamination.",
+    "sources": [
+      "ENV"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-027",
+    "subject": "Security",
+    "block": "01 · Defence & strategy",
+    "date": "2025-05-07",
+    "title": "Operation Sindoor: essential chronology",
+    "facts": [
+      "Defence Ministry review dates commencement to the intervening night of 6–7 May 2025.",
+      "It links the operation to the 22 April 2025 Pahalgam terrorist attack."
+    ],
+    "trap": "Operational claims are the Indian government’s account. Do not present contested casualty or battle-damage figures as independently established.",
+    "mains": "Analyse deterrence, escalation control, counter-terror diplomacy and civilian protection without tactical speculation.",
+    "sources": [
+      "DEF"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-028",
+    "subject": "Security",
+    "block": "02 · Defence economy",
+    "date": "2025-12-31",
+    "title": "Defence production and exports: FY2024–25",
+    "facts": [
+      "MoD review reports defence production of approximately ₹1.51 lakh crore in FY2024–25.",
+      "Defence exports reported at ₹23,622 crore for the same financial year."
+    ],
+    "trap": "Production value and exports are different measures; financial year is not calendar year.",
+    "mains": "Discuss strategic autonomy through R&D, private-sector participation, procurement reform and export compliance.",
+    "sources": [
+      "DEF"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-029",
+    "subject": "Polity & Governance",
+    "block": "01 · Local governance",
+    "date": "2025-01-18",
+    "title": "SVAMITVA: distribution and later preparation totals",
+    "facts": [
+      "MoPR review reports 65 lakh property cards distributed on 18 January 2025.",
+      "As of 16 December 2025, it reports about 2.76 crore cards prepared and drone flying completed in 3.28 lakh villages."
+    ],
+    "trap": "Prepared, distributed and legally disputed titles are different categories; do not use one as a proxy for another.",
+    "mains": "Assess drone-based rural property mapping through credit access, dispute resolution and safeguards for excluded residents.",
+    "sources": [
+      "PRI"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-030",
+    "subject": "Polity & Governance",
+    "block": "01 · Local governance",
+    "date": "2025-12-29",
+    "title": "SabhaSaar and Gram Sabha record-keeping",
+    "facts": [
+      "MoPR’s review highlights an AI-enabled SabhaSaar tool for Gram Sabha record-keeping.",
+      "The same review identifies Gram Manchitra as a GIS-based spatial planning platform."
+    ],
+    "trap": "AI transcription support is not a substitute for statutory Gram Sabha procedures or accountable decisions.",
+    "mains": "Design digital local governance with language access, human validation, privacy and public auditability.",
+    "sources": [
+      "PRI"
+    ],
+    "priority": "P2",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-031",
+    "subject": "Polity & Governance",
+    "block": "01 · Local governance",
+    "date": "2025-12-29",
+    "title": "PESA capacity building: Telugu connection",
+    "facts": [
+      "MoPR review records that Andhra Pradesh and Telangana completed translation of all seven PESA training manuals into Telugu."
+    ],
+    "trap": "Translation of manuals does not itself establish effective devolution or implementation of every PESA protection.",
+    "mains": "Evaluate the gap between legal Gram Sabha powers and administrative practice in Scheduled Areas.",
+    "sources": [
+      "PRI"
+    ],
+    "priority": "P2",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-032",
+    "subject": "Polity & Governance",
+    "block": "02 · Administrative reform",
+    "date": "2025-12-12",
+    "title": "Visakhapatnam e-governance declaration",
+    "facts": [
+      "DARPG year-end review records the 28th National e-Governance Conference in Visakhapatnam and adoption of the Visakhapatnam declaration."
+    ],
+    "trap": "The review date is used for indexing; it is not asserted as the conference date.",
+    "mains": "Use citizen-centric service delivery, interoperability, grievance resolution and accessibility as evaluation criteria.",
+    "sources": [
+      "DARPG"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-033",
+    "subject": "International Relations",
+    "block": "01 · Trade diplomacy",
+    "date": "2025-07-24",
+    "title": "India–UK CETA: signing milestone",
+    "facts": [
+      "India and the UK signed CETA on 24 July 2025 after negotiations concluded on 6 May 2025.",
+      "PIB signing release describes zero-duty access on 99% of tariff lines, covering nearly all trade value."
+    ],
+    "trap": "Signing, ratification and entry into force are distinct; tariff-line coverage is not the same as trade-value coverage.",
+    "mains": "Assess opportunities for labour-intensive exports alongside rules of origin, standards compliance and adjustment costs.",
+    "sources": [
+      "CETA"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-034",
+    "subject": "International Relations",
+    "block": "01 · Trade diplomacy",
+    "date": "2026-06-17",
+    "title": "CETA: announced entry-into-force date",
+    "facts": [
+      "PIB’s 17 June 2026 release announced that CETA and the social-security contribution agreement were set to enter into force on 15 July 2026.",
+      "It records the companion convention’s signing on 10 February 2026."
+    ],
+    "trap": "This note verifies an advance announcement. Post-15 July implementation notification has not been checked here.",
+    "mains": "Explain why social-security coordination matters for temporary professional mobility.",
+    "sources": [
+      "CETA26"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Official announcement checked; implementation follow-up pending",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-035",
+    "subject": "Economy",
+    "block": "05 · External sector",
+    "date": "2025-12-10",
+    "title": "Export Promotion Mission: architecture",
+    "facts": [
+      "Commerce review describes ₹25,060 crore outlay over FY2025–26 to FY2030–31.",
+      "NIRYAT PROTSAHAN focuses on affordable trade finance.",
+      "NIRYAT DISHA focuses on non-financial enablers such as quality compliance, branding and logistics."
+    ],
+    "trap": "Do not reverse the two sub-schemes; approved outlay is not expenditure already incurred.",
+    "mains": "How can export policy combine working-capital access with quality and logistics competitiveness?",
+    "sources": [
+      "TRADE"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-036",
+    "subject": "Economy",
+    "block": "05 · External sector",
+    "date": "2025-12-10",
+    "title": "Exports: FY2024–25 source snapshot",
+    "facts": [
+      "Commerce review reports combined merchandise and services exports of US$825.25 billion in FY2024–25.",
+      "Services exports: US$387.54 billion; merchandise exports: US$437.70 billion (rounding applies)."
+    ],
+    "trap": "Historical release figures may be revised; do not label them the latest FY2025–26 totals.",
+    "mains": "Explain services-led export resilience and the need to widen manufacturing competitiveness.",
+    "sources": [
+      "TRADE"
+    ],
+    "priority": "P2",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-037",
+    "subject": "Science & Technology",
+    "block": "03 · Frontier manufacturing",
+    "date": "2026-02-01",
+    "title": "Biopharma SHAKTI: Budget 2026 proposal",
+    "facts": [
+      "Budget announced ₹10,000 crore over five years for Biopharma SHAKTI.",
+      "It proposed three new NIPERs, upgrades to seven existing NIPERs and over 1,000 accredited clinical-trial sites."
+    ],
+    "trap": "Proposed institutions and accredited sites are not all operational simply because the budget names them.",
+    "mains": "Connect biologics capacity to regulation, trial ethics, affordability and skilled human resources.",
+    "sources": [
+      "B26"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-038",
+    "subject": "Science & Technology",
+    "block": "03 · Frontier manufacturing",
+    "date": "2026-02-01",
+    "title": "India Semiconductor Mission 2.0",
+    "facts": [
+      "Budget proposed ISM 2.0 for equipment and materials, full-stack Indian IP, supply chains and industry-led research and training.",
+      "Electronics Components Manufacturing Scheme outlay proposed to increase to ₹40,000 crore."
+    ],
+    "trap": "Distinguish chip design, fabrication, packaging and equipment ecosystems; the two initiatives are not identical.",
+    "mains": "Evaluate semiconductor resilience beyond subsidy totals: skills, water, power, IP and downstream demand.",
+    "sources": [
+      "B26"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-039",
+    "subject": "Andhra Pradesh",
+    "block": "05 · Minerals & industrial corridors",
+    "date": "2026-02-01",
+    "title": "Rare Earth Corridors: AP in the Union Budget",
+    "facts": [
+      "Dedicated Rare Earth Corridors proposed for Odisha, Kerala, Andhra Pradesh and Tamil Nadu.",
+      "The stated scope includes mining, processing, research and manufacturing."
+    ],
+    "trap": "A budget-listed corridor does not establish that a particular AP mine or processing plant has received all clearances.",
+    "mains": "Assess coastal mineral development through value addition, radiation safety where relevant, ecology and local livelihoods.",
+    "sources": [
+      "B26"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-040",
+    "subject": "Environment",
+    "block": "04 · Climate technology",
+    "date": "2026-02-01",
+    "title": "CCUS: Budget 2026 funding proposal",
+    "facts": [
+      "Union Budget announced ₹20,000 crore over five years for Carbon Capture, Utilization and Storage technologies."
+    ],
+    "trap": "Capture, utilisation and permanent geological storage are not equivalent climate outcomes.",
+    "mains": "Evaluate CCUS through lifecycle emissions, permanence, energy penalty, cost and hard-to-abate sector needs.",
+    "sources": [
+      "B26"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-041",
+    "subject": "Economy",
+    "block": "03 · Industry & MSMEs",
+    "date": "2026-02-01",
+    "title": "SME Growth Fund and legacy industrial clusters",
+    "facts": [
+      "Budget proposed ₹10,000 crore SME Growth Fund.",
+      "A separate proposal covers revival of 200 legacy industrial clusters.",
+      "Additional ₹2,000 crore proposed for the Self-Reliant India Fund."
+    ],
+    "trap": "Do not aggregate distinct funds as if they were one scheme with common eligibility.",
+    "mains": "Compare equity support with credit guarantees and common infrastructure as MSME policy tools.",
+    "sources": [
+      "B26"
+    ],
+    "priority": "P2",
+    "ap": false,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-042",
+    "subject": "Andhra Pradesh",
+    "block": "01 · State economy & budget",
+    "date": "2026-02-28",
+    "title": "AP Budget 2026–27: selected allocations",
+    "facts": [
+      "PRS analysis records ₹6,105 crore for the Polavaram dam project and ₹6,000 crore for Amaravati Capital City Development.",
+      "It lists ₹6,600 crore for Annadata Sukhibhava and ₹1,420 crore for Stree Shakti free bus travel for women."
+    ],
+    "trap": "Month-end indexing date only: exact presentation day not checked in this note. Allocations do not demonstrate project completion or beneficiary payment.",
+    "mains": "Compare welfare and infrastructure spending using outcomes, execution capacity and recurrent fiscal liabilities.",
+    "sources": [
+      "AP26"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "PRS table checked; event day pending",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-043",
+    "subject": "Polity & Governance",
+    "block": "03 · Fiscal federalism",
+    "date": "2026-11-05",
+    "title": "Advance tax devolution: national and AP figures",
+    "facts": [
+      "Union released ₹1,09,019 crore as the regular November tax-devolution instalment on 5 November instead of the normal 10 November date.",
+      "The PIB state-wise table lists ₹4,597 crore for Andhra Pradesh and ₹2,370 crore for Telangana."
+    ],
+    "trap": "This was an advance of the regular instalment, not a newly announced additional grant or revised devolution formula.",
+    "mains": "Separate predictability of state cash flows from the constitutional and Finance Commission framework for tax sharing.",
+    "sources": [
+      "NOV"
+    ],
+    "priority": "P1",
+    "ap": true,
+    "status": "Historical source checked",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "CA-044",
+    "subject": "Polity & Governance",
+    "block": "04 · Law & rights",
+    "date": "2025-04-05",
+    "title": "Waqf Amendment Act 2025: assent milestone",
+    "facts": [
+      "Gazette text records Presidential assent on 5 April 2025, Act No.14 of 2025.",
+      "The Act amended the Waqf Act, 1995 and included provisions for a portal/database and filing property details."
+    ],
+    "trap": "Assent is not automatically commencement; later Supreme Court orders and operational deadlines must be checked before a current-law answer.",
+    "mains": "Frame a balanced answer around religious freedom, property administration, due process and judicial review.",
+    "sources": [
+      "LAW"
+    ],
+    "priority": "P1",
+    "ap": false,
+    "status": "Historical Act checked; current litigation status pending",
+    "checked": "2026-11-06"
+  }
+]

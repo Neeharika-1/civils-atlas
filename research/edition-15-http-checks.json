@@ -1,0 +1,32 @@
+[
+  {
+    "path": "index.html",
+    "status": 200,
+    "bytes": 3268158
+  },
+  {
+    "path": "volumes/August-2026-Study-Volume.pdf",
+    "status": 200,
+    "bytes": 263042
+  },
+  {
+    "path": "volumes/August-2026-Study-Volume.docx",
+    "status": 200,
+    "bytes": 93487
+  },
+  {
+    "path": "volumes/August-2026-Mains-Frameworks.md",
+    "status": 200,
+    "bytes": 8328
+  },
+  {
+    "path": "research/Research-Status.md",
+    "status": 200,
+    "bytes": 6996
+  },
+  {
+    "path": "data/source-access.json",
+    "status": 200,
+    "bytes": 248636
+  }
+]

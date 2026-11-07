@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "questions": 30,
+  "answer_positions": {
+    "C": 7,
+    "A": 8,
+    "D": 7,
+    "B": 8
+  },
+  "comparison": "Every selected option compared with original constructor answer text after typography-only normalisation",
+  "scope": "Author-key consistency, not independent factual certification"
+}

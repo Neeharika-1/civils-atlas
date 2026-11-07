@@ -1,0 +1,392 @@
+[
+  {
+    "id": "NOV26-01",
+    "question": "How should the 5 November tax release be classified?",
+    "options": [
+      "Proof all states had already spent the amount",
+      "An early release of the regular November instalment",
+      "A new horizontal-sharing formula",
+      "A new discretionary grant outside regular devolution"
+    ],
+    "answer": 1,
+    "explanation": "The primary release advances the normally 10 November instalment of ₹1,09,019 crore to 5 November. Timing changes, not a verified additional entitlement.",
+    "ref": "CA-043"
+  },
+  {
+    "id": "NOV26-02",
+    "question": "Which AP/Telangana devolution pairing is correct?",
+    "options": [
+      "AP ₹2,370 crore; Telangana ₹4,597 crore",
+      "AP ₹1,09,019 crore; Telangana nil",
+      "AP ₹4,597 crore; Telangana ₹2,370 crore",
+      "Both states receive identical ₹4,597 crore"
+    ],
+    "answer": 2,
+    "explanation": "The inspected state table distinguishes the two states. A union release is separate from subsequent departmental allotment and actual expenditure.",
+    "ref": "CA-043"
+  },
+  {
+    "id": "NOV26-03",
+    "question": "Which distinguishes the proposed 8th Economic Census correctly?",
+    "options": [
+      "It is the eighth Census of all people in independent India",
+      "It concerns non-farm establishments, not a population headcount",
+      "It has already published every district’s revised GDP",
+      "It automatically replaces every sample survey"
+    ],
+    "answer": 1,
+    "explanation": "VISTAR’s Economic Census component supports establishment-level information and a statistical business register. Planned surveys and data architecture are not completed results.",
+    "ref": "E18-2611-001"
+  },
+  {
+    "id": "NOV26-04",
+    "question": "What is VISTAR’s approved outlay and scheme type?",
+    "options": [
+      "₹4,371.10 crore; central-sector scheme",
+      "₹3,788.04 crore; exclusively state-funded scheme",
+      "₹14,500 crore; universal individual cash transfer",
+      "₹2,814 crore; already completed Economic Census"
+    ],
+    "answer": 0,
+    "explanation": "The 4 November release gives the precise outlay for 2026–31. State statistical strengthening is one component, but this does not turn the programme into the distinct FTSC centrally sponsored scheme.",
+    "ref": "E18-2611-001"
+  },
+  {
+    "id": "NOV26-05",
+    "question": "Which pairing correctly distinguishes existing and proposed FTSC capacity?",
+    "options": [
+      "779 exclusive POCSO courts in each district",
+      "850 existing; expansion to 779",
+      "850 new courts in every state",
+      "779 functional courts; provision to expand to 850"
+    ],
+    "answer": 3,
+    "explanation": "The release’s existing functional total includes 399 exclusive POCSO courts. The 850 target is total proposed scheme capacity, not additional courts or proof of filled posts.",
+    "ref": "E18-2611-002"
+  },
+  {
+    "id": "NOV26-06",
+    "question": "How is the FTSC continuation financed?",
+    "options": [
+      "Only by private insurance companies",
+      "Entirely by a new levy on all schools",
+      "Exclusively by every victim’s court fee",
+      "Central and state/UT shares, with the central share from Nirbhaya Fund"
+    ],
+    "answer": 3,
+    "explanation": "The ₹3,788.04 crore total comprises central ₹2,353.15 crore and state/UT ₹1,434.89 crore. Funding, functional staffing and quality outcomes require separate evaluation.",
+    "ref": "E18-2611-002"
+  },
+  {
+    "id": "NOV26-07",
+    "question": "What is the planned processing-plant mix under critical-mineral capex support?",
+    "options": [
+      "Two cobalt-only mines and two graphite refineries",
+      "Four lithium mines and no processing plants",
+      "Two lithium and two nickel plants",
+      "Four operating plants already delivering cells"
+    ],
+    "answer": 2,
+    "explanation": "The scheme targets processing rather than merely mine allocation. Cobalt may arise as a nickel by-product; eligible plant support is not a claim of completed commissioning.",
+    "ref": "E18-2611-003"
+  },
+  {
+    "id": "NOV26-08",
+    "question": "Which preserves the capex-support limits?",
+    "options": [
+      "100% of every cost without milestones",
+      "₹500 crore for nickel and ₹900 crore for lithium",
+      "30% of eligible investment, capped at ₹500 crore for lithium and ₹900 crore for nickel per beneficiary",
+      "A uniform guaranteed ₹2,814 crore for each applicant"
+    ],
+    "answer": 2,
+    "explanation": "Technical qualification and least-support financial bidding precede selection, and disbursement is milestone-linked. Caps are not automatic entitlements or total private investment.",
+    "ref": "E18-2611-003"
+  },
+  {
+    "id": "NOV26-09",
+    "question": "Which storage mix totals the approved 92 GWh target?",
+    "options": [
+      "30 GWh pumped storage + 60 GWh BESS + 20 GWh others",
+      "60 GWh pumped storage + 30 GWh BESS + 2 GWh others",
+      "60 GW batteries + 30 GW solar + 2 GW coal",
+      "92 GWh already commissioned on approval day"
+    ],
+    "answer": 1,
+    "explanation": "GWh measures stored energy, not power. The release explicitly describes yet-to-be-commissioned capacity and distinguishes ₹14,500 crore support from estimated ₹97,600 crore investment.",
+    "ref": "E18-2611-004"
+  },
+  {
+    "id": "NOV26-10",
+    "question": "Which domestic-content condition is explicitly described for BESS?",
+    "options": [
+      "No domestic-content requirement for any project",
+      "A requirement that 40% of every state’s electricity be stored",
+      "A minimum 40% domestic-content requirement",
+      "A universal 100% local-content certificate already issued"
+    ],
+    "answer": 2,
+    "explanation": "The requirement attaches to BESS projects under the described scheme; it is not proof of compliance, an entire grid’s energy share or universal project commissioning.",
+    "ref": "E18-2611-004"
+  },
+  {
+    "id": "NOV26-11",
+    "question": "What is the sound legal interpretation of the PAC conference resolution?",
+    "options": [
+      "A collective oversight commitment, not automatic amendment of every legislature’s rules",
+      "A transfer of the CAG’s constitutional role to private auditors",
+      "Proof every state PAC now meets three times monthly",
+      "An automatic final conviction for every audit observation"
+    ],
+    "answer": 0,
+    "explanation": "The resolution seeks action-taken timelines, digital monitoring, capacity building and consideration of meeting frequency. Audit, committee scrutiny, executive response and legal responsibility differ.",
+    "ref": "E18-2611-005"
+  },
+  {
+    "id": "NOV26-12",
+    "question": "How does the Network Anubhav release describe P80 for mobile speed?",
+    "options": [
+      "80% of every subscriber’s bill is refunded",
+      "80% of tests were at or above the stated speed",
+      "Exactly 80% of every user’s data is private",
+      "It guarantees a minimum speed to every household"
+    ],
+    "answer": 1,
+    "explanation": "The source uses an exceedance convention and warns that user-generated tests are not comprehensive standard-method quality assessment. Do not silently substitute a different percentile convention or population denominator.",
+    "ref": "E18-2611-006"
+  },
+  {
+    "id": "NOV26-13",
+    "question": "Which preserves the human-assistance distinction in telecom grievance support?",
+    "options": [
+      "Human staffing exactly 24 hours under every circumstance",
+      "All appeals decided exclusively by unsupervised AI",
+      "Only 16 hours of any support, with no other channel",
+      "Round-the-clock support, with human help at least 16 hours daily"
+    ],
+    "answer": 3,
+    "explanation": "The release permits supervised technology-based solutions, accessible channels and oversight. The filing and decision timelines are separate from staffing requirements; the full regulation’s operative details still require checking.",
+    "ref": "E18-2611-007"
+  },
+  {
+    "id": "NOV26-14",
+    "question": "Which pair of appeal periods is described in the release?",
+    "options": [
+      "Only a quarterly window to file any appeal",
+      "Filing within 15 days after disposal; decision within 15 days of receipt",
+      "Filing and decision both fixed at one hour",
+      "Filing within 30 years; decision without a deadline"
+    ],
+    "answer": 1,
+    "explanation": "The described filing window changes from 30 to 15 days; the internal appellate authority’s decision period is separately measured from receipt. This note does not independently certify every exception/commencement clause.",
+    "ref": "E18-2611-007"
+  },
+  {
+    "id": "NOV26-15",
+    "question": "What remains necessary during international Digi Yatra trials?",
+    "options": [
+      "Universal use at every AP airport",
+      "An automatic right to enter any foreign country",
+      "Only a selfie, with no passport or visa requirements",
+      "Travel documents and mandatory airline/immigration formalities"
+    ],
+    "answer": 3,
+    "explanation": "Trials cover eligible Indian e-passport holders on selected flights at seven named airports. A device credential complements, not replaces, lawful travel procedures.",
+    "ref": "E18-2611-008"
+  },
+  {
+    "id": "NOV26-16",
+    "question": "Which is correct about VAJRA-SAT and FMD SAT-1?",
+    "options": [
+      "It certified every animal in India disease-free",
+      "It was preparedness; the release says SAT-1 had not been reported in India",
+      "It declared a confirmed SAT-1 outbreak in every state",
+      "It concerned human hand-foot-and-mouth disease only"
+    ],
+    "answer": 1,
+    "explanation": "The 4–5 November tabletop exercise rehearses detection, laboratory confirmation and coordinated response. Simulation, serotype status and actual outbreak evidence must not be conflated.",
+    "ref": "E18-2611-009"
+  },
+  {
+    "id": "NOV26-17",
+    "question": "What does SUVIKALP’s TOPSIS output establish?",
+    "options": [
+      "An automatic environmental clearance",
+      "Proof every abandoned mine has been restored",
+      "A new title deed for every affected resident",
+      "A ranking based on the chosen criteria and inputs"
+    ],
+    "answer": 3,
+    "explanation": "Decision support requires transparent weights, site evidence and community participation. Feasibility, permission, finance, implementation and remediation outcomes remain separate stages.",
+    "ref": "E18-2611-010"
+  },
+  {
+    "id": "NOV26-18",
+    "question": "Which condition survives in the Agniveer pathway announcement?",
+    "options": [
+      "Willingness and meeting selection criteria for later regular enrolment",
+      "No additional engagement period for the remaining group",
+      "Abolition of the initial merit-based 25% pathway",
+      "Unconditional immediate regular appointment for everyone"
+    ],
+    "answer": 0,
+    "explanation": "The 4 November release retains the initial merit-based regular intake and provides a willing remaining group another two years, followed by a conditional regular-enrolment pathway. Service orders remain necessary for individual terms.",
+    "ref": "E18-2611-011"
+  },
+  {
+    "id": "NOV26-19",
+    "question": "Which shipbuilder allocation matches the corvette contracts?",
+    "options": [
+      "Five submarines and three carriers",
+      "GRSE three; GSL five",
+      "GRSE five; GSL three",
+      "Eight ships all already delivered by Visakhapatnam yard"
+    ],
+    "answer": 2,
+    "explanation": "The ₹53,866.50 crore contracts were signed on 2 November. This is beyond AoN but not construction completion, delivery or commissioning; forecast person-days are not permanent job counts.",
+    "ref": "E18-2611-012"
+  },
+  {
+    "id": "NOV26-20",
+    "question": "What does the Pralay release establish?",
+    "options": [
+      "A successful user-evaluation test, with induction described as imminent",
+      "A cruise-missile test at an AP launch site",
+      "An independent audit of performance under every condition",
+      "Completed combat deployment in every command"
+    ],
+    "answer": 0,
+    "explanation": "The test took place off Odisha on 5 November, with RCI Hyderabad and BDL roles described. The note does not invent ranges/warheads or convert imminent induction into completed deployment.",
+    "ref": "E18-2611-013"
+  },
+  {
+    "id": "NOV26-21",
+    "question": "What follows from I-OECM recognition?",
+    "options": [
+      "It does not itself change ownership or create a protected area",
+      "Every recognised site automatically becomes a national park",
+      "Every parcel in a demonstration landscape has already been recognised",
+      "Every private title is automatically extinguished"
+    ],
+    "answer": 0,
+    "explanation": "The guidelines’ release distinguishes sustained biodiversity outcomes, existing governance, application review and monitoring. Srisailam–Cumbum’s landscape inclusion is not blanket parcel-level designation.",
+    "ref": "E18-2611-014"
+  },
+  {
+    "id": "NOV26-22",
+    "question": "What is the temporal caution for anti-cancer prices?",
+    "options": [
+      "All future price effects were already audited by 7 November",
+      "The update cancels every clinical prescription",
+      "The 7 November update states revised prices take effect on 9 November",
+      "The highest reported brand reduction applies equally to every drug"
+    ],
+    "answer": 2,
+    "explanation": "The underlying October NPPA order is discussed through a 7 November release, with 9 November effect. Projected savings and reported formulation MRPs are not universal realised treatment-cost reductions.",
+    "ref": "E18-2611-015"
+  },
+  {
+    "id": "NOV26-23",
+    "question": "Which correctly distinguishes the 6 November electronics announcements?",
+    "options": [
+      "Semicon portal pillars 2/3/4 and 12 additional ECMS approvals are separate measures",
+      "All 12 ECMS applicants are already operating semiconductor fabs",
+      "Projected investment equals audited government spending",
+      "Every listed new ECMS state is Andhra Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "The new ECMS batch has projected ₹7,503 crore investment and seven listed states excluding AP. Portal access, approval, commissioning and output remain distinct.",
+    "ref": "E18-2611-016"
+  },
+  {
+    "id": "NOV26-24",
+    "question": "Which is a valid caution about EKA-1 and Dhīr?",
+    "options": [
+      "Parameter/language claims and offline capability do not prove safety or factual accuracy",
+      "A ministry release is an independent audit of all licences and benchmarks",
+      "Every model supports exactly the same languages and architecture",
+      "On-device deployment makes hallucination impossible"
+    ],
+    "answer": 0,
+    "explanation": "The release describes different developers, sizes and language coverage. Model cards, weights, licence and actual Telugu/task performance require independent evaluation.",
+    "ref": "E18-2611-017"
+  },
+  {
+    "id": "NOV26-25",
+    "question": "Which avoids overclaiming BIMSTEC participation?",
+    "options": [
+      "The exercise creates an automatic collective-defence treaty",
+      "Landlocked countries cannot belong to BIMSTEC",
+      "BIMSTEC contains only three countries",
+      "Seven members do not imply seven navies each sent a ship"
+    ],
+    "answer": 3,
+    "explanation": "The 6 November release lists ships and delegations separately for the 30 October–3 November event. Regional cooperation, participation and treaty obligations differ.",
+    "ref": "E18-2611-018"
+  },
+  {
+    "id": "NOV26-26",
+    "question": "What did Tiger Triumph’s inspected conclusion release describe?",
+    "options": [
+      "Proof foreign forces conducted the state’s Murasu rescue",
+      "An independently confirmed joint combat operation in AP",
+      "A new exercise with no pre-2026 history",
+      "India–US tri-service HADR staff/tabletop work, ending at Visakhapatnam on 5 November"
+    ],
+    "answer": 3,
+    "explanation": "The fifth edition ran 31 October–5 November; the release was dated 6 November. Planning/simulation and an actual disaster deployment are not the same activity.",
+    "ref": "E18-2611-019"
+  },
+  {
+    "id": "NOV26-27",
+    "question": "What does the ₹218 crore RINL figure represent in the inspected release?",
+    "options": [
+      "A verified third-round auction already completed",
+      "Successful Phase-II bids for 114 land parcels",
+      "Independently audited final cash receipts for the entire steel plant",
+      "A state pension allocation for 114 households"
+    ],
+    "answer": 1,
+    "explanation": "Land monetisation differs from enterprise disinvestment. The combined two-phase bid value is ₹584.33 crore for 264 parcels; payment and transfer were not independently inspected.",
+    "ref": "E18-2611-020"
+  },
+  {
+    "id": "NOV26-28",
+    "question": "Why should ₹4,600 crore not be silently assigned to Murasu?",
+    "options": [
+      "The cited approaching-storm report’s paragraph concerned preceding Arnab damage",
+      "It was proved to be Murasu’s final audited loss",
+      "It is a universally fixed compensation for each cyclone",
+      "Every newspaper’s newest number replaces all earlier records automatically"
+    ],
+    "answer": 0,
+    "explanation": "Consecutive events and evolving assessments need named event, date and attribution. Murasu’s early approximately ₹1,919 crore snapshots also differ slightly and remain preliminary.",
+    "ref": "E18-2611-021"
+  },
+  {
+    "id": "NOV26-29",
+    "question": "Which arithmetic matches the reported ₹37 crore emergency allocation?",
+    "options": [
+      "₹37 crore of verified central assistance for every district",
+      "6×₹3 crore + 8×₹2 crore + 3×₹1 crore",
+      "17×₹37 crore",
+      "6×₹2 crore + 8×₹3 crore + 3×₹3 crore"
+    ],
+    "answer": 1,
+    "explanation": "The district groups total 17, and ₹18+₹16+₹3=₹37 crore. State release, district expenditure and a subsequent central-assistance request are different stages.",
+    "ref": "E18-2611-022"
+  },
+  {
+    "id": "NOV26-30",
+    "question": "What is the sound handling of differing horticulture-loss estimates?",
+    "options": [
+      "Add both reports to double the affected area",
+      "Average them into an invented official revision",
+      "Keep source/date snapshots distinct pending verification",
+      "Treat affected hectares as identical to compensation already paid"
+    ],
+    "answer": 2,
+    "explanation": "IANS’s letter account and TNIE/PTI’s review snapshot give different horticulture figures. Original surveys and final accounts remain unread; area, farmer counts, loss value and entitlements differ.",
+    "ref": "E18-2611-024"
+  }
+]

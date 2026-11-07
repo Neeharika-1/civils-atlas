@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "What did the February 2025 MPC decide?",
+    "options": [
+      "Cut repo to 6.25% and retain neutral stance",
+      "Cut repo to 6% and adopt accommodative stance",
+      "Abolish the repo corridor",
+      "Raise repo to 6.75%"
+    ],
+    "answer": 0,
+    "explanation": "February brought a 25-basis-point cut to 6.25%, with a neutral stance. The 6% accommodative decision belongs to April.",
+    "ref": "FEB25-001",
+    "options_shuffled": true
+  },
+  {
+    "id": 2,
+    "question": "The February GDP release’s FY2024–25 real growth estimate of 6.5% was a:",
+    "options": [
+      "Final census finding",
+      "Second advance estimate",
+      "Monthly industrial-production rate",
+      "Nominal AP GSDP forecast"
+    ],
+    "answer": 1,
+    "explanation": "The release combined Q3 national accounts with the second advance estimate; estimates can later be revised.",
+    "ref": "FEB25-002",
+    "options_shuffled": true
+  },
+  {
+    "id": 3,
+    "question": "The Income-Tax Bill’s February milestone was:",
+    "options": [
+      "Repeal of all indirect taxes",
+      "Universal commencement",
+      "Approval by the GST Council",
+      "Introduction in Lok Sabha"
+    ],
+    "answer": 3,
+    "explanation": "The Bill was introduced in February. Parliamentary introduction must not be confused with enactment or commencement.",
+    "ref": "FEB25-004",
+    "options_shuffled": true
+  },
+  {
+    "id": 4,
+    "question": "NAKSHA is most directly associated with:",
+    "options": [
+      "Urban land-record surveying",
+      "Crop insurance premium payment",
+      "Deep-sea mining licences",
+      "Lunar navigation"
+    ],
+    "answer": 0,
+    "explanation": "The pilot concerns urban land records. Surveying does not by itself settle every title dispute.",
+    "ref": "FEB25-013",
+    "options_shuffled": true
+  },
+  {
+    "id": 5,
+    "question": "Which is the safest interpretation of the February insurance FDI announcement?",
+    "options": [
+      "Foreign ownership was banned",
+      "100% was proposed with specified conditions",
+      "It applied only to public-sector banks",
+      "Every condition was abolished immediately"
+    ],
+    "answer": 1,
+    "explanation": "The Budget proposed a conditional increase; a speech is not sufficient proof of the operative legal framework.",
+    "ref": "FEB25-023",
+    "options_shuffled": true
+  },
+  {
+    "id": 6,
+    "question": "Why can Budget capex allocations not be reported as completed development?",
+    "options": [
+      "Budgets are confidential",
+      "Allocation, release, expenditure and outcome are distinct stages",
+      "Capex never creates assets",
+      "All capital projects are centrally owned"
+    ],
+    "answer": 1,
+    "explanation": "The fiscal pipeline must be tracked stage by stage. An announced allocation is not verified spending or completion.",
+    "ref": "FEB25-046",
+    "options_shuffled": true
+  },
+  {
+    "id": 7,
+    "question": "Which geography is correctly matched?",
+    "options": [
+      "Makhana Board proposal—Bihar",
+      "Aero India—Chennai",
+      "Parvati Arga—Kerala",
+      "SLBC collapse—Andhra Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "The Makhana Board proposal was for Bihar. Parvati Arga is in UP, Aero India was at Yelahanka and SLBC is in Telangana.",
+    "ref": "FEB25-020",
+    "options_shuffled": true
+  },
+  {
+    "id": 8,
+    "question": "SWAMIH Fund 2 was proposed principally to:",
+    "options": [
+      "Construct only rural roads",
+      "Finance completion of stressed housing projects",
+      "Replace municipal property taxation",
+      "Subsidise all new luxury homes"
+    ],
+    "answer": 1,
+    "explanation": "Completion finance addresses stalled housing; it is not an unrestricted subsidy for every housing project.",
+    "ref": "FEB25-018",
+    "options_shuffled": true
+  },
+  {
+    "id": 9,
+    "question": "In the Maritime Development Fund proposal, the government contribution was to be:",
+    "options": [
+      "100%",
+      "Exactly zero",
+      "At least 90%",
+      "Up to 49%"
+    ],
+    "answer": 3,
+    "explanation": "The ₹25,000 crore proposal envisaged up to 49% government contribution, with other participation.",
+    "ref": "FEB25-016",
+    "options_shuffled": true
+  },
+  {
+    "id": 10,
+    "question": "Gyan Bharatam primarily addresses:",
+    "options": [
+      "Fisheries monitoring",
+      "Retail bank accounts",
+      "Manuscript survey, documentation and conservation",
+      "Satellite launches"
+    ],
+    "answer": 2,
+    "explanation": "The proposed mission concerns manuscript heritage, not just a modern digital literacy campaign.",
+    "ref": "FEB25-014",
+    "options_shuffled": true
+  },
+  {
+    "id": 11,
+    "question": "The CBSE February two-examination framework should be described as:",
+    "options": [
+      "A compulsory third Class XII exam already conducted",
+      "A draft Class X policy for consultation",
+      "A UGC postgraduate reform",
+      "Repeal of board examinations"
+    ],
+    "answer": 1,
+    "explanation": "The February document was a draft concerning two Class X opportunities from the proposed 2026 cycle.",
+    "ref": "FEB25-007",
+    "options_shuffled": true
+  },
+  {
+    "id": 12,
+    "question": "Why is the AP GSDP projection not interchangeable with real national GDP growth?",
+    "options": [
+      "State figures cannot be estimated",
+      "It measures only agriculture",
+      "It was nominal and state-specific",
+      "Nominal growth excludes prices"
+    ],
+    "answer": 2,
+    "explanation": "The AP projection is a current-price state aggregate. Real growth strips out price changes and concerns a different geographical aggregate.",
+    "ref": "CA-017",
+    "options_shuffled": true
+  },
+  {
+    "id": 13,
+    "question": "The new-regime income-tax rebate headline should not be interpreted as:",
+    "options": [
+      "Different from the standard deduction",
+      "A conditional benefit under the new regime",
+      "A universal zero-tax rule for every kind of income under every regime",
+      "Subject to applicable income and tax rules"
+    ],
+    "answer": 2,
+    "explanation": "The ₹12 lakh headline has regime and income-category qualifications; standard deduction is a separate mechanism.",
+    "ref": "CA-003",
+    "options_shuffled": true
+  },
+  {
+    "id": 14,
+    "question": "Manipur’s February President’s Rule is associated principally with:",
+    "options": [
+      "Article 280",
+      "Article 356",
+      "Article 110",
+      "Article 21"
+    ],
+    "answer": 1,
+    "explanation": "Article 356 concerns failure of constitutional machinery in states. The assembly was kept under suspended animation.",
+    "ref": "FEB25-026",
+    "options_shuffled": true
+  },
+  {
+    "id": 15,
+    "question": "What was the February status of the Tamil Nadu Governor’s Bills case?",
+    "options": [
+      "Judgment reserved, not the later April ruling",
+      "The issue transferred to RBI",
+      "A constitutional amendment enacted",
+      "Final April ruling already delivered"
+    ],
+    "answer": 0,
+    "explanation": "The Court reserved judgment in February. Do not backdate the April decision.",
+    "ref": "FEB25-028",
+    "options_shuffled": true
+  },
+  {
+    "id": 16,
+    "question": "The Supreme Court’s February action on Lokpal jurisdiction over HC judges was a:",
+    "options": [
+      "New constitutional amendment",
+      "Transfer of judges to the executive",
+      "Final abolition of the Lokpal",
+      "Stay of the impugned order pending examination"
+    ],
+    "answer": 3,
+    "explanation": "An interim stay is not a final merits decision settling every jurisdictional question.",
+    "ref": "FEB25-027",
+    "options_shuffled": true
+  },
+  {
+    "id": 17,
+    "question": "The Rome CBD meeting’s USD 200 billion annual finance figure is best described as:",
+    "options": [
+      "A biodiversity resource-mobilisation goal for 2030",
+      "Cash fully delivered in February",
+      "India’s annual fiscal deficit",
+      "A UN peacekeeping budget"
+    ],
+    "answer": 0,
+    "explanation": "A finance target is not disbursed money. The resumed COP16 also advanced implementation and the Cali Fund.",
+    "ref": "FEB25-030",
+    "options_shuffled": true
+  },
+  {
+    "id": 18,
+    "question": "Cali Fund discussions concern benefit sharing associated with:",
+    "options": [
+      "Nuclear fuel imports",
+      "Digital sequence information on genetic resources",
+      "Domestic income tax",
+      "Only petroleum extraction"
+    ],
+    "answer": 1,
+    "explanation": "DSI benefit sharing links use of genetic information with biodiversity finance and equity.",
+    "ref": "FEB25-030",
+    "options_shuffled": true
+  },
+  {
+    "id": 19,
+    "question": "The first EU AI Act requirements applying in February concerned, among other things:",
+    "options": [
+      "Specified prohibited practices and AI literacy",
+      "A universal ban on machine learning",
+      "All future requirements simultaneously",
+      "Only customs duties"
+    ],
+    "answer": 0,
+    "explanation": "Application is phased. Selected prohibitions and literacy requirements must not be treated as universal full commencement.",
+    "ref": "FEB25-032",
+    "options_shuffled": true
+  },
+  {
+    "id": 20,
+    "question": "The CE20 February milestone was a:",
+    "options": [
+      "Crewed lunar landing",
+      "Ground vacuum-ignition trial",
+      "Demonstration of operational nuclear propulsion",
+      "Successful NISAR launch"
+    ],
+    "answer": 1,
+    "explanation": "The trial supports engine restart capability development; a ground test is not an in-flight restart demonstration.",
+    "ref": "FEB25-033",
+    "options_shuffled": true
+  },
+  {
+    "id": 21,
+    "question": "Euclid’s Einstein ring illustrates:",
+    "options": [
+      "Radioactive decay",
+      "Plate subduction",
+      "Chemical combustion",
+      "Gravitational lensing"
+    ],
+    "answer": 3,
+    "explanation": "Mass curves spacetime and can strongly lens background light; alignment can produce a ring.",
+    "ref": "FEB25-034",
+    "options_shuffled": true
+  },
+  {
+    "id": 22,
+    "question": "Why must the KM3NeT neutrino event and its February announcement be dated separately?",
+    "options": [
+      "The event occurred after publication",
+      "The underlying detection preceded the public announcement",
+      "Neutrinos cannot be observed",
+      "All astronomy dates are arbitrary"
+    ],
+    "answer": 1,
+    "explanation": "The exceptional event was detected earlier, in 2023, and announced in February 2025. Publication date is not detection date.",
+    "ref": "FEB25-035",
+    "options_shuffled": true
+  },
+  {
+    "id": 23,
+    "question": "The WHO Uganda development concerned:",
+    "options": [
+      "Guaranteed approval of all Ebola vaccines",
+      "A malaria-only trial",
+      "Eradication of all haemorrhagic fevers",
+      "A Sudan-virus vaccine efficacy trial"
+    ],
+    "answer": 3,
+    "explanation": "A clinical efficacy trial is a research milestone, not regulatory approval or proven elimination.",
+    "ref": "FEB25-037",
+    "options_shuffled": true
+  },
+  {
+    "id": 24,
+    "question": "A sharply falling estimated impact probability for 2024 YR4 most directly reflects:",
+    "options": [
+      "Updated observations refining orbital uncertainty",
+      "An actual collision in February",
+      "Proof that all future impacts are impossible",
+      "An asteroid changing into a comet"
+    ],
+    "answer": 0,
+    "explanation": "Risk estimates update as observations constrain the orbit. A previous probability is not a deterministic prediction.",
+    "ref": "FEB25-036",
+    "options_shuffled": true
+  },
+  {
+    "id": 25,
+    "question": "A responsible response to AP poultry H5N1 requires:",
+    "options": [
+      "Surveillance, biosecurity and evidence-based food advice",
+      "Ignoring animal-health authorities",
+      "Assuming every respiratory illness is bird flu",
+      "Treating all transmission routes as proved"
+    ],
+    "answer": 0,
+    "explanation": "Animal, human and environmental surveillance are linked. Do not repeat unsupported blanket food bans or unproven causation.",
+    "ref": "FEB25-042",
+    "options_shuffled": true
+  },
+  {
+    "id": 26,
+    "question": "The February SLBC tunnel-collapse site was in:",
+    "options": [
+      "Andhra Pradesh",
+      "Gujarat",
+      "Maharashtra",
+      "Telangana"
+    ],
+    "answer": 3,
+    "explanation": "The collapse was near Domalapenta in Nagarkurnool district, Telangana; AP relevance does not change the location.",
+    "ref": "FEB25-048",
+    "options_shuffled": true
+  },
+  {
+    "id": 27,
+    "question": "Which National Games statement is correct for the February 2025 close?",
+    "options": [
+      "Only Olympic medals were counted",
+      "The Games were held in Germany",
+      "Most total medals necessarily meant first rank",
+      "Services led the medal-table gold count"
+    ],
+    "answer": 3,
+    "explanation": "Medal-table ranking is determined by golds first; total-medal leadership can differ.",
+    "ref": "FEB25-049",
+    "options_shuffled": true
+  },
+  {
+    "id": 28,
+    "question": "Jhumoir Binandini is associated with:",
+    "options": [
+      "Assam’s tea/Adivasi community culture",
+      "Mughal miniature painting only",
+      "Sikkim’s glacial lakes",
+      "Kerala boat races"
+    ],
+    "answer": 0,
+    "explanation": "The event foregrounded the living culture of Assam’s tea communities.",
+    "ref": "FEB25-051",
+    "options_shuffled": true
+  },
+  {
+    "id": 29,
+    "question": "The German February election should not be equated with:",
+    "options": [
+      "A parliamentary electoral event",
+      "The immediate swearing-in of Friedrich Merz",
+      "A dated political snapshot",
+      "A result requiring coalition formation"
+    ],
+    "answer": 1,
+    "explanation": "Election results, coalition agreements, parliamentary election of a chancellor and assumption of office are separate events.",
+    "ref": "FEB25-052",
+    "options_shuffled": true
+  },
+  {
+    "id": 30,
+    "question": "A BE–RE shortfall is most useful for evaluating:",
+    "options": [
+      "Astronomical distance",
+      "The number of Ramsar sites",
+      "Monetary-policy voting",
+      "Budget credibility and implementation assumptions"
+    ],
+    "answer": 3,
+    "explanation": "Budget estimates and revised estimates can reveal revenue optimism, expenditure slippage or changing conditions.",
+    "ref": "FEB25-044",
+    "options_shuffled": true
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "SEP26-01",
+    "question": "Which correctly interprets the Q1 BoP release?",
+    "options": [
+      "The CAD equalled the US$86.1 billion merchandise deficit",
+      "April–June FY2026–27 CAD was US$4.2 billion, or 0.5% of GDP",
+      "The US$8.1 billion reserve entry represented BoP accumulation",
+      "The data measured only September transactions"
+    ],
+    "answer": 1,
+    "explanation": "Goods, services and income jointly determine the current account. The primary table and release show reserve depletion, not accumulation; release month differs from the observation period.",
+    "ref": "E16-2609-001"
+  },
+  {
+    "id": "SEP26-02",
+    "question": "Why should personal-transfer receipts of US$42.9 billion not be equated with net secondary income of US$40.8 billion?",
+    "options": [
+      "A gross receipt measure and a net income-balance measure have different coverage",
+      "They necessarily represent a statistical error",
+      "Their difference is automatically the merchandise deficit",
+      "They are both identical measures of net FDI"
+    ],
+    "answer": 0,
+    "explanation": "Gross receipts and a net account balance are distinct. Preserve definitions and do not mix nonreserve financial flows with reserve-inclusive aggregates.",
+    "ref": "E16-2609-001"
+  },
+  {
+    "id": "SEP26-03",
+    "question": "Under the inspected FAQ’s general eligible P2M rule effective 15 October, what is MDR on a ₹1 lakh transaction?",
+    "options": [
+      "₹300",
+      "₹4,000",
+      "₹400",
+      "₹0 on every merchant transaction"
+    ],
+    "answer": 0,
+    "explanation": "The general rate is 0.4% with a ₹300 cap, reached at ₹75,000. This is merchant MDR subject to category/exemption conditions, not a universal consumer or P2P transfer charge.",
+    "ref": "E16-2609-002"
+  },
+  {
+    "id": "SEP26-04",
+    "question": "Which remains distinct from a merchant MDR under the reviewed UPI FAQ?",
+    "options": [
+      "A cap on the general merchant charge",
+      "Special-category MDR limits",
+      "The merchant acceptance cost on an eligible P2M transaction",
+      "A direct fee on ordinary P2P transfers, which remain free"
+    ],
+    "answer": 3,
+    "explanation": "The FAQ separates free payer/P2P use from selective merchant pricing. It prohibits merchant passthrough, but this does not prove that indirect economic incidence through general prices is impossible.",
+    "ref": "E16-2609-002"
+  },
+  {
+    "id": "SEP26-05",
+    "question": "Which legal-stage statement is correct about IBBI’s personal-guarantor proposals?",
+    "options": [
+      "Publication automatically cancels all guarantees",
+      "The proposed valuation rule guarantees full creditor recovery",
+      "A discussion paper proposes safeguards but is not itself final amended regulations",
+      "Every related party already has nil voting rights solely because a paper was published"
+    ],
+    "answer": 2,
+    "explanation": "The paper discusses related-party voting, avoidance transactions, valuation and creditor reasoning. Comments and later regulatory steps must be distinguished from consultation publication.",
+    "ref": "E16-2609-004"
+  },
+  {
+    "id": "SEP26-06",
+    "question": "Which is the sound interpretation of the reviewed money-mule timelines?",
+    "options": [
+      "They authorise indefinite freezing without notice",
+      "They are PRS-reviewed draft procedures, not verified final universal release deadlines",
+      "They prove every flagged recipient is convicted",
+      "They eliminate the need for bank grievance mechanisms"
+    ],
+    "answer": 1,
+    "explanation": "The RBI release confirms a consultation; detailed procedures were not independently read as a final SOP. Suspicion, debit restriction and criminal conviction remain different stages.",
+    "ref": "E16-2609-005"
+  },
+  {
+    "id": "SEP26-07",
+    "question": "In the state WMA advisory context, SDF refers to what?",
+    "options": [
+      "State Debt Forgiveness",
+      "Sovereign Development Fund",
+      "Standing Deposit Facility in every context",
+      "Special Drawing Facility"
+    ],
+    "answer": 3,
+    "explanation": "The same abbreviation can have context-specific meanings. State liquidity support is repayable and distinct from a fiscal grant; the committee’s recommendations were to be examined, not automatically implemented.",
+    "ref": "E16-2609-006"
+  },
+  {
+    "id": "SEP26-08",
+    "question": "The Gazette’s ₹25,000 figure is best described as what?",
+    "options": [
+      "A mandatory flat ₹25,000 employee contribution",
+      "A guaranteed ₹25,000 monthly pension",
+      "A wage ceiling for the specified Chapter III social-security purpose",
+      "A universal minimum monthly salary"
+    ],
+    "answer": 2,
+    "explanation": "The short notification specifies a statutory coverage ceiling and commencement, not every scheme detail. Wage ceiling, contribution rate, basic pay and pension amount are distinct.",
+    "ref": "E16-2609-007"
+  },
+  {
+    "id": "SEP26-09",
+    "question": "Which statement correctly distinguishes GEC III targets?",
+    "options": [
+      "The targets prove all assets were already commissioned on 30 September",
+      "135 GW concerns renewable evacuation capability and 50 GWh concerns storage energy",
+      "135 GWh is instantaneous generation and 50 GW is annual storage output",
+      "Both figures measure identical quantities"
+    ],
+    "answer": 1,
+    "explanation": "Power and energy are different dimensions. Cabinet approval and a target do not establish installed or operating capacity, state allocations or completed spending.",
+    "ref": "E16-2609-008"
+  },
+  {
+    "id": "SEP26-10",
+    "question": "When do the reviewed e-commerce amendments commence?",
+    "options": [
+      "Immediately on the September notification date",
+      "1 January 2027",
+      "1 April 2027",
+      "Only after every platform voluntarily agrees"
+    ],
+    "answer": 1,
+    "explanation": "The inspected Gazette gives 1 January 2027. The separate food-laboratory amendments commence 1 April 2027; legal instruments should not be mixed.",
+    "ref": "E16-2609-010"
+  },
+  {
+    "id": "SEP26-11",
+    "question": "What is the inspected price-reference rule for a displayed discount?",
+    "options": [
+      "Any historical maximum chosen by the seller",
+      "Always the manufacturer’s highest printed price irrespective of actual pricing",
+      "The prior price is the lowest price in the preceding 30 days",
+      "The average price in the next calendar year"
+    ],
+    "answer": 2,
+    "explanation": "A low prior-price reference helps prevent an inflated base price from manufacturing an apparent discount. It must not be replaced with an unspecified notion of old price.",
+    "ref": "E16-2609-010"
+  },
+  {
+    "id": "SEP26-12",
+    "question": "Which MSP interpretation is correct for the 30 September decision?",
+    "options": [
+      "Wheat ₹2,610 per quintal applies to the 2027–28 rabi marketing season",
+      "The decision itself proves all farmers realised that price",
+      "Every grower is guaranteed unlimited government purchases",
+      "₹2,610 is per tonne for the 2026 kharif season"
+    ],
+    "answer": 0,
+    "explanation": "MSP announcement, procurement access and realised prices differ. The official cost footnote uses paid-out costs plus family labour, not automatically C2.",
+    "ref": "E16-2609-013"
+  },
+  {
+    "id": "SEP26-13",
+    "question": "What does Acceptance of Necessity establish?",
+    "options": [
+      "In-principle procurement approval before later contracting and delivery",
+      "Proof every subsystem has 98% domestic content",
+      "A completed delivery certificate",
+      "An audited payment for all equipment"
+    ],
+    "answer": 0,
+    "explanation": "The DAC headline concerns about ₹1.10 lakh crore of proposals. The planned Indian-industry procurement share is not identical to domestic content in every component.",
+    "ref": "E16-2609-014"
+  },
+  {
+    "id": "SEP26-14",
+    "question": "Which is correct about the food-laboratory amendment?",
+    "options": [
+      "Every food sample has exactly the same five-day deadline",
+      "A late report automatically proves the food is safe",
+      "It commences 1 April 2027, with different specified timelines for import and regulatory/referral reports",
+      "It commenced immediately on 14 September and abolished validated methods"
+    ],
+    "answer": 2,
+    "explanation": "The inspected passage distinguishes 14-day regulatory/referral reporting and five-day import reporting, with reasons for delay. Scientific validity and legal procedure remain essential.",
+    "ref": "E16-2609-016"
+  },
+  {
+    "id": "SEP26-15",
+    "question": "ULPIN/Bhu-Aadhaar principally identifies what?",
+    "options": [
+      "A person’s bank account through 12 digits",
+      "A new currency used for stamp duty",
+      "A land parcel through a 14-digit identifier",
+      "A judicially guaranteed title with no right of appeal"
+    ],
+    "answer": 2,
+    "explanation": "Parcel identification can link records, but does not automatically adjudicate title, remove errors or extinguish other rights.",
+    "ref": "E16-2609-018"
+  },
+  {
+    "id": "SEP26-16",
+    "question": "Which statement about rare-earth magnets is correct?",
+    "options": [
+      "Every geological resource is an economically recoverable reserve",
+      "A November 2025 scheme is a new September 2026 sanction merely because a magazine revisits it",
+      "Ore availability alone does not establish separation, alloy and magnet-manufacturing capability",
+      "All rare-earth minerals can be processed without environmental controls"
+    ],
+    "answer": 2,
+    "explanation": "Strategic capability requires the entire value chain. Historical magazine review should not silently change an approval’s date.",
+    "ref": "E16-2609-022"
+  },
+  {
+    "id": "SEP26-17",
+    "question": "Which is a central limitation of asset tokenisation?",
+    "options": [
+      "A digital token does not by itself cure defects in the underlying legal title",
+      "A token automatically authorises public investment solicitation",
+      "A blockchain entry automatically repeals land law",
+      "Fractional claims remove every custody and fraud risk"
+    ],
+    "answer": 0,
+    "explanation": "Off-chain records, legally enforceable claims, custody, redemption, tax and regulatory jurisdiction remain important. Technical settlement does not equal unquestionable ownership.",
+    "ref": "E16-2609-023"
+  },
+  {
+    "id": "SEP26-18",
+    "question": "Which is correct about bamboo regulation?",
+    "options": [
+      "Bamboo is botanically a hardwood tree",
+      "All harvesting inside forests became unrestricted",
+      "Every bamboo plantation is automatically ecologically beneficial",
+      "The 2017 change concerns bamboo outside forest areas; forest controls are not universally abolished"
+    ],
+    "answer": 3,
+    "explanation": "Botanical classification and legal definitions are distinct. Location, rights, species and supply-chain design matter for lawful and sustainable livelihoods.",
+    "ref": "E16-2609-025"
+  },
+  {
+    "id": "SEP26-19",
+    "question": "Why does Kigali address HFCs?",
+    "options": [
+      "Their climate-warming impact, despite their generally not being ozone-depleting substances",
+      "They exclusively cause ground-level ozone and have no climate relevance",
+      "Kigali immediately bans all cooling equipment",
+      "They are identical to CFCs in every property"
+    ],
+    "answer": 0,
+    "explanation": "The Montreal framework and Kigali connect ozone transition with climate protection, but the physical problems and phasedown obligations must be distinguished.",
+    "ref": "E16-2609-029"
+  },
+  {
+    "id": "SEP26-20",
+    "question": "Which statement about hanging glaciers is correct?",
+    "options": [
+      "Every ice avalanche is a glacial-lake outburst",
+      "Mapped hanging glaciers are necessarily about to collapse",
+      "Every hanging glacier is solely a creation of recent climate change",
+      "They can form naturally, while warming and local physical conditions can affect stability"
+    ],
+    "answer": 3,
+    "explanation": "Geometry, slope, fractures and bed conditions influence hazards. An ice avalanche, GLOF and rain-driven flood are different initiating processes that may cascade.",
+    "ref": "E16-2609-032"
+  },
+  {
+    "id": "SEP26-21",
+    "question": "Why is the lunar far side of interest for early-universe radio observations?",
+    "options": [
+      "The received high-redshift signal must always remain exactly at 21 cm",
+      "It eliminates all instrumental noise and foregrounds",
+      "It is permanently dark and never receives sunlight",
+      "Lunar shielding can reduce terrestrial radio interference"
+    ],
+    "answer": 3,
+    "explanation": "The far side receives sunlight. The 21 cm rest transition is redshifted; calibration and foregrounds remain challenges even with radio shielding.",
+    "ref": "E16-2609-036"
+  },
+  {
+    "id": "SEP26-22",
+    "question": "Which distinction is scientifically correct?",
+    "options": [
+      "Typhoid and non-typhoidal Salmonella are not interchangeable disease categories",
+      "All Salmonella infections are typhoid",
+      "A typhoid case estimate automatically measures non-typhoidal disease",
+      "A typhoid vaccine necessarily prevents every Salmonella infection"
+    ],
+    "answer": 0,
+    "explanation": "Different serovars and syndromes require careful interpretation. A study’s case definition and population cannot be silently changed when reporting its burden estimate.",
+    "ref": "E16-2609-038"
+  },
+  {
+    "id": "SEP26-23",
+    "question": "What follows from a Cabinet agenda discussion of cage culture?",
+    "options": [
+      "Carrying capacity becomes irrelevant",
+      "Site-specific permissions and environmental safeguards still require verification",
+      "Every reservoir automatically receives a legal operating licence",
+      "Traditional fisher access is automatically extinguished"
+    ],
+    "answer": 1,
+    "explanation": "A draft policy or discussion is not a site allotment. Water quality, waste, disease, common-water use and participation need explicit safeguards.",
+    "ref": "E16-2609-045"
+  },
+  {
+    "id": "SEP26-24",
+    "question": "Which statement about a reported ₹94 crore DBT proposal is defensible?",
+    "options": [
+      "DBT means there can be no payment failure",
+      "Eligibility, sanction and actual disbursement must be checked separately",
+      "The amount proves every farmer’s income has doubled",
+      "Every tobacco grower has already received an identical payment"
+    ],
+    "answer": 1,
+    "explanation": "DBT describes a payment mechanism, not automatic universal entitlement or an audited receipt. The reviewed news report did not provide original rules or bank-level verification.",
+    "ref": "E16-2609-047"
+  },
+  {
+    "id": "SEP26-25",
+    "question": "A proposed ₹950 crore utility guarantee is what?",
+    "options": [
+      "A contingent obligation distinct from an immediate ₹950 crore grant",
+      "An automatic waiver of the utility’s debt",
+      "A transaction with no possible fiscal risk",
+      "Proof the transmission asset is commissioned"
+    ],
+    "answer": 0,
+    "explanation": "A guarantee may be called if specified obligations fail. Borrowing, disbursement, project operation and actual state payment are different stages and should be disclosed separately.",
+    "ref": "E16-2609-050"
+  },
+  {
+    "id": "SEP26-26",
+    "question": "Which preserves the Nellore land decision’s reported scope?",
+    "options": [
+      "No land survey or flood-risk assessment can be relevant",
+      "The entire 62.70 acres including the active canal",
+      "Every canal in AP was reclassified",
+      "22.31 of 62.70 acres, retaining active-canal/operational exclusions and a reported 20-foot buffer"
+    ],
+    "answer": 3,
+    "explanation": "The reported Cabinet decision has a limited extent. Reclassification is distinct from allotment, possession and safe construction; the original GO and survey were not independently inspected.",
+    "ref": "E16-2609-051"
+  },
+  {
+    "id": "SEP26-27",
+    "question": "Which four cities are named in the reviewed commissionerate approval?",
+    "options": [
+      "Kadapa, Srikakulam, Ongole and Chittoor",
+      "Tirupati, Guntur, Kurnool and Rajamahendravaram",
+      "Every district headquarters automatically",
+      "Anantapur, Nellore, Eluru and Machilipatnam"
+    ],
+    "answer": 1,
+    "explanation": "The 23 September Cabinet report identifies four cities. Approval does not itself establish final boundaries, commencement, staffing or improved crime outcomes.",
+    "ref": "E16-2609-052"
+  },
+  {
+    "id": "SEP26-28",
+    "question": "How should the reported 19,739 jobs in AP investment approvals be treated?",
+    "options": [
+      "An audited count of permanent government posts",
+      "Potential employment conditional on implementation",
+      "A guaranteed job entitlement for every applicant",
+      "Verified current payroll employment"
+    ],
+    "answer": 1,
+    "explanation": "The ₹22,177.84 crore figure is an approval pipeline. Financial closure, construction, production and sustained work must be separately tracked; unreconciled component totals should not be invented.",
+    "ref": "E16-2609-054"
+  },
+  {
+    "id": "SEP26-29",
+    "question": "What is the increase from ₹904 crore to ₹1,548.98 crore in Amaravati’s reported Critical Infrastructure and Investment Plan (CIIP) estimate?",
+    "options": [
+      "₹644.98 crore, exactly 7.135%",
+      "₹1,548.98 crore, approximately 171% additional area irrigated",
+      "₹904 crore, proving the same amount was wasted",
+      "₹644.98 crore, approximately 71.35%"
+    ],
+    "answer": 3,
+    "explanation": "The increase is ₹644.98 crore, approximately 71.35% of ₹904 crore. CIIP here concerns Amaravati capital-area panchayat infrastructure, not an irrigation project. Arithmetic does not establish the causes of escalation or completed spending; original revised estimates remain unread.",
+    "ref": "E16-2609-056"
+  },
+  {
+    "id": "SEP26-30",
+    "question": "Which statement correctly preserves AP commodity-intervention stages?",
+    "options": [
+      "A 10,000-tonne rice order proves every tonne was purchased and distributed",
+      "The ₹35/kg onion intervention automatically controls every private retail price",
+      "1.20 lakh tonnes of tur dal was requested, not verified as delivered stock",
+      "All requested tur dal was already sold to consumers"
+    ],
+    "answer": 2,
+    "explanation": "Requests, orders, procurement, arrival and retail sale are separate stages. Stage and unit errors are serious even when the headline quantity is remembered.",
+    "ref": "E16-2609-058"
+  }
+]

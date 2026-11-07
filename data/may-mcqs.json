@@ -1,0 +1,392 @@
+[
+  {
+    "id": "MAY-01",
+    "question": "Which statement correctly interprets the May 2025 provisional GDP release?",
+    "options": [
+      "6.5% was the FY2024–25 real GDP growth estimate.",
+      "7.4% was the full-year growth estimate.",
+      "GVA and GDP are necessarily identical.",
+      "6.5% was May 2025 monthly growth."
+    ],
+    "answer": 0,
+    "explanation": "The release reported annual real GDP growth of 6.5% and Q4 growth of 7.4%, using that release vintage.",
+    "ref": "MY25-001"
+  },
+  {
+    "id": "MAY-02",
+    "question": "What was announced in May regarding the India–UK FTA?",
+    "options": [
+      "Conclusion of negotiations, distinct from subsequent treaty implementation.",
+      "Replacement of WTO rules for all Indian trade.",
+      "Immediate universal duty-free entry for every product.",
+      "A general income-tax exemption for every migrant."
+    ],
+    "answer": 0,
+    "explanation": "Negotiation conclusion, signature and entry into force are different milestones. Social-security contribution arrangements are not general tax exemptions.",
+    "ref": "MY25-002"
+  },
+  {
+    "id": "MAY-03",
+    "question": "India–Chile terms of reference primarily represent:",
+    "options": [
+      "An agreed framework for negotiations.",
+      "A fully operative customs union.",
+      "The completion of all CEPA tariff concessions.",
+      "A common currency."
+    ],
+    "answer": 0,
+    "explanation": "Terms of reference set scope; they do not establish that a CEPA has entered into force.",
+    "ref": "MY25-003"
+  },
+  {
+    "id": "MAY-04",
+    "question": "RoDTEP is best understood as:",
+    "options": [
+      "Remission of eligible embedded taxes not refunded elsewhere.",
+      "A cash grant unrelated to embedded levies.",
+      "An exemption from all foreign import duties.",
+      "A guaranteed purchase of every export consignment."
+    ],
+    "answer": 0,
+    "explanation": "Its objective is remission of embedded duties and taxes, subject to eligibility and rates. May restoration for categories took effect from June.",
+    "ref": "MY25-004"
+  },
+  {
+    "id": "MAY-05",
+    "question": "Under revised CGSS provisions, ₹20 crore refers to:",
+    "options": [
+      "The minimum capital for all firms.",
+      "The stated maximum guarantee cover per borrower.",
+      "A universal grant to every startup.",
+      "A cancellation of every startup debt."
+    ],
+    "answer": 1,
+    "explanation": "Guarantees support eligible lending and do not remove borrower repayment duties or underwriting requirements.",
+    "ref": "MY25-005"
+  },
+  {
+    "id": "MAY-06",
+    "question": "Does an MSP announcement establish that all output is procured?",
+    "options": [
+      "No; procurement access and actual purchases are separate.",
+      "Only if the crop is grown in Andhra Pradesh.",
+      "Yes, private trade is automatically prohibited.",
+      "Yes, every farmer must sell all output to the Union."
+    ],
+    "answer": 0,
+    "explanation": "Announced support prices do not themselves prove universal procurement or a legal buying obligation for every unit.",
+    "ref": "MY25-006"
+  },
+  {
+    "id": "MAY-07",
+    "question": "Which terms are explicitly described in the 28 May MISS continuation release?",
+    "options": [
+      "Eligible crop KCC loans up to ₹3 lakh at 7%, with prompt-repayment incentive.",
+      "All borrowers receive a 1.5% final rate.",
+      "No repayment conditions apply.",
+      "Every agricultural loan up to ₹5 lakh at zero interest."
+    ],
+    "answer": 0,
+    "explanation": "The dated release retains the structure; the February Budget enhancement announcement must not be silently substituted for May operational terms.",
+    "ref": "MY25-007"
+  },
+  {
+    "id": "MAY-08",
+    "question": "The Draft Registration Bill consultation proves which of the following?",
+    "options": [
+      "The 1908 Act was already repealed by the draft.",
+      "Proposed registration reforms were opened for public feedback.",
+      "Every land dispute is resolved automatically online.",
+      "Every registered document has guaranteed indefeasible title."
+    ],
+    "answer": 1,
+    "explanation": "A draft is not enacted law, and document registration is not universally a conclusive title guarantee.",
+    "ref": "MY25-008"
+  },
+  {
+    "id": "MAY-09",
+    "question": "A climate-finance taxonomy primarily:",
+    "options": [
+      "Automatically sanctions a bank loan.",
+      "Bans all industrial transition investment.",
+      "Classifies activities according to defined climate criteria.",
+      "Creates a carbon credit for every classified project."
+    ],
+    "answer": 2,
+    "explanation": "Classification can guide finance but is not itself loan approval or credit issuance.",
+    "ref": "MY25-009"
+  },
+  {
+    "id": "MAY-10",
+    "question": "Who chairs the Payments Regulatory Board under the 2025 framework?",
+    "options": [
+      "RBI Governor.",
+      "Comptroller and Auditor General.",
+      "Union Home Secretary.",
+      "Chairperson of SEBI."
+    ],
+    "answer": 0,
+    "explanation": "The RBI Governor chairs it; the board should not be confused with the Monetary Policy Committee.",
+    "ref": "MY25-010"
+  },
+  {
+    "id": "MAY-11",
+    "question": "The May FPI corporate-debt relaxation should be read as:",
+    "options": [
+      "Abolition of all foreign-exchange regulation.",
+      "A ban on all short-term debt.",
+      "Removal of specified general-route limits, not every debt-investment condition.",
+      "Mandatory foreign purchase of government bonds."
+    ],
+    "answer": 2,
+    "explanation": "Investor-level sublimits and aggregate/regulatory conditions are distinct. Avoid treating a targeted relaxation as total deregulation.",
+    "ref": "MY25-011"
+  },
+  {
+    "id": "MAY-12",
+    "question": "A SHAKTI coal linkage is primarily concerned with:",
+    "options": [
+      "Direct household electricity subsidy.",
+      "A universal exemption from emission rules.",
+      "Access to a coal supply allocation.",
+      "Ownership of a distribution company."
+    ],
+    "answer": 2,
+    "explanation": "A fuel linkage differs from a PPA and does not guarantee plant profitability or remove other regulatory duties.",
+    "ref": "MY25-012"
+  },
+  {
+    "id": "MAY-13",
+    "question": "Why does the May Vanashakti note require a legal chronology warning?",
+    "options": [
+      "Later recall and subsequent proceedings mean the May holding is not a timeless current-law certificate.",
+      "Every Supreme Court judgment expires after a month.",
+      "All existing clearances were necessarily cancelled.",
+      "The case concerned only GST."
+    ],
+    "answer": 0,
+    "explanation": "The historical May decision protected previously granted ECs and was followed by further litigation. Read current binding orders before relying on the rule today.",
+    "ref": "MY25-014"
+  },
+  {
+    "id": "MAY-14",
+    "question": "What is the approved total outlay described for ITI upgradation?",
+    "options": [
+      "₹60,000 crore across central, state and industry shares.",
+      "₹60,000 crore entirely spent in May.",
+      "₹20,000 crore entirely from RBI.",
+      "₹10,000 crore entirely from trainees."
+    ],
+    "answer": 0,
+    "explanation": "The scheme comprises ₹30,000 crore central, ₹20,000 crore state and ₹10,000 crore industry shares; approval is not expenditure.",
+    "ref": "MY25-015"
+  },
+  {
+    "id": "MAY-15",
+    "question": "Which feature distinguishes a virtual PPA in the May draft?",
+    "options": [
+      "It requires a dedicated private wire in every case.",
+      "It permits unlimited double counting of RECs.",
+      "It eliminates all market-price risk.",
+      "No physical electricity exchange between its contracting parties."
+    ],
+    "answer": 3,
+    "explanation": "VPPAs separate financial arrangements and environmental attributes from direct physical supply. The May document was a draft.",
+    "ref": "MY25-016"
+  },
+  {
+    "id": "MAY-16",
+    "question": "TRAI’s May satellite-spectrum document should be described as:",
+    "options": [
+      "Recommendations, distinct from adopted assignment conditions.",
+      "A law passed by Parliament.",
+      "An automatic licence for every company.",
+      "A ban on non-geostationary satellites."
+    ],
+    "answer": 0,
+    "explanation": "A regulator’s recommendations do not prove that all proposed charges and terms have been adopted.",
+    "ref": "MY25-017"
+  },
+  {
+    "id": "MAY-17",
+    "question": "What benefit cap is described in the road-accident treatment scheme?",
+    "options": [
+      "Only preventive screening, not trauma care.",
+      "Unlimited lifetime treatment at any facility.",
+      "Up to ₹1.5 lakh and seven days from the accident, at designated hospitals.",
+      "₹15 lakh for every monthly admission."
+    ],
+    "answer": 2,
+    "explanation": "The amount, time and designated-facility conditions all matter; access depends on implementation.",
+    "ref": "MY25-018"
+  },
+  {
+    "id": "MAY-18",
+    "question": "The ₹58,000-crore Amaravati event package represented:",
+    "options": [
+      "A single hospital procurement.",
+      "A mix of inaugurations, dedications and foundation-stage projects.",
+      "Only completed capital-city buildings.",
+      "Only projects already fully paid for."
+    ],
+    "answer": 1,
+    "explanation": "Event totals must not be mistaken for expenditure or completed operational infrastructure.",
+    "ref": "MY25-019"
+  },
+  {
+    "id": "MAY-19",
+    "question": "Which condition in IBM’s May Quantum Valley announcement is important?",
+    "options": [
+      "Cloud access meant the on-site computer was installed.",
+      "On-site deployment remained subject to licences and definitive agreements.",
+      "156 qubits proved universal fault-tolerant computation.",
+      "The release guaranteed quantum advantage on all workloads."
+    ],
+    "answer": 1,
+    "explanation": "IBM distinguished cloud-resource access from the envisioned physical installation and explicitly noted conditions.",
+    "ref": "MY25-020"
+  },
+  {
+    "id": "MAY-20",
+    "question": "Nagayalanka’s May development concerned:",
+    "options": [
+      "Commercial manufacture of every DRDO missile.",
+      "Commissioning of a civilian airport.",
+      "A new foreign embassy.",
+      "Foundation laying for a missile test range."
+    ],
+    "answer": 3,
+    "explanation": "A test range provides instrumentation and testing infrastructure; foundation laying is not commissioning.",
+    "ref": "MY25-021"
+  },
+  {
+    "id": "MAY-21",
+    "question": "Which chronology is correct for YogAndhra?",
+    "options": [
+      "May campaign launch preceded the June International Yoga Day event.",
+      "The June event occurred before the May campaign.",
+      "The campaign began in January 2024.",
+      "All June attendance figures are May outcomes."
+    ],
+    "answer": 0,
+    "explanation": "Preparation and final mass-event participation are different milestones and should not be backdated.",
+    "ref": "MY25-022"
+  },
+  {
+    "id": "MAY-22",
+    "question": "What was the reported PSLV-C61/EOS-09 outcome on 18 May?",
+    "options": [
+      "First-stage cancellation before liftoff.",
+      "Mission not accomplished following a third-stage anomaly.",
+      "Satellite successfully deployed and delivering operational data.",
+      "A completed lunar landing."
+    ],
+    "answer": 1,
+    "explanation": "The launch occurred, but initial ISRO statements said mission objectives were not accomplished. Preliminary cause reports are not final findings.",
+    "ref": "MY25-023"
+  },
+  {
+    "id": "MAY-23",
+    "question": "Which pairing is correct?",
+    "options": [
+      "Kamala — a space telescope.",
+      "Pusa DST Rice 1 — a wheat-only programme.",
+      "DRR Dhan 100 (Kamala) — ICAR-IIRR, Hyderabad.",
+      "Pusa DST Rice 1 — RBI."
+    ],
+    "answer": 2,
+    "explanation": "Kamala was developed from Samba Mahsuri by IIRR; Pusa DST Rice 1 was developed by IARI from MTU 1010.",
+    "ref": "MY25-024"
+  },
+  {
+    "id": "MAY-24",
+    "question": "WHA adoption of the Pandemic Agreement in May meant:",
+    "options": [
+      "WHO gained unlimited authority to order national lockdowns.",
+      "Further annex and treaty-law steps still remained.",
+      "It immediately bound every WHO member automatically.",
+      "Ratification was legally impossible."
+    ],
+    "answer": 1,
+    "explanation": "Adoption, opening for signature, ratification and entry into force are separate legal stages.",
+    "ref": "MY25-025"
+  },
+  {
+    "id": "MAY-25",
+    "question": "A private member in Parliament is:",
+    "options": [
+      "Only a nominated MP.",
+      "An MP who is not a minister.",
+      "Any employee of a private company.",
+      "Only a member of the opposition."
+    ],
+    "answer": 1,
+    "explanation": "The sponsor’s ministerial status defines the category; PMBs do not automatically escape whips or anti-defection law.",
+    "ref": "MY25-026"
+  },
+  {
+    "id": "MAY-26",
+    "question": "Which denominator is used for the unemployment rate?",
+    "options": [
+      "Total population in every case.",
+      "Only employed persons.",
+      "Labour force.",
+      "Number of registered factories."
+    ],
+    "answer": 2,
+    "explanation": "UR is unemployed as a share of the labour force; LFPR and WPR use population denominators. Reference periods and age groups also matter.",
+    "ref": "MY25-027"
+  },
+  {
+    "id": "MAY-27",
+    "question": "Which treaty–function pairing is correct?",
+    "options": [
+      "Rotterdam — regulation of all nuclear fuel.",
+      "Stockholm — administration of shipping routes.",
+      "Basel — global interest-rate coordination.",
+      "Rotterdam — prior informed consent for listed chemicals."
+    ],
+    "answer": 3,
+    "explanation": "Basel concerns hazardous-waste movement, Rotterdam PIC procedures and Stockholm persistent organic pollutants. Consent is not a blanket ban.",
+    "ref": "MY25-032"
+  },
+  {
+    "id": "MAY-28",
+    "question": "India’s 0.685 HDI value in HDR 2025 refers to:",
+    "options": [
+      "The state HDI of Andhra Pradesh.",
+      "An unemployment rate.",
+      "2023 data in that report.",
+      "May 2025 monthly observations."
+    ],
+    "answer": 2,
+    "explanation": "A report’s publication year differs from its underlying data year. HDI combines health, education and income dimensions.",
+    "ref": "MY25-034"
+  },
+  {
+    "id": "MAY-29",
+    "question": "Which demographic denominator pairing is correct?",
+    "options": [
+      "IMR — deaths per 100,000 total population.",
+      "MMR — maternal deaths per 100,000 live births.",
+      "CBR — births per 100 population.",
+      "MMR — maternal deaths per 1,000 employed women."
+    ],
+    "answer": 1,
+    "explanation": "CBR uses 1,000 population; IMR 1,000 live births; MMR 100,000 live births. The source’s CBR ×100 formula needs correction.",
+    "ref": "MY25-035"
+  },
+  {
+    "id": "MAY-30",
+    "question": "Why is a customised infant gene-editing case not a universal cure?",
+    "options": [
+      "CPS1 is a container-shipping code.",
+      "Somatic editing is necessarily inherited by all offspring.",
+      "Individual evidence does not establish broad or long-term efficacy and safety.",
+      "A single case automatically licenses every application."
+    ],
+    "answer": 2,
+    "explanation": "The therapy targeted a specific variant in liver cells. Generalisation requires appropriate evidence, regulation and follow-up.",
+    "ref": "MY25-037"
+  }
+]

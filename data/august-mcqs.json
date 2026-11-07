@@ -1,0 +1,392 @@
+[
+  {
+    "id": "AUG-01",
+    "question": "Consider the August MPC: (1) Repo remained 5.5%. (2) SDF remained 5.25%. (3) MSF and Bank Rate were 5.25%. Which are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "MSF and Bank Rate were 5.75% in the corroborating resolution account. PRS’s 5.25% MSF figure is not copied as correct.",
+    "ref": "E5-2508-001"
+  },
+  {
+    "id": "AUG-02",
+    "question": "For the August GDP release: (1) Q1 FY2025–26 covers April–June. (2) The 7.8% estimate was real GDP year-on-year growth. (3) It establishes identical income growth for every household. Which are correct?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "Quarter, price basis and vintage matter. GDP aggregates output and is not a guarantee of uniform household income gains.",
+    "ref": "E5-2508-002"
+  },
+  {
+    "id": "AUG-03",
+    "question": "August passage of the replacement income-tax law should be separated from:",
+    "options": [
+      "Withdrawal/replacement of the earlier Bill.",
+      "Tax-drafting simplification.",
+      "July committee scrutiny.",
+      "Its stated 1 April 2026 commencement."
+    ],
+    "answer": 3,
+    "explanation": "Passage is not commencement and does not imply an automatic universal tax-rate cut.",
+    "ref": "E5-2508-003"
+  },
+  {
+    "id": "AUG-04",
+    "question": "Extending specified tax treatment to UPS means:",
+    "options": [
+      "Every pension payment becomes unconditionally exempt.",
+      "A universal pension for all residents.",
+      "The scheme is identical to APY.",
+      "Tax rules change for eligible benefits; scheme eligibility remains separate."
+    ],
+    "answer": 3,
+    "explanation": "Taxation provisions and underlying pension design serve different legal functions.",
+    "ref": "E5-2508-004"
+  },
+  {
+    "id": "AUG-05",
+    "question": "The proposed creditor-initiated IBC route can involve:",
+    "options": [
+      "No default as a prerequisite under any circumstances.",
+      "Automatic liquidation of every business.",
+      "Debtor management continuing under professional oversight.",
+      "Abolition of creditor scrutiny."
+    ],
+    "answer": 2,
+    "explanation": "The Bill’s design distinguishes initiation, control and resolution; introduction/referral is not enactment.",
+    "ref": "E5-2508-005"
+  },
+  {
+    "id": "AUG-06",
+    "question": "RBI’s targeting-framework discussion paper was:",
+    "options": [
+      "Proof headline inflation no longer mattered legally.",
+      "An already binding target of 0%.",
+      "A consultation, not an adopted new inflation target.",
+      "An abolition of CPI data."
+    ],
+    "answer": 2,
+    "explanation": "The existing 4% ±2% framework discussed ran through March 2026; alternative designs remained under review.",
+    "ref": "E5-2508-006"
+  },
+  {
+    "id": "AUG-07",
+    "question": "Regarding FREE-AI: (1) It is a committee report. (2) Every recommendation became binding merely on release. (3) Accuracy alone establishes fairness in lending. Which are correct?",
+    "options": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only",
+      "1 and 2 only"
+    ],
+    "answer": 2,
+    "explanation": "A committee report differs from adopted regulation. Governance also concerns bias, explainability, security, accountability and remedies.",
+    "ref": "E5-2508-007"
+  },
+  {
+    "id": "AUG-08",
+    "question": "A zero-price digital service may still raise competition concerns because:",
+    "options": [
+      "Zero price proves zero consumer costs.",
+      "Privacy, quality and entry barriers are non-price dimensions.",
+      "Network effects cannot affect market entry.",
+      "Competition law concerns only cash prices in all cases."
+    ],
+    "answer": 1,
+    "explanation": "The CCI committee report addressed institutional capacity as well as non-price harm.",
+    "ref": "E5-2508-008"
+  },
+  {
+    "id": "AUG-09",
+    "question": "Regarding the 130th Amendment proposal in the August snapshot: (1) It had been introduced and referred to a Joint Committee. (2) Custody is identical to conviction. Which are correct?",
+    "options": [
+      "Neither 1 nor 2",
+      "1 only",
+      "Both 1 and 2",
+      "2 only"
+    ],
+    "answer": 1,
+    "explanation": "It was a Bill, not an enacted 130th Amendment Act. Removal from ministerial office, membership disqualification and criminal conviction are separate.",
+    "ref": "E5-2508-009"
+  },
+  {
+    "id": "AUG-10",
+    "question": "The Goa representation measure should not be confused with:",
+    "options": [
+      "Population-related representation design.",
+      "Completed nationwide constituency redistribution.",
+      "A state-specific ST-representation issue.",
+      "A framework requiring lawful implementation."
+    ],
+    "answer": 1,
+    "explanation": "State-specific legislation and general delimitation are different processes.",
+    "ref": "E5-2508-010"
+  },
+  {
+    "id": "AUG-11",
+    "question": "Jan Vishwas decriminalisation proposals aim to:",
+    "options": [
+      "Differentiate minor non-compliance and proportionate sanctions.",
+      "Treat all administrative penalties as imprisonment.",
+      "Abolish every environmental obligation.",
+      "Provide blanket immunity from all business offences."
+    ],
+    "answer": 0,
+    "explanation": "Warnings, penalties and criminal fines have different procedures; the August Bill was not yet enacted in that snapshot.",
+    "ref": "E5-2508-011"
+  },
+  {
+    "id": "AUG-12",
+    "question": "A mule-account flag by itself proves:",
+    "options": [
+      "All bank accounts must remain frozen forever.",
+      "Every account holder is a convicted fraudster.",
+      "Victims never need a reporting channel.",
+      "Neither knowing criminal intent nor final guilt."
+    ],
+    "answer": 3,
+    "explanation": "Rapid fraud response must be combined with evidence, proportionality and an effective correction/appeal route.",
+    "ref": "E5-2508-012"
+  },
+  {
+    "id": "AUG-13",
+    "question": "Regarding revised SVANidhi: (1) The first two tranches are ₹15,000 and ₹25,000. (2) All three tranches are unconditional grants payable together. Which are correct?",
+    "options": [
+      "2 only",
+      "Both 1 and 2",
+      "1 only",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "The third remains ₹50,000. These are sequential repayable working-capital loans subject to scheme conditions.",
+    "ref": "E5-2508-013"
+  },
+  {
+    "id": "AUG-14",
+    "question": "Regarding E-DRIVE: (1) The overall programme was extended to March 2028. (2) Every two/three-wheeler incentive window was identically extended. Which are correct?",
+    "options": [
+      "Both 1 and 2",
+      "2 only",
+      "Neither 1 nor 2",
+      "1 only"
+    ],
+    "answer": 3,
+    "explanation": "The overall date and category-specific windows differ. The extension particularly concerns buses, trucks and testing capacity.",
+    "ref": "E5-2508-014"
+  },
+  {
+    "id": "AUG-15",
+    "question": "Adding a mineral to an existing mining lease requires:",
+    "options": [
+      "Automatic ownership of all adjoining land.",
+      "A universal environmental-clearance waiver.",
+      "No reporting, payment or approval in any case.",
+      "The applicable application/authorisation steps and other legal compliance."
+    ],
+    "answer": 3,
+    "explanation": "MMDR changes do not collapse distinct mining and environmental permissions.",
+    "ref": "E5-2508-015"
+  },
+  {
+    "id": "AUG-16",
+    "question": "Vessel flag registration is always identical to:",
+    "options": [
+      "The nationality of every crew member.",
+      "None: ownership, chartering and operation may involve different persons.",
+      "The charterer’s nationality.",
+      "The port’s ownership."
+    ],
+    "answer": 1,
+    "explanation": "Maritime-law modernisation needs careful distinction of each legal role.",
+    "ref": "E5-2508-016"
+  },
+  {
+    "id": "AUG-17",
+    "question": "Cabotage principally concerns:",
+    "options": [
+      "Domestic coastal trading rights.",
+      "All fishing quotas worldwide.",
+      "Only customs rates on imported phones.",
+      "A pension contribution mechanism."
+    ],
+    "answer": 0,
+    "explanation": "Coastal shipping licensing differs from fishing and other trade regulation.",
+    "ref": "E5-2508-017"
+  },
+  {
+    "id": "AUG-18",
+    "question": "Consider port governance: (1) Non-major is a legal/administrative category. (2) Every non-major port must have lower cargo capacity than every major port. Which are correct?",
+    "options": [
+      "Both 1 and 2",
+      "2 only",
+      "Neither 1 nor 2",
+      "1 only"
+    ],
+    "answer": 3,
+    "explanation": "Legal classification is not a universal ranking by size or cargo throughput; state/Union governance roles matter.",
+    "ref": "E5-2508-018"
+  },
+  {
+    "id": "AUG-19",
+    "question": "The JPY 10 trillion Japan investment figure was:",
+    "options": [
+      "Verified FDI all received during the visit.",
+      "An announced investment target.",
+      "A currency-union contribution.",
+      "A grant paid equally to every AP district."
+    ],
+    "answer": 1,
+    "explanation": "Targets, project commitments and realised investment flows require separate evidence.",
+    "ref": "E5-2508-019"
+  },
+  {
+    "id": "AUG-20",
+    "question": "A bilateral India–China summit meeting is not by itself:",
+    "options": [
+      "A possible forum for discussing trade.",
+      "An opportunity to address stability.",
+      "A final boundary settlement.",
+      "A diplomatic engagement."
+    ],
+    "answer": 2,
+    "explanation": "Dialogue, disengagement, deescalation and delimitation have distinct meanings.",
+    "ref": "E5-2508-020"
+  },
+  {
+    "id": "AUG-21",
+    "question": "India–EAEU terms of reference represent:",
+    "options": [
+      "A framework for FTA negotiations.",
+      "A completed customs union with India.",
+      "Immediate zero tariffs on every product.",
+      "An Indian accession to the EAEU."
+    ],
+    "answer": 0,
+    "explanation": "Negotiating terms, signature and entry into force are different milestones.",
+    "ref": "E5-2508-021"
+  },
+  {
+    "id": "AUG-22",
+    "question": "What follows automatically from parliamentary passage of a sports Bill?",
+    "options": [
+      "Not every later appointment or operational institution.",
+      "Completion of all federation elections.",
+      "A guaranteed medal increase.",
+      "A tribunal already hearing every dispute."
+    ],
+    "answer": 0,
+    "explanation": "Assent, commencement, rules and institutional setup require independent checks.",
+    "ref": "E5-2508-023"
+  },
+  {
+    "id": "AUG-23",
+    "question": "Regarding online gaming: (1) A stake for expected monetary enrichment matters under the defined money-gaming category. (2) Calling a game skill-based necessarily excludes it from that category. Which are correct?",
+    "options": [
+      "Both 1 and 2",
+      "1 only",
+      "2 only",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "The framework distinguishes money gaming from qualifying e-sports/social games irrespective of a simplistic skill/chance distinction; later rules and litigation need checking.",
+    "ref": "E5-2508-024"
+  },
+  {
+    "id": "AUG-24",
+    "question": "The August Ujjwala subsidy decision capped support at:",
+    "options": [
+      "Only a first-ever connection with no refill support.",
+      "Twelve refills forever.",
+      "Unlimited refills for every household.",
+      "Nine refills for FY2025–26."
+    ],
+    "answer": 3,
+    "explanation": "The targeted ₹300 per eligible 14.2 kg refill is a historical FY2025–26 decision; later years require separate checks.",
+    "ref": "E5-2508-026"
+  },
+  {
+    "id": "AUG-25",
+    "question": "MERITE’s intended beneficiaries are primarily:",
+    "options": [
+      "Only foreign universities.",
+      "Every private business school automatically.",
+      "Eligible government/government-aided technical institutions.",
+      "Only primary schools."
+    ],
+    "answer": 2,
+    "explanation": "Institutional quality, faculty, curriculum and industry links matter beyond construction.",
+    "ref": "E5-2508-028"
+  },
+  {
+    "id": "AUG-26",
+    "question": "Regarding Annadata’s announced ₹20,000 annual package: (1) ₹14,000 is the state share and ₹6,000 the PM-Kisan share. (2) A ₹7,000 first instalment proves the entire annual amount was paid at launch. Which are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Neither 1 nor 2",
+      "Both 1 and 2"
+    ],
+    "answer": 0,
+    "explanation": "The described first combined instalment is ₹5,000 state plus ₹2,000 Centre. Annual package, instalment and verified actual credits differ.",
+    "ref": "E5-2508-029"
+  },
+  {
+    "id": "AUG-27",
+    "question": "Consider Stree Shakti: (1) Girls, women and transgender persons with AP domicile are covered subject to rules. (2) Zero fare means APSRTC incurs no operating cost. Which are correct?",
+    "options": [
+      "Neither 1 nor 2",
+      "2 only",
+      "Both 1 and 2",
+      "1 only"
+    ],
+    "answer": 3,
+    "explanation": "The five service categories and identity conditions qualify coverage. Zero-fare tickets support government reimbursement; operating costs do not disappear.",
+    "ref": "E5-2508-030"
+  },
+  {
+    "id": "AUG-28",
+    "question": "The August US tariff headline should be applied:",
+    "options": [
+      "Only by assuming the exporter pays all economic costs.",
+      "With product exemptions, effective dates and later changes checked.",
+      "Uniformly to every Indian product forever.",
+      "As proof all AP exports stopped."
+    ],
+    "answer": 1,
+    "explanation": "The combined rate described reached 50% for many covered products, not every item; trade impacts require evidence.",
+    "ref": "E5-2508-031"
+  },
+  {
+    "id": "AUG-29",
+    "question": "The Evergreen Revolution emphasises:",
+    "options": [
+      "Yield at any ecological cost.",
+      "Only one universal seed variety.",
+      "Productivity with ecological sustainability and livelihood concerns.",
+      "A guaranteed cash award for every farm."
+    ],
+    "answer": 2,
+    "explanation": "Swaminathan’s legacy links food security with sustainable agriculture; productivity and income are not identical.",
+    "ref": "E5-2508-032"
+  },
+  {
+    "id": "AUG-30",
+    "question": "The Kakori action’s participants should be distinguished from:",
+    "options": [
+      "HRA’s historical existence.",
+      "Everyone later tried or executed in the related case.",
+      "The 9 August 1925 event.",
+      "Its anti-colonial context."
+    ],
+    "answer": 1,
+    "explanation": "Roshan Singh’s execution in the related prosecution does not mean he was physically among the train-action participants; HRA and later HSRA chronology also differ.",
+    "ref": "E5-2508-035"
+  }
+]

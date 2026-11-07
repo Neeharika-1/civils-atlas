@@ -1,0 +1,32 @@
+[
+  {
+    "route": "/",
+    "status": 200,
+    "bytes": 3602413
+  },
+  {
+    "route": "/volumes/September-2026-Study-Volume.pdf",
+    "status": 200,
+    "bytes": 250910
+  },
+  {
+    "route": "/volumes/September-2026-Study-Volume.docx",
+    "status": 200,
+    "bytes": 88691
+  },
+  {
+    "route": "/volumes/September-2026-Mains-Frameworks.md",
+    "status": 200,
+    "bytes": 7883
+  },
+  {
+    "route": "/research/Research-Status.md",
+    "status": 200,
+    "bytes": 5853
+  },
+  {
+    "route": "/data/2026-09-mcqs.json",
+    "status": 200,
+    "bytes": 18875
+  }
+]

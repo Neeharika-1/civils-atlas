@@ -1,0 +1,61 @@
+{
+  "inbox_total": 276,
+  "sources": [
+    {
+      "source": "ISRO news",
+      "url": "https://www.isro.gov.in/Updates.html",
+      "time": "2026-11-07T14:30:14.715222+00:00",
+      "status": "ok",
+      "discovered": 5
+    },
+    {
+      "source": "Indian Express India",
+      "url": "https://indianexpress.com/section/india/feed/",
+      "time": "2026-11-07T14:30:14.660646+00:00",
+      "status": "failed",
+      "error": "robots unavailable (403); conservative manual fallback"
+    },
+    {
+      "source": "PIB 2025 ministry reviews",
+      "url": "https://www.pib.gov.in/EventDetail.aspx?ID=1229&reg=3&lang=1",
+      "time": "2026-11-07T14:30:14.135055+00:00",
+      "status": "failed",
+      "error": "403 Client Error: Forbidden for url: https://www.pib.gov.in/EventDetail.aspx?ID=1229&reg=3&lang=1"
+    },
+    {
+      "source": "PIB daily",
+      "url": "https://www.pib.gov.in/allrelease.aspx?reg=3&lang=1",
+      "time": "2026-11-07T14:30:14.134609+00:00",
+      "status": "failed",
+      "error": "403 Client Error: Forbidden for url: https://www.pib.gov.in/allrelease.aspx?reg=3&lang=1"
+    },
+    {
+      "source": "PRS 2025 policy reviews",
+      "url": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2025",
+      "time": "2026-11-07T14:30:14.135551+00:00",
+      "status": "ok",
+      "discovered": 12
+    },
+    {
+      "source": "PRS 2026 policy reviews",
+      "url": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2026",
+      "time": "2026-11-07T14:30:14.136019+00:00",
+      "status": "ok",
+      "discovered": 10
+    },
+    {
+      "source": "The Hindu Andhra Pradesh",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/feeder/default.rss",
+      "time": "2026-11-07T14:30:14.391429+00:00",
+      "status": "ok",
+      "discovered": 60
+    },
+    {
+      "source": "The Hindu national",
+      "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+      "time": "2026-11-07T14:30:14.269393+00:00",
+      "status": "ok",
+      "discovered": 60
+    }
+  ]
+}

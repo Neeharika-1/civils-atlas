@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "question": "Which best describes the January 2025 DPDP Rules development?",
+    "options": [
+      "Final rules commenced universally",
+      "Draft rules were opened for consultation",
+      "The DPDP Act was repealed",
+      "Data protection was transferred to RBI"
+    ],
+    "answer": 1,
+    "explanation": "The January version was a draft consultation. Proposal, final notification and commencement must be distinguished.",
+    "ref": "JAN25-002"
+  },
+  {
+    "id": 2,
+    "question": "Which provision concerns the President’s special address at the first session of each year?",
+    "options": [
+      "Article 87",
+      "Article 108",
+      "Article 110",
+      "Article 280"
+    ],
+    "answer": 0,
+    "explanation": "Article 87 governs the special address. Article 108 concerns a joint sitting for legislative deadlock.",
+    "ref": "JAN25-001"
+  },
+  {
+    "id": 3,
+    "question": "The January PG medical-admissions decision principally concerned:",
+    "options": [
+      "All reservation in undergraduate education",
+      "Abolition of NEET",
+      "Residence reservation in PG medical courses",
+      "A ban on institutional preference of any kind"
+    ],
+    "answer": 2,
+    "explanation": "The holding concerned residence-based reservation in PG courses. Reasonable institutional preference was distinguished.",
+    "ref": "JAN25-005"
+  },
+  {
+    "id": 4,
+    "question": "Which is an accurate January UCC statement?",
+    "options": [
+      "A nationwide code commenced",
+      "Article 44 became a Fundamental Right",
+      "Goa never had a distinct civil framework",
+      "Uttarakhand commenced its code on 27 January"
+    ],
+    "answer": 3,
+    "explanation": "Uttarakhand’s commencement was state-specific; Article 44 remains a Directive Principle.",
+    "ref": "JAN25-004"
+  },
+  {
+    "id": 5,
+    "question": "The January ₹69,515.71 crore crop-insurance figure referred to:",
+    "options": [
+      "Total outlay for FY2021–22 to FY2025–26",
+      "A single-year farmer cash transfer",
+      "Only the technology fund",
+      "The annual AP state budget"
+    ],
+    "answer": 0,
+    "explanation": "The total covered the five-year period. FIAT was separately stated as ₹824.77 crore.",
+    "ref": "JAN25-019"
+  },
+  {
+    "id": 6,
+    "question": "Which pair is correctly matched?",
+    "options": [
+      "WINDS—judicial appointments",
+      "YES-TECH—technology-based yield estimation",
+      "RWBCIS—direct field-loss measurement in every case",
+      "FIAT—space launch vehicle"
+    ],
+    "answer": 1,
+    "explanation": "YES-TECH concerns yield-estimation technology. WINDS concerns weather information. Weather-index insurance can exhibit basis risk.",
+    "ref": "JAN25-019"
+  },
+  {
+    "id": 7,
+    "question": "The National Turmeric Board inauguration venue and designated headquarters were respectively:",
+    "options": [
+      "Nizamabad and New Delhi",
+      "Hyderabad and Vijayawada",
+      "New Delhi and Nizamabad",
+      "Visakhapatnam and Guntur"
+    ],
+    "answer": 2,
+    "explanation": "The inauguration was in New Delhi; the headquarters was designated in Nizamabad, Telangana.",
+    "ref": "JAN25-021"
+  },
+  {
+    "id": 8,
+    "question": "ASER 2024 is best described as:",
+    "options": [
+      "A census of every urban university",
+      "RBI banking survey",
+      "A government-only administrative school register",
+      "A non-government rural household learning survey"
+    ],
+    "answer": 3,
+    "explanation": "ASER is associated with Pratham and uses household-based rural evidence. UDISE+ is a different administrative system.",
+    "ref": "JAN25-022"
+  },
+  {
+    "id": 9,
+    "question": "Why must ASER percentages be qualified by school category?",
+    "options": [
+      "Government-school-only and all-school figures can differ",
+      "All surveys use identical denominators",
+      "Only urban pupils are surveyed",
+      "The report has no reading assessments"
+    ],
+    "answer": 0,
+    "explanation": "For example, 23.4% government-school Standard III reading is not interchangeable with the all-school percentage.",
+    "ref": "JAN25-022"
+  },
+  {
+    "id": 10,
+    "question": "What did the January GDP first advance estimate report for real FY2024–25 growth?",
+    "options": [
+      "8.2% as a never-revisable result",
+      "6.4%, subject to later revision",
+      "6.4% nominal inflation",
+      "A contraction of 6.4%"
+    ],
+    "answer": 1,
+    "explanation": "6.4% was the January first advance estimate. It is a historical vintage, not a certified latest figure.",
+    "ref": "JAN25-009"
+  },
+  {
+    "id": 11,
+    "question": "The Survey’s real FY2025–26 growth forecast range was:",
+    "options": [
+      "2.0–3.0%",
+      "10.0–12.0%",
+      "6.3–6.8%",
+      "A guaranteed 8.0%"
+    ],
+    "answer": 2,
+    "explanation": "The Survey projected 6.3–6.8%; a forecast range is not a realised outcome.",
+    "ref": "JAN25-010"
+  },
+  {
+    "id": 12,
+    "question": "The January Eighth Pay Commission approval established:",
+    "options": [
+      "A final fitment factor",
+      "An immediate doubling of all state salaries",
+      "Automatic implementation of all recommendations",
+      "Approval to constitute the commission"
+    ],
+    "answer": 3,
+    "explanation": "Final recommendations and government implementation are separate stages.",
+    "ref": "JAN25-012"
+  },
+  {
+    "id": 13,
+    "question": "Under LEADS 2024, AP was a coastal:",
+    "options": [
+      "Fast Mover",
+      "Achiever",
+      "UN-designated logistics capital",
+      "Precisely ranked number one nationally"
+    ],
+    "answer": 0,
+    "explanation": "AP and Goa were coastal Fast Movers. LEADS categories are not identical to a national numerical ranking.",
+    "ref": "JAN25-017"
+  },
+  {
+    "id": 14,
+    "question": "Which best describes the MSME guarantee announced in January?",
+    "options": [
+      "An unconditional ₹100 crore grant per firm",
+      "60% guarantee cover for eligible machinery loans up to ₹100 crore",
+      "A guarantee of every MSME profit",
+      "A tax exemption for all factories"
+    ],
+    "answer": 1,
+    "explanation": "A guarantee shares specified lender risk. The borrower still owes the loan and needs lender approval.",
+    "ref": "JAN25-015"
+  },
+  {
+    "id": 15,
+    "question": "Which pairing is correct?",
+    "options": [
+      "Surat—P17A frigate",
+      "Nilgiri—P75 submarine",
+      "Vaghsheer—P75 submarine",
+      "Vaghsheer—nuclear ballistic-missile submarine"
+    ],
+    "answer": 2,
+    "explanation": "Surat is P15B; Nilgiri is P17A; Vaghsheer is a conventional Scorpene-class P75 submarine.",
+    "ref": "JAN25-030"
+  },
+  {
+    "id": 16,
+    "question": "The 120-second scramjet milestone demonstrated:",
+    "options": [
+      "An operational missile combat deployment",
+      "A human spaceflight",
+      "A 1,000-second January flight",
+      "A combustor ground test"
+    ],
+    "answer": 3,
+    "explanation": "Ground testing is different from flight validation and fielded capability. The over-1,000-second follow-up was later.",
+    "ref": "JAN25-032"
+  },
+  {
+    "id": 17,
+    "question": "What did the NVS-02 mission establish?",
+    "options": [
+      "Successful launcher injection, followed by an orbit-raising problem",
+      "A completely failed launcher with no orbit insertion",
+      "Proof of final operational navigation service",
+      "ISRO’s 100th satellite"
+    ],
+    "answer": 0,
+    "explanation": "The GSLV-F15 launch succeeded, while ISRO later reported a spacecraft orbit-raising valve issue.",
+    "ref": "JAN25-027"
+  },
+  {
+    "id": 18,
+    "question": "The Third Launch Pad January decision was:",
+    "options": [
+      "A completed operational pad",
+      "Approval with a stated 48-month establishment target",
+      "A change of Sriharikota to Tamil Nadu",
+      "A new satellite rather than infrastructure"
+    ],
+    "answer": 1,
+    "explanation": "Approval was the milestone; construction and readiness require later verification.",
+    "ref": "JAN25-026"
+  },
+  {
+    "id": 19,
+    "question": "Which comparison is valid?",
+    "options": [
+      "Every annual anomaly proves permanent Paris failure",
+      "All climate baselines are interchangeable",
+      "One calendar-year exceedance differs from long-term Paris threshold assessment",
+      "The 2024 anomaly was an Indian-only statistic"
+    ],
+    "answer": 2,
+    "explanation": "WMO’s 1.55°C headline was a global annual estimate relative to pre-industrial conditions.",
+    "ref": "JAN25-034"
+  },
+  {
+    "id": 20,
+    "question": "Which is correctly matched among the January-end Ramsar additions?",
+    "options": [
+      "Udhwa—Sikkim",
+      "Khecheopalri—Tamil Nadu",
+      "Therthangal—Jharkhand",
+      "Sakkarakottai—Tamil Nadu"
+    ],
+    "answer": 3,
+    "explanation": "Khecheopalri is in Sikkim; Udhwa is in Jharkhand; the two TN additions were Sakkarakottai and Therthangal.",
+    "ref": "JAN25-035"
+  },
+  {
+    "id": 21,
+    "question": "BRICS full membership announced on 6 January concerned:",
+    "options": [
+      "Indonesia",
+      "Every African Union country",
+      "All ASEAN members together",
+      "The European Union"
+    ],
+    "answer": 0,
+    "explanation": "Brazil’s presidency announced Indonesia as a full member, not simply a partner.",
+    "ref": "JAN25-038"
+  },
+  {
+    "id": 22,
+    "question": "The Indus Neutral Expert’s January decision principally established:",
+    "options": [
+      "A final award approving all design details",
+      "Competence to examine the specified differences",
+      "Termination of the treaty in January",
+      "World Bank adjudication on merits"
+    ],
+    "answer": 1,
+    "explanation": "Competence is jurisdiction; merits were to follow. The Bank’s appointment role is different from deciding the dispute.",
+    "ref": "JAN25-043"
+  },
+  {
+    "id": 23,
+    "question": "What is the best interpretation of WEF’s 78 million net jobs figure?",
+    "options": [
+      "Jobs already created in AP",
+      "A government recruitment guarantee",
+      "A global projection through 2030 from created minus displaced roles",
+      "Only jobs in artificial intelligence"
+    ],
+    "answer": 2,
+    "explanation": "The projected 170 million created minus 92 million displaced yields 78 million globally. Distribution remains uneven.",
+    "ref": "JAN25-044"
+  },
+  {
+    "id": 24,
+    "question": "What was the RINL package composition?",
+    "options": [
+      "₹11,440 crore entirely fresh cash equity",
+      "Only a private-company takeover",
+      "A guarantee of achieved production targets",
+      "₹10,300 crore equity plus ₹1,140 crore loan conversion"
+    ],
+    "answer": 3,
+    "explanation": "The conversion was into specified preference capital; financial structure and actual operations must be separated.",
+    "ref": "JAN25-049"
+  },
+  {
+    "id": 25,
+    "question": "The Fiscal Health Index 2025 AP result related primarily to:",
+    "options": [
+      "FY2022–23 data; score 20.9 and rank 17 of 18",
+      "November 2026 accounts",
+      "A rank of 17 among every country",
+      "A score of 67.8 for AP"
+    ],
+    "answer": 0,
+    "explanation": "Publication year was 2025; assessment data were earlier. Odisha, not AP, scored 67.8.",
+    "ref": "JAN25-050"
+  },
+  {
+    "id": 26,
+    "question": "Mana Mitra’s first-phase launch count was:",
+    "options": [
+      "1,610 completed industrial projects",
+      "161 services",
+      "161 crore users",
+      "A guaranteed current service total for all future dates"
+    ],
+    "answer": 1,
+    "explanation": "The 30 January launch offered 161 services. Later expansion requires fresh evidence.",
+    "ref": "JAN25-051"
+  },
+  {
+    "id": 27,
+    "question": "KRIS City at Krishnapatnam was identified under:",
+    "options": [
+      "Delhi–Mumbai corridor",
+      "Amritsar–Kolkata corridor",
+      "Chennai–Bengaluru corridor",
+      "Every AP corridor interchangeably"
+    ],
+    "answer": 2,
+    "explanation": "The project announcement places KRIS City under the Chennai–Bengaluru Industrial Corridor.",
+    "ref": "JAN25-048"
+  },
+  {
+    "id": 28,
+    "question": "A diaphragm wall at Polavaram principally serves as:",
+    "options": [
+      "The final reservoir itself",
+      "A turbine-generator",
+      "An administrative district boundary",
+      "A foundation seepage-cutoff structure"
+    ],
+    "answer": 3,
+    "explanation": "It is a deep cutoff structure, distinct from the spillway, cofferdam and full dam.",
+    "ref": "JAN25-052"
+  },
+  {
+    "id": 29,
+    "question": "Which distinction is correct?",
+    "options": [
+      "NDRF—response; NIDM—training/research/capacity",
+      "NIDM and NDRF are the same battalion",
+      "Every facility mentioned at Vijayawada is in AP",
+      "Training alone replaces evacuation planning"
+    ],
+    "answer": 0,
+    "explanation": "Their mandates differ. Supaul’s response centre does not become an AP facility because of the event venue.",
+    "ref": "JAN25-054"
+  },
+  {
+    "id": 30,
+    "question": "Which is the soundest general rule for this archive?",
+    "options": [
+      "Treat all announcements as implementation",
+      "Always separate proposal, approval, notification, commencement and actual outcome",
+      "Use report year as data year",
+      "Use launch success as proof of every mission phase"
+    ],
+    "answer": 1,
+    "explanation": "Stage, date, denominator and source-access distinctions prevent many common current-affairs errors.",
+    "ref": "JAN25-006"
+  }
+]

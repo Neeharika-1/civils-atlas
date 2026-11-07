@@ -1,0 +1,392 @@
+[
+  {
+    "id": "JUL-01",
+    "question": "Positive inflation falling from a higher rate means:",
+    "options": [
+      "The price level is zero.",
+      "Every price has fallen.",
+      "All households face identical inflation.",
+      "Prices are rising more slowly on that measure."
+    ],
+    "answer": 3,
+    "explanation": "Disinflation differs from deflation, and aggregate baskets need not match each household’s experience.",
+    "ref": "E5-2507-001"
+  },
+  {
+    "id": "JUL-02",
+    "question": "The July Income-Tax committee report was:",
+    "options": [
+      "The commencement of the new Act in July.",
+      "A universal tax-rate exemption.",
+      "Parliamentary scrutiny before subsequent replacement/passage steps.",
+      "A court striking down every tax."
+    ],
+    "answer": 2,
+    "explanation": "Committee recommendations and enacted text are distinct; precise drafting can affect legal obligations.",
+    "ref": "E5-2507-002"
+  },
+  {
+    "id": "JUL-03",
+    "question": "The prepayment directions apply to relevant loans sanctioned/renewed from:",
+    "options": [
+      "1 January 2026.",
+      "1 January 2035.",
+      "Only the day the July report appeared.",
+      "Every loan immediately from 1 January 2020."
+    ],
+    "answer": 0,
+    "explanation": "The applicability date and lender/borrower/loan conditions defeat a blanket immediate-waiver interpretation.",
+    "ref": "E5-2507-003"
+  },
+  {
+    "id": "JUL-04",
+    "question": "Which principle supports customer choice in digital banking?",
+    "options": [
+      "Meaningful consent and access to appropriate alternatives.",
+      "Assuming technology removes all bank liabilities.",
+      "Treating app installation as unlimited consent.",
+      "Compulsory use of every optional service."
+    ],
+    "answer": 0,
+    "explanation": "Delivery channels do not eliminate regulatory duties, fraud controls or complaints obligations.",
+    "ref": "E5-2507-004"
+  },
+  {
+    "id": "JUL-05",
+    "question": "Differently named mutual-fund schemes may still have:",
+    "options": [
+      "Guaranteed independent returns.",
+      "No investment risk.",
+      "Identical statutory tax exemption for every investor.",
+      "Substantial overlap in underlying securities."
+    ],
+    "answer": 3,
+    "explanation": "Product names alone do not establish diversification; classification proposals are not returns guarantees.",
+    "ref": "E5-2507-005"
+  },
+  {
+    "id": "JUL-06",
+    "question": "CAG discussion of FY2022–23 tax arrears should not be treated as:",
+    "options": [
+      "An issue relevant to revenue administration.",
+      "An aggregate requiring scrutiny of collectibility.",
+      "Cash actually received in July 2025.",
+      "A dated audit finding."
+    ],
+    "answer": 2,
+    "explanation": "Amounts raised but unrealised differ from receipts, and the audited period differs from publication.",
+    "ref": "E5-2507-006"
+  },
+  {
+    "id": "JUL-07",
+    "question": "Regarding India–UK CETA: (1) Negotiations concluded before the July signature. (2) Signature automatically made every product duty-free that day. Which are correct?",
+    "options": [
+      "1 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2",
+      "2 only"
+    ],
+    "answer": 0,
+    "explanation": "May conclusion, July signature and subsequent entry into force are distinct. Schedules, origin rules and domestic procedures shape usable access.",
+    "ref": "CA-033"
+  },
+  {
+    "id": "JUL-08",
+    "question": "A line of credit differs from an unconditional grant because:",
+    "options": [
+      "Repayment and financing terms remain relevant.",
+      "It is always a total debt write-off.",
+      "It cannot fund development projects.",
+      "It transfers political sovereignty."
+    ],
+    "answer": 0,
+    "explanation": "New financing, disbursement, repayment relief and project completion must be separated.",
+    "ref": "E5-2507-008"
+  },
+  {
+    "id": "JUL-09",
+    "question": "Regarding ELI: (1) Payroll registration necessarily means durable net job creation. (2) Component targets may overlap and should not be blindly added. Which are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Neither 1 nor 2",
+      "Both 1 and 2"
+    ],
+    "answer": 1,
+    "explanation": "Genuine additionality, retention and wages require evaluation. Formalisation can be valuable without being identical to a wholly new durable job.",
+    "ref": "E5-2507-009"
+  },
+  {
+    "id": "JUL-10",
+    "question": "A skill credential is not by itself proof of:",
+    "options": [
+      "Some recorded assessed learning.",
+      "An identifiable training pathway.",
+      "A possible basis for further learning.",
+      "Employment at adequate wages."
+    ],
+    "answer": 3,
+    "explanation": "Training completion and labour-market outcomes differ; draft policy tools remain proposals.",
+    "ref": "E5-2507-010"
+  },
+  {
+    "id": "JUL-11",
+    "question": "Meaningful connectivity differs from coverage because it includes:",
+    "options": [
+      "Only the number of towers announced.",
+      "A ban on quality measurement.",
+      "Affordability, adoption and reliable service.",
+      "A permanent guarantee of free devices."
+    ],
+    "answer": 2,
+    "explanation": "Population/geographic coverage and actual use have different denominators and constraints.",
+    "ref": "E5-2507-011"
+  },
+  {
+    "id": "JUL-12",
+    "question": "Consider the Cooperative Policy: (1) It is distinct from state cooperative legislation. (2) Approval automatically amends every state cooperative Act. Which are correct?",
+    "options": [
+      "2 only",
+      "Neither 1 nor 2",
+      "Both 1 and 2",
+      "1 only"
+    ],
+    "answer": 3,
+    "explanation": "National policy and applicable society laws operate at different levels; member control, audit and elections still need institutional safeguards.",
+    "ref": "E5-2507-013"
+  },
+  {
+    "id": "JUL-13",
+    "question": "Consider NCDC finance: (1) A grant to NCDC can support greater borrowing. (2) Expected borrowing is identical to money already disbursed as grants to societies. Which are correct?",
+    "options": [
+      "2 only",
+      "1 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "Institutional support, mobilisation and onward loans are distinct. Leverage introduces credit risk and repayment conditions rather than free money.",
+    "ref": "E5-2507-014"
+  },
+  {
+    "id": "JUL-14",
+    "question": "Regarding PM Dhan Dhaanya: (1) It targets 100 districts. (2) ₹24,000 crore is the annual outlay in the official explainer. (3) The six-year approval proves every target was achieved in July. Which are correct?",
+    "options": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "The annual amount must not be mistaken for a six-year aggregate. Convergence and district targeting are design features, not proof of completed outcomes.",
+    "ref": "E5-2507-015"
+  },
+  {
+    "id": "JUL-15",
+    "question": "PM Kisan Sampada should be distinguished from:",
+    "options": [
+      "The irrigation programme with a similar acronym.",
+      "Quality testing laboratories.",
+      "Food processing infrastructure.",
+      "Post-harvest investment."
+    ],
+    "answer": 0,
+    "explanation": "Sampada and Krishi Sinchayee are different schemes despite the recurring PMKSY abbreviation.",
+    "ref": "E5-2507-016"
+  },
+  {
+    "id": "JUL-16",
+    "question": "A proposed National Sports Tribunal in July was:",
+    "options": [
+      "Part of a Bill’s institutional design.",
+      "An international cricket championship.",
+      "Proof that a tribunal was already hearing every dispute.",
+      "The same institution as RBI’s MPC."
+    ],
+    "answer": 0,
+    "explanation": "Introduction, passage, commencement and constitution of a body require separate dates.",
+    "ref": "E5-2507-017"
+  },
+  {
+    "id": "JUL-17",
+    "question": "Anti-doping independence particularly concerns:",
+    "options": [
+      "Replacing reliable tests with public opinion.",
+      "Immunity for every athlete.",
+      "Abolition of all hearings.",
+      "Separation of enforcement and fair adjudication/appeals."
+    ],
+    "answer": 3,
+    "explanation": "Operational autonomy and due process are necessary together; doping rules extend beyond a simplistic substance-only account.",
+    "ref": "E5-2507-018"
+  },
+  {
+    "id": "JUL-18",
+    "question": "A national sports policy is best distinguished from:",
+    "options": [
+      "A framework for participation and excellence.",
+      "A basis for implementation evaluation.",
+      "An agenda potentially including para-sports.",
+      "A statute with every proposed benefit already funded and delivered."
+    ],
+    "answer": 3,
+    "explanation": "Vision statements do not by themselves establish individual statutory entitlements or completed facilities.",
+    "ref": "E5-2507-019"
+  },
+  {
+    "id": "JUL-19",
+    "question": "The RDI corpus: (1) is distinct from actual disbursement; (2) consists only of unrestricted grants for every applicant. Which are correct?",
+    "options": [
+      "Both 1 and 2",
+      "1 only",
+      "Neither 1 nor 2",
+      "2 only"
+    ],
+    "answer": 1,
+    "explanation": "A corpus finances specified channels including concessional loans and equity routes. Technical appraisal, governance and additionality remain necessary.",
+    "ref": "E5-2507-020"
+  },
+  {
+    "id": "JUL-20",
+    "question": "A clean automated vulnerability scan is:",
+    "options": [
+      "Evidence no remediation plan is needed.",
+      "Equivalent to every form of independent audit.",
+      "A permanent guarantee against breaches.",
+      "Not proof of complete organisational cyber security."
+    ],
+    "answer": 3,
+    "explanation": "Audits include governance, context and follow-through beyond tool-generated findings.",
+    "ref": "E5-2507-021"
+  },
+  {
+    "id": "JUL-21",
+    "question": "A bill of lading can serve as:",
+    "options": [
+      "A constitutional amendment proposal.",
+      "A shipment receipt and evidence of a carriage contract.",
+      "A universal export-subsidy cheque.",
+      "A pension enrolment certificate."
+    ],
+    "answer": 1,
+    "explanation": "Depending on form/law it can also function as a document of title; do not confuse it with a parliamentary Bill.",
+    "ref": "E5-2507-022"
+  },
+  {
+    "id": "JUL-22",
+    "question": "Consider aggregator regulation: (1) A model central guideline can require state-level implementation decisions. (2) A state option necessarily legalises every private-motorcycle taxi nationwide. Which are correct?",
+    "options": [
+      "Neither 1 nor 2",
+      "1 only",
+      "Both 1 and 2",
+      "2 only"
+    ],
+    "answer": 1,
+    "explanation": "Guidance and operative state permission differ. Licensing, local rules and service conditions must be checked.",
+    "ref": "E5-2507-023"
+  },
+  {
+    "id": "JUL-23",
+    "question": "The maximum e-truck incentive means:",
+    "options": [
+      "All charging costs are permanently zero.",
+      "A category/condition-dependent ceiling, not a universal payment.",
+      "A replacement for every old vehicle already completed.",
+      "₹9.6 lakh to every truck owner without eligibility checks."
+    ],
+    "answer": 1,
+    "explanation": "Scrappage and qualifying vehicle conditions matter, as do charging and utilisation.",
+    "ref": "E5-2507-024"
+  },
+  {
+    "id": "JUL-24",
+    "question": "Regarding environmental appraisal: (1) Terms of Reference define EIA study scope. (2) Their issuance alone constitutes final environmental clearance and interstate allocation of water. Which are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "Study terms, environmental clearance and water entitlements are different. The PBLP returned proposal requires stage-specific interpretation.",
+    "ref": "E5-2507-025"
+  },
+  {
+    "id": "JUL-25",
+    "question": "AP Cabinet approval to form AQCC established:",
+    "options": [
+      "Universal fault-tolerant computing capability.",
+      "Automatic employment for every graduate.",
+      "Completion of every project licence.",
+      "An institutional approval step, not proof of a commissioned quantum computer."
+    ],
+    "answer": 3,
+    "explanation": "Company formation, incorporation, procurement and operations need separate evidence.",
+    "ref": "E5-2507-026"
+  },
+  {
+    "id": "JUL-26",
+    "question": "NISAR combines which instrument pairing?",
+    "options": [
+      "Ku-band SAR and Ka-band SAR.",
+      "C-band SAR and X-band SAR.",
+      "L-band SAR and only a visible-light camera.",
+      "L-band SAR and S-band SAR."
+    ],
+    "answer": 3,
+    "explanation": "The mission combines L- and S-band synthetic-aperture radar. It supports day/night and many cloud-condition observations; data still need calibration and interpretation.",
+    "ref": "E5-2507-027"
+  },
+  {
+    "id": "JUL-27",
+    "question": "Axiom-4’s 15 July milestone concerned:",
+    "options": [
+      "Return to Earth following the June launch.",
+      "The date BharatFS was first adopted.",
+      "The launch of Gaganyaan on an Indian rocket.",
+      "A new lunar landing."
+    ],
+    "answer": 0,
+    "explanation": "Launch, ISS stay and total mission duration must not be conflated.",
+    "ref": "E5-2507-028"
+  },
+  {
+    "id": "JUL-28",
+    "question": "Effective local self-government needs:",
+    "options": [
+      "Only a constitutional list with no resources.",
+      "All grants tied to one expenditure item.",
+      "The abolition of State Finance Commissions.",
+      "Functions, funds and functionaries aligned."
+    ],
+    "answer": 3,
+    "explanation": "Formal devolution does not automatically provide spending discretion, staffing or reliable finance.",
+    "ref": "E5-2507-030"
+  },
+  {
+    "id": "JUL-29",
+    "question": "For the Maratha Military Landscapes inscription: (1) The twelve components count as one serial World Heritage property. (2) Gingee is in Tamil Nadu. Which are correct?",
+    "options": [
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2",
+      "1 only"
+    ],
+    "answer": 1,
+    "explanation": "Eleven components are in Maharashtra and one is Gingee in Tamil Nadu. Serial components do not each add a separate property to the national total.",
+    "ref": "E5-2507-035"
+  },
+  {
+    "id": "JUL-30",
+    "question": "Winning the Women’s World Cup means:",
+    "options": [
+      "Immediate universal FIDE presidency.",
+      "The World Cup and World Championship are identical events.",
+      "Only a Woman Grandmaster title can result.",
+      "A distinct tournament title, not automatically the reigning classical world-championship crown."
+    ],
+    "answer": 3,
+    "explanation": "Divya defeated Koneru Humpy in Batumi; competition stages and GM/WGM titles are distinct.",
+    "ref": "E5-2507-036"
+  }
+]

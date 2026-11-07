@@ -1,0 +1,45 @@
+{
+  "edition": "05",
+  "checked": "2026-11-07",
+  "notes": 462,
+  "new_notes": 130,
+  "enriched_existing_notes": [
+    "CA-026",
+    "CA-033"
+  ],
+  "source_reference_entries": 317,
+  "original_mcqs": 240,
+  "original_mains_frameworks": 64,
+  "expanded_months": {
+    "2025-01": 85,
+    "2025-02": 82,
+    "2025-03": 60,
+    "2025-04": 51,
+    "2025-05": 46,
+    "2025-06": 31,
+    "2025-07": 44,
+    "2025-08": 45
+  },
+  "later_seeds": 18,
+  "curated_reading_paths": 18,
+  "linked_study_notes": 74,
+  "magazine_inventory_urls": 382,
+  "magazine_urls_linked": 101,
+  "magazine_assisted_notes": 100,
+  "open_monthly_audits": 23,
+  "periods_needing_substantial_backfill": 15,
+  "daily_audit_rows": 676,
+  "scheduler_activated": false,
+  "collector_last_run": "Partial failure visible; PRS repaired; PIB and IE access failures remain",
+  "tests": [
+    "Structural validator PASS",
+    "8-month app/quiz/links and cross-month navigation PASS",
+    "8 PDF/Word/Markdown exports PASS",
+    "All 462 archive note IDs present in Word",
+    "18 reading-path PDF IDs present",
+    "All 240 month-qualified MCQ IDs unique with valid study references",
+    "URL-hash cache collision check across all inventory URLs PASS",
+    "Manual visual check: June Talliki, July NISAR, August Stree pages neat and legible"
+  ],
+  "limitation": "Structural/export behaviour only, not independent factual or completeness certification."
+}

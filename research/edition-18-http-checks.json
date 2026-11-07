@@ -1,0 +1,53 @@
+{
+  "scope": "Eight local delivery routes, not external sources or hosted GitHub deployment",
+  "routes": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "bytes": 4137075,
+      "sha256": "215fce2a6b07a175ffe2f3897028fa28d58ae5078d931dbb4f1c2902a66eff8f"
+    },
+    {
+      "path": "START-HERE.md",
+      "status": 200,
+      "bytes": 6627,
+      "sha256": "94315f97a7deb84726bbd067f57efe314d6629cb112eb5b676cda7e78004584a"
+    },
+    {
+      "path": "DAILY-UPDATES-SETUP.md",
+      "status": 200,
+      "bytes": 6923,
+      "sha256": "be480f96d706508ac3f6dff090864ce8bd0cbfb6dd4d314008cc8ff27704a2ee"
+    },
+    {
+      "path": "volumes/November-2026-Study-Volume.pdf",
+      "status": 200,
+      "bytes": 172685,
+      "sha256": "8b6b8d5b146d026e693b94acd225aa11850bec03f4ebfa6210a93d2905acdd65"
+    },
+    {
+      "path": "volumes/November-2026-Study-Volume.docx",
+      "status": 200,
+      "bytes": 69602,
+      "sha256": "3c266252f58436ccd62cdea40f5226cca1645fb2f637a5d8b88e8990f0c97266"
+    },
+    {
+      "path": "volumes/November-2026-Mains-Frameworks.md",
+      "status": 200,
+      "bytes": 8257,
+      "sha256": "b23ebd5ad3803f5a2311751f4268a1bb74d86bb079f0b43a6b4ae0bb8d71aec4"
+    },
+    {
+      "path": "data/automation-status.json",
+      "status": 200,
+      "bytes": 538,
+      "sha256": "076351b1cc0b60a6c77d2a28e944d4e4756dd9a954cbc206a56c2549c0d97608"
+    },
+    {
+      "path": "research/edition18/Research-Log.md",
+      "status": 200,
+      "bytes": 12469,
+      "sha256": "809dd7d4e7235e35549b7e52b246e5beffbdd4f071daafd33ab8e12dc7fcd89d"
+    }
+  ]
+}

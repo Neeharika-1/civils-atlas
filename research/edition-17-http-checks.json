@@ -1,0 +1,53 @@
+{
+  "scope": "Local delivery routes only; not external reference availability or factual certification",
+  "routes": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "bytes": 3950221,
+      "sha256": "377611b9a2d4e2d737cfd81eb1a1bd949e3523f1b30082931a0050f727ca049a"
+    },
+    {
+      "path": "START-HERE.md",
+      "status": 200,
+      "bytes": 5778,
+      "sha256": "aa2e995440cfd55a3176c5a6487de2370f7e5765c971f3d5b7db6b260d289107"
+    },
+    {
+      "path": "volumes/October-2026-Study-Volume.pdf",
+      "status": 200,
+      "bytes": 281433,
+      "sha256": "bfea2d10e248ec794f8accbd4ee2aa8b3e0dc16165de7296eaeeb0ae278e9588"
+    },
+    {
+      "path": "volumes/October-2026-Study-Volume.docx",
+      "status": 200,
+      "bytes": 97113,
+      "sha256": "d181e1d3c50b64c99aa0aa9a951e1598f50cfdeda3e7c903a05f691aa3f96542"
+    },
+    {
+      "path": "volumes/October-2026-Mains-Frameworks.md",
+      "status": 200,
+      "bytes": 8001,
+      "sha256": "18487d82e694c18b98278e03914dc8c689df2e41932a2089026d7e85c7a5faa3"
+    },
+    {
+      "path": "volumes/September-2026-Study-Volume.pdf",
+      "status": 200,
+      "bytes": 251456,
+      "sha256": "b9302f1c933ae874ec37eb3ced8737f0a481b7a266c08e4177a348b7320cdb51"
+    },
+    {
+      "path": "data/2026-10-mcqs.json",
+      "status": 200,
+      "bytes": 20308,
+      "sha256": "74923f7789d6d1601316dad00bc7d9b7880ad7ef886852697229bbb429ab94bf"
+    },
+    {
+      "path": "research/edition17/Corrections-to-September.md",
+      "status": 200,
+      "bytes": 1492,
+      "sha256": "aa1e4880e9ada48452e8709d49a1b5dbb65117b5188b4426878f0bd8b033f1ff"
+    }
+  ]
+}

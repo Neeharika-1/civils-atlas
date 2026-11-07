@@ -1,0 +1,10 @@
+node_modules/
+.qa/
+__pycache__/
+*.pyc
+*.tmp
+_site/
+.venv/
+.env
+.env.*
+*.zip

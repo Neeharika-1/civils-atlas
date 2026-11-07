@@ -1,0 +1,392 @@
+[
+  {
+    "id": "JUN-01",
+    "question": "Consider the June 2025 MPC decision: (1) Repo was cut by 50 basis points to 5.5%. (2) The stance changed to neutral. Which are correct?",
+    "options": [
+      "Neither 1 nor 2",
+      "Both 1 and 2",
+      "2 only",
+      "1 only"
+    ],
+    "answer": 1,
+    "explanation": "Both are correct. A neutral stance preserves flexibility and does not prohibit a simultaneous rate cut; 50 basis points is 0.5 percentage point.",
+    "ref": "E5-2506-001"
+  },
+  {
+    "id": "JUN-02",
+    "question": "Consider balance-of-payments statements: (1) A current-account surplus requires a goods-trade surplus. (2) A Q4 surplus necessarily establishes a full-year surplus. Which are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "Services, income and transfers also enter the current account. Other quarters can outweigh Q4; publication month and reference quarter differ.",
+    "ref": "E5-2506-002"
+  },
+  {
+    "id": "JUN-03",
+    "question": "Regarding the announced Census schedule: (1) 1 March 2027 is the general reference date. (2) 1 October 2026 applies to specified snow-bound areas. (3) All enumeration must occur on the reference date itself. Which are correct?",
+    "options": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "Reference dates anchor particulars, not a claim that every household is counted on one day. Both geographic/reference-date qualifications matter.",
+    "ref": "E5-2506-003"
+  },
+  {
+    "id": "JUN-04",
+    "question": "Consider the June SEZ changes: (1) The 10-hectare relaxation is sector-specific. (2) It removes every duty on transfers to the Domestic Tariff Area. Which are correct?",
+    "options": [
+      "Both 1 and 2",
+      "1 only",
+      "Neither 1 nor 2",
+      "2 only"
+    ],
+    "answer": 1,
+    "explanation": "The semiconductor/component relaxation should not be generalised to all zones. Applicable domestic-entry duties are not erased by the relaxation.",
+    "ref": "E5-2506-004"
+  },
+  {
+    "id": "JUN-05",
+    "question": "What condition underpins the electric-car manufacturing import concession?",
+    "options": [
+      "No domestic investment obligation.",
+      "Investment and time-bound domestic value addition.",
+      "A ban on all imported components.",
+      "An unconditional waiver for every importer."
+    ],
+    "answer": 1,
+    "explanation": "The scheme combines conditional relief with manufacturing/localisation commitments and quantitative limits.",
+    "ref": "E5-2506-005"
+  },
+  {
+    "id": "JUN-06",
+    "question": "The revised SFB priority-sector target was:",
+    "options": [
+      "15% of all government expenditure.",
+      "60% of the applicable lending base.",
+      "60% of every depositor’s balance.",
+      "100% of only housing loans."
+    ],
+    "answer": 1,
+    "explanation": "This is a priority-sector target for small finance banks, not an exemption from all prudential norms.",
+    "ref": "E5-2506-006"
+  },
+  {
+    "id": "JUN-07",
+    "question": "For collateral lending, consider: (1) LTV compares loan value with the value of pledged collateral. (2) A tiered LTV direction necessarily grants the same ceiling to every loan regardless of purpose and size. Which are correct?",
+    "options": [
+      "2 only",
+      "1 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "LTV is a ratio, while eligibility, category and size bands determine the applicable regulatory ceiling. Collateral does not eliminate repayment risk.",
+    "ref": "E5-2506-007"
+  },
+  {
+    "id": "JUN-08",
+    "question": "Why does the project-finance commercial-operation date matter?",
+    "options": [
+      "It helps determine treatment of delays and related prudential risk.",
+      "It fixes all retail lending rates.",
+      "It replaces environmental clearance.",
+      "It guarantees project profitability."
+    ],
+    "answer": 0,
+    "explanation": "Project financing depends on completion and future cash flows; regulatory dates do not guarantee commercial success.",
+    "ref": "E5-2506-008"
+  },
+  {
+    "id": "JUN-09",
+    "question": "Asset monetisation is best distinguished from:",
+    "options": [
+      "A costless grant with no future revenue implications.",
+      "An arrangement requiring valuation.",
+      "A method potentially funding new assets.",
+      "A transaction involving infrastructure revenue rights."
+    ],
+    "answer": 0,
+    "explanation": "Upfront proceeds can exchange future cash flows; valuations and public-service obligations remain important.",
+    "ref": "E5-2506-009"
+  },
+  {
+    "id": "JUN-10",
+    "question": "The Critical Mineral Mission is primarily a:",
+    "options": [
+      "Programme exclusively for fuel refining.",
+      "Universal environmental-clearance waiver.",
+      "Guarantee of instant mineral self-sufficiency.",
+      "Value-chain strategy including exploration, processing and recycling."
+    ],
+    "answer": 3,
+    "explanation": "Resource discovery alone does not create refining capacity or an operational supply chain.",
+    "ref": "E5-2506-010"
+  },
+  {
+    "id": "JUN-11",
+    "question": "Staged waste-to-energy assistance aims to link support with:",
+    "options": [
+      "Verification and implementation/operational milestones.",
+      "The abolition of pollution controls.",
+      "An unconditional payment for any unsorted waste.",
+      "Automatic completion at project announcement."
+    ],
+    "answer": 0,
+    "explanation": "Financial assistance and environmental performance are separate; functioning plants and safeguards still matter.",
+    "ref": "E5-2506-011"
+  },
+  {
+    "id": "JUN-12",
+    "question": "Biomass programme revisions imply:",
+    "options": [
+      "All combustion is emission-free.",
+      "Every crop residue must be burnt openly.",
+      "Pellets cannot be used in energy production.",
+      "Changed support rules, not automatic repeal of air-pollution duties."
+    ],
+    "answer": 3,
+    "explanation": "Feedstock logistics and cleaner processing determine outcomes; a subsidy does not override environmental law.",
+    "ref": "E5-2506-012"
+  },
+  {
+    "id": "JUN-13",
+    "question": "A draft power/storage amendment should be indexed as:",
+    "options": [
+      "A repeal of all electricity contracts.",
+      "An already universal consumer tariff.",
+      "A completed battery installation.",
+      "A proposal pending the applicable final legal steps."
+    ],
+    "answer": 3,
+    "explanation": "Consultation drafts reveal intended change, not proof of final adoption or commissioning.",
+    "ref": "E5-2506-013"
+  },
+  {
+    "id": "JUN-14",
+    "question": "Agroforestry combines:",
+    "options": [
+      "A statutory exemption from every felling rule.",
+      "Trees with agricultural land-use systems.",
+      "Only monoculture plantations inside natural forests.",
+      "Only marine aquaculture."
+    ],
+    "answer": 1,
+    "explanation": "Farm-tree facilitation needs species/state applicability and traceability; model rules do not erase all safeguards.",
+    "ref": "E5-2506-014"
+  },
+  {
+    "id": "JUN-15",
+    "question": "Consider restoration: (1) A high plantation count alone proves biodiversity recovery. (2) Species suitability and survival are relevant to ecological outcomes. Which are correct?",
+    "options": [
+      "2 only",
+      "Neither 1 nor 2",
+      "1 only",
+      "Both 1 and 2"
+    ],
+    "answer": 0,
+    "explanation": "Planting totals do not establish natural ecosystem function. The Green India linkage stresses landscape, survival and ecological suitability.",
+    "ref": "E5-2506-015"
+  },
+  {
+    "id": "JUN-16",
+    "question": "A telecom cyber-rule draft involving identifier users raises which issue?",
+    "options": [
+      "A guarantee against all cyberattacks.",
+      "Automatic replacement of every criminal law.",
+      "Universal public release of private subscriber data.",
+      "Proportionate obligations and protection of data accessed."
+    ],
+    "answer": 3,
+    "explanation": "Scope, access safeguards and legal stage matter as much as cybersecurity objectives.",
+    "ref": "E5-2506-016"
+  },
+  {
+    "id": "JUN-17",
+    "question": "Bilateral cooperation discussions with Croatia demonstrate:",
+    "options": [
+      "Diplomatic engagement, not automatic completion of a corridor.",
+      "Croatia’s accession to SAARC.",
+      "An immediate universal visa waiver.",
+      "A common India–Croatia currency."
+    ],
+    "answer": 0,
+    "explanation": "An agreement or discussion requires implementation; transport routes need infrastructure and commercial use.",
+    "ref": "E5-2506-017"
+  },
+  {
+    "id": "JUN-18",
+    "question": "Regarding Talliki Vandanam, consider: (1) ₹15,000 is the stated gross annual per-child support for eligible beneficiaries. (2) The general ₹2,000 deduction proves every case must receive exactly ₹13,000 net. Which are correct?",
+    "options": [
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2",
+      "1 only"
+    ],
+    "answer": 3,
+    "explanation": "The six-page mirrored G.O.Ms.27 contains separate RTE fee and scholarship-related adjustments; admissions and record verification also affect disbursal. Official-host authentication remains pending.",
+    "ref": "E5-2506-018"
+  },
+  {
+    "id": "JUN-19",
+    "question": "Which chronology is correct for the AP yoga initiative?",
+    "options": [
+      "The June event preceded every May preparation.",
+      "A May preview proves June attendance.",
+      "May campaign preceded the June Visakhapatnam event.",
+      "The event itself occurred in January."
+    ],
+    "answer": 2,
+    "explanation": "Preparations and event outcomes are separate milestones; record claims need dated evidence.",
+    "ref": "E5-2506-019"
+  },
+  {
+    "id": "JUN-20",
+    "question": "Khichan and Menar are Ramsar sites in:",
+    "options": [
+      "Tamil Nadu.",
+      "Andhra Pradesh.",
+      "Sikkim.",
+      "Rajasthan."
+    ],
+    "answer": 3,
+    "explanation": "Khichan is in Phalodi and Menar in Udaipur; national site totals must retain their announcement date.",
+    "ref": "E5-2506-020"
+  },
+  {
+    "id": "JUN-21",
+    "question": "Operation Sindhu principally concerned:",
+    "options": [
+      "A river dredging project.",
+      "Evacuating nationals amid the Iran–Israel conflict.",
+      "A lunar lander.",
+      "A new pension scheme."
+    ],
+    "answer": 1,
+    "explanation": "Running flight/evacuee totals vary by date; diplomatic logistics do not themselves establish citizenship-policy changes.",
+    "ref": "E5-2506-021"
+  },
+  {
+    "id": "JUN-22",
+    "question": "Consider Emergency safeguards: (1) Armed rebellion replaced internal disturbance as an Article 352 ground. (2) The right to move a court for enforcement of Articles 20 and 21 may be suspended under Article 359. Which are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "The 44th Amendment strengthened safeguards. Articles 20 and 21 are excluded from the Article 359 suspension mechanism.",
+    "ref": "E5-2506-022"
+  },
+  {
+    "id": "JUN-23",
+    "question": "Privacy and publicity rights are:",
+    "options": [
+      "Related but distinct concepts in personality-rights disputes.",
+      "A right only available to public bodies.",
+      "Always identical to copyright ownership.",
+      "An absolute ban on criticism."
+    ],
+    "answer": 0,
+    "explanation": "Commercial appropriation, privacy, expression and IP may raise different issues; rights are not unlimited.",
+    "ref": "E5-2506-023"
+  },
+  {
+    "id": "JUN-24",
+    "question": "A sound crowd-disaster response prioritises:",
+    "options": [
+      "Treating ticket sales as a safety guarantee.",
+      "Blaming victims as the complete explanation.",
+      "Capacity, safe flows, communication and accountable coordination.",
+      "Removing every exit sign."
+    ],
+    "answer": 2,
+    "explanation": "Venue design and operational decisions shape risk. Attendance estimates alone do not explain a disaster.",
+    "ref": "E5-2506-024"
+  },
+  {
+    "id": "JUN-25",
+    "question": "Consider Axiom-4: (1) Indian participation supplied microgravity/operational experience. (2) It demonstrated a completed Indian indigenous crewed launch under Gaganyaan. Which are correct?",
+    "options": [
+      "1 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2",
+      "2 only"
+    ],
+    "answer": 0,
+    "explanation": "Participation in an international private flight does not by itself establish indigenous crewed-launch readiness. June launch and July return are separate milestones.",
+    "ref": "E5-2506-025"
+  },
+  {
+    "id": "JUN-26",
+    "question": "A finer numerical weather-model grid: (1) increases spatial detail represented by the model; (2) guarantees accurate forecasts at every village. Which are correct?",
+    "options": [
+      "1 only",
+      "Neither 1 nor 2",
+      "2 only",
+      "Both 1 and 2"
+    ],
+    "answer": 0,
+    "explanation": "Resolution is not identical to predictive accuracy. Validation, observations, initial conditions and uncertainty remain important for BharatFS.",
+    "ref": "E5-2506-026"
+  },
+  {
+    "id": "JUN-27",
+    "question": "India’s 131/148 Gender Gap rank is best read as:",
+    "options": [
+      "A state ranking of AP.",
+      "A comparative report result with a specified methodology and year.",
+      "A percentage of women in employment.",
+      "An absolute measure of every welfare outcome."
+    ],
+    "answer": 1,
+    "explanation": "Relative rank and absolute welfare are different. The unresolved score was deliberately excluded.",
+    "ref": "E5-2506-027"
+  },
+  {
+    "id": "JUN-28",
+    "question": "Marine-disaster preparedness particularly requires:",
+    "options": [
+      "Reliable cargo information and coordinated pollution response.",
+      "Only counting the ship’s passengers.",
+      "Assuming dangerous goods cannot be carried.",
+      "Treating every spill as environmentally identical."
+    ],
+    "answer": 0,
+    "explanation": "Hazard properties and response coordination shape coastal consequences.",
+    "ref": "E5-2506-028"
+  },
+  {
+    "id": "JUN-29",
+    "question": "INSV Kaundinya is linked with:",
+    "options": [
+      "A new tax tribunal.",
+      "A traditional stitched-ship reconstruction and the Tankai method.",
+      "An operational nuclear aircraft carrier.",
+      "A Mars sample-return mission."
+    ],
+    "answer": 1,
+    "explanation": "Heritage reconstruction should be distinguished from an ancient vessel recovered intact or a modern weapons platform.",
+    "ref": "E5-2506-029"
+  },
+  {
+    "id": "JUN-30",
+    "question": "What can a preliminary aviation accident report establish?",
+    "options": [
+      "A final conclusion merely from fuel-switch timing.",
+      "That all later investigation is unnecessary.",
+      "Early factual/investigative material, not necessarily a final causal finding.",
+      "Automatic legal blame on one named person."
+    ],
+    "answer": 2,
+    "explanation": "Separate observed sequence, evidence interpretation, technical causation and legal responsibility.",
+    "ref": "E5-2506-031"
+  }
+]

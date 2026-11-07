@@ -1,0 +1,392 @@
+[
+  {
+    "id": "FEB26-01",
+    "question": "A comparison says Union expenditure rose 7.7%. Which check is essential?",
+    "options": [
+      "That the deficit target was already achieved.",
+      "That it measures 7.7% real growth by definition.",
+      "That the comparison uses FY 2025–26 Revised Estimates, not a different baseline.",
+      "That expenditure excludes every capital item."
+    ],
+    "answer": 2,
+    "explanation": "Budget Estimates, Revised Estimates and audited actuals describe different information stages. The 7.7% expenditure increase uses the previous year’s RE, not BE or actuals. Caution: The target is not the realised deficit, and expenditure growth is not automatically inflation-adjusted.",
+    "ref": "CA-002"
+  },
+  {
+    "id": "FEB26-02",
+    "question": "January’s old-series 7.4% and February’s new-series 7.6% estimates should be:",
+    "options": [
+      "Spliced as identical-method final outcomes.",
+      "Treated as proof exactly 0.2% new output was physically created by rebasing.",
+      "Preserved with their different base years, estimate vintages and methodology.",
+      "Averaged to create an official estimate."
+    ],
+    "answer": 2,
+    "explanation": "A new base changes measurement/coverage as well as price reference; it differs from routine data revision. January’s 7.4% first advance estimate remains a correctly labelled earlier vintage, not an error to erase. Caution: Do not splice old/new-series growth figures as an unchanged-method time series or call all increases newly produced output.",
+    "ref": "E9-2602-002"
+  },
+  {
+    "id": "FEB26-03",
+    "question": "Double deflation estimates real value added by:",
+    "options": [
+      "Separately treating output and intermediate-input price changes.",
+      "Subtracting the same inflation rate twice from nominal GDP.",
+      "Using only consumer prices for every sector.",
+      "Eliminating every future statistical revision."
+    ],
+    "answer": 0,
+    "explanation": "Double deflation treats output and intermediate inputs separately to estimate real value added. A lower measured nominal level can coexist with higher estimated real growth under a new framework. Caution: Do not claim double deflation is used identically for all sectors or that methodology eliminates future revisions.",
+    "ref": "E9-2602-003"
+  },
+  {
+    "id": "FEB26-04",
+    "question": "On 12 February, the first CPI 2024 release’s 2.75% figure represented:",
+    "options": [
+      "A guarantee of the eventual final January value.",
+      "February 2026 final inflation.",
+      "The absolute price-index level.",
+      "January 2026 provisional combined year-on-year inflation."
+    ],
+    "answer": 3,
+    "explanation": "Publication month differs from reference month; an index level differs from a percentage inflation rate. The 2.75% value is this release’s provisional vintage, not a guarantee later final figures are identical. Caution: Do not compare an old-series December rate and new-series January rate as a pure unchanged-basket change.",
+    "ref": "E9-2602-004"
+  },
+  {
+    "id": "FEB26-05",
+    "question": "Consider three statements about February’s decision: 1.Repo 5.25%.2.SDF 5%.3.Neutral stance guarantees the next move is a cut. Which are correct?",
+    "options": [
+      "1,2 and 3.",
+      "2 and 3 only.",
+      "1 and 3 only.",
+      "1 and 2 only."
+    ],
+    "answer": 3,
+    "explanation": "SDF absorbs liquidity without collateral; repo and MSF provide liquidity through different facilities. An unchanged repo can coexist with changing liquidity conditions and lending-rate transmission. Caution: Do not call this a fresh February 25-basis-point cut or infer every borrower’s EMI must change immediately.",
+    "ref": "E9-2602-005"
+  },
+  {
+    "id": "FEB26-06",
+    "question": "A Budget proposes a biologics ecosystem and trial-site network. This alone establishes:",
+    "options": [
+      "All trial sites are operational.",
+      "Every safety requirement is waived.",
+      "Every biological medicine is a simple generic equivalent.",
+      "Proposed capacity support, not automatic approval of every biosimilar."
+    ],
+    "answer": 3,
+    "explanation": "Biosimilars need comparability evaluation; they are not treated identically to every small-molecule generic. An ecosystem announcement does not establish every institute/site is operational or every product approved. Caution: Do not call the entire five-year outlay one year’s actual expenditure or a blanket waiver of trial obligations.",
+    "ref": "CA-037"
+  },
+  {
+    "id": "FEB26-07",
+    "question": "A state announces a semiconductor partnership after ISM 2.0. Which inference needs separate evidence?",
+    "options": [
+      "That supply-chain depth matters.",
+      "That materials/equipment are distinct from chip design.",
+      "That a specific fabrication plant has been commissioned.",
+      "That training can complement investment."
+    ],
+    "answer": 2,
+    "explanation": "Chip design, equipment/materials, fabrication and packaging are different value-chain capabilities. Use phased milestones, skills and supplier depth to judge capability creation. Caution: Do not describe a mission announcement as immediate fabrication self-sufficiency or a specific commissioned factory.",
+    "ref": "CA-038"
+  },
+  {
+    "id": "FEB26-08",
+    "question": "A small supplier discounts an accepted invoice on TReDS. This is principally:",
+    "options": [
+      "The same transaction as a startup fund-of-funds commitment.",
+      "Receivables finance, distinct from an equity investment under a growth fund.",
+      "An equal unconditional grant to all MSMEs.",
+      "A completed purchase of a semiconductor fab."
+    ],
+    "answer": 1,
+    "explanation": "Equity risk capital differs from discounting an accepted trade receivable and from a direct subsidy. Separate this package from the ₹10,000 crore Startup Fund of Funds 2.0. Caution: Do not count two distinct ₹10,000 crore funds as the same scheme or assume every MSME receives a guaranteed grant.",
+    "ref": "CA-041"
+  },
+  {
+    "id": "FEB26-09",
+    "question": "The accepted 41% vertical-devolution recommendation means:",
+    "options": [
+      "Each state receives 41% of gross Union revenue.",
+      "All cesses automatically enter the pool.",
+      "Every other Commission recommendation is accepted without qualification.",
+      "The states collectively receive the specified share of net divisible Union tax proceeds."
+    ],
+    "answer": 3,
+    "explanation": "Vertical allocation between Centre/states differs from horizontal allocation among states; cesses/surcharges are not automatically in the divisible pool. The memorandum records acceptance of devolution but separate treatment of other reform recommendations. Caution: Do not say every recommendation was automatically accepted or each state receives 41% individually.",
+    "ref": "E9-2602-009"
+  },
+  {
+    "id": "FEB26-10",
+    "question": "Consider: 1.Entry conditions include constituted bodies/accounts.2.States should pass grants within ten working days.3.Untied means salaries and all establishment spending are unrestricted. Which are correct?",
+    "options": [
+      "2 and 3 only.",
+      "1 and 3 only.",
+      "1,2 and 3.",
+      "1 and 2 only."
+    ],
+    "answer": 3,
+    "explanation": "Intergovernmental grants do not substitute for constitutionally functioning elected bodies or local own-source revenue. States should transfer received grants within ten working days; delay attracts the specified interest rule. Caution: Untied does not mean unrestricted: the memorandum restricts establishment spending and untied road expenditure.",
+    "ref": "E9-2602-010"
+  },
+  {
+    "id": "FEB26-11",
+    "question": "The ₹2,04,401 crore state disaster-fund corpus should not be described as:",
+    "options": [
+      "Entirely a Union contribution, with no state financing component.",
+      "A corpus covering response and mitigation funds.",
+      "A multi-year allocation.",
+      "Distinct from national-level disaster funds."
+    ],
+    "answer": 0,
+    "explanation": "Disaster response/relief and risk-reduction/mitigation are related but distinct expenditure purposes. AP planning should strengthen preparedness and eligible reporting alongside post-disaster spending. Caution: A multi-year allocation is not all disbursed in February, and national funds are separate from these state-fund totals.",
+    "ref": "E9-2602-011"
+  },
+  {
+    "id": "FEB26-12",
+    "question": "Which pairing is correct?",
+    "options": [
+      "CDS—specified credit-event protection; TRS—transfer of total return exposure.",
+      "CDS—guaranteed full bond ownership; TRS—elimination of counterparty risk.",
+      "CDS—ordinary share ownership; TRS—cash reserve ratio.",
+      "CDS—risk-free deposit; TRS—automatic government grant."
+    ],
+    "answer": 0,
+    "explanation": "A credit derivative can redistribute risk without eliminating it from the financial system. Developing bond-market liquidity requires counterparty management and transparent exposures. Caution: Do not treat a CDS as a risk-free deposit or a TRS as ownership transfer in every case.",
+    "ref": "E9-2602-012"
+  },
+  {
+    "id": "FEB26-13",
+    "question": "A February REIT lending consultation lists proposed eligibility rules. What is the safest interpretation?",
+    "options": [
+      "Every REIT immediately acquired an unrestricted right to bank credit.",
+      "Check the final operative directions before treating every proposal as binding.",
+      "Every InvIT investment is government guaranteed.",
+      "A consultation deadline itself commissions an infrastructure asset."
+    ],
+    "answer": 1,
+    "explanation": "A REIT or InvIT owns cash-flow interests through structures; bank lending and investor-unit ownership have different risks. Read consultation status despite summary passages saying “now permitted”; operative final directions need their own check. Caution: Do not call every proposed relaxation a final rule or every trust a government-guaranteed investment.",
+    "ref": "E9-2602-013"
+  },
+  {
+    "id": "FEB26-14",
+    "question": "A 40% bank capital-market-exposure ceiling is:",
+    "options": [
+      "A guaranteed 40% subsidy for every acquisition.",
+      "The same as a 40% repo rate.",
+      "Proof every bank can ignore borrower eligibility.",
+      "A prudential exposure limit, not a universal borrower loan-to-value entitlement."
+    ],
+    "answer": 3,
+    "explanation": "A ceiling on a bank’s exposure is not a guaranteed entitlement of each borrower or an LTV ratio. Acquisition financing is conditional, with eligibility, leverage, valuation and security requirements. Caution: Do not present April commencement as already February operation or call 40% a universal loan-to-value limit.",
+    "ref": "E9-2602-014"
+  },
+  {
+    "id": "FEB26-15",
+    "question": "After the 7 February US framework and later legal events, which is justified?",
+    "options": [
+      "Every export permanently faced exactly 18%.",
+      "Use a dated product/legal-authority check rather than assume 18% remained a universal permanent tariff.",
+      "Every conditional removal was completed on 7 February.",
+      "The$500 billion purchase intention was already fully spent."
+    ],
+    "answer": 1,
+    "explanation": "Framework, final agreement, tariff legal authority and product-specific implementation are different stages. PRS records a later 20 February US Supreme Court ruling and further tariff action; the 7 February statement alone is not a month-end/current schedule. Caution: Do not say every Indian export permanently faced 18% after all later legal changes.",
+    "ref": "E9-2602-015"
+  },
+  {
+    "id": "FEB26-16",
+    "question": "India–GCC terms of reference establish:",
+    "options": [
+      "Automatic replacement of all bilateral agreements.",
+      "Immediate unrestricted tariff-free trade with every West Asian country.",
+      "Negotiating scope/modalities, not a concluded operative FTA.",
+      "GCC membership of every Asian economy."
+    ],
+    "answer": 2,
+    "explanation": "Terms of reference differ from concluded negotiations, signature, ratification and entry into force. Existing bilateral agreements with individual members have their own coverage/stage. Caution: Do not describe the GCC as every West Asian country or all bilateral agreements replaced immediately.",
+    "ref": "E9-2602-016"
+  },
+  {
+    "id": "FEB26-17",
+    "question": "Two announcements each mention ₹10,000 crore. The Startup Fund of Funds 2.0 and SME Growth Fund are:",
+    "options": [
+      "Turnover thresholds for ordinary startup recognition.",
+      "The same compulsory individual grant.",
+      "A single completed expenditure entry.",
+      "Distinct instruments whose corpus and delivery channels should not be merged."
+    ],
+    "answer": 3,
+    "explanation": "A fund-of-funds mobilises capital through investment funds rather than guaranteeing an identical direct grant to every startup. Track commitments, drawdowns and realised investee outcomes separately. Caution: Do not confuse this corpus with the SME Growth Fund or the separate recognition turnover ceiling.",
+    "ref": "E9-2602-017"
+  },
+  {
+    "id": "FEB26-18",
+    "question": "Consider: 1.General turnover threshold ₹200 crore.2.Deep-tech age/turnover thresholds 20 years/₹300 crore.3.Cooperatives qualify automatically without other conditions. Which are correct?",
+    "options": [
+      "1 and 2 only.",
+      "1,2 and 3.",
+      "2 and 3 only.",
+      "1 and 3 only."
+    ],
+    "answer": 0,
+    "explanation": "Recognition eligibility is distinct from automatic tax exemption, investment approval, loan sanction or grant receipt. Research intensity and long gestation motivate deep-tech treatment; ordinary thresholds are not simply extended to all firms. Caution: Do not award 20 year/₹300 crore treatment to every enterprise or say cooperative registration alone guarantees startup recognition.",
+    "ref": "E9-2602-018"
+  },
+  {
+    "id": "FEB26-19",
+    "question": "DAC clears proposals with a large aggregate value. This is not equivalent to:",
+    "options": [
+      "An acquisition-stage decision.",
+      "All contracts signed, equipment delivered and expenditure incurred.",
+      "A basis for later procurement scrutiny.",
+      "An opportunity to assess life-cycle support."
+    ],
+    "answer": 1,
+    "explanation": "Acquisition approval, contract signature, domestic production and delivery are distinct stages. A separate HAL Dornier contract must not be confused with approval for every platform in the aggregate. Caution: Do not report the entire proposal value as February expenditure or all Rafales already manufactured domestically.",
+    "ref": "E9-2602-019"
+  },
+  {
+    "id": "FEB26-20",
+    "question": "A hypothetical eligible urban project costs ₹100 crore. Which financing package matches the reviewed headline conditions?",
+    "options": [
+      "₹25 crore central assistance and ₹75 crore mandatory grant from an unrelated state.",
+      "₹25 crore central assistance and ₹10 crore market finance with no other qualifying market financing.",
+      "₹100 crore central grant and no market finance.",
+      "₹25 crore central assistance, ₹50 crore market finance and ₹25 crore local/state contribution."
+    ],
+    "answer": 3,
+    "explanation": "A project grant, market borrowing and a repayment guarantee are different financing instruments. Municipal capacity, credible cash flows and equitable service tariffs matter alongside leverage. Caution: Central assistance is not 100% project funding and approval is not proof bonds or loans were already raised.",
+    "ref": "E9-2602-023"
+  },
+  {
+    "id": "FEB26-21",
+    "question": "The Industrial Relations amendment should be read as:",
+    "options": [
+      "A repeal-date clarification linked to November 2025, with passage distinguished from other legal stages.",
+      "Abolition of every worker remedy.",
+      "Proof all four Labour Codes first began in February 2026.",
+      "A substitute for every final subordinate rule."
+    ],
+    "answer": 0,
+    "explanation": "Passage of an amending Bill differs from proving assent, notification and implementation of every subordinate instrument. Connect November 2025 commencement to February clarification rather than say the entire labour framework began only in February. Caution: A repeal clarification is not evidence every worker remedy disappeared or all compliance rules were already final.",
+    "ref": "E9-2602-024"
+  },
+  {
+    "id": "FEB26-22",
+    "question": "The New Delhi AI declaration’s reviewed character is:",
+    "options": [
+      "Voluntary/non-binding international cooperation, not a global enforceable AI statute.",
+      "An exemption from all domestic data safeguards.",
+      "A universal mandatory treaty automatically displacing national law.",
+      "Proof exactly 91 will remain the endorsement count forever."
+    ],
+    "answer": 0,
+    "explanation": "Voluntary/non-binding international coordination differs from an enforceable global AI statute. Endorsement counts are dated snapshots and may change; do not call 91 an immutable final total. Caution: Do not say every participant accepted a binding regulatory treaty or national safeguards became unnecessary.",
+    "ref": "E9-2602-026"
+  },
+  {
+    "id": "FEB26-23",
+    "question": "The reviewed offshore-mineral rules cover:",
+    "options": [
+      "Extraction without any operating right merely because a transit form exists.",
+      "Specified offshore minerals, excluding mineral oils/hydrocarbons.",
+      "All petroleum under an identical carrier permit.",
+      "Every unregistered vessel automatically."
+    ],
+    "answer": 1,
+    "explanation": "A maritime mineral operating right and permission for oil/gas extraction arise under different frameworks. Dry-basis reconciliation and registered carriers support traceability but need independent checks. Caution: Do not say all offshore extraction is automatically lawful from carrier registration or this rulebook covers petroleum.",
+    "ref": "E9-2602-028"
+  },
+  {
+    "id": "FEB26-24",
+    "question": "An eligible PM RAHAT case receives:",
+    "options": [
+      "Unlimited care for seven years.",
+      "A requirement that all care always wait 48 hours before beginning.",
+      "₹1.5 lakh cash regardless of treatment cost.",
+      "Cashless treatment within the ₹1.5 lakh/up-to-seven-day limits, not an unrestricted lump-sum award."
+    ],
+    "answer": 3,
+    "explanation": "Cashless treatment within limits differs from an unrestricted lump-sum cash compensation award. Insured versus uninsured/hit-and-run cases have different funding channels. Caution: Do not promise unlimited care at every hospital or confuse the police-authentication time with the entire maximum treatment period.",
+    "ref": "E9-2602-029"
+  },
+  {
+    "id": "FEB26-25",
+    "question": "Which statement correctly separates rural and urban institutions?",
+    "options": [
+      "Every municipality must have the same three tiers as a panchayat.",
+      "Local elections are irrelevant to grant eligibility.",
+      "The three-tier panchayat structure should not be copied as an identical mandatory municipal hierarchy.",
+      "A schedule listing 29 subjects automatically devolves all staff/funds."
+    ],
+    "answer": 2,
+    "explanation": "The three-tier panchayat rule is not a mandatory three-tier municipal hierarchy; the constitutional small-state exception also matters. Follow functions with functionaries and funds, Gram Sabha scrutiny and district planning. Caution: Do not reproduce a claim that identical three-tier structures are mandatory for both rural and urban local government.",
+    "ref": "E9-2602-030"
+  },
+  {
+    "id": "FEB26-26",
+    "question": "To judge a Lakhpati Didi livelihood outcome, one should distinguish:",
+    "options": [
+      "Sales revenue from profit as identical measures.",
+      "Sustained household income, individual control, turnover, profit and debt.",
+      "₹1 lakh earned from an automatic ₹1 lakh state cash grant.",
+      "Every enrolment from guaranteed income success."
+    ],
+    "answer": 1,
+    "explanation": "Household income, individual earnings, turnover and profit are different measures of empowerment. Validate reported achievement with definitions, reference periods and sustained net incomes rather than treat all enrolment as success. Caution: Do not say every member receives an automatic ₹1 lakh grant or equate gross sales with disposable income.",
+    "ref": "E9-2602-031"
+  },
+  {
+    "id": "FEB26-27",
+    "question": "Which comparison is conceptually sound?",
+    "options": [
+      "Announced credit targets equal loans already disbursed.",
+      "Annual production must always equal central-pool storage capacity.",
+      "Every household store is counted in FCI capacity.",
+      "Warehouse capacity is a stock/space measure; annual production and throughput are flows."
+    ],
+    "answer": 3,
+    "explanation": "Annual production flows, seasonal stocks, warehouse capacity and throughput cannot be equated one-for-one. Storage needs pest/moisture control, location, turnover and viable operations, not only announced tonnes. Caution: Central Pool storage capacity is not every private/household store or the entire national annual production requirement.",
+    "ref": "E9-2602-033"
+  },
+  {
+    "id": "FEB26-28",
+    "question": "A magazine recommends a Border Security Technology Oversight Authority. What additional evidence is required to call it established?",
+    "options": [
+      "Only the author’s recommendation.",
+      "A statement that sensors are useful.",
+      "An official constituting instrument or equivalent operative evidence.",
+      "A general discussion of drone threats."
+    ],
+    "answer": 2,
+    "explanation": "An author’s suggested oversight body differs from an officially established statutory authority. Assess false alerts, cybersecurity and legal proportionality alongside coverage. Caution: Do not present the proposed Border Security Technology Oversight Authority as already created by government.",
+    "ref": "E9-2602-035"
+  },
+  {
+    "id": "FEB26-29",
+    "question": "A carbon-capture project reports tonnes captured. To claim durable net abatement, it also needs:",
+    "options": [
+      "Only the gross captured number.",
+      "Lifecycle energy/emissions accounting, transport/storage performance and leakage monitoring.",
+      "Assurance every utilisation route is permanent storage.",
+      "A declaration CCUS is always net-negative by definition."
+    ],
+    "answer": 1,
+    "explanation": "Point-source capture and direct-air capture have different feed streams; carbon use is not necessarily permanent storage. Evaluate net lifecycle emissions, energy penalty, leakage and durable monitoring. Caution: Do not assume every captured tonne is permanently avoided or every utilisation route creates net negative emissions.",
+    "ref": "CA-040"
+  },
+  {
+    "id": "FEB26-30",
+    "question": "AP’s roughly ₹53,915 crore headline reconciles with the AFS as:",
+    "options": [
+      "A figure entirely describing debt-principal repayment.",
+      "₹53,915 crore direct capital outlay with loans additionally on top.",
+      "About ₹48,697.71 crore capital outlay plus ₹5,217.67 crore loans/advances.",
+      "Only ₹48,697.71 crore plus debt interest."
+    ],
+    "answer": 2,
+    "explanation": "Capital outlay, loans advanced and debt repaid are distinct capital-account transactions. The official statement is in lakhs: convert units before using newspaper crore values. Caution: Do not call ₹53,915 crore solely direct capital outlay or ₹48,698 crore the full broader capital-plus-loan total.",
+    "ref": "E9-2602-040"
+  }
+]

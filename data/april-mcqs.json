@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "The April Tamil Nadu Governor judgment concerns principally:",
+    "options": [
+      "Article 280 only",
+      "RBI liquidity rules",
+      "Articles 200 and 201",
+      "Customs valuation"
+    ],
+    "answer": 2,
+    "explanation": "Assent to state Bills and presidential consideration arise under Articles 200 and 201; later legal developments require separate checking.",
+    "ref": "APR25-001",
+    "options_shuffled": true
+  },
+  {
+    "id": 2,
+    "question": "The Waqf Act’s 5 April milestone was:",
+    "options": [
+      "The first February introduction",
+      "Proof that all litigation ended",
+      "Publication of all property titles",
+      "Presidential assent"
+    ],
+    "answer": 3,
+    "explanation": "Assent is a dated legislative milestone, not proof of commencement of every provision or final disposal of litigation.",
+    "ref": "CA-044",
+    "options_shuffled": true
+  },
+  {
+    "id": 3,
+    "question": "The April MPC decision was:",
+    "options": [
+      "Repo 6.25%, neutral stance",
+      "Repo 5%, no corridor",
+      "Repo 6%, accommodative stance",
+      "Repo 6.5%, tight stance"
+    ],
+    "answer": 2,
+    "explanation": "The April cut took repo to 6% and changed the stance to accommodative. February is a different snapshot.",
+    "ref": "APR25-003",
+    "options_shuffled": true
+  },
+  {
+    "id": 4,
+    "question": "Which is the correct interpretation of Q4 CPI inflation of 3.7%?",
+    "options": [
+      "It was the January–March quarterly average",
+      "Every state had the same rate",
+      "March alone necessarily recorded 3.7%",
+      "Every price fell by 3.7%"
+    ],
+    "answer": 0,
+    "explanation": "Disinflation and price declines differ, and a quarterly average need not equal any particular month’s rate.",
+    "ref": "APR25-004",
+    "options_shuffled": true
+  },
+  {
+    "id": 5,
+    "question": "The fourth RRB amalgamation phase was expected to reduce the national count:",
+    "options": [
+      "From 26 to zero",
+      "From 196 to 150",
+      "From 43 to 28",
+      "From 28 to 43"
+    ],
+    "answer": 2,
+    "explanation": "Twenty-six participating RRBs were reorganised; this is not a count of newly formed banks.",
+    "ref": "APR25-005",
+    "options_shuffled": true
+  },
+  {
+    "id": 6,
+    "question": "The April caste-enumeration decision established:",
+    "options": [
+      "Automatic revision of all quotas",
+      "A completed population census",
+      "Final caste totals for all districts",
+      "Approval to include enumeration in the upcoming Census"
+    ],
+    "answer": 3,
+    "explanation": "Approval specifies an intended component of a future Census; it does not publish results or automatically alter reservation.",
+    "ref": "APR25-006",
+    "options_shuffled": true
+  },
+  {
+    "id": 7,
+    "question": "Vibrant Villages Programme-II is a:",
+    "options": [
+      "Private-only tourism fund",
+      "Postgraduate examination system",
+      "Universal coastal fishing scheme",
+      "Central-sector scheme for selected strategic land-border villages"
+    ],
+    "answer": 3,
+    "explanation": "VVP-II concerns selected land-border villages with a multi-year outlay; it is not an AP-wide coastal entitlement.",
+    "ref": "APR25-007",
+    "options_shuffled": true
+  },
+  {
+    "id": 8,
+    "question": "The Cape Town aircraft framework addresses principally:",
+    "options": [
+      "International interests and remedies concerning aircraft equipment",
+      "Election symbols",
+      "School admissions",
+      "Cane recovery rates"
+    ],
+    "answer": 0,
+    "explanation": "Predictable creditor rights support aircraft financing; safety certification is a different regulatory function.",
+    "ref": "APR25-009",
+    "options_shuffled": true
+  },
+  {
+    "id": 9,
+    "question": "Tribhuvan Sahkari University is associated with:",
+    "options": [
+      "A spaceport in AP",
+      "IIT Madras only",
+      "A UNESCO tiger reserve",
+      "IRMA at Anand, Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "The framework places IRMA as a school within the new university while stating that its autonomous identity is to be preserved.",
+    "ref": "APR25-010",
+    "options_shuffled": true
+  },
+  {
+    "id": 10,
+    "question": "UGC’s flexible programme provisions should be interpreted as:",
+    "options": [
+      "Automatic admission without criteria",
+      "Abolition of academic standards",
+      "Options requiring institutional implementation and credit standards",
+      "A ban on recognition of prior learning"
+    ],
+    "answer": 2,
+    "explanation": "Flexibility does not mean every institution offers every option immediately or academic requirements disappear.",
+    "ref": "APR25-011",
+    "options_shuffled": true
+  },
+  {
+    "id": 11,
+    "question": "The approved basic sugarcane FRP for 2025–26 was:",
+    "options": [
+      "₹340 at any recovery",
+      "₹355 per quintal at 10.25% recovery",
+      "₹1,600 per quintal",
+      "₹355 per tonne"
+    ],
+    "answer": 1,
+    "explanation": "The base unit and recovery condition matter. FRP is not a general price for every crop.",
+    "ref": "APR25-012",
+    "options_shuffled": true
+  },
+  {
+    "id": 12,
+    "question": "M-CADWM is linked to:",
+    "options": [
+      "Maritime aircraft procurement",
+      "Command-area development under PMKSY",
+      "Caste enumeration",
+      "Machine-to-machine SIM transfers"
+    ],
+    "answer": 1,
+    "explanation": "The sub-scheme concerns modernising irrigation-water supply and micro-irrigation networks.",
+    "ref": "APR25-013",
+    "options_shuffled": true
+  },
+  {
+    "id": 13,
+    "question": "A key reason to distinguish ECMS notification from Cabinet approval is that:",
+    "options": [
+      "Every electronics firm receives identical support",
+      "Notification supplies implementation/eligibility detail beyond an initial decision",
+      "Neither can contain conditions",
+      "Both prove every investment is realised"
+    ],
+    "answer": 1,
+    "explanation": "The April instrument sets category-specific support and selection conditions. Approval alone is not an operational entitlement.",
+    "ref": "APR25-014",
+    "options_shuffled": true
+  },
+  {
+    "id": 14,
+    "question": "The diaspora committee’s reintegration recommendation most directly concerns:",
+    "options": [
+      "Foreign tourists only",
+      "Foreign banks’ mergers",
+      "Returned migrants and deportees",
+      "Only lunar astronauts"
+    ],
+    "answer": 2,
+    "explanation": "Returnees may need jobs, skills recognition and counselling; responsibility and coordination matter across Centre and states.",
+    "ref": "APR25-015",
+    "options_shuffled": true
+  },
+  {
+    "id": 15,
+    "question": "Under the C&D waste framework, moving debris to an untracked site is:",
+    "options": [
+      "Proof of higher-quality building material",
+      "Always sufficient EPR compliance",
+      "The same as certified recycling",
+      "Not by itself responsible management or EPR compliance"
+    ],
+    "answer": 3,
+    "explanation": "Collection, sorting, processing, destination tracking and quality standards are required for genuine circularity.",
+    "ref": "APR25-016",
+    "options_shuffled": true
+  },
+  {
+    "id": 16,
+    "question": "An emissions-intensity target is:",
+    "options": [
+      "A ban on all production",
+      "A guarantee that total emissions fall",
+      "Emissions per unit of output, distinct from total emissions",
+      "Necessarily an absolute emissions cap"
+    ],
+    "answer": 2,
+    "explanation": "Total emissions may rise if output increases sufficiently even while intensity improves. The April instrument was a draft.",
+    "ref": "APR25-017",
+    "options_shuffled": true
+  },
+  {
+    "id": 17,
+    "question": "TRAI recommended that M2M criticality be assigned principally to:",
+    "options": [
+      "Specific applications based on reliability needs and consequences of failure",
+      "Every entire economic sector automatically",
+      "Only devices imported from abroad",
+      "Every SIM with no distinctions"
+    ],
+    "answer": 0,
+    "explanation": "Application-specific, technology-neutral assessment distinguishes a medical or transport safety use from routine telemetry.",
+    "ref": "APR25-018",
+    "options_shuffled": true
+  },
+  {
+    "id": 18,
+    "question": "AP’s SC sub-classification percentages in the April ordinance summed to:",
+    "options": [
+      "An additional 30%",
+      "A uniform 5% for each listed caste",
+      "The existing 15%",
+      "The sportsperson 3% quota"
+    ],
+    "answer": 2,
+    "explanation": "The reported shares were 1%, 6.5% and 7.5% within the existing 15% SC reservation.",
+    "ref": "APR25-019",
+    "options_shuffled": true
+  },
+  {
+    "id": 19,
+    "question": "The AP sportsperson recruitment reservation described in April was:",
+    "options": [
+      "A 3% horizontal quota subject to eligibility",
+      "An automatic job for every athlete",
+      "A separate vertical caste category",
+      "A universal scholarship"
+    ],
+    "answer": 0,
+    "explanation": "Horizontal reservation cuts across vertical categories; exact recruitment scope and screening requirements remain important.",
+    "ref": "APR25-020",
+    "options_shuffled": true
+  },
+  {
+    "id": 20,
+    "question": "The fishing-ban relief note links:",
+    "options": [
+      "Seasonal conservation with announced livelihood assistance",
+      "A 61-day ban with proof of universal payment",
+      "An unlimited deep-sea fishing licence with no conditions",
+      "A ban lasting all twelve months"
+    ],
+    "answer": 0,
+    "explanation": "The note records a 61-day conservation window and ₹20,000 aid, but launch does not prove all eligible recipients were paid.",
+    "ref": "APR25-021",
+    "options_shuffled": true
+  },
+  {
+    "id": 21,
+    "question": "The Kanigiri CBG April event was:",
+    "options": [
+      "A final court ruling on every land parcel",
+      "Foundation laying, not commissioning of 500 plants",
+      "A nuclear power test",
+      "Proof that all programme jobs existed"
+    ],
+    "answer": 1,
+    "explanation": "Stage distinction prevents ambitious programme totals from becoming false claims of realised infrastructure.",
+    "ref": "APR25-022",
+    "options_shuffled": true
+  },
+  {
+    "id": 22,
+    "question": "Which SpaDeX chronology is correct?",
+    "options": [
+      "Power transfer in January; undocking in April",
+      "Second docking 20 April; power transfer 21 April",
+      "All milestones on one day",
+      "First docking in March; first launch in April"
+    ],
+    "answer": 1,
+    "explanation": "ISRO distinguishes second docking on 20 April from power transfer on 21 April, following January docking and March undocking.",
+    "ref": "APR25-023",
+    "options_shuffled": true
+  },
+  {
+    "id": 23,
+    "question": "ESA’s Biomass mission uses:",
+    "options": [
+      "Only an ordinary handheld camera",
+      "A crewed lunar capsule",
+      "A sugar-recovery meter",
+      "P-band synthetic-aperture radar"
+    ],
+    "answer": 3,
+    "explanation": "The radar supports estimates of forest biomass/carbon; forest area and biomass are not identical variables.",
+    "ref": "APR25-024",
+    "options_shuffled": true
+  },
+  {
+    "id": 24,
+    "question": "Donaldjohanson, encountered by Lucy in April, is:",
+    "options": [
+      "A main-belt asteroid",
+      "A new Indian weather satellite",
+      "A Jupiter moon",
+      "A Martian rover"
+    ],
+    "answer": 0,
+    "explanation": "This intermediate encounter should not be confused with the mission’s later Trojan-asteroid targets.",
+    "ref": "APR25-025",
+    "options_shuffled": true
+  },
+  {
+    "id": 25,
+    "question": "The WHO pandemic-agreement milestone in April was:",
+    "options": [
+      "Transfer of all national health powers to WHO",
+      "The May adoption already completed",
+      "Completion of draft negotiations for subsequent WHA consideration",
+      "Automatic entry into force in every country"
+    ],
+    "answer": 2,
+    "explanation": "Treaty stages differ. WHO expressly rejected the claim that the draft authorises it to impose national lockdowns or mandates.",
+    "ref": "APR25-026",
+    "options_shuffled": true
+  },
+  {
+    "id": 26,
+    "question": "Maternal mortality ratio uses the denominator:",
+    "options": [
+      "100,000 live births",
+      "Every 1,000 hospital admissions",
+      "Every 100 pregnancies",
+      "All national deaths"
+    ],
+    "answer": 0,
+    "explanation": "MMR and a maternal-death count measure different things. The UN estimate released in April concerns 2023.",
+    "ref": "APR25-027",
+    "options_shuffled": true
+  },
+  {
+    "id": 27,
+    "question": "Gita and Natyashastra recognition concerned:",
+    "options": [
+      "BIMSTEC’s tariff schedule",
+      "UNESCO’s Memory of the World documentary-heritage register",
+      "Two coastal Ramsar wetlands",
+      "Two new national parks"
+    ],
+    "answer": 1,
+    "explanation": "Memory of the World is distinct from the World Heritage List and intangible-heritage mechanisms.",
+    "ref": "APR25-028",
+    "options_shuffled": true
+  },
+  {
+    "id": 28,
+    "question": "The official 23 April Indus Waters Treaty wording was:",
+    "options": [
+      "Mutual termination agreed by both parties",
+      "Held in abeyance, subject to the stated condition",
+      "An amendment unanimously ratified",
+      "All rivers physically stopped at once"
+    ],
+    "answer": 1,
+    "explanation": "The wording and legal/physical effects must not be conflated. Operational consequences need separate investigation.",
+    "ref": "APR25-030",
+    "options_shuffled": true
+  },
+  {
+    "id": 29,
+    "question": "Which statement correctly describes the Rafale agreement?",
+    "options": [
+      "All 26 aircraft were delivered that day",
+      "Procurement signing precedes delivery and operational integration",
+      "It abolished maintenance needs",
+      "Every aircraft is an identical carrier-capable twin-seater"
+    ],
+    "answer": 1,
+    "explanation": "The package includes 22 single-seat and four twin-seat aircraft plus support. Contract signing is not operational deployment.",
+    "ref": "APR25-031",
+    "options_shuffled": true
+  },
+  {
+    "id": 30,
+    "question": "Why does the Similipal note avoid memorising a national ordinal?",
+    "options": [
+      "It is in Andhra Pradesh",
+      "The location is unknown",
+      "Credible reporting exposed inconsistent national counts",
+      "National parks have no legal framework"
+    ],
+    "answer": 2,
+    "explanation": "The uncontested notification area and Odisha location are recorded; the 106th/107th discrepancy remains explicitly unresolved.",
+    "ref": "APR25-037",
+    "options_shuffled": true
+  }
+]

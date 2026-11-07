@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "scope": "Local mocked tests and live discovery only, not hosted activation",
+  "unit_tests": 5,
+  "reconcile_idempotent": true,
+  "live_sources_ok": 5,
+  "live_sources_tested": 8,
+  "failed": [
+    "PIB daily:403",
+    "PIB ministry reviews:403",
+    "Indian Express robots:403"
+  ],
+  "github_deployment_verified": false,
+  "first_scheduled_run_observed": false
+}

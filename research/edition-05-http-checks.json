@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "paths": {
+    "/": 200,
+    "volumes/June-2025-Study-Volume.pdf": 200,
+    "volumes/July-2025-Study-Volume.docx": 200,
+    "volumes/August-2025-Study-Volume.pdf": 200,
+    "volumes/Cross-Month-Reading-Journeys.pdf": 200,
+    "research/Research-Status.md": 200
+  }
+}

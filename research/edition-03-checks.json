@@ -1,0 +1,18 @@
+{
+  "edition": "03",
+  "checked_on": "2026-11-06",
+  "notes": 245,
+  "source_references": 173,
+  "original_mcqs": 120,
+  "expanded_months": {
+    "2025-01": 73,
+    "2025-02": 68,
+    "2025-03": 45,
+    "2025-04": 38
+  },
+  "schema_checks": "passed",
+  "app_checks": "four monthly filters, quiz selectors, links, search, bookmarks and navigation passed in jsdom",
+  "document_checks": "four PDF text checks, DOCX load checks, sampled visual layout checks",
+  "coverage_certified": false,
+  "durable_scheduler_activated": false
+}

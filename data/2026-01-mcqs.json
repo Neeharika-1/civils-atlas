@@ -1,0 +1,392 @@
+[
+  {
+    "id": "JAN26-01",
+    "question": "Which sequence preserves publication chronology?",
+    "options": [
+      "All Budget Session events occurred in January.",
+      "January Union Budget followed by December Survey.",
+      "The Survey itself appropriates expenditure.",
+      "January parliamentary opening and Survey; February Union Budget."
+    ],
+    "answer": 3,
+    "explanation": "Session scheduling, tabling a document and voting expenditure are different parliamentary actions. Use actual dates rather than placing every event in the month of a review. Caution: Do not backdate the February Budget to January or treat the Survey as an appropriation law.",
+    "ref": "E8-2601-001"
+  },
+  {
+    "id": "JAN26-02",
+    "question": "The Survey’s 6.8%–7.2% range refers to:",
+    "options": [
+      "A fixed guaranteed quarterly rate.",
+      "A FY2026–27 projection, not the FY2025–26 advance estimate.",
+      "The percentage-point repo reduction.",
+      "The final measured FY2025–26 outcome."
+    ],
+    "answer": 1,
+    "explanation": "A policy assessment, statistical estimate and future growth forecast have different evidentiary roles. Read the range with assumptions rather than as a guaranteed exact outcome. Caution: The Survey does not guarantee FY2026–27 growth or authorise every suggested policy.",
+    "ref": "E8-2601-002"
+  },
+  {
+    "id": "JAN26-03",
+    "question": "January’s 7.4% GDP figure is:",
+    "options": [
+      "The same figure as GVA by definition.",
+      "An audited final outturn.",
+      "A first advance estimate subject to revision.",
+      "Proof every sector grew 7.4%."
+    ],
+    "answer": 2,
+    "explanation": "Advance estimates extrapolate partial information and are revised; GDP differs from GVA. Keep the then-used 2011–12 base and release vintage explicit. Caution: This is not a final full-year outcome or the same as December’s 7.3% RBI forecast.",
+    "ref": "E8-2601-003"
+  },
+  {
+    "id": "JAN26-04",
+    "question": "Positive CPI and negative WPI inflation can coexist because:",
+    "options": [
+      "They necessarily use identical weights and products.",
+      "All retail prices equal wholesale prices.",
+      "Their baskets and coverage differ.",
+      "One must always be fabricated."
+    ],
+    "answer": 2,
+    "explanation": "Different baskets and coverage permit CPI and WPI inflation to have opposite signs. A lower inflation rate is not the same as every price returning to an earlier level. Caution: Do not label all figures January monthly inflation or infer every household experienced the same price change.",
+    "ref": "E8-2601-004"
+  },
+  {
+    "id": "JAN26-05",
+    "question": "Effective capital expenditure includes:",
+    "options": [
+      "No grants under any condition.",
+      "Only interest payments.",
+      "Specified grants for creation of capital assets as well as direct capital expenditure.",
+      "Only every cash transfer regardless of purpose."
+    ],
+    "answer": 2,
+    "explanation": "Revenue expenditure classification does not alone determine social value; effective capex differs from only direct capital outlay. Evaluate outcomes and financing sustainability rather than call all transfers wasteful or all capex productive. Caution: A Survey expectation is not an audited final deficit or proof every state has the same fiscal position.",
+    "ref": "E8-2601-005"
+  },
+  {
+    "id": "JAN26-06",
+    "question": "Over 99% in the EU announcement refers to:",
+    "options": [
+      "An unrestricted exemption from standards.",
+      "Guaranteed export growth of 99%.",
+      "Indian export trade-value coverage, not automatic identical tariff-line share.",
+      "Every product immediately entering duty-free in January."
+    ],
+    "answer": 2,
+    "explanation": "Tariff-line counts, trade-value coverage, negotiation conclusion and legal entry into force differ. AP marine, textile and food exporters also need origin, sanitary and traceability compliance. Caution: Do not call every product instantly duty-free or replace trade-value coverage with tariff-line share.",
+    "ref": "E8-2601-006"
+  },
+  {
+    "id": "JAN26-07",
+    "question": "The EU FTA’s CBAM cooperation should not be read as:",
+    "options": [
+      "A reason to examine exporter compliance capacity.",
+      "Relevant to emissions verification.",
+      "A subject for technical engagement.",
+      "An automatically complete exemption from carbon-border requirements."
+    ],
+    "answer": 3,
+    "explanation": "Tariff preferences do not automatically waive professional licensing, visas or carbon-border compliance. Exporter readiness requires reliable emissions measurement and recognised verification. Caution: A services commitment is not automatic practice rights for every profession in every member state.",
+    "ref": "E8-2601-007"
+  },
+  {
+    "id": "JAN26-08",
+    "question": "An LNG agreement starting in 2028 establishes:",
+    "options": [
+      "A completed domestic power plant.",
+      "A grant of free energy to every household.",
+      "Future contracted supply, not January 2026 deliveries.",
+      "All agreed supply already delivered."
+    ],
+    "answer": 2,
+    "explanation": "A commercial agreement, letter of intent and commissioned asset have different certainty and delivery stages. Diversification can improve resilience but entails price, execution and infrastructure risks. Caution: Do not say 2028 LNG deliveries or every announced technology facility were already operating.",
+    "ref": "E8-2601-008"
+  },
+  {
+    "id": "JAN26-09",
+    "question": "Visa-free transit is distinct from:",
+    "options": [
+      "An airport-travel facilitation arrangement.",
+      "Unrestricted entry and employment throughout Europe.",
+      "A mobility-related announcement.",
+      "A subject requiring operative eligibility checks."
+    ],
+    "answer": 1,
+    "explanation": "Airport transit permission is distinct from unrestricted entry, employment or permanent residence. Technology partnerships require investment, standards and skills to yield durable gains. Caution: Do not turn visa-free transit into unrestricted visa-free travel throughout Europe.",
+    "ref": "E8-2601-009"
+  },
+  {
+    "id": "JAN26-10",
+    "question": "Industrial-design protection principally concerns:",
+    "options": [
+      "Every technical invention as a patent.",
+      "An enacted virtual-design amendment merely from a concept note.",
+      "A universal monopoly over any interface idea.",
+      "Visual appearance rather than automatically protecting every technical function."
+    ],
+    "answer": 3,
+    "explanation": "Industrial design protects visual appearance; it is not identical to a patent for technical function or every form of copyright. Digital products need clarity without overbroad monopolies over basic interfaces. Caution: Do not call a concept note enacted law or virtual-design proposals already universal rights.",
+    "ref": "E8-2601-010"
+  },
+  {
+    "id": "JAN26-11",
+    "question": "The January UGC equity position was:",
+    "options": [
+      "A final merits verdict solely from an interim stay.",
+      "Every 2026 obligation unconditionally in force.",
+      "Final abolition of every anti-discrimination duty.",
+      "2026 implementation stayed, with the reviewed 2012 framework continuing."
+    ],
+    "answer": 3,
+    "explanation": "An interim stay is not final invalidation; a notified framework may be temporarily inoperative. Institutional inclusion needs clear definitions and fair accessible procedures. Caution: Do not describe the 2026 framework as unconditionally in force or the stay as abolishing all anti-discrimination duties.",
+    "ref": "E8-2601-011"
+  },
+  {
+    "id": "JAN26-12",
+    "question": "A mental-health support-centre announcement proves:",
+    "options": [
+      "Every student received clinical care.",
+      "Confidential data can be published without limits.",
+      "No referral capacity is necessary.",
+      "A framework, not that every campus has trained services or no future crisis."
+    ],
+    "answer": 3,
+    "explanation": "Screening/support is not a substitute for clinical diagnosis and appropriate referral. Confidentiality, trained staffing and continuity determine access beyond announcing a centre. Caution: Guidance is not proof every campus has staffed services or a guarantee crises cannot occur.",
+    "ref": "E8-2601-012"
+  },
+  {
+    "id": "JAN26-13",
+    "question": "Pesticide registration and licensing differ because:",
+    "options": [
+      "Seed and pesticide regulation are identical.",
+      "Product assessment and permission for specified activities are distinct functions.",
+      "The draft repealed the old law immediately.",
+      "Either automatically authorises every use forever."
+    ],
+    "answer": 1,
+    "explanation": "Seed regulation, plant-variety rights and pesticide safety govern different agricultural risks. Transparent reasons, testing and poisoning protocols matter alongside ease of registration. Caution: A draft is not an enacted replacement of the 1968 Act or proof every registered pesticide is safe in every use.",
+    "ref": "E8-2601-013"
+  },
+  {
+    "id": "JAN26-14",
+    "question": "An MMDR draft removing area limits implies:",
+    "options": [
+      "A proposed statutory change, not a waiver of all permissions.",
+      "A fully operational mine at publication.",
+      "No role for final legislation or lease conditions.",
+      "Immediate authority to mine every forest area."
+    ],
+    "answer": 0,
+    "explanation": "Draft primary legislation differs from subordinate auction-rule consultation and actual grant of a lease. Faster allocation requires credible exploration, environmental clearance and community safeguards. Caution: Removing an area ceiling in a draft does not waive all mining/forest permissions.",
+    "ref": "E8-2601-015"
+  },
+  {
+    "id": "JAN26-15",
+    "question": "Partial lease execution:",
+    "options": [
+      "Proves cumulative impacts need not be assessed.",
+      "Automatically grants all forest permissions.",
+      "Does not itself clear the remaining forest land.",
+      "Applies without any mineral-specific conditions."
+    ],
+    "answer": 2,
+    "explanation": "Excluding land from a lease and obtaining legal clearance to work forest land are different actions. Assess geological viability and impacts rather than assume segmentation eliminates cumulative risk. Caution: Do not say the proposal authorises mining unapproved forest areas or applies identically to every deep-seated mineral block.",
+    "ref": "E8-2601-016"
+  },
+  {
+    "id": "JAN26-16",
+    "question": "Environmental-penalty earmarking should be evaluated through:",
+    "options": [
+      "A guaranteed equal payment to every citizen.",
+      "Actual accountable monitoring/remediation outcomes.",
+      "An assumption pollution became permissible once penalised.",
+      "Only the size of receipts collected."
+    ],
+    "answer": 1,
+    "explanation": "A collected penalty and an actual remediation project are separate financial/administrative stages. Transparent allocations and outcome reporting should link pollution harm with restoration. Caution: Do not call the fund a universal compensation payment to every affected resident.",
+    "ref": "E8-2601-017"
+  },
+  {
+    "id": "JAN26-17",
+    "question": "The new SWM framework’s stated start date is:",
+    "options": [
+      "Every provision operational on 1 January.",
+      "No defined transition because notification and commencement always coincide.",
+      "1 April 2026, distinct from January notification.",
+      "A permanent urban-only framework."
+    ],
+    "answer": 2,
+    "explanation": "Notification and commencement differ; a rulebook does not create collection/processing capacity by itself. AP municipalities and panchayats need coordinated budgets, segregation and treatment systems. Caution: Do not backdate full operation to January or describe the new framework as urban-only.",
+    "ref": "E8-2601-018"
+  },
+  {
+    "id": "JAN26-18",
+    "question": "Alternative bulk-generator thresholds mean:",
+    "options": [
+      "Residential societies are automatically excluded.",
+      "Only waste weight can ever determine coverage.",
+      "Falling below one threshold does not necessarily avoid coverage under another.",
+      "All listed thresholds must always be met cumulatively."
+    ],
+    "answer": 2,
+    "explanation": "Alternative coverage thresholds must not be read as cumulative conditions all needing to be met together. Local enforcement should help generators comply with segregation and processing, not only register them. Caution: Do not assume an entity escapes coverage solely because it falls below one of several alternative thresholds.",
+    "ref": "E8-2601-019"
+  },
+  {
+    "id": "JAN26-19",
+    "question": "A continuing Consent to Operate is:",
+    "options": [
+      "Permission to pollute without limit.",
+      "Proof inspections are abolished.",
+      "The same instrument as every environmental clearance.",
+      "Still subject to conditions and cancellation, not immunity."
+    ],
+    "answer": 3,
+    "explanation": "Consent to Establish, Consent to Operate and environmental clearance are distinct instruments. Reduced renewal friction needs credible risk-based verification and cancellation powers. Caution: Continuing validity is not permission to pollute without conditions or immunity from inspection.",
+    "ref": "E8-2601-020"
+  },
+  {
+    "id": "JAN26-20",
+    "question": "Falling emissions intensity with rising output can mean:",
+    "options": [
+      "Absolute emissions must fall by the same percentage.",
+      "Absolute emissions still increase.",
+      "Output no longer matters.",
+      "All facilities become net zero automatically."
+    ],
+    "answer": 1,
+    "explanation": "Intensity-based targets measure emissions per unit of output; absolute emissions can still rise as output grows. Connect October’s initial sectors to January’s extension without treating either as an economy-wide cap. Caution: Do not equate intensity reduction with an identical absolute reduction or voluntary offset purchasing.",
+    "ref": "E8-2601-021"
+  },
+  {
+    "id": "JAN26-21",
+    "question": "Research-drug online intimation is not:",
+    "options": [
+      "A simplified specified research route.",
+      "Distinct from commercial approval.",
+      "Automatic permission for unrestricted commercial sale.",
+      "Subject to the scope and exceptions of the rules."
+    ],
+    "answer": 2,
+    "explanation": "Research manufacture, study permission and commercial marketing approval are different regulatory stages. Proportionate facilitation must retain ethics, quality and participant-safety duties. Caution: Online intimation is not automatic proof a new drug can be sold to patients.",
+    "ref": "E8-2601-023"
+  },
+  {
+    "id": "JAN26-22",
+    "question": "The UCB discussion paper should be treated as:",
+    "options": [
+      "A universal deposit guarantee equal to proposed capital.",
+      "Final abolition of governance requirements.",
+      "Consultation, not proof new licences were issued.",
+      "An automatic licence to every cooperative society."
+    ],
+    "answer": 2,
+    "explanation": "One-member-one-vote ownership and banking prudential standards address different governance objectives. Umbrella technology support can help but does not replace competent boards and supervision. Caution: Do not describe discussion proposals as final licences or apply a capital threshold as a deposit guarantee.",
+    "ref": "E8-2601-024"
+  },
+  {
+    "id": "JAN26-23",
+    "question": "APY extension means:",
+    "options": [
+      "Contributions no longer matter.",
+      "Continued contributory pension support with pension from age sixty, not immediate ₹5,000 to everyone.",
+      "Every subscriber receives the maximum pension immediately.",
+      "A new AP-specific unconditional cash scheme."
+    ],
+    "answer": 1,
+    "explanation": "A contributory pension differs from an immediate unconditional state cash transfer. Coverage requires affordable regular contributions and accurate beneficiary information. Caution: Do not promise every person ₹5,000 immediately or confuse APY’s acronym with an AP state entitlement.",
+    "ref": "E8-2601-025"
+  },
+  {
+    "id": "JAN26-24",
+    "question": "Half of the specified outstanding-merit athlete representatives being women means:",
+    "options": [
+      "Only two total members in every general body.",
+      "Exactly half of all federation posts automatically.",
+      "Exactly four members with no possibility of more.",
+      "A rule for that representation category, not necessarily half of every body’s entire membership."
+    ],
+    "answer": 3,
+    "explanation": "An athlete-representation minimum does not mean exactly four members or a 50% quota for every position in the whole federation. Representation needs meaningful influence, fair selection and credible elections. Caution: Do not generalise a rule for one membership category to every seat in every sports body.",
+    "ref": "E8-2601-026"
+  },
+  {
+    "id": "JAN26-25",
+    "question": "Delimitation after 2026 should not be interpreted as:",
+    "options": [
+      "Dependent on the applicable census/publication conditions.",
+      "Relevant to federal representation debates.",
+      "Automatic nationwide seat redistribution on 1 January 2026.",
+      "A constitutional and statutory process."
+    ],
+    "answer": 2,
+    "explanation": "A constitutional reference to the first census after 2026 is not a self-executing redistribution at the start of 2026. Balance population equality, federal trust and incentives for demographic achievement. Caution: Do not promise a known new seat count for AP before the legal process and official outcome.",
+    "ref": "E8-2601-028"
+  },
+  {
+    "id": "JAN26-26",
+    "question": "A split verdict on Section 17A means:",
+    "options": [
+      "Investigation approval and prosecution sanction are identical.",
+      "No single majority disposition can be invented from opposing opinions.",
+      "The provision was unanimously finally struck down.",
+      "The provision was unanimously finally upheld."
+    ],
+    "answer": 1,
+    "explanation": "Investigation approval under Section 17A differs from prosecution sanction; scope and statutory exceptions matter. Protect honest decisions without creating an executive shield for corrupt conduct. Caution: Do not declare Section 17A finally struck down or finally upheld solely from a split bench.",
+    "ref": "E8-2601-029"
+  },
+  {
+    "id": "JAN26-27",
+    "question": "EPI2024 published in 2026 measures:",
+    "options": [
+      "A final causal estimate of one state policy.",
+      "Composite preparedness, not simply total export value.",
+      "Only physical export volume.",
+      "A methodology unchanged by definition across editions."
+    ],
+    "answer": 1,
+    "explanation": "Composite readiness includes outcomes and enabling conditions; it is not simply a ranking of export value. Interpret shifts with methodology changes, not as pure year-on-year performance changes. Caution: Do not confuse the 2024 report label with its January 2026 publication or readiness rank with export volume rank.",
+    "ref": "E8-2601-032"
+  },
+  {
+    "id": "JAN26-28",
+    "question": "CPI rebasing requires distinguishing:",
+    "options": [
+      "Reference month, weight survey, classification and publication date.",
+      "Every food-weight percentage as like-for-like despite classification changes.",
+      "January data from every later release as if all appeared in January.",
+      "Index rebasing from a guaranteed fall in cost of living."
+    ],
+    "answer": 0,
+    "explanation": "Index reference period, weight reference survey and publication date are distinct. The FAQ’s 12 February release/back-series context must remain explicit; do not backdate the new release to January. Caution: January reference data is not evidence the series was published in January; rebasing alone does not prove inflation fell.",
+    "ref": "E8-2601-033"
+  },
+  {
+    "id": "JAN26-29",
+    "question": "APLINC and AP Logistics Fund are:",
+    "options": [
+      "Identical to a project-specific launch licence.",
+      "Proof every infrastructure asset is complete.",
+      "Distinct proposed institutional vehicles; approval does not prove fundraising or construction.",
+      "One universal cash grant."
+    ],
+    "answer": 2,
+    "explanation": "A holding company, pooled investment fund and project SPV serve different functions and carry different risks. Institutional mobilisation needs governance, investor protections and credible project cash flows. Caution: Do not call an AIF a universal government grant or announced sponsor share a completed contribution.",
+    "ref": "E8-2601-039"
+  },
+  {
+    "id": "JAN26-30",
+    "question": "Aerospace land allotment establishes:",
+    "options": [
+      "Automatic aircraft type certification.",
+      "No need for later project permissions.",
+      "A project-stage approval, not certified production or a successful launch.",
+      "An operational spaceport by definition."
+    ],
+    "answer": 2,
+    "explanation": "Industrial land allotment does not establish a rocket launch licence or certified aircraft production. Supply chains and skilled employment require milestones, capital and regulatory readiness. Caution: A manufacturing proposal is not a successful launch or a completed flight-training operation.",
+    "ref": "E8-2601-042"
+  }
+]

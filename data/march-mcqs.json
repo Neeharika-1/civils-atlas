@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "Q3 FY2024–25 current account deficit in the March RBI release was:",
+    "options": [
+      "6.5% of GDP",
+      "4.4% of GDP",
+      "A 10% surplus",
+      "1.1% of GDP"
+    ],
+    "answer": 3,
+    "explanation": "The CAD was USD 11.5 billion, or 1.1% of GDP. Do not substitute the Union fiscal deficit or GDP growth rate.",
+    "ref": "MAR25-001",
+    "options_shuffled": true
+  },
+  {
+    "id": 2,
+    "question": "Who initially receives the government’s low-value UPI incentive?",
+    "options": [
+      "The acquiring bank, with subsequent sharing among stakeholders",
+      "Only cash-paying merchants",
+      "Every securities exchange",
+      "Every retail customer"
+    ],
+    "answer": 0,
+    "explanation": "The primary PIB release specifies payment to acquiring banks. It is not universal merchant cashback.",
+    "ref": "MAR25-002",
+    "options_shuffled": true
+  },
+  {
+    "id": 3,
+    "question": "Which transaction qualifies under the March-approved UPI scheme?",
+    "options": [
+      "Only foreign-currency card payments",
+      "Small-merchant P2M UPI up to ₹2,000",
+      "Every payment above ₹2,000",
+      "Every P2P transfer"
+    ],
+    "answer": 1,
+    "explanation": "The scheme covers low-value small-merchant person-to-merchant UPI. Category and value conditions both matter.",
+    "ref": "MAR25-002",
+    "options_shuffled": true
+  },
+  {
+    "id": 4,
+    "question": "The revised UCB priority-sector target was:",
+    "options": [
+      "100%",
+      "75%",
+      "60%",
+      "40%"
+    ],
+    "answer": 2,
+    "explanation": "The revised target for urban co-operative banks was fixed at 60%. It must not be applied to every bank category.",
+    "ref": "MAR25-004",
+    "options_shuffled": true
+  },
+  {
+    "id": 5,
+    "question": "Which addition was explicitly recorded under PSL weaker sections?",
+    "options": [
+      "Transgenders and joint liability groups",
+      "Only multinational companies",
+      "Only foreign banks",
+      "All stock brokers"
+    ],
+    "answer": 0,
+    "explanation": "The revised directions expanded inclusion. Classification does not guarantee that a loan will be sanctioned.",
+    "ref": "MAR25-004",
+    "options_shuffled": true
+  },
+  {
+    "id": 6,
+    "question": "Which Banking Laws nomination statement is correct?",
+    "options": [
+      "Four nominees are compulsory",
+      "Nomination proves final inheritance in every case",
+      "Every asset permits identical nomination modes",
+      "Deposits may have simultaneous or successive nominees, while lockers use successive nomination"
+    ],
+    "answer": 3,
+    "explanation": "The Bill permits up to four nominees, with different modes by asset type; nomination and ultimate inheritance should not be equated.",
+    "ref": "MAR25-005",
+    "options_shuffled": true
+  },
+  {
+    "id": 7,
+    "question": "The March MSME notification made the micro-enterprise limits:",
+    "options": [
+      "₹125 crore / ₹500 crore",
+      "₹1 crore / ₹5 crore unchanged",
+      "₹2.5 crore / ₹10 crore",
+      "₹25 crore investment / ₹100 crore turnover"
+    ],
+    "answer": 2,
+    "explanation": "The new micro thresholds are ₹2.5 crore investment and ₹10 crore turnover, effective 1 April 2025.",
+    "ref": "MAR25-014",
+    "options_shuffled": true
+  },
+  {
+    "id": 8,
+    "question": "When do the revised national MSME classification thresholds take effect?",
+    "options": [
+      "1 July 2026",
+      "21 March 2025 in every case",
+      "1 April 2025",
+      "1 January 2025"
+    ],
+    "answer": 2,
+    "explanation": "Notification occurred in March, while the revised criteria took effect from April.",
+    "ref": "MAR25-014",
+    "options_shuffled": true
+  },
+  {
+    "id": 9,
+    "question": "Which is excluded from the revised mineral-oils definition?",
+    "options": [
+      "Coal-bed methane",
+      "Shale oil",
+      "Naturally occurring hydrocarbons",
+      "Helium"
+    ],
+    "answer": 3,
+    "explanation": "Coal, lignite and helium are excluded; coal-bed methane and shale hydrocarbons are included.",
+    "ref": "MAR25-011",
+    "options_shuffled": true
+  },
+  {
+    "id": 10,
+    "question": "The Railways amendment principally consolidated provisions concerning:",
+    "options": [
+      "Municipal bus permits",
+      "The Reserve Bank into the Companies Act",
+      "The Railway Board into the Railways Act",
+      "Private airline leasing"
+    ],
+    "answer": 2,
+    "explanation": "The amendment moves the Railway Board framework into the Railways Act, eliminating reference to two statutes.",
+    "ref": "MAR25-013",
+    "options_shuffled": true
+  },
+  {
+    "id": 11,
+    "question": "The March Indian Ports Bill event was:",
+    "options": [
+      "Repeal by a state municipal council",
+      "A Supreme Court injunction on all shipping",
+      "Introduction in Lok Sabha",
+      "Universal implementation at every port"
+    ],
+    "answer": 2,
+    "explanation": "The Bill was introduced on 28 March. Introduction is not enactment or commencement.",
+    "ref": "MAR25-009",
+    "options_shuffled": true
+  },
+  {
+    "id": 12,
+    "question": "A bill of lading is associated primarily with:",
+    "options": [
+      "Carriage of goods by sea",
+      "Veterinary prescriptions",
+      "Voting rolls",
+      "Currency issuance"
+    ],
+    "answer": 0,
+    "explanation": "The document has important shipment and commercial-rights functions; it is distinct from marine insurance and customs declarations.",
+    "ref": "MAR25-008",
+    "options_shuffled": true
+  },
+  {
+    "id": 13,
+    "question": "The ethanol conversion scheme’s interest support is:",
+    "options": [
+      "6% per annum or 50% of interest, whichever is lower",
+      "6% of all petrol retail sales",
+      "Available only for imported ethanol",
+      "A 50% unconditional capital grant"
+    ],
+    "answer": 0,
+    "explanation": "The support concerns eligible cooperative-mill conversion loans and is offered for five years subject to conditions.",
+    "ref": "MAR25-015",
+    "options_shuffled": true
+  },
+  {
+    "id": 14,
+    "question": "Nutrient-based subsidy in the Kharif decision concerns:",
+    "options": [
+      "Only livestock feed",
+      "Only farm electricity",
+      "Every fertiliser under identical rules",
+      "Phosphatic and potassic fertilisers"
+    ],
+    "answer": 3,
+    "explanation": "P&K fertilisers are covered by NBS; urea has a separate policy structure.",
+    "ref": "MAR25-016",
+    "options_shuffled": true
+  },
+  {
+    "id": 15,
+    "question": "Pashu Aushadhi was added to the revised:",
+    "options": [
+      "Railway Board constitution",
+      "Port tariff framework",
+      "SPHEREx mission",
+      "Livestock Health and Disease Control Programme"
+    ],
+    "answer": 3,
+    "explanation": "The component concerns veterinary medicine access within the animal-health programme.",
+    "ref": "MAR25-019",
+    "options_shuffled": true
+  },
+  {
+    "id": 16,
+    "question": "The revised Rashtriya Gokul Mission total of ₹3,400 crore refers to:",
+    "options": [
+      "The UPI incentive pool",
+      "The stated 2021–22 to 2025–26 programme allocation",
+      "Every state’s independent subsidy",
+      "Only one day’s expenditure"
+    ],
+    "answer": 1,
+    "explanation": "The extra ₹1,000 crore raises the multi-year allocation; it is not March-only realised expenditure.",
+    "ref": "MAR25-017",
+    "options_shuffled": true
+  },
+  {
+    "id": 17,
+    "question": "Which describes AP’s P4 model most accurately?",
+    "options": [
+      "Voluntary mentorship/support complementing regular welfare",
+      "A compulsory tax replacing all welfare",
+      "A maritime military alliance",
+      "A guaranteed uniform statutory cash entitlement"
+    ],
+    "answer": 0,
+    "explanation": "The design mobilises support for weaker families. Voluntary philanthropy is not a substitute for public entitlements.",
+    "ref": "MAR25-021",
+    "options_shuffled": true
+  },
+  {
+    "id": 18,
+    "question": "Under P4 terminology, Margadarsi denotes:",
+    "options": [
+      "A mentor/supporter",
+      "A port concessionaire",
+      "A lunar instrument",
+      "A tax tribunal"
+    ],
+    "answer": 0,
+    "explanation": "Margadarsi refers to supporters/mentors; beneficiary families are Bangaru Kutumbam.",
+    "ref": "MAR25-021",
+    "options_shuffled": true
+  },
+  {
+    "id": 19,
+    "question": "AP’s startup-policy targets should be reported as:",
+    "options": [
+      "Funds already fully disbursed",
+      "Proof that all hubs are operational",
+      "Jobs verified by a completed census",
+      "Policy ambitions requiring outcome tracking"
+    ],
+    "answer": 3,
+    "explanation": "Targets for startups and jobs are not achieved counts. Hub operation and enterprise survival need separate evidence.",
+    "ref": "MAR25-022",
+    "options_shuffled": true
+  },
+  {
+    "id": 20,
+    "question": "Why is SIPB approval not equivalent to realised investment?",
+    "options": [
+      "Financial closure, construction and operation are later stages",
+      "Approvals are court judgments",
+      "Jobs always precede proposals",
+      "SIPB cannot discuss investment"
+    ],
+    "answer": 0,
+    "explanation": "A proposal pipeline must be tracked through clearances, financing, construction and commercial operation.",
+    "ref": "MAR25-026",
+    "options_shuffled": true
+  },
+  {
+    "id": 21,
+    "question": "Which is an important fiscal-risk question for APMDC debentures?",
+    "options": [
+      "Only the number of tiger reserves",
+      "Whether inflation is exactly zero",
+      "Whether the enterprise has a social-media account",
+      "Repayment cash flows, security and contingent state exposure"
+    ],
+    "answer": 3,
+    "explanation": "Listed/rated debt still has repayment and possible budget-support risks. Approval does not prove issuance.",
+    "ref": "MAR25-025",
+    "options_shuffled": true
+  },
+  {
+    "id": 22,
+    "question": "The March SpaDeX milestone was:",
+    "options": [
+      "A crewed space-station opening",
+      "The first January docking",
+      "The April power-transfer test",
+      "Controlled undocking"
+    ],
+    "answer": 3,
+    "explanation": "ISRO undocked the satellites on 13 March, after docking them on 16 January.",
+    "ref": "CA-015",
+    "options_shuffled": true
+  },
+  {
+    "id": 23,
+    "question": "Which mission-objective pair is correctly matched?",
+    "options": [
+      "PUNCH—lunar rock return",
+      "SPHEREx—port waste",
+      "Blue Ghost—crew rotation to the ISS",
+      "SPHEREx—infrared all-sky survey"
+    ],
+    "answer": 3,
+    "explanation": "SPHEREx performs an infrared survey; PUNCH studies corona/solar-wind linkage and Blue Ghost delivered lunar payloads.",
+    "ref": "MAR25-028",
+    "options_shuffled": true
+  },
+  {
+    "id": 24,
+    "question": "Blue Ghost landed in:",
+    "options": [
+      "The Martian Jezero crater",
+      "Mare Crisium on the lunar near side",
+      "The lunar far-side south pole",
+      "Earth’s Arctic Ocean"
+    ],
+    "answer": 1,
+    "explanation": "NASA places the landing near Mons Latreille in Mare Crisium on 2 March.",
+    "ref": "MAR25-027",
+    "options_shuffled": true
+  },
+  {
+    "id": 25,
+    "question": "One year at 1.55°C above the pre-industrial baseline means:",
+    "options": [
+      "That ocean warming stopped",
+      "That all regions warmed identically",
+      "An annual anomaly, not by itself a permanent long-term Paris-threshold breach",
+      "That temperature measurements are forecasts only"
+    ],
+    "answer": 2,
+    "explanation": "The Paris long-term warming concept must be distinguished from an individual year’s anomaly and variability.",
+    "ref": "MAR25-031",
+    "options_shuffled": true
+  },
+  {
+    "id": 26,
+    "question": "World Water Day and World Day for Glaciers fall respectively on:",
+    "options": [
+      "24 and 28 February",
+      "22 and 21 March",
+      "5 June and 2 February",
+      "21 and 22 March"
+    ],
+    "answer": 1,
+    "explanation": "The 2025 water report launch on 21 March coincided with the first World Day for Glaciers, not the date of World Water Day.",
+    "ref": "MAR25-033",
+    "options_shuffled": true
+  },
+  {
+    "id": 27,
+    "question": "Mudumal’s UNESCO status in the March note was:",
+    "options": [
+      "Final World Heritage inscription",
+      "A Telangana tentative-list site, with February submission date",
+      "An AP national park",
+      "A Karnataka biosphere-reserve notification"
+    ],
+    "answer": 1,
+    "explanation": "UNESCO records Telangana and an 11 February submission date; the March note concerns subsequent reporting.",
+    "ref": "MAR25-035",
+    "options_shuffled": true
+  },
+  {
+    "id": 28,
+    "question": "World Happiness Report rankings are primarily derived from:",
+    "options": [
+      "A military-power index",
+      "A simple sum of six equally weighted explanatory factors",
+      "GDP alone",
+      "Surveyed life evaluations"
+    ],
+    "answer": 3,
+    "explanation": "The explanatory factors help interpret differences; they do not mechanically create the life-evaluation ranking.",
+    "ref": "MAR25-036",
+    "options_shuffled": true
+  },
+  {
+    "id": 29,
+    "question": "Operation Brahma in March concerned:",
+    "options": [
+      "A combat invasion of Mauritius",
+      "Antarctic mineral extraction",
+      "A German coalition agreement",
+      "Humanitarian assistance to earthquake-hit Myanmar"
+    ],
+    "answer": 3,
+    "explanation": "It was a coordinated HADR response to the 28 March earthquake.",
+    "ref": "MAR25-040",
+    "options_shuffled": true
+  },
+  {
+    "id": 30,
+    "question": "Which pairing is correct?",
+    "options": [
+      "VARUNA—India and Germany",
+      "MAHASAGAR—an enacted customs tariff",
+      "Raisina Dialogue—a UN climate COP",
+      "VARUNA—India and France"
+    ],
+    "answer": 3,
+    "explanation": "VARUNA is a bilateral India–France naval exercise. MAHASAGAR is a cooperation vision, not an enacted tariff.",
+    "ref": "MAR25-041",
+    "options_shuffled": true
+  }
+]

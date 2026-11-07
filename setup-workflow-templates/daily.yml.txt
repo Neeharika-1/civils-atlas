@@ -1,0 +1,67 @@
+name: Daily source discovery
+on:
+  schedule:
+    - cron: '0 1 * * *' # 06:30 IST; GitHub may delay/skip runs.
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: atlas-daily-discovery
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install document and source dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-dejavu-core
+          pip install -r requirements.txt
+      - name: Collect links without promoting them into study facts
+        id: discover
+        continue-on-error: true
+        run: python scripts/update.py
+      - name: Preserve editorial evidence records and validate
+        run: |
+          python scripts/reconcile.py
+          python scripts/validate.py
+      - name: Rebuild the study app and documents
+        run: python scripts/build.py
+      - name: Persist discovery results even if a source failed
+        run: |
+          git config user.name 'Civils Atlas updater'
+          git config user.email 'civils-atlas-updater@users.noreply.github.com'
+          git add data index.html Study-Notes.docx volumes research/remaining-period-inventory.csv
+          if ! git diff --cached --quiet; then
+            git commit -m 'Daily source discovery and visible health refresh'
+            git push
+          fi
+      - name: Upload source health for troubleshooting
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-health-${{ github.run_id }}
+          path: |
+            data/update-log.json
+            data/automation-status.json
+            data/update-history.json
+          retention-days: 30
+      - name: Write run summary
+        if: always()
+        run: |
+          echo '## Civils Atlas daily source discovery' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Only source links and health metadata update automatically. Reviewed study notes require editorial research.' >> "$GITHUB_STEP_SUMMARY"
+          echo '```json' >> "$GITHUB_STEP_SUMMARY"
+          cat data/automation-status.json >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+      - name: Surface partial source failures
+        if: steps.discover.outcome == 'failure'
+        run: |
+          echo '::error::One or more source collectors failed. Logs and rebuilt queue were persisted. No access controls were bypassed.'
+          exit 1

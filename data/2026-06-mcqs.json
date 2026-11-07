@@ -1,0 +1,392 @@
+[
+  {
+    "id": "JUN26-01",
+    "question": "Which statement about a high-level river-dispute committee is sound?",
+    "options": [
+      "It changes the Tungabhadra into a left-bank tributary of the Krishna.",
+      "Consultation can support cooperation without itself replacing lawful adjudication.",
+      "It automatically repeals Article 262.",
+      "It proves the 2019 amendment Bill has become law."
+    ],
+    "answer": 1,
+    "explanation": "Negotiation, tribunal jurisdiction and project operations are distinct. A magazine’s recommendation to implement a Billis not proof it was enacted.",
+    "ref": "E13-2606-001"
+  },
+  {
+    "id": "JUN26-02",
+    "question": "Which is the newly added component in the reviewed DISHA 2.0 framework?",
+    "options": [
+      "An ordinance replacing every court with a chatbot.",
+      "VIDHI-Sanjeevani.",
+      "A guarantee of a favourable judgment.",
+      "Abolition of all legal-aid eligibility rules."
+    ],
+    "answer": 1,
+    "explanation": "The fourth component adds digital monitoring and multilingual assistance; it does not replace courts, qualified counsel or the conditions for representation.",
+    "ref": "E13-2606-002"
+  },
+  {
+    "id": "JUN26-03",
+    "question": "The 5 June GDP provisional release reports real growth of:",
+    "options": [
+      "7.7% only for the month of June.",
+      "7.7% for FY 2025–26 on base 2022–23.",
+      "8.9% real GDP because nominal means constant prices.",
+      "7.9% for GDP because GDP and GVA are always identical."
+    ],
+    "answer": 1,
+    "explanation": "Annual real GDP 7.7%, nominal 8.9%, real GVA 7.9% and Q4 real GDP 7.8% refer to different concepts or periods.",
+    "ref": "E13-2606-004"
+  },
+  {
+    "id": "JUN26-04",
+    "question": "Why can one not infer a sector’s absolute growth contribution from its growth rate alone?",
+    "options": [
+      "Every fast-growing sector must account for most output.",
+      "A 10.7% manufacturing rate means manufacturing is 10.7% of GDP.",
+      "The sector’s initial weight/size also matters.",
+      "All sectors have equal weights by definition."
+    ],
+    "answer": 2,
+    "explanation": "A sector growing rapidly from a small base can contribute less absolute output than a larger slower-growing sector.",
+    "ref": "E13-2606-004"
+  },
+  {
+    "id": "JUN26-05",
+    "question": "The 5 June policy decision and 19 June document are best described as:",
+    "options": [
+      "A meeting beginning 19 June and ending 5 June.",
+      "Two separate rate cuts.",
+      "The MPC decision and its later-published minutes.",
+      "A state lending decision followed by a Union Budget."
+    ],
+    "answer": 2,
+    "explanation": "The reviewed minutes explicitly describe the 3–5 June meeting and publish its unchanged-rate resolution on 19 June.",
+    "ref": "E13-2606-005"
+  },
+  {
+    "id": "JUN26-06",
+    "question": "A neutral stance with a 5.25% repo means:",
+    "options": [
+      "Inflation has necessarily fallen to zero.",
+      "Policy remains data-dependent without a predetermined next move.",
+      "SDF must be higher than MSF.",
+      "A compulsory cut at the next meeting."
+    ],
+    "answer": 1,
+    "explanation": "The reviewed corridor remains SDF 5.00%, repo 5.25%, MSF 5.50%.Neutrality is not a promise of easing.",
+    "ref": "E13-2606-005"
+  },
+  {
+    "id": "JUN26-07",
+    "question": "Which set correctly distinguishes Q4 FY 2025–26 external-account flows?",
+    "options": [
+      "Both are US$30.1 billion by definition.",
+      "The current-account surplus proves goods exports exceeded imports.",
+      "Net secondary income+ US$41.3 billion; gross personal transfers US$43.5 billion.",
+      "Primary income+ US$41.3 billion and services−US$60.4 billion."
+    ],
+    "answer": 2,
+    "explanation": "The RBI primary table distinguishes net secondary income, gross personal-transfer receipts and primary-income outgo. Services/transfers cushion the goods deficit.",
+    "ref": "E13-2606-006"
+  },
+  {
+    "id": "JUN26-08",
+    "question": "A US$7.1 billion Q4 current-account surplus proves that:",
+    "options": [
+      "That quarter had a surplus, not necessarily the financial year.",
+      "Merchandise trade was in surplus.",
+      "FY 2025–26 had no current-account deficit.",
+      "Foreign portfolio inflows were necessarily positive."
+    ],
+    "answer": 0,
+    "explanation": "The full-year preliminary current account was a US$25.2 billion deficit, 0.6% of GDP, despite the Q4 surplus.",
+    "ref": "E13-2606-006"
+  },
+  {
+    "id": "JUN26-09",
+    "question": "The 5 June Income-tax Ordinance is deemed effective from:",
+    "options": [
+      "1 April 2026.",
+      "Only the first sale of a corporate bond by any citizen.",
+      "The next MPC meeting.",
+      "1 January 2027 because all Juneinstruments share one commencement."
+    ],
+    "answer": 0,
+    "explanation": "The full Gazette specifies deemed 1 April commencement and a government-security exemption for FIIs and BIS subject to prescribed information.",
+    "ref": "E13-2606-007"
+  },
+  {
+    "id": "JUN26-10",
+    "question": "Under the reviewed individual portfolio route, the relevant individual threshold is:",
+    "options": [
+      "Below 10%.",
+      "24% for every individual by right.",
+      "100% without beneficial-owner scrutiny.",
+      "Exactly 10% without any reclassification consequence."
+    ],
+    "answer": 0,
+    "explanation": "The individual and aggregate thresholds differ: below 10% and 24% respectively. Ownership/control and other safeguards remain relevant.",
+    "ref": "E13-2606-008"
+  },
+  {
+    "id": "JUN26-11",
+    "question": "Under the June financial-sales directions, signed consent:",
+    "options": [
+      "Does not make an unsuitable sale appropriate.",
+      "Requires a customer to buy every product listed.",
+      "Eliminates all mis-selling risk by definition.",
+      "Allows a default Yeschoice online."
+    ],
+    "answer": 0,
+    "explanation": "The inspected definition recognises mis-selling even with explicit consent where suitability/appropriateness is absent. The default consent choice must be No.",
+    "ref": "E13-2606-009"
+  },
+  {
+    "id": "JUN26-12",
+    "question": "The new June 24 digital-fraud rules apply to the specified transactions undertaken:",
+    "options": [
+      "Only if Parliament holds an MPC meeting.",
+      "Only before the notification date.",
+      "Automatically from 1 June 2026.",
+      "On or after 1 January 2027."
+    ],
+    "answer": 3,
+    "explanation": "Issue date and operative transaction date differ. The primary commercial-bank directions expressly use 1 January 2027.",
+    "ref": "E13-2606-010"
+  },
+  {
+    "id": "JUN26-13",
+    "question": "For reviewed third-party breaches, the five-day zero-liability reporting clock runs:",
+    "options": [
+      "In working days after the victim reads an SMS.",
+      "In calendar days from occurrence.",
+      "Only after a criminal conviction.",
+      "From the next annual audit."
+    ],
+    "answer": 1,
+    "explanation": "The customer must notify the bank within five calendar days of occurrence for that category; bank negligence has a distinct zero-liability rule.",
+    "ref": "E13-2606-010"
+  },
+  {
+    "id": "JUN26-14",
+    "question": "An eligible victim loses ₹40,000 gross and recovers ₹15,000 before compensation. The amount is:",
+    "options": [
+      "₹21,250.",
+      "₹34,000.",
+      "₹25,000 always.",
+      "₹40,000 plus ₹25,000."
+    ],
+    "answer": 0,
+    "explanation": "Net loss is ₹25,000; 85% is ₹21,250, below the ₹25,000 cap. Eligibility and reporting conditions still apply.",
+    "ref": "E13-2606-011"
+  },
+  {
+    "id": "JUN26-15",
+    "question": "Which pair of limits is preserved in the reviewed small-fraud mechanism?",
+    "options": [
+      "Unlimited claims if each is ₹50,000.",
+      "Once in a lifetime and qualifying losses within the specified one-year effective-date window.",
+      "A ₹50,000 minimum loss and compensation equal to 85% ofgross without recoveries.",
+      "One claim every day and no end date."
+    ],
+    "answer": 1,
+    "explanation": "The rule uses gross loss up to ₹50,000 for eligibility, net loss for calculation, and separate lifetime/window limits.",
+    "ref": "E13-2606-011"
+  },
+  {
+    "id": "JUN26-16",
+    "question": "The reviewed liquidation time limits are:",
+    "options": [
+      "180 days for liquidation and 15 days for distribution after receipt.",
+      "180 years and 15 months.",
+      "One year and 90 days unchanged.",
+      "15 days for all insolvency resolution and 180 days before acknowledging every payment."
+    ],
+    "answer": 0,
+    "explanation": "The inspected English amendment changes the earlier one-year liquidation and 90-day distribution periods. These clocks do not guarantee full recovery or remove extension procedures.",
+    "ref": "E13-2606-012"
+  },
+  {
+    "id": "JUN26-17",
+    "question": "The ATF stabilisation corpus is primarily:",
+    "options": [
+      "A recoverable interest-free advance to OMCs under a price-smoothing arrangement.",
+      "A new permanent state tax payable only in AP.",
+      "An unconditional cash grant to every airline passenger.",
+      "Cancellation of every airline loan."
+    ],
+    "answer": 0,
+    "explanation": "The mechanism supports willing scheduled carriers and recovers differential amounts as prices moderate, with monitoring and annual review.",
+    "ref": "E13-2606-013"
+  },
+  {
+    "id": "JUN26-18",
+    "question": "Which chronology is supported by the inspected later MoSPI release?",
+    "options": [
+      "1 June new IIP series; 29 June PPI-based supersession.",
+      "28 May actual launch merely because it was scheduled.",
+      "1 June and 29 June are the same release date.",
+      "29 June first-ever industrial index in India."
+    ],
+    "answer": 0,
+    "explanation": "A scheduled date, actual new-series launch and later methodological supersession are different milestones.",
+    "ref": "E13-2606-014"
+  },
+  {
+    "id": "JUN26-19",
+    "question": "Under the draft AAY formula, a three-person household would receive:",
+    "options": [
+      "49 kg without a cap.",
+      "35 kg plus 21 kg.",
+      "21 kg per month, subject to the proposed scheme conditions.",
+      "5 kg for the household."
+    ],
+    "answer": 2,
+    "explanation": "The draft uses 7 kg per person with maximum 35 kg per household; current reviewed AAY law remains household-based until valid amendment/commencement.",
+    "ref": "E13-2606-016"
+  },
+  {
+    "id": "JUN26-20",
+    "question": "The draft AAY formula’s implication for a seven-person family is:",
+    "options": [
+      "It proves Parliament enacted the draft.",
+      "The 35 kg household ceiling still applies.",
+      "The cap disappears above five persons.",
+      "49 kg is guaranteed because 7 times 7 is 49."
+    ],
+    "answer": 1,
+    "explanation": "The cap prevents a simple uncapped per-person entitlement. Consultation is not enactment; the potential distributional effect needs scrutiny.",
+    "ref": "E13-2606-016"
+  },
+  {
+    "id": "JUN26-21",
+    "question": "Why is GPS tracking alone insufficient for an ambulance system?",
+    "options": [
+      "Triage, trained staff, appropriate destinations and clinical handover also matter.",
+      "The guidelines immediately certify all state fleets.",
+      "A vehicle location automatically proves patient survival.",
+      "Every nearest building is necessarily a trauma centre."
+    ],
+    "answer": 0,
+    "explanation": "NAS includes standards, dispatch, GIS planning and pre-hospital care. Announcing a framework is not proof of universal compliance.",
+    "ref": "E13-2606-019"
+  },
+  {
+    "id": "JUN26-22",
+    "question": "The Antarctic Treaty’s 65-year milestone in 2026 marks:",
+    "options": [
+      "Automatic expiry of the Madrid Protocol.",
+      "Creation of a territorial claim by India.",
+      "Entry into force on 23 June 1961.",
+      "Signature on 23 June 1961."
+    ],
+    "answer": 2,
+    "explanation": "The Treaty was signed 1 December 1959; entry into force was 23 June 1961. Treaty layers and claim rules must be distinguished.",
+    "ref": "E13-2606-026"
+  },
+  {
+    "id": "JUN26-23",
+    "question": "A credible biochar assessment must consider:",
+    "options": [
+      "A universal guaranteed 30% yield increase.",
+      "Feedstock, production emissions, soil response and carbon persistence.",
+      "Only the wordbioin its name.",
+      "Automatic permanent sequestration with no monitoring."
+    ],
+    "answer": 1,
+    "explanation": "Potential benefits are context-dependent. Pyrolysis differs from full combustion and lifecycle accounting matters.",
+    "ref": "E13-2606-028"
+  },
+  {
+    "id": "JUN26-24",
+    "question": "Coral bleaching necessarily means:",
+    "options": [
+      "The coral is a plant that has permanently died.",
+      "The reef has become immune to warming.",
+      "Stress and loss of symbionts/pigment, but not immediate inevitable death.",
+      "Ocean warming is the only possible stressor."
+    ],
+    "answer": 2,
+    "explanation": "Bleached corals may recover if conditions improve; prolonged stress can cause mortality. Resilience is not invulnerability.",
+    "ref": "E13-2606-029"
+  },
+  {
+    "id": "JUN26-25",
+    "question": "The 28 June ATLAS briefing is based on:",
+    "options": [
+      "Oxygen/neon collision data recorded in 2025.",
+      "Creation of stable room-temperature QGP fuel.",
+      "Proof every proton collision produces identical effects.",
+      "The first-ever oxygen collision conducted 28 June 2026."
+    ],
+    "answer": 0,
+    "explanation": "Publication date differs from data-taking. Jet quenching is inferred through measured particle-jet momentum imbalance and comparisons across centrality.",
+    "ref": "E13-2606-035"
+  },
+  {
+    "id": "JUN26-26",
+    "question": "WHO’s June outbreak update cautions that newly reported cases:",
+    "options": [
+      "Prove sustained community transmission in every country visited.",
+      "Always equal infections acquired the same day.",
+      "May reflect a testing backlog rather than newly acquired infections.",
+      "Make confirmed-case fatality identical to infection fatality."
+    ],
+    "answer": 2,
+    "explanation": "Reporting, diagnosis and infection dates differ. The historical Juneupdate also must not be presented as current Novembercounts.",
+    "ref": "E13-2606-036"
+  },
+  {
+    "id": "JUN26-27",
+    "question": "AP’s Aviation Policy 2026–31 and reported 2035 capacity targets are:",
+    "options": [
+      "A guarantee all proposed routes are commercially viable.",
+      "A policy period and a separate target horizon.",
+      "Proof every target is achieved by 2031.",
+      "A record of airports already operating."
+    ],
+    "answer": 1,
+    "explanation": "Approval, planned capacity, actual traffic and operating viability require separate evidence.",
+    "ref": "E13-2606-046"
+  },
+  {
+    "id": "JUN26-28",
+    "question": "A ₹300 crore state guarantee for the reviewed FiberNet financing is:",
+    "options": [
+      "The same as two separate ₹300 crore cash grants.",
+      "A contingent fiscal exposure, not an immediate grant to every household.",
+      "A waiver of the borrower’s repayment duty.",
+      "Proof ₹300 crore of new fibre is already commissioned."
+    ],
+    "answer": 1,
+    "explanation": "The reported borrower, guarantor and intended fund user differ. Loans, guarantees and grants should not be double-counted.",
+    "ref": "E13-2606-049"
+  },
+  {
+    "id": "JUN26-29",
+    "question": "An invitation to bid for the Amaravati Eye under DBFOT establishes:",
+    "options": [
+      "A procurement stage, not an awarded operating concession.",
+      "That every public riverbank is available without clearance.",
+      "That private finance eliminates all public fiscal risk.",
+      "That construction and safety certification are complete."
+    ],
+    "answer": 0,
+    "explanation": "Design, Build, Finance, Operate and Transferdescribes a contract model. Selection, agreement, construction and operation remain distinct.",
+    "ref": "E13-2606-053"
+  },
+  {
+    "id": "JUN26-30",
+    "question": "Seven lakh construction man-days per year means:",
+    "options": [
+      "₹7 lakh crore of wages.",
+      "An estimated amount of labour time, not seven lakh permanent jobs.",
+      "Seven lakh completed central offices.",
+      "Seven lakh persons guaranteed lifelong employment."
+    ],
+    "answer": 1,
+    "explanation": "The official capital-project account uses man-days, an employment-time unit. Cost approvals and completed expenditure are also distinct.",
+    "ref": "E13-2606-055"
+  }
+]
