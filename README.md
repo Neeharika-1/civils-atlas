@@ -38,3 +38,11 @@ The prepared daily workflow checks 18 source obligations, retains failures, coll
 It does **not** author verified study notes, certify legal commencement, read every publisher or complete old monthly audits. Source text and OCR are not automatically promoted to facts. A green pipeline is not a completeness certificate. All 23 day-by-day source audits remain open. Historical data, proposed rules and later legal changes need appropriately dated checks.
 
 Do not run historical edition-constructor scripts indiscriminately. Daily workflow uses the supplied merge delta and safeguarded update/build scripts; source-control and review your changes.
+
+## Source-recovery follow-up
+
+The latest replacement workflow tests additional official-host routes and provides browser-only source-domain search on every source card. Local sweep: **37 route attempts; six link-returning streams; one additional reachable Supreme Court interactive portal; eleven unresolved streams**. Manual search/portal reachability is not automatic source utilisation. The preceding Edition 19 website was confirmed live; this newer replacement still needs account-side installation. See `research/edition19/Source-Recovery.md`.
+
+## Compilation-enabled upgrade
+
+The user-approved secondary-source desk adds First Principles IAS, Legacy IAS daily current affairs and daily/monthly PIB digests, Insights IAS RSS and ForumIAS monthly compilations. Local test: **6/6 streams returned links; 61 unique new reading URLs**. It is separate from the original 18 source obligations and does not certify direct newspaper access or turn links into verified notes. Archive dates remain explicit. See `research/edition19/Compilation-Automation.md`. The latest workflow includes automatic compilation collection and website publication; account-side replacement and hosted verification are still required for this newer version.

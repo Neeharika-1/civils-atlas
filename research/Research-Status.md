@@ -1,3 +1,9 @@
+# Source-recovery follow-up · 7 November 2026
+
+The earlier Edition 19 website is now confirmed live with 1,192 notes. The latest local source-recovery upgrade tested 37 routes: six streams returned links, an additional Supreme Court portal was reachable for manual use, and eleven streams remained unresolved. All 18 now have browser-only source-domain search links. This newer replacement has not yet been deployed. See `edition19/Source-Recovery.md`; older installation/deployment statements below are historical snapshots.
+
+---
+
 # Edition 19 update · 7 November 2026
 
 Current working inventory: **1,192 notes; 696 source references; 690 monthly + 14 supplementary MCQs; 184 monthly + four supplementary Mains frameworks; 23 selected period volumes**. Added 14 notes, including four primary AP-document backfills and ten November notes. November first-week selection now has 35 notes; it remains only 1–7 November.

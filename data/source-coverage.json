@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T16:01:50.727061+00:00",
+  "updated_at": "2026-11-08T02:36:26.880430+00:00",
   "fully_utilised": false,
   "scope": "Endpoint access is not article reading. Archive domain references are historical, not proof of daily utilisation.",
   "sources": [
@@ -143,7 +143,7 @@
       "name": "RBI press releases",
       "category": "Economy",
       "required": true,
-      "status": "failed",
+      "status": "ok",
       "archive_notes_referencing_domain": 5,
       "today_utilisation_verified": false
     },
@@ -161,7 +161,7 @@
       "name": "Supreme Court judgments",
       "category": "Primary legal documents",
       "required": true,
-      "status": "failed",
+      "status": "review_required",
       "archive_notes_referencing_domain": 0,
       "today_utilisation_verified": false
     }

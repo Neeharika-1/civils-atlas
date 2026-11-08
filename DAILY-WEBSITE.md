@@ -39,3 +39,7 @@ Daily PDF intake is deliberately restricted to indexed original AP Finance PDFs:
 A green pipeline means installation/build/save/deploy worked, not that every publisher was accessed or utilised. Gaps appear in the dashboard, Actions summary and artifacts. Total source-discovery outage is reported after publishing diagnostic state.
 
 The 14 new study notes were researched by the assistant in this session. There is no unattended fact-checking researcher or automatic verified-note authoring. The workflow does not bypass paywalls, access denials, CAPTCHAs or robots policies. All 23 historical source audits remain open; this is not full January 2025–November 2026 coverage or a current-law certificate.
+
+## Compilation-enabled upgrade
+
+The user-approved secondary-source desk adds First Principles IAS, Legacy IAS daily current affairs and daily/monthly PIB digests, Insights IAS RSS and ForumIAS monthly compilations. Local test: **6/6 streams returned links; 61 unique new reading URLs**. It is separate from the original 18 source obligations and does not certify direct newspaper access or turn links into verified notes. Archive dates remain explicit. See `research/edition19/Compilation-Automation.md`. The latest workflow includes automatic compilation collection and website publication; account-side replacement and hosted verification are still required for this newer version.

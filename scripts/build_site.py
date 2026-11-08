@@ -10,7 +10,7 @@ for p in sorted((R/'data').glob('*-mcqs.json')):
  if re.fullmatch(r'\d{4}-\d{2}',stem):month=stem
  else:month='2025-'+datetime.datetime.strptime(stem,'%B').strftime('%m')
  expanded.append(month);quiz.extend(dict(q,month=month) for q in json.loads(p.read_text()))
-D=dict(notes=load('notes.json',[]),sources=load('sources.json',{}),inbox=load('inbox.json',[]),logs=load('update-log.json',[]),quiz=quiz,expanded=sorted(expanded),source_access=load('source-access.json',{}),linkages=load('linkages.json',[]),automation=load('automation-status.json',{}),registry=load('source-registry.json',[]),source_coverage=load('source-coverage.json',{}),research_updates=load('research-updates.json',[]),research_practice=load('research-practice.json',[]),document_intake=load('document-intake.json',{}))
+D=dict(notes=load('notes.json',[]),sources=load('sources.json',{}),inbox=load('inbox.json',[]),logs=load('update-log.json',[]),quiz=quiz,expanded=sorted(expanded),source_access=load('source-access.json',{}),linkages=load('linkages.json',[]),automation=load('automation-status.json',{}),registry=load('source-registry.json',[]),source_coverage=load('source-coverage.json',{}),research_updates=load('research-updates.json',[]),research_practice=load('research-practice.json',[]),document_intake=load('document-intake.json',{}),compilation_registry=load('compilation-registry.json',[]),compilation_health=load('compilation-health.json',{}))
 assert len({n['id'] for n in D['notes']})==len(D['notes'])
 assert all(k in D['sources'] for n in D['notes'] for k in n['sources'])
 assert D['notes'] and D['quiz'],'Refusing to publish an empty library'

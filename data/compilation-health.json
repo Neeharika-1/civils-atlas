@@ -1,0 +1,147 @@
+{
+  "updated_at": "2026-11-08T02:36:29.735641+00:00",
+  "tested": 6,
+  "working": 6,
+  "new_links": 60,
+  "scope": "Compilation metadata only; publisher text is not copied, and original source utilisation/facts are not verified.",
+  "results": [
+    {
+      "source": "First Principles IAS topic archive",
+      "source_id": "first-principles",
+      "category": "Secondary compilations",
+      "url": "https://www.firstprinciplesias.com/current-affairs",
+      "time": "2026-11-08T02:36:27.215205+00:00",
+      "status": "ok",
+      "discovered": 22,
+      "attempts": [
+        {
+          "url": "https://www.firstprinciplesias.com/current-affairs",
+          "format": "html",
+          "status": "ok",
+          "http_status": 200,
+          "discovered": 22
+        }
+      ],
+      "source_read": false,
+      "route_used": "https://www.firstprinciplesias.com/current-affairs",
+      "fallback_used": false,
+      "secondary_source": true,
+      "coverage_note": "Provider currently displays June–September 2026; default edition September. Not a November daily feed."
+    },
+    {
+      "source": "Legacy IAS newspaper and PIB digests",
+      "source_id": "legacy-daily",
+      "category": "Secondary compilations",
+      "url": "https://www.legacyias.com/feed/",
+      "time": "2026-11-08T02:36:27.215708+00:00",
+      "status": "ok",
+      "discovered": 7,
+      "attempts": [
+        {
+          "url": "https://www.legacyias.com/feed/",
+          "format": "rss",
+          "status": "ok",
+          "http_status": 200,
+          "discovered": 10
+        }
+      ],
+      "source_read": false,
+      "route_used": "https://www.legacyias.com/feed/",
+      "fallback_used": false,
+      "secondary_source": true,
+      "coverage_note": ""
+    },
+    {
+      "source": "Insights IAS daily current affairs and PIB digest",
+      "source_id": "insights-daily",
+      "category": "Secondary compilations",
+      "url": "https://www.insightsonindia.com/feed/",
+      "time": "2026-11-08T02:36:27.217787+00:00",
+      "status": "ok",
+      "discovered": 2,
+      "attempts": [
+        {
+          "url": "https://www.insightsonindia.com/feed/",
+          "format": "rss",
+          "status": "ok",
+          "http_status": 200,
+          "discovered": 5
+        }
+      ],
+      "source_read": false,
+      "route_used": "https://www.insightsonindia.com/feed/",
+      "fallback_used": false,
+      "secondary_source": true,
+      "coverage_note": ""
+    },
+    {
+      "source": "ForumIAS 9 PM monthly newspaper compilations",
+      "source_id": "forum-monthly",
+      "category": "Secondary compilations",
+      "url": "https://forumias.com/blog/tag/9-pm-monthly/",
+      "time": "2026-11-08T02:36:27.218859+00:00",
+      "status": "ok",
+      "discovered": 10,
+      "attempts": [
+        {
+          "url": "https://forumias.com/blog/tag/9-pm-monthly/",
+          "format": "html",
+          "status": "ok",
+          "http_status": 200,
+          "discovered": 10
+        }
+      ],
+      "source_read": false,
+      "route_used": "https://forumias.com/blog/tag/9-pm-monthly/",
+      "fallback_used": false,
+      "secondary_source": true,
+      "coverage_note": "Historical monthly archive; inspect edition dates, not collection date."
+    },
+    {
+      "source": "Legacy IAS daily PIB summaries",
+      "source_id": "legacy-pib-daily",
+      "category": "Secondary compilations",
+      "url": "https://www.legacyias.com/current-affairs-datewise/daily-pib-summaries/",
+      "time": "2026-11-08T02:36:27.219698+00:00",
+      "status": "ok",
+      "discovered": 1,
+      "attempts": [
+        {
+          "url": "https://www.legacyias.com/current-affairs-datewise/daily-pib-summaries/",
+          "format": "html",
+          "status": "ok",
+          "http_status": 200,
+          "discovered": 1
+        }
+      ],
+      "source_read": false,
+      "route_used": "https://www.legacyias.com/current-affairs-datewise/daily-pib-summaries/",
+      "fallback_used": false,
+      "secondary_source": true,
+      "coverage_note": ""
+    },
+    {
+      "source": "Legacy IAS monthly PIB compilations",
+      "source_id": "legacy-pib-monthly",
+      "category": "Secondary compilations",
+      "url": "https://www.legacyias.com/pib-monthly-compilations/",
+      "time": "2026-11-08T02:36:27.707190+00:00",
+      "status": "ok",
+      "discovered": 20,
+      "attempts": [
+        {
+          "url": "https://www.legacyias.com/pib-monthly-compilations/",
+          "format": "html",
+          "status": "ok",
+          "http_status": 200,
+          "discovered": 20
+        }
+      ],
+      "source_read": false,
+      "route_used": "https://www.legacyias.com/pib-monthly-compilations/",
+      "fallback_used": false,
+      "secondary_source": true,
+      "coverage_note": ""
+    }
+  ]
+}

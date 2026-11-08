@@ -1,0 +1,74 @@
+[
+  {
+    "id": "first-principles",
+    "name": "First Principles IAS topic archive",
+    "url": "https://www.firstprinciplesias.com/current-affairs",
+    "format": "html",
+    "link_pattern": "/current-affairs/leads/",
+    "category": "Secondary compilations",
+    "required": false,
+    "publishing": "headline-link-only",
+    "fallbacks": [],
+    "scope": "Secondary reading/coverage fallback; not direct utilisation of the underlying PIB/newspaper source",
+    "coverage_note": "Provider currently displays June–September 2026; default edition September. Not a November daily feed."
+  },
+  {
+    "id": "legacy-daily",
+    "name": "Legacy IAS newspaper and PIB digests",
+    "url": "https://www.legacyias.com/feed/",
+    "format": "rss",
+    "category": "Secondary compilations",
+    "required": false,
+    "publishing": "headline-link-only",
+    "fallbacks": [],
+    "scope": "Secondary reading/coverage fallback; not direct utilisation of the underlying PIB/newspaper source"
+  },
+  {
+    "id": "insights-daily",
+    "name": "Insights IAS daily current affairs and PIB digest",
+    "url": "https://www.insightsonindia.com/feed/",
+    "format": "rss",
+    "category": "Secondary compilations",
+    "required": false,
+    "publishing": "headline-link-only",
+    "fallbacks": [],
+    "scope": "Secondary reading/coverage fallback; not direct utilisation of the underlying PIB/newspaper source"
+  },
+  {
+    "id": "forum-monthly",
+    "name": "ForumIAS 9 PM monthly newspaper compilations",
+    "url": "https://forumias.com/blog/tag/9-pm-monthly/",
+    "format": "html",
+    "link_pattern": "/download-9-pm-monthly-compilation-",
+    "category": "Secondary compilations",
+    "required": false,
+    "publishing": "headline-link-only",
+    "fallbacks": [],
+    "scope": "Secondary reading/coverage fallback; not direct utilisation of the underlying PIB/newspaper source",
+    "coverage_note": "Historical monthly archive; inspect edition dates, not collection date."
+  },
+  {
+    "id": "legacy-pib-daily",
+    "name": "Legacy IAS daily PIB summaries",
+    "url": "https://www.legacyias.com/current-affairs-datewise/daily-pib-summaries/",
+    "format": "html",
+    "link_pattern": "/pib-summaries-\\d",
+    "category": "Secondary compilations",
+    "required": false,
+    "publishing": "headline-link-only",
+    "fallbacks": [],
+    "scope": "Secondary reading/coverage fallback; not direct utilisation of the underlying PIB/newspaper source"
+  },
+  {
+    "id": "legacy-pib-monthly",
+    "name": "Legacy IAS monthly PIB compilations",
+    "url": "https://www.legacyias.com/pib-monthly-compilations/",
+    "format": "html",
+    "link_pattern": "/monthly-pib-summaries-",
+    "category": "Secondary compilations",
+    "required": false,
+    "publishing": "headline-link-only",
+    "fallbacks": [],
+    "scope": "Secondary reading/coverage fallback; not direct utilisation of the underlying PIB/newspaper source"
+  }
+]

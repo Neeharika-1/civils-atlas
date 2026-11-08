@@ -1,17 +1,17 @@
 {
   "schedule_utc": "0 1 * * *",
   "schedule_ist": "06:30 Asia/Kolkata",
-  "last_run": "2026-11-07T16:01:50.727061+00:00",
+  "last_run": "2026-11-08T02:36:26.880430+00:00",
   "last_run_environment": "github-actions",
   "last_event": "push",
   "repository": "Neeharika-1/civils-atlas",
   "latest_collection_outcome": "partial_failure",
-  "sources_ok": 6,
+  "sources_ok": 7,
   "sources_tested": 18,
   "mode": "Source-link discovery only; reviewed notes require editorial work",
   "not_freshness_guarantee": true,
   "scheduler_active": false,
   "deployment_status": "Hosted push run observed; first scheduled run still pending",
   "sources_required": 18,
-  "new_links": 36
+  "new_links": 66
 }

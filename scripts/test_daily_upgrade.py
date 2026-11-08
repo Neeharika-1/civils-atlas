@@ -44,4 +44,27 @@ class Tests(unittest.TestCase):
  def test_no_items_is_not_success(self):
   with patch.object(u,'robot_policy',return_value=Policy()),patch.object(u.requests,'get',return_value=Response('https://example.org/list',body='<html>Empty</html>')):
    items,log=u.collect(stream());self.assertEqual(log['status'],'review_required')
+ def test_reachable_fallback_portal_remains_manual(self):
+  def get(url,**kw):return Response(url,503)if url.endswith('/list')else Response(url)
+  with patch.object(u,'robot_policy',return_value=Policy()),patch.object(u.requests,'get',side_effect=get):
+   items,log=u.collect(stream(fallbacks=[dict(url='https://example.org/portal',format='portal')]))
+   self.assertFalse(items);self.assertEqual(log['status'],'review_required');self.assertTrue(log['fallback_used']);self.assertTrue(log['portal_reachable']);self.assertFalse(log['source_read'])
+ def test_manual_search_is_never_automatic_source_success(self):
+  s=stream();s['manual_recovery']={'search_url':'https://www.google.com/search?q=site:example.org'}
+  with patch.object(u,'robot_policy',return_value=Policy()),patch.object(u.requests,'get',return_value=Response(s['url'],503))as get:
+   items,log=u.collect(s);self.assertFalse(items);self.assertEqual(log['status'],'failed');self.assertEqual(get.call_count,1);self.assertEqual(get.call_args.args[0],s['url'])
+ def test_robots_403_unavailable_is_not_a_disallow_rule(self):
+  u.robot_policy.cache_clear()
+  with patch.object(u.requests,'get',return_value=Response('https://example.org/robots.txt',403)):
+   self.assertIsNone(u.robot_policy('https://example.org'))
+  u.robot_policy.cache_clear()
+ def test_robots_server_failure_and_rate_limit_still_stop(self):
+  for code in [401,429,503]:
+   u.robot_policy.cache_clear()
+   with patch.object(u.requests,'get',return_value=Response('https://example.org/robots.txt',code)):
+    with self.assertRaises(RuntimeError):u.robot_policy('https://example.org')
+  u.robot_policy.cache_clear()
+ def test_actual_page_denial_is_not_bypassed(self):
+  with patch.object(u,'robot_policy',return_value=Policy()),patch.object(u.requests,'get',return_value=Response('https://example.org/list',403))as get:
+   items,log=u.collect(stream());self.assertFalse(items);self.assertEqual(log['status'],'failed');self.assertEqual(get.call_count,1)
 if __name__=='__main__':unittest.main()

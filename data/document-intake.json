@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T16:01:55.956834+00:00",
+  "updated_at": "2026-11-08T02:36:36.946335+00:00",
   "scope": "AP Finance primary PDFs only; extraction is not verification. Other publishers remain separate access obligations.",
   "attempted": 4,
   "pending": 0,
@@ -8,7 +8,7 @@
     {
       "url": "https://apfinance.gov.in/images/BE_2026-27_CBRO_Guidelines.pdf",
       "source": "AP Finance / budget / orders",
-      "checked_at": "2026-11-07T16:01:51.177070+00:00",
+      "checked_at": "2026-11-08T02:36:30.234664+00:00",
       "status": "machine_text_extracted",
       "human_verified": false,
       "pages": 4,
@@ -23,12 +23,14 @@
       "cited_source_ids": [
         "E19-APCBRO"
       ],
-      "cited_version_changed": false
+      "cited_version_changed": false,
+      "content_changed_since_previous": false,
+      "previous_sha256": "05262e6e4492d4da54a44fd850fc7c8eda39033898ac9a259640ad9413f62c99"
     },
     {
       "url": "https://apfinance.gov.in/images/Budget_Outreach_2026-27_Memo.pdf",
       "source": "AP Finance / budget / orders",
-      "checked_at": "2026-11-07T16:01:51.177488+00:00",
+      "checked_at": "2026-11-08T02:36:30.235198+00:00",
       "status": "machine_text_extracted",
       "human_verified": false,
       "pages": 2,
@@ -43,12 +45,14 @@
       "cited_source_ids": [
         "E19-APDIST"
       ],
-      "cited_version_changed": false
+      "cited_version_changed": false,
+      "content_changed_since_previous": false,
+      "previous_sha256": "7a2090179dc70e9d30d9b343ae6b5b754ccfc246dfcaa7443e072a72d9964af6"
     },
     {
       "url": "https://apfinance.gov.in/images/Budget_Outreach_Programme_2026-27_Circular_Memo.pdf",
       "source": "AP Finance / budget / orders",
-      "checked_at": "2026-11-07T16:01:51.178598+00:00",
+      "checked_at": "2026-11-08T02:36:30.236257+00:00",
       "status": "machine_text_extracted",
       "human_verified": false,
       "pages": 3,
@@ -63,12 +67,14 @@
       "cited_source_ids": [
         "E19-APMEET"
       ],
-      "cited_version_changed": false
+      "cited_version_changed": false,
+      "content_changed_since_previous": false,
+      "previous_sha256": "6e6fc8b574e664cd0a68933eb65da001ba426a4ec0b7c855eb03d55cc063b4fd"
     },
     {
       "url": "https://apfinance.gov.in/images/Smart_Metering.pdf",
       "source": "AP Finance / budget / orders",
-      "checked_at": "2026-11-07T16:01:52.197113+00:00",
+      "checked_at": "2026-11-08T02:36:31.937687+00:00",
       "status": "machine_text_extracted",
       "human_verified": false,
       "pages": 2,
@@ -86,7 +92,9 @@
       "cited_source_ids": [
         "E19-APMETER"
       ],
-      "cited_version_changed": false
+      "cited_version_changed": false,
+      "content_changed_since_previous": false,
+      "previous_sha256": "0f95e16b0db40984725982b2d582c1a654eb901162134c3aa3722527b189fbd9"
     }
   ]
 }

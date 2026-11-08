@@ -21,7 +21,9 @@ def canonical(url):
 @functools.lru_cache(maxsize=64)
 def robot_policy(origin):
  rr=requests.get(origin+'/robots.txt',timeout=(8,15),headers={'User-Agent':UA})
- if rr.status_code in (404,410):return None
+ # RFC 9309 section 2.3.1.3: an unavailable robots resource is not a Disallow rule.
+ # Keep authentication/rate-limit responses conservative; actual page denials still stop.
+ if 400<=rr.status_code<500 and rr.status_code not in (401,429):return None
  if rr.status_code!=200:raise RuntimeError(f'robots unavailable ({rr.status_code}); manual review required')
  rp=urllib.robotparser.RobotFileParser();rp.parse(rr.text.splitlines());return rp
 
@@ -48,7 +50,7 @@ def collect(spec):
    else:raise RuntimeError('Too many redirects')
    if kind=='portal':
     attempt.update(status='review_required',http_status=res.status_code)
-    log['attempts'].append(attempt);log.update(status='review_required',error='Interactive primary-document portal: open and review; an HTTP response is not document utilisation.')
+    log['attempts'].append(attempt);log.update(status='review_required',route_used=url,fallback_used=url!=spec['url'],portal_reachable=True,error='Interactive primary-document portal: open and review; an HTTP response is not document utilisation.')
     return [],log
    soup=BeautifulSoup(res.content,'xml' if kind=='rss' else 'html.parser');entries=[];seen=set()
    if kind=='rss':

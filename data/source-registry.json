@@ -10,12 +10,24 @@
       {
         "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1",
         "format": "rss"
+      },
+      {
+        "url": "https://pib.gov.in/allrelease.aspx?reg=3&lang=1",
+        "format": "html"
+      },
+      {
+        "url": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1",
+        "format": "rss"
       }
     ],
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Apib.gov.in%29",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "pib-reviews",
@@ -28,7 +40,11 @@
     "required": true,
     "scope": "Historical source reconciliation; not a current daily news feed",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Apib.gov.in%29+2025+year+end+review",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "prs-2025",
@@ -41,7 +57,11 @@
     "required": true,
     "scope": "Historical source reconciliation; not a current daily news feed",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Aprsindia.org%29",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "prs-current",
@@ -54,7 +74,11 @@
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Aprsindia.org%29",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "hindu-national",
@@ -67,7 +91,11 @@
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Athehindu.com%29",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "hindu-ap",
@@ -80,7 +108,11 @@
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Athehindu.com%29",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "express-india",
@@ -89,11 +121,24 @@
     "url": "https://indianexpress.com/section/india/feed/",
     "format": "rss",
     "link_pattern": "",
-    "fallbacks": [],
+    "fallbacks": [
+      {
+        "url": "https://indianexpress.com/section/india/",
+        "format": "html"
+      },
+      {
+        "url": "https://www.indianexpress.com/section/india/feed/",
+        "format": "rss"
+      }
+    ],
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Aindianexpress.com%29+India",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "express-explained",
@@ -102,11 +147,20 @@
     "url": "https://indianexpress.com/section/explained/feed/",
     "format": "rss",
     "link_pattern": "",
-    "fallbacks": [],
+    "fallbacks": [
+      {
+        "url": "https://indianexpress.com/section/explained/",
+        "format": "html"
+      }
+    ],
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Aindianexpress.com%29+explained",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "isro",
@@ -119,7 +173,11 @@
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Aisro.gov.in%29",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "vision-daily",
@@ -128,11 +186,24 @@
     "url": "https://visionias.in/current-affairs/news-today/archive",
     "format": "html",
     "link_pattern": "/news-today/",
-    "fallbacks": [],
+    "fallbacks": [
+      {
+        "url": "https://www.visionias.in/current-affairs/news-today/archive",
+        "format": "html"
+      },
+      {
+        "url": "https://www.visionias.in/resources/daily_current_affairs.php?type=1",
+        "format": "html"
+      }
+    ],
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Avisionias.in%29+News+Today",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "vision-monthly",
@@ -141,11 +212,24 @@
     "url": "https://visionias.in/current-affairs/monthly-magazine/archive",
     "format": "html",
     "link_pattern": "/monthly-magazine/\\d{4}-",
-    "fallbacks": [],
+    "fallbacks": [
+      {
+        "url": "https://www.visionias.in/current-affairs/monthly-magazine/archive",
+        "format": "html"
+      },
+      {
+        "url": "https://www.visionias.in/resources/current_affairs.php",
+        "format": "html"
+      }
+    ],
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Avisionias.in%29+monthly+magazine",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "ap-ipr",
@@ -154,11 +238,24 @@
     "url": "https://ipr.ap.nic.in/press-releases.html",
     "format": "html",
     "link_pattern": "\\.pdf(?:$|\\?)|press-release/",
-    "fallbacks": [],
+    "fallbacks": [
+      {
+        "url": "https://www.ipr.ap.nic.in/press-releases.html",
+        "format": "html"
+      },
+      {
+        "url": "https://ipr.ap.gov.in/",
+        "format": "html"
+      }
+    ],
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Aipr.ap.gov.in+OR+site%3Aipr.ap.nic.in%29",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "ap-finance",
@@ -171,7 +268,11 @@
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Aapfinance.gov.in%29",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "ap-orders",
@@ -180,11 +281,20 @@
     "url": "https://goir.ap.gov.in/",
     "format": "portal",
     "link_pattern": "",
-    "fallbacks": [],
+    "fallbacks": [
+      {
+        "url": "https://goir.ap.gov.in/Reports.aspx",
+        "format": "portal"
+      }
+    ],
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Agoir.ap.gov.in%29+government+order",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "appsc",
@@ -193,11 +303,20 @@
     "url": "https://psc.ap.gov.in/",
     "format": "portal",
     "link_pattern": "",
-    "fallbacks": [],
+    "fallbacks": [
+      {
+        "url": "https://portal-psc.ap.gov.in/",
+        "format": "html"
+      }
+    ],
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Aportal-psc.ap.gov.in+OR+site%3Apsc.ap.gov.in%29+notification",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "rbi",
@@ -206,11 +325,24 @@
     "url": "https://www.rbi.org.in/commonman/English/Scripts/PressReleases.aspx",
     "format": "html",
     "link_pattern": "PressReleasesDisplay|PressReleaseDisplay|\\.pdf",
-    "fallbacks": [],
+    "fallbacks": [
+      {
+        "url": "https://www.rbi.org.in/pressreleases_rss.xml",
+        "format": "rss"
+      },
+      {
+        "url": "https://website.rbi.org.in/web/rbi/press-releases",
+        "format": "html"
+      }
+    ],
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Arbi.org.in+OR+site%3Awebsite.rbi.org.in%29",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "gazette",
@@ -219,11 +351,20 @@
     "url": "https://egazette.gov.in/",
     "format": "portal",
     "link_pattern": "",
-    "fallbacks": [],
+    "fallbacks": [
+      {
+        "url": "https://egazette.nic.in/",
+        "format": "portal"
+      }
+    ],
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Aegazette.gov.in+OR+site%3Aegazette.nic.in%29+notification",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   },
   {
     "id": "supreme-court",
@@ -232,10 +373,23 @@
     "url": "https://www.sci.gov.in/judgements-case-no/",
     "format": "portal",
     "link_pattern": "",
-    "fallbacks": [],
+    "fallbacks": [
+      {
+        "url": "https://www.sci.gov.in/latest-judgements/",
+        "format": "html"
+      },
+      {
+        "url": "https://scr.sci.gov.in/",
+        "format": "portal"
+      }
+    ],
     "required": true,
     "scope": "Required source stream; per-source access and article review are separate",
     "publishing": "headline-link-only",
-    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation"
+    "review_policy": "Original referenced notes only; never mark discovery, portal fetch or alternate reporting as full source utilisation",
+    "manual_recovery": {
+      "search_url": "https://www.google.com/search?q=%28site%3Asci.gov.in+OR+site%3Ascr.sci.gov.in%29+judgment",
+      "scope": "Manual source-domain search only. Not automatically fetched, source access or utilisation verified. Browser access can differ from the collector."
+    }
   }
 ]

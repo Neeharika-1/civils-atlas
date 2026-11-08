@@ -3,7 +3,7 @@ Run locally after reviewing the listed code/data. Never called by nightly Action
 """
 import base64,hashlib,io,json,pathlib,textwrap,zipfile
 R=pathlib.Path(__file__).resolve().parents[1]
-FILES=['requirements.txt','template.html','README.md','START-HERE.md','SAVED-PROJECT-STATUS.md','DAILY-WEBSITE.md','DAILY-UPDATES-SETUP.md','scripts/build.py','scripts/build_site.py','scripts/update.py','scripts/daily-home.js','scripts/ingest_documents.py','scripts/merge_research.py','scripts/export_research_supplement.py','scripts/reconcile.py','scripts/validate.py','scripts/test_daily_upgrade.py','scripts/test_edition19.py','scripts/create_daily_workflow.py','data/source-registry.json','research/edition19/research-delta.json','research/edition19/Research-Log.md','research/Research-Status.md','volumes/Edition-19-Mains-Frameworks.md']
+FILES=['scripts/update_compilations.py','data/compilation-registry.json','research/edition19/Compilation-Automation.md','requirements.txt','template.html','README.md','START-HERE.md','SAVED-PROJECT-STATUS.md','DAILY-WEBSITE.md','DAILY-UPDATES-SETUP.md','scripts/build.py','scripts/build_site.py','scripts/update.py','scripts/daily-home.js','scripts/ingest_documents.py','scripts/merge_research.py','scripts/export_research_supplement.py','scripts/reconcile.py','scripts/validate.py','scripts/test_daily_upgrade.py','scripts/test_edition19.py','scripts/create_daily_workflow.py','data/source-registry.json','research/edition19/research-delta.json','research/edition19/Research-Log.md','research/edition19/Source-Recovery.md','research/Research-Status.md','volumes/Edition-19-Mains-Frameworks.md']
 files={p:(R/p).read_bytes()for p in FILES};manifest={'edition':19,'files':{p:hashlib.sha256(b).hexdigest()for p,b in files.items()}}
 files['embedded-upgrade-manifest.json']=(json.dumps(manifest,indent=2)+'\n').encode()
 out=io.BytesIO()
@@ -91,6 +91,8 @@ __INSTALLER__
           code=$?
           set -e
           if [ "$code" -ne 0 ] && [ "$code" -ne 2 ]; then exit "$code"; fi
+      - name: Collect public PIB and newspaper compilations
+        run: python scripts/update_compilations.py
       - name: Extract eligible primary PDFs, with bounded OCR
         run: python scripts/ingest_documents.py
       - name: Rebuild all study documents when this upgrade changes
@@ -119,6 +121,13 @@ __INSTALLER__
               for x in json.loads(pathlib.Path('data/update-log.json').read_text()):
                   if x['status']!='ok': f.write(f"- {x['source']}: {x.get('error',x['status'])}\\n")
               f.write('\\nNo automatic verified-note authorship or completed all-source audit is claimed.\\n')
+      - name: Summarise compilation access
+        shell: python
+        run: |
+          import json, os, pathlib
+          c=json.loads(pathlib.Path('data/compilation-health.json').read_text())
+          with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as f:
+              f.write(f"\\n## Secondary compilation desk\\n{c['working']}/{c['tested']} streams returned links; {c['new_links']} new URLs. Secondary links are not verified study notes.\\n")
       - name: Save the upgraded app, notes and diagnostic state
         run: |
           git config user.name 'civils-atlas-bot'
@@ -144,6 +153,7 @@ __INSTALLER__
           path: |
             data/automation-status.json
             data/document-intake.json
+            data/compilation-health.json
             data/update-log.json
             data/source-coverage.json
           retention-days: 14
