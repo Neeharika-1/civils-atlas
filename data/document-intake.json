@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T02:36:36.946335+00:00",
+  "updated_at": "2026-11-08T06:55:37.019920+00:00",
   "scope": "AP Finance primary PDFs only; extraction is not verification. Other publishers remain separate access obligations.",
   "attempted": 4,
   "pending": 0,
@@ -8,7 +8,7 @@
     {
       "url": "https://apfinance.gov.in/images/BE_2026-27_CBRO_Guidelines.pdf",
       "source": "AP Finance / budget / orders",
-      "checked_at": "2026-11-08T02:36:30.234664+00:00",
+      "checked_at": "2026-11-08T06:55:30.869279+00:00",
       "status": "machine_text_extracted",
       "human_verified": false,
       "pages": 4,
@@ -30,7 +30,7 @@
     {
       "url": "https://apfinance.gov.in/images/Budget_Outreach_2026-27_Memo.pdf",
       "source": "AP Finance / budget / orders",
-      "checked_at": "2026-11-08T02:36:30.235198+00:00",
+      "checked_at": "2026-11-08T06:55:30.869893+00:00",
       "status": "machine_text_extracted",
       "human_verified": false,
       "pages": 2,
@@ -52,7 +52,7 @@
     {
       "url": "https://apfinance.gov.in/images/Budget_Outreach_Programme_2026-27_Circular_Memo.pdf",
       "source": "AP Finance / budget / orders",
-      "checked_at": "2026-11-08T02:36:30.236257+00:00",
+      "checked_at": "2026-11-08T06:55:30.870328+00:00",
       "status": "machine_text_extracted",
       "human_verified": false,
       "pages": 3,
@@ -74,7 +74,7 @@
     {
       "url": "https://apfinance.gov.in/images/Smart_Metering.pdf",
       "source": "AP Finance / budget / orders",
-      "checked_at": "2026-11-08T02:36:31.937687+00:00",
+      "checked_at": "2026-11-08T06:55:32.194161+00:00",
       "status": "machine_text_extracted",
       "human_verified": false,
       "pages": 2,

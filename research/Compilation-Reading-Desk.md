@@ -1,5 +1,5 @@
 # Compilation reading desk
-2026-11-08T02:36:29.735641+00:00
+2026-11-08T06:55:30.381071+00:00
 Secondary sources. Collection dates are not article publication dates; links are not verified study notes.
 
 ## First Principles IAS topic archive
