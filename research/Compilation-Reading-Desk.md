@@ -1,5 +1,5 @@
 # Compilation reading desk
-2026-11-08T06:55:30.381071+00:00
+2026-11-09T07:38:12.449628+00:00
 Secondary sources. Collection dates are not article publication dates; links are not verified study notes.
 
 ## First Principles IAS topic archive
@@ -45,6 +45,7 @@ https://www.insightsonindia.com/feed/
 
 - [UPSC Current Affairs Quiz – 7 November 2026 | Daily Prelims Quiz](https://www.insightsonindia.com/2026/11/07/upsc-current-affairs-quiz-7-november-2026-daily-prelims-quiz/)
 - [UPSC CURRENT AFFAIRS – 7 NOVEMBER 2026](https://www.insightsonindia.com/2026/11/07/upsc-current-affairs-7-november-2026/)
+- [UPSC CURRENT AFFAIRS – 9 NOVEMBER 2026](https://www.insightsonindia.com/2026/11/09/upsc-current-affairs-9-november-2026/)
 ## ForumIAS 9 PM monthly newspaper compilations
 Historical monthly archive; inspect edition dates, not collection date.
 https://forumias.com/blog/tag/9-pm-monthly/

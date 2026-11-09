@@ -4,7 +4,7 @@
     "source_id": "ap-finance",
     "category": "Andhra Pradesh",
     "url": "https://apfinance.gov.in/",
-    "time": "2026-11-08T06:55:04.474235+00:00",
+    "time": "2026-11-09T07:37:37.746684+00:00",
     "status": "ok",
     "discovered": 5,
     "attempts": [
@@ -25,7 +25,7 @@
     "source_id": "ap-ipr",
     "category": "Andhra Pradesh",
     "url": "https://ipr.ap.nic.in/press-releases.html",
-    "time": "2026-11-08T06:55:04.461571+00:00",
+    "time": "2026-11-09T07:37:37.349870+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -56,7 +56,7 @@
     "source_id": "ap-orders",
     "category": "Andhra Pradesh",
     "url": "https://goir.ap.gov.in/",
-    "time": "2026-11-08T06:55:04.760104+00:00",
+    "time": "2026-11-09T07:37:37.748403+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -64,24 +64,24 @@
         "url": "https://goir.ap.gov.in/",
         "format": "portal",
         "status": "failed",
-        "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='goir.ap.gov.in', port=443): Failed to resolve 'goir.ap.gov.in' ([Errno -3] Temporary failure in name resolution)\"))"
+        "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x7786fed9ed20>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
       },
       {
         "url": "https://goir.ap.gov.in/Reports.aspx",
         "format": "portal",
         "status": "failed",
-        "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='goir.ap.gov.in', port=443): Failed to resolve 'goir.ap.gov.in' ([Errno -3] Temporary failure in name resolution)\"))"
+        "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x7786fed9ebd0>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
       }
     ],
     "source_read": false,
-    "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='goir.ap.gov.in', port=443): Failed to resolve 'goir.ap.gov.in' ([Errno -3] Temporary failure in name resolution)\"))"
+    "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x7786fed9ebd0>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
   },
   {
     "source": "APPSC official announcements",
     "source_id": "appsc",
     "category": "Andhra Pradesh",
     "url": "https://psc.ap.gov.in/",
-    "time": "2026-11-08T06:55:04.880531+00:00",
+    "time": "2026-11-09T07:37:38.597941+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -89,7 +89,7 @@
         "url": "https://psc.ap.gov.in/",
         "format": "portal",
         "status": "failed",
-        "error": "HTTPSConnectionPool(host='psc.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='psc.ap.gov.in', port=443) at 0x71a126bb0fb0>, 'Connection to psc.ap.gov.in timed out. (connect timeout=8)'))"
+        "error": "HTTPSConnectionPool(host='psc.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='psc.ap.gov.in', port=443): Failed to resolve 'psc.ap.gov.in' ([Errno -3] Temporary failure in name resolution)\"))"
       },
       {
         "url": "https://portal-psc.ap.gov.in/",
@@ -106,7 +106,7 @@
     "source_id": "gazette",
     "category": "Primary legal documents",
     "url": "https://egazette.gov.in/",
-    "time": "2026-11-08T06:55:05.283185+00:00",
+    "time": "2026-11-09T07:37:38.682209+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -131,7 +131,7 @@
     "source_id": "isro",
     "category": "Science",
     "url": "https://www.isro.gov.in/Updates.html",
-    "time": "2026-11-08T06:55:03.953671+00:00",
+    "time": "2026-11-09T07:37:37.206466+00:00",
     "status": "ok",
     "discovered": 5,
     "attempts": [
@@ -152,7 +152,7 @@
     "source_id": "express-explained",
     "category": "Newspapers",
     "url": "https://indianexpress.com/section/explained/feed/",
-    "time": "2026-11-08T06:55:03.750606+00:00",
+    "time": "2026-11-09T07:37:37.030483+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -177,7 +177,7 @@
     "source_id": "express-india",
     "category": "Newspapers",
     "url": "https://indianexpress.com/section/india/feed/",
-    "time": "2026-11-08T06:55:03.720375+00:00",
+    "time": "2026-11-09T07:37:37.019059+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -208,7 +208,7 @@
     "source_id": "pib-reviews",
     "category": "Historical reconciliation",
     "url": "https://www.pib.gov.in/EventDetail.aspx?ID=1229&reg=3&lang=1",
-    "time": "2026-11-08T06:55:03.427439+00:00",
+    "time": "2026-11-09T07:37:36.884244+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -227,7 +227,7 @@
     "source_id": "pib-daily",
     "category": "Official releases",
     "url": "https://www.pib.gov.in/allrelease.aspx?reg=3&lang=1",
-    "time": "2026-11-08T06:55:03.426781+00:00",
+    "time": "2026-11-09T07:37:36.883846+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -264,7 +264,7 @@
     "source_id": "prs-2025",
     "category": "Historical reconciliation",
     "url": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2025",
-    "time": "2026-11-08T06:55:03.429645+00:00",
+    "time": "2026-11-09T07:37:36.885312+00:00",
     "status": "ok",
     "discovered": 12,
     "attempts": [
@@ -285,7 +285,7 @@
     "source_id": "prs-current",
     "category": "Legislation",
     "url": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2026",
-    "time": "2026-11-08T06:55:03.430529+00:00",
+    "time": "2026-11-09T07:37:36.886667+00:00",
     "status": "ok",
     "discovered": 10,
     "attempts": [
@@ -306,7 +306,7 @@
     "source_id": "rbi",
     "category": "Economy",
     "url": "https://www.rbi.org.in/commonman/English/Scripts/PressReleases.aspx",
-    "time": "2026-11-08T06:55:04.976165+00:00",
+    "time": "2026-11-09T07:37:38.667169+00:00",
     "status": "ok",
     "discovered": 10,
     "attempts": [
@@ -334,7 +334,7 @@
     "source_id": "supreme-court",
     "category": "Primary legal documents",
     "url": "https://www.sci.gov.in/judgements-case-no/",
-    "time": "2026-11-08T06:55:06.269544+00:00",
+    "time": "2026-11-09T07:37:39.778891+00:00",
     "status": "review_required",
     "discovered": 0,
     "attempts": [
@@ -368,7 +368,7 @@
     "source_id": "hindu-ap",
     "category": "Andhra Pradesh",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/feeder/default.rss",
-    "time": "2026-11-08T06:55:03.432178+00:00",
+    "time": "2026-11-09T07:37:36.887887+00:00",
     "status": "ok",
     "discovered": 60,
     "attempts": [
@@ -389,7 +389,7 @@
     "source_id": "hindu-national",
     "category": "Newspapers",
     "url": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "time": "2026-11-08T06:55:03.431340+00:00",
+    "time": "2026-11-09T07:37:36.887280+00:00",
     "status": "ok",
     "discovered": 60,
     "attempts": [
@@ -410,7 +410,7 @@
     "source_id": "vision-daily",
     "category": "Magazine gap checks",
     "url": "https://visionias.in/current-affairs/news-today/archive",
-    "time": "2026-11-08T06:55:03.970676+00:00",
+    "time": "2026-11-09T07:37:37.260785+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -441,7 +441,7 @@
     "source_id": "vision-monthly",
     "category": "Magazine gap checks",
     "url": "https://visionias.in/current-affairs/monthly-magazine/archive",
-    "time": "2026-11-08T06:55:03.999345+00:00",
+    "time": "2026-11-09T07:37:37.301644+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
