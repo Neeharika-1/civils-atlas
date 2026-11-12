@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-11T07:29:06.558162+00:00",
+  "updated_at": "2026-11-12T07:57:45.096133+00:00",
   "tested": 6,
-  "working": 6,
-  "new_links": 6,
+  "working": 5,
+  "new_links": 5,
   "scope": "Compilation metadata only; publisher text is not copied, and original source utilisation/facts are not verified.",
   "results": [
     {
@@ -10,7 +10,7 @@
       "source_id": "first-principles",
       "category": "Secondary compilations",
       "url": "https://www.firstprinciplesias.com/current-affairs",
-      "time": "2026-11-11T07:29:03.679041+00:00",
+      "time": "2026-11-12T07:57:42.103420+00:00",
       "status": "ok",
       "discovered": 22,
       "attempts": [
@@ -33,9 +33,9 @@
       "source_id": "legacy-daily",
       "category": "Secondary compilations",
       "url": "https://www.legacyias.com/feed/",
-      "time": "2026-11-11T07:29:03.679593+00:00",
+      "time": "2026-11-12T07:57:42.103971+00:00",
       "status": "ok",
-      "discovered": 7,
+      "discovered": 6,
       "attempts": [
         {
           "url": "https://www.legacyias.com/feed/",
@@ -56,9 +56,9 @@
       "source_id": "insights-daily",
       "category": "Secondary compilations",
       "url": "https://www.insightsonindia.com/feed/",
-      "time": "2026-11-11T07:29:03.681332+00:00",
-      "status": "ok",
-      "discovered": 1,
+      "time": "2026-11-12T07:57:42.105557+00:00",
+      "status": "review_required",
+      "discovered": 0,
       "attempts": [
         {
           "url": "https://www.insightsonindia.com/feed/",
@@ -72,14 +72,15 @@
       "route_used": "https://www.insightsonindia.com/feed/",
       "fallback_used": false,
       "secondary_source": true,
-      "coverage_note": ""
+      "coverage_note": "",
+      "error": "No matching compilation entries; not proof of no coverage."
     },
     {
       "source": "ForumIAS 9 PM monthly newspaper compilations",
       "source_id": "forum-monthly",
       "category": "Secondary compilations",
       "url": "https://forumias.com/blog/tag/9-pm-monthly/",
-      "time": "2026-11-11T07:29:03.682320+00:00",
+      "time": "2026-11-12T07:57:42.107748+00:00",
       "status": "ok",
       "discovered": 10,
       "attempts": [
@@ -102,7 +103,7 @@
       "source_id": "legacy-pib-daily",
       "category": "Secondary compilations",
       "url": "https://www.legacyias.com/current-affairs-datewise/daily-pib-summaries/",
-      "time": "2026-11-11T07:29:03.683643+00:00",
+      "time": "2026-11-12T07:57:42.108861+00:00",
       "status": "ok",
       "discovered": 1,
       "attempts": [
@@ -125,7 +126,7 @@
       "source_id": "legacy-pib-monthly",
       "category": "Secondary compilations",
       "url": "https://www.legacyias.com/pib-monthly-compilations/",
-      "time": "2026-11-11T07:29:04.242863+00:00",
+      "time": "2026-11-12T07:57:42.716230+00:00",
       "status": "ok",
       "discovered": 20,
       "attempts": [

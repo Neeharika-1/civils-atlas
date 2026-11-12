@@ -1,7 +1,7 @@
 {
   "schedule_utc": "0 1 * * *",
   "schedule_ist": "06:30 Asia/Kolkata",
-  "last_run": "2026-11-11T07:29:03.357202+00:00",
+  "last_run": "2026-11-12T07:57:41.761342+00:00",
   "last_run_environment": "github-actions",
   "last_event": "schedule",
   "repository": "Neeharika-1/civils-atlas",
@@ -13,6 +13,6 @@
   "scheduler_active": true,
   "deployment_status": "Scheduled GitHub run observed; source coverage remains a separate check",
   "sources_required": 18,
-  "new_links": 107,
-  "last_observed_scheduled_run": "2026-11-11T07:29:03.357202+00:00"
+  "new_links": 95,
+  "last_observed_scheduled_run": "2026-11-12T07:57:41.761342+00:00"
 }
