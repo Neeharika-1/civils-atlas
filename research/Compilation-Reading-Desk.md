@@ -1,5 +1,5 @@
 # Compilation reading desk
-2026-11-12T07:57:45.096133+00:00
+2026-11-13T07:36:24.012084+00:00
 Secondary sources. Collection dates are not article publication dates; links are not verified study notes.
 
 ## First Principles IAS topic archive
@@ -51,6 +51,9 @@ https://www.legacyias.com/feed/
 - [Editorials/Opinions Analysis For UPSC 12 November 2026](https://www.legacyias.com/editorials-opinions-analysis-for-upsc-12-november-2026/)
 - [PIB Summaries 12 November 2026](https://www.legacyias.com/pib-summaries-12-november-2026/)
 - [Current Affairs Quiz 11 November 2026](https://www.legacyias.com/current-affairs-quiz-11-november-2026/)
+- [Current Affairs 13 November 2026](https://www.legacyias.com/current-affairs-13-november-2026/)
+- [Editorials/Opinions Analysis For UPSC 13 November 2026](https://www.legacyias.com/editorials-opinions-analysis-for-upsc-13-november-2026/)
+- [PIB Summaries 13 November 2026](https://www.legacyias.com/pib-summaries-13-november-2026/)
 ## Insights IAS daily current affairs and PIB digest
 
 https://www.insightsonindia.com/feed/

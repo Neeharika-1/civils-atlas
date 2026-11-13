@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-12T07:57:45.096133+00:00",
+  "updated_at": "2026-11-13T07:36:24.012084+00:00",
   "tested": 6,
   "working": 5,
-  "new_links": 5,
+  "new_links": 3,
   "scope": "Compilation metadata only; publisher text is not copied, and original source utilisation/facts are not verified.",
   "results": [
     {
@@ -10,7 +10,7 @@
       "source_id": "first-principles",
       "category": "Secondary compilations",
       "url": "https://www.firstprinciplesias.com/current-affairs",
-      "time": "2026-11-12T07:57:42.103420+00:00",
+      "time": "2026-11-13T07:36:18.269444+00:00",
       "status": "ok",
       "discovered": 22,
       "attempts": [
@@ -33,9 +33,9 @@
       "source_id": "legacy-daily",
       "category": "Secondary compilations",
       "url": "https://www.legacyias.com/feed/",
-      "time": "2026-11-12T07:57:42.103971+00:00",
+      "time": "2026-11-13T07:36:18.269850+00:00",
       "status": "ok",
-      "discovered": 6,
+      "discovered": 7,
       "attempts": [
         {
           "url": "https://www.legacyias.com/feed/",
@@ -56,7 +56,7 @@
       "source_id": "insights-daily",
       "category": "Secondary compilations",
       "url": "https://www.insightsonindia.com/feed/",
-      "time": "2026-11-12T07:57:42.105557+00:00",
+      "time": "2026-11-13T07:36:18.270863+00:00",
       "status": "review_required",
       "discovered": 0,
       "attempts": [
@@ -80,7 +80,7 @@
       "source_id": "forum-monthly",
       "category": "Secondary compilations",
       "url": "https://forumias.com/blog/tag/9-pm-monthly/",
-      "time": "2026-11-12T07:57:42.107748+00:00",
+      "time": "2026-11-13T07:36:18.272063+00:00",
       "status": "ok",
       "discovered": 10,
       "attempts": [
@@ -103,7 +103,7 @@
       "source_id": "legacy-pib-daily",
       "category": "Secondary compilations",
       "url": "https://www.legacyias.com/current-affairs-datewise/daily-pib-summaries/",
-      "time": "2026-11-12T07:57:42.108861+00:00",
+      "time": "2026-11-13T07:36:18.272582+00:00",
       "status": "ok",
       "discovered": 1,
       "attempts": [
@@ -126,7 +126,7 @@
       "source_id": "legacy-pib-monthly",
       "category": "Secondary compilations",
       "url": "https://www.legacyias.com/pib-monthly-compilations/",
-      "time": "2026-11-12T07:57:42.716230+00:00",
+      "time": "2026-11-13T07:36:18.762129+00:00",
       "status": "ok",
       "discovered": 20,
       "attempts": [
