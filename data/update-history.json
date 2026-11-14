@@ -3931,5 +3931,488 @@
         "error": "robots unavailable (503); manual review required"
       }
     ]
+  },
+  {
+    "time": "2026-11-14T07:20:22.716901+00:00",
+    "event": "schedule",
+    "repository": "Neeharika-1/civils-atlas",
+    "source_count": 18,
+    "sources_ok": 6,
+    "inbox_total": 1021,
+    "new_links": 83,
+    "outcome": "partial_failure",
+    "sources": [
+      {
+        "source": "AP Finance / budget / orders",
+        "source_id": "ap-finance",
+        "category": "Andhra Pradesh",
+        "url": "https://apfinance.gov.in/",
+        "time": "2026-11-14T07:19:44.540332+00:00",
+        "status": "ok",
+        "discovered": 5,
+        "attempts": [
+          {
+            "url": "https://apfinance.gov.in/",
+            "format": "html",
+            "status": "ok",
+            "http_status": 200,
+            "discovered": 5
+          }
+        ],
+        "source_read": false,
+        "route_used": "https://apfinance.gov.in/",
+        "fallback_used": false
+      },
+      {
+        "source": "AP Information & Public Relations",
+        "source_id": "ap-ipr",
+        "category": "Andhra Pradesh",
+        "url": "https://ipr.ap.nic.in/press-releases.html",
+        "time": "2026-11-14T07:19:44.449825+00:00",
+        "status": "failed",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://ipr.ap.nic.in/press-releases.html",
+            "format": "html",
+            "status": "failed",
+            "error": "HTTPSConnectionPool(host='ipr.ap.nic.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='ipr.ap.nic.in', port=443): Failed to resolve 'ipr.ap.nic.in' ([Errno -2] Name or service not known)\"))"
+          },
+          {
+            "url": "https://www.ipr.ap.nic.in/press-releases.html",
+            "format": "html",
+            "status": "failed",
+            "error": "HTTPSConnectionPool(host='www.ipr.ap.nic.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='www.ipr.ap.nic.in', port=443): Failed to resolve 'www.ipr.ap.nic.in' ([Errno -2] Name or service not known)\"))"
+          },
+          {
+            "url": "https://ipr.ap.gov.in/",
+            "format": "html",
+            "status": "failed",
+            "error": "HTTPSConnectionPool(host='ipr.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='ipr.ap.gov.in', port=443) at 0x7e40f8702ba0>, 'Connection to ipr.ap.gov.in timed out. (connect timeout=8)'))"
+          }
+        ],
+        "source_read": false,
+        "error": "HTTPSConnectionPool(host='ipr.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='ipr.ap.gov.in', port=443) at 0x7e40f8702ba0>, 'Connection to ipr.ap.gov.in timed out. (connect timeout=8)'))"
+      },
+      {
+        "source": "AP government orders portal",
+        "source_id": "ap-orders",
+        "category": "Andhra Pradesh",
+        "url": "https://goir.ap.gov.in/",
+        "time": "2026-11-14T07:19:44.629494+00:00",
+        "status": "failed",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://goir.ap.gov.in/",
+            "format": "portal",
+            "status": "failed",
+            "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x7e40f9b67b00>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
+          },
+          {
+            "url": "https://goir.ap.gov.in/Reports.aspx",
+            "format": "portal",
+            "status": "failed",
+            "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x7e40f8962210>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
+          }
+        ],
+        "source_read": false,
+        "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x7e40f8962210>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
+      },
+      {
+        "source": "APPSC official announcements",
+        "source_id": "appsc",
+        "category": "Andhra Pradesh",
+        "url": "https://psc.ap.gov.in/",
+        "time": "2026-11-14T07:19:44.671111+00:00",
+        "status": "failed",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://psc.ap.gov.in/",
+            "format": "portal",
+            "status": "failed",
+            "error": "HTTPSConnectionPool(host='psc.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='psc.ap.gov.in', port=443): Failed to resolve 'psc.ap.gov.in' ([Errno -3] Temporary failure in name resolution)\"))"
+          },
+          {
+            "url": "https://portal-psc.ap.gov.in/",
+            "format": "html",
+            "status": "failed",
+            "error": "HTTPSConnectionPool(host='portal-psc.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)')))"
+          }
+        ],
+        "source_read": false,
+        "error": "HTTPSConnectionPool(host='portal-psc.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)')))"
+      },
+      {
+        "source": "Gazette of India",
+        "source_id": "gazette",
+        "category": "Primary legal documents",
+        "url": "https://egazette.gov.in/",
+        "time": "2026-11-14T07:19:47.478056+00:00",
+        "status": "failed",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://egazette.gov.in/",
+            "format": "portal",
+            "status": "failed",
+            "error": "HTTPSConnectionPool(host='egazette.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)')))"
+          },
+          {
+            "url": "https://egazette.nic.in/",
+            "format": "portal",
+            "status": "failed",
+            "error": "HTTPSConnectionPool(host='egazette.nic.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='egazette.nic.in', port=443): Failed to resolve 'egazette.nic.in' ([Errno -2] Name or service not known)\"))"
+          }
+        ],
+        "source_read": false,
+        "error": "HTTPSConnectionPool(host='egazette.nic.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='egazette.nic.in', port=443): Failed to resolve 'egazette.nic.in' ([Errno -2] Name or service not known)\"))"
+      },
+      {
+        "source": "ISRO news",
+        "source_id": "isro",
+        "category": "Science",
+        "url": "https://www.isro.gov.in/Updates.html",
+        "time": "2026-11-14T07:19:43.675412+00:00",
+        "status": "ok",
+        "discovered": 5,
+        "attempts": [
+          {
+            "url": "https://www.isro.gov.in/Updates.html",
+            "format": "html",
+            "status": "ok",
+            "http_status": 200,
+            "discovered": 5
+          }
+        ],
+        "source_read": false,
+        "route_used": "https://www.isro.gov.in/Updates.html",
+        "fallback_used": false
+      },
+      {
+        "source": "Indian Express Explained",
+        "source_id": "express-explained",
+        "category": "Newspapers",
+        "url": "https://indianexpress.com/section/explained/feed/",
+        "time": "2026-11-14T07:19:43.603851+00:00",
+        "status": "failed",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://indianexpress.com/section/explained/feed/",
+            "format": "rss",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://indianexpress.com/section/explained/feed/"
+          },
+          {
+            "url": "https://indianexpress.com/section/explained/",
+            "format": "html",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://indianexpress.com/section/explained/"
+          }
+        ],
+        "source_read": false,
+        "error": "403 Client Error: Forbidden for url: https://indianexpress.com/section/explained/"
+      },
+      {
+        "source": "Indian Express India",
+        "source_id": "express-india",
+        "category": "Newspapers",
+        "url": "https://indianexpress.com/section/india/feed/",
+        "time": "2026-11-14T07:19:43.266878+00:00",
+        "status": "failed",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://indianexpress.com/section/india/feed/",
+            "format": "rss",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/"
+          },
+          {
+            "url": "https://indianexpress.com/section/india/",
+            "format": "html",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://indianexpress.com/section/india/"
+          },
+          {
+            "url": "https://www.indianexpress.com/section/india/feed/",
+            "format": "rss",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://www.indianexpress.com/section/india/feed/"
+          }
+        ],
+        "source_read": false,
+        "error": "403 Client Error: Forbidden for url: https://www.indianexpress.com/section/india/feed/"
+      },
+      {
+        "source": "PIB 2025 ministry reviews",
+        "source_id": "pib-reviews",
+        "category": "Historical reconciliation",
+        "url": "https://www.pib.gov.in/EventDetail.aspx?ID=1229&reg=3&lang=1",
+        "time": "2026-11-14T07:19:43.044730+00:00",
+        "status": "failed",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://www.pib.gov.in/EventDetail.aspx?ID=1229&reg=3&lang=1",
+            "format": "html",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://www.pib.gov.in/EventDetail.aspx?ID=1229&reg=3&lang=1"
+          }
+        ],
+        "source_read": false,
+        "error": "403 Client Error: Forbidden for url: https://www.pib.gov.in/EventDetail.aspx?ID=1229&reg=3&lang=1"
+      },
+      {
+        "source": "PIB daily",
+        "source_id": "pib-daily",
+        "category": "Official releases",
+        "url": "https://www.pib.gov.in/allrelease.aspx?reg=3&lang=1",
+        "time": "2026-11-14T07:19:43.044322+00:00",
+        "status": "failed",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://www.pib.gov.in/allrelease.aspx?reg=3&lang=1",
+            "format": "html",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://www.pib.gov.in/allrelease.aspx?reg=3&lang=1"
+          },
+          {
+            "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1",
+            "format": "rss",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1"
+          },
+          {
+            "url": "https://pib.gov.in/allrelease.aspx?reg=3&lang=1",
+            "format": "html",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://www.pib.gov.in/allrelease.aspx?reg=3&lang=1"
+          },
+          {
+            "url": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1",
+            "format": "rss",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1"
+          }
+        ],
+        "source_read": false,
+        "error": "403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1"
+      },
+      {
+        "source": "PRS 2025 policy reviews",
+        "source_id": "prs-2025",
+        "category": "Historical reconciliation",
+        "url": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2025",
+        "time": "2026-11-14T07:19:43.045663+00:00",
+        "status": "ok",
+        "discovered": 12,
+        "attempts": [
+          {
+            "url": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2025",
+            "format": "html",
+            "status": "ok",
+            "http_status": 200,
+            "discovered": 12
+          }
+        ],
+        "source_read": false,
+        "route_used": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2025",
+        "fallback_used": false
+      },
+      {
+        "source": "PRS 2026 policy reviews",
+        "source_id": "prs-current",
+        "category": "Legislation",
+        "url": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2026",
+        "time": "2026-11-14T07:19:43.046716+00:00",
+        "status": "ok",
+        "discovered": 10,
+        "attempts": [
+          {
+            "url": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2026",
+            "format": "html",
+            "status": "ok",
+            "http_status": 200,
+            "discovered": 10
+          }
+        ],
+        "source_read": false,
+        "route_used": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2026",
+        "fallback_used": false
+      },
+      {
+        "source": "RBI press releases",
+        "source_id": "rbi",
+        "category": "Economy",
+        "url": "https://www.rbi.org.in/commonman/English/Scripts/PressReleases.aspx",
+        "time": "2026-11-14T07:19:47.398458+00:00",
+        "status": "failed",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://www.rbi.org.in/commonman/English/Scripts/PressReleases.aspx",
+            "format": "html",
+            "status": "failed",
+            "error": "418 Client Error: Unknown Code for url: https://www.rbi.org.in/commonman/English/Scripts/PressReleases.aspx"
+          },
+          {
+            "url": "https://www.rbi.org.in/pressreleases_rss.xml",
+            "format": "rss",
+            "status": "failed",
+            "error": "418 Client Error: Unknown Code for url: https://www.rbi.org.in/pressreleases_rss.xml"
+          },
+          {
+            "url": "https://website.rbi.org.in/web/rbi/press-releases",
+            "format": "html",
+            "status": "failed",
+            "error": "418 Client Error: Unknown Code for url: https://www.rbi.org.in/"
+          }
+        ],
+        "source_read": false,
+        "error": "418 Client Error: Unknown Code for url: https://www.rbi.org.in/"
+      },
+      {
+        "source": "Supreme Court judgments",
+        "source_id": "supreme-court",
+        "category": "Primary legal documents",
+        "url": "https://www.sci.gov.in/judgements-case-no/",
+        "time": "2026-11-14T07:19:48.293386+00:00",
+        "status": "review_required",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://www.sci.gov.in/judgements-case-no/",
+            "format": "portal",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://www.sci.gov.in/judgements-case-no/"
+          },
+          {
+            "url": "https://www.sci.gov.in/latest-judgements/",
+            "format": "html",
+            "status": "failed",
+            "error": "403 Client Error: Forbidden for url: https://www.sci.gov.in/latest-judgements/"
+          },
+          {
+            "url": "https://scr.sci.gov.in/",
+            "format": "portal",
+            "status": "review_required",
+            "http_status": 200
+          }
+        ],
+        "source_read": false,
+        "error": "Interactive primary-document portal: open and review; an HTTP response is not document utilisation.",
+        "route_used": "https://scr.sci.gov.in/",
+        "fallback_used": true,
+        "portal_reachable": true
+      },
+      {
+        "source": "The Hindu Andhra Pradesh",
+        "source_id": "hindu-ap",
+        "category": "Andhra Pradesh",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/feeder/default.rss",
+        "time": "2026-11-14T07:19:43.047652+00:00",
+        "status": "ok",
+        "discovered": 60,
+        "attempts": [
+          {
+            "url": "https://www.thehindu.com/news/national/andhra-pradesh/feeder/default.rss",
+            "format": "rss",
+            "status": "ok",
+            "http_status": 200,
+            "discovered": 60
+          }
+        ],
+        "source_read": false,
+        "route_used": "https://www.thehindu.com/news/national/andhra-pradesh/feeder/default.rss",
+        "fallback_used": false
+      },
+      {
+        "source": "The Hindu national",
+        "source_id": "hindu-national",
+        "category": "Newspapers",
+        "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+        "time": "2026-11-14T07:19:43.047186+00:00",
+        "status": "ok",
+        "discovered": 60,
+        "attempts": [
+          {
+            "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+            "format": "rss",
+            "status": "ok",
+            "http_status": 200,
+            "discovered": 60
+          }
+        ],
+        "source_read": false,
+        "route_used": "https://www.thehindu.com/news/national/feeder/default.rss",
+        "fallback_used": false
+      },
+      {
+        "source": "Vision IAS News Today",
+        "source_id": "vision-daily",
+        "category": "Magazine gap checks",
+        "url": "https://visionias.in/current-affairs/news-today/archive",
+        "time": "2026-11-14T07:19:43.750802+00:00",
+        "status": "failed",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://visionias.in/current-affairs/news-today/archive",
+            "format": "html",
+            "status": "failed",
+            "error": "robots unavailable (503); manual review required"
+          },
+          {
+            "url": "https://www.visionias.in/current-affairs/news-today/archive",
+            "format": "html",
+            "status": "failed",
+            "error": "robots unavailable (503); manual review required"
+          },
+          {
+            "url": "https://www.visionias.in/resources/daily_current_affairs.php?type=1",
+            "format": "html",
+            "status": "failed",
+            "error": "robots unavailable (503); manual review required"
+          }
+        ],
+        "source_read": false,
+        "error": "robots unavailable (503); manual review required"
+      },
+      {
+        "source": "Vision IAS monthly archive",
+        "source_id": "vision-monthly",
+        "category": "Magazine gap checks",
+        "url": "https://visionias.in/current-affairs/monthly-magazine/archive",
+        "time": "2026-11-14T07:19:43.788785+00:00",
+        "status": "failed",
+        "discovered": 0,
+        "attempts": [
+          {
+            "url": "https://visionias.in/current-affairs/monthly-magazine/archive",
+            "format": "html",
+            "status": "failed",
+            "error": "robots unavailable (503); manual review required"
+          },
+          {
+            "url": "https://www.visionias.in/current-affairs/monthly-magazine/archive",
+            "format": "html",
+            "status": "failed",
+            "error": "robots unavailable (503); manual review required"
+          },
+          {
+            "url": "https://www.visionias.in/resources/current_affairs.php",
+            "format": "html",
+            "status": "failed",
+            "error": "robots unavailable (503); manual review required"
+          }
+        ],
+        "source_read": false,
+        "error": "robots unavailable (503); manual review required"
+      }
+    ]
   }
 ]

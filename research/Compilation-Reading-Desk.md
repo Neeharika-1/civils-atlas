@@ -1,18 +1,11 @@
 # Compilation reading desk
-2026-11-13T07:36:24.012084+00:00
+2026-11-14T07:20:26.161888+00:00
 Secondary sources. Collection dates are not article publication dates; links are not verified study notes.
 
 ## First Principles IAS topic archive
 Provider currently displays June–September 2026; default edition September. Not a November daily feed.
 https://www.firstprinciplesias.com/current-affairs
 
-- [Who appoints the Election Commission: the split verdict](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/appointment-of-election-commissioners)
-- [Census 2027: caste returns, and the road to delimitation](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/census-2027)
-- [The anti defection law: condonation, mergers and the Speaker](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/anti-defection-law)
-- [The Governor and assent to State Bills](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/governor-and-assent-to-state-bills)
-- [India hosts BRICS: the New Delhi Declaration](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/brics-under-indias-chairship-2026)
-- [India and China: the boundary talks and Xi Jinping's visit](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/india-and-china-the-boundary-and-the-thaw)
-- [India between Russia and Ukraine: outreach, oil and the American sanctions law](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/india-russia-and-ukraine)
 - [The 81st General Assembly and India's case for Security Council reform](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/india-and-un-security-council-reform)
 - [Choosing the next UN Secretary General](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/choosing-the-next-un-secretary-general)
 - [Rising seas and statehood: the UN declaration](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/un-declaration-on-sea-level-rise)
@@ -28,6 +21,31 @@ https://www.firstprinciplesias.com/current-affairs
 - [CAFE III: the new fuel economy norms for cars](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/cafe-norms)
 - [India signs the UN Convention against Cybercrime](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/un-convention-against-cybercrime)
 - [Rethinking population policy: the EAC-PM call to end control incentives](https://www.firstprinciplesias.com/current-affairs/leads/2026-09/rethinking-population-policy)
+- [Two Commissioners dissent and the Supreme Court questions the Chief Election Commissioner's lifelong immunity](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/election-commission-dissent-and-immunity)
+- [Three States' quota laws fall as courts hold the 50 per cent ceiling](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/the-50-per-cent-ceiling-in-the-courts)
+- [Ladakh's groups reject the Centre's Article 371K draft while hill councils are redrawn for eight districts](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/ladakh-article-371k-draft-rejected)
+- [Conversion ends a backward class quota claim, the Supreme Court rules in Tamil Nadu's appeal](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/conversion-and-backward-class-reservation)
+- [India's four point ceasefire plan, and the American waiver of the Russia sanctions law](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/india-ukraine-ceasefire-proposal-and-the-sanctions-waiver)
+- [Green cards barred, oil courted and navigation contested: India and the United States in October](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/india-united-states-green-cards-oil-and-navigation)
+- [West Asia war: Hormuz shut on Iran's conditions, and Houthi missiles hit Riyadh and Dammam](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/west-asia-war-hormuz-conditions-and-the-riyadh-attack)
+- [RBI raises the repo rate to 5.50 per cent and turns to calibrated tightening](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/repo-rate-hike-and-calibrated-tightening)
+- [57th GST Council removes arrest powers and raises the prosecution threshold to ₹5 crore](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/gst-council-57th-meeting-process-reforms)
+- [Fairfax buys IDBI Bank for about ₹53,000 crore, the first government backed bank sold to a foreign owner](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/idbi-bank-sale-to-fairfax)
+- [World Bank: poverty at $4.20 a day fell from 57.7 to 16.1 per cent of Indians between 2011 and 2023](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/world-bank-poverty-brief-india-2026)
+- [Cyclone Arnab crosses the Andhra coast near Yanam as the year's first very severe storm](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/cyclone-arnab)
+- [Emissions Gap Report 2026 plans for overshoot and a return to 1.5°C by 2100](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/emissions-gap-report-2026)
+- [A tigress from Valmiki starts West Bengal's first tiger reintroduction at Buxa](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/buxa-tiger-reintroduction)
+- [CBD COP17 at Yerevan asks nations to speed up the 2030 nature targets they are missing](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/cbd-cop17-yerevan)
+- [NVS-03 reaches orbit on GSLV-F18 and gives NavIC its fourth satellite, the minimum for a position fix](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/nvs-03-and-the-navic-constellation)
+- [India's Patent Office refuses a patent on BPaL, the six month regimen for drug resistant TB](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/bpal-patent-rejection)
+- [Up to 30 per cent of India's cotton grows unapproved herbicide tolerant GM hybrids](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/unapproved-gm-cotton-hybrids)
+- [Nobel science prizes 2026: optogenetics, IceCube's neutrinos and the chemistry of chirality](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/nobel-science-prizes-2026)
+- [Naga and Kuki clashes kill nine in Manipur as the Suspension of Operations pact lapses](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/manipur-soo-pact-lapse-and-naga-kuki-clashes)
+- [The first Agniveers finish four years: the services seek changes and two States offer quotas](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/agnipath-first-batch)
+- [CAPF Act, 2026 comes into force while its IPS deputation shares are challenged in the Supreme Court](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/capf-general-administration-act-2026)
+- [Trade margins on 137 cancer drugs capped at 30 per cent after the Supreme Court's daylight dacoity remark](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/cancer-drug-trade-margins-capped)
+- [Social pensions continued to 2031 as the Pradhan Mantri Samajik Sahayata Yojana, with disability cover from 40 per cent](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/nsap-becomes-pm-samajik-sahayata-yojana)
+- [Parliamentary panel wants NEET on screen after the leak, but the risk only changes shape](https://www.firstprinciplesias.com/current-affairs/leads/2026-10/nta-reform-computer-based-testing)
 ## Legacy IAS newspaper and PIB digests
 
 https://www.legacyias.com/feed/
@@ -54,6 +72,9 @@ https://www.legacyias.com/feed/
 - [Current Affairs 13 November 2026](https://www.legacyias.com/current-affairs-13-november-2026/)
 - [Editorials/Opinions Analysis For UPSC 13 November 2026](https://www.legacyias.com/editorials-opinions-analysis-for-upsc-13-november-2026/)
 - [PIB Summaries 13 November 2026](https://www.legacyias.com/pib-summaries-13-november-2026/)
+- [PIB Summaries 14 November 2026](https://www.legacyias.com/pib-summaries-14-november-2026/)
+- [Editorials/Opinions Analysis For UPSC 14 November 2026](https://www.legacyias.com/editorials-opinions-analysis-for-upsc-14-november-2026/)
+- [Current Affairs Quiz 13 November 2026](https://www.legacyias.com/current-affairs-quiz-13-november-2026/)
 ## Insights IAS daily current affairs and PIB digest
 
 https://www.insightsonindia.com/feed/
@@ -63,6 +84,7 @@ https://www.insightsonindia.com/feed/
 - [UPSC CURRENT AFFAIRS – 9 NOVEMBER 2026](https://www.insightsonindia.com/2026/11/09/upsc-current-affairs-9-november-2026/)
 - [UPSC Editorials Quiz : 10 November 2026](https://www.insightsonindia.com/2026/11/10/upsc-editorials-quiz-10-november-2026/)
 - [UPSC Editorials Quiz : 11 November 2026](https://www.insightsonindia.com/2026/11/11/upsc-editorials-quiz-11-november-2026/)
+- [UPSC Editorials Quiz : 14 November 2026](https://www.insightsonindia.com/2026/11/14/upsc-editorials-quiz-14-november-2026/)
 ## ForumIAS 9 PM monthly newspaper compilations
 Historical monthly archive; inspect edition dates, not collection date.
 https://forumias.com/blog/tag/9-pm-monthly/

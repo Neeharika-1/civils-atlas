@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-13T07:36:24.012084+00:00",
+  "updated_at": "2026-11-14T07:20:26.161888+00:00",
   "tested": 6,
-  "working": 5,
-  "new_links": 3,
+  "working": 6,
+  "new_links": 29,
   "scope": "Compilation metadata only; publisher text is not copied, and original source utilisation/facts are not verified.",
   "results": [
     {
@@ -10,16 +10,16 @@
       "source_id": "first-principles",
       "category": "Secondary compilations",
       "url": "https://www.firstprinciplesias.com/current-affairs",
-      "time": "2026-11-13T07:36:18.269444+00:00",
+      "time": "2026-11-14T07:20:22.947969+00:00",
       "status": "ok",
-      "discovered": 22,
+      "discovered": 25,
       "attempts": [
         {
           "url": "https://www.firstprinciplesias.com/current-affairs",
           "format": "html",
           "status": "ok",
           "http_status": 200,
-          "discovered": 22
+          "discovered": 25
         }
       ],
       "source_read": false,
@@ -33,9 +33,9 @@
       "source_id": "legacy-daily",
       "category": "Secondary compilations",
       "url": "https://www.legacyias.com/feed/",
-      "time": "2026-11-13T07:36:18.269850+00:00",
+      "time": "2026-11-14T07:20:22.948350+00:00",
       "status": "ok",
-      "discovered": 7,
+      "discovered": 5,
       "attempts": [
         {
           "url": "https://www.legacyias.com/feed/",
@@ -56,9 +56,9 @@
       "source_id": "insights-daily",
       "category": "Secondary compilations",
       "url": "https://www.insightsonindia.com/feed/",
-      "time": "2026-11-13T07:36:18.270863+00:00",
-      "status": "review_required",
-      "discovered": 0,
+      "time": "2026-11-14T07:20:22.949317+00:00",
+      "status": "ok",
+      "discovered": 1,
       "attempts": [
         {
           "url": "https://www.insightsonindia.com/feed/",
@@ -72,15 +72,14 @@
       "route_used": "https://www.insightsonindia.com/feed/",
       "fallback_used": false,
       "secondary_source": true,
-      "coverage_note": "",
-      "error": "No matching compilation entries; not proof of no coverage."
+      "coverage_note": ""
     },
     {
       "source": "ForumIAS 9 PM monthly newspaper compilations",
       "source_id": "forum-monthly",
       "category": "Secondary compilations",
       "url": "https://forumias.com/blog/tag/9-pm-monthly/",
-      "time": "2026-11-13T07:36:18.272063+00:00",
+      "time": "2026-11-14T07:20:22.950361+00:00",
       "status": "ok",
       "discovered": 10,
       "attempts": [
@@ -103,7 +102,7 @@
       "source_id": "legacy-pib-daily",
       "category": "Secondary compilations",
       "url": "https://www.legacyias.com/current-affairs-datewise/daily-pib-summaries/",
-      "time": "2026-11-13T07:36:18.272582+00:00",
+      "time": "2026-11-14T07:20:22.951137+00:00",
       "status": "ok",
       "discovered": 1,
       "attempts": [
@@ -126,7 +125,7 @@
       "source_id": "legacy-pib-monthly",
       "category": "Secondary compilations",
       "url": "https://www.legacyias.com/pib-monthly-compilations/",
-      "time": "2026-11-13T07:36:18.762129+00:00",
+      "time": "2026-11-14T07:20:24.044871+00:00",
       "status": "ok",
       "discovered": 20,
       "attempts": [

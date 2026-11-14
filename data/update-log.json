@@ -4,7 +4,7 @@
     "source_id": "ap-finance",
     "category": "Andhra Pradesh",
     "url": "https://apfinance.gov.in/",
-    "time": "2026-11-13T07:35:43.226399+00:00",
+    "time": "2026-11-14T07:19:44.540332+00:00",
     "status": "ok",
     "discovered": 5,
     "attempts": [
@@ -25,7 +25,7 @@
     "source_id": "ap-ipr",
     "category": "Andhra Pradesh",
     "url": "https://ipr.ap.nic.in/press-releases.html",
-    "time": "2026-11-13T07:35:43.201017+00:00",
+    "time": "2026-11-14T07:19:44.449825+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -45,18 +45,18 @@
         "url": "https://ipr.ap.gov.in/",
         "format": "html",
         "status": "failed",
-        "error": "HTTPSConnectionPool(host='ipr.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='ipr.ap.gov.in', port=443): Failed to resolve 'ipr.ap.gov.in' ([Errno -3] Temporary failure in name resolution)\"))"
+        "error": "HTTPSConnectionPool(host='ipr.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='ipr.ap.gov.in', port=443) at 0x7e40f8702ba0>, 'Connection to ipr.ap.gov.in timed out. (connect timeout=8)'))"
       }
     ],
     "source_read": false,
-    "error": "HTTPSConnectionPool(host='ipr.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='ipr.ap.gov.in', port=443): Failed to resolve 'ipr.ap.gov.in' ([Errno -3] Temporary failure in name resolution)\"))"
+    "error": "HTTPSConnectionPool(host='ipr.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='ipr.ap.gov.in', port=443) at 0x7e40f8702ba0>, 'Connection to ipr.ap.gov.in timed out. (connect timeout=8)'))"
   },
   {
     "source": "AP government orders portal",
     "source_id": "ap-orders",
     "category": "Andhra Pradesh",
     "url": "https://goir.ap.gov.in/",
-    "time": "2026-11-13T07:35:43.232809+00:00",
+    "time": "2026-11-14T07:19:44.629494+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -64,24 +64,24 @@
         "url": "https://goir.ap.gov.in/",
         "format": "portal",
         "status": "failed",
-        "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x759ae6d637a0>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
+        "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x7e40f9b67b00>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
       },
       {
         "url": "https://goir.ap.gov.in/Reports.aspx",
         "format": "portal",
         "status": "failed",
-        "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x759ae4bcd370>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
+        "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x7e40f8962210>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
       }
     ],
     "source_read": false,
-    "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x759ae4bcd370>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
+    "error": "HTTPSConnectionPool(host='goir.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='goir.ap.gov.in', port=443) at 0x7e40f8962210>, 'Connection to goir.ap.gov.in timed out. (connect timeout=8)'))"
   },
   {
     "source": "APPSC official announcements",
     "source_id": "appsc",
     "category": "Andhra Pradesh",
     "url": "https://psc.ap.gov.in/",
-    "time": "2026-11-13T07:35:43.382821+00:00",
+    "time": "2026-11-14T07:19:44.671111+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -89,24 +89,24 @@
         "url": "https://psc.ap.gov.in/",
         "format": "portal",
         "status": "failed",
-        "error": "HTTPSConnectionPool(host='psc.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='psc.ap.gov.in', port=443) at 0x759ae6d625d0>, 'Connection to psc.ap.gov.in timed out. (connect timeout=8)'))"
+        "error": "HTTPSConnectionPool(host='psc.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='psc.ap.gov.in', port=443): Failed to resolve 'psc.ap.gov.in' ([Errno -3] Temporary failure in name resolution)\"))"
       },
       {
         "url": "https://portal-psc.ap.gov.in/",
         "format": "html",
         "status": "failed",
-        "error": "HTTPSConnectionPool(host='portal-psc.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='portal-psc.ap.gov.in', port=443): Failed to resolve 'portal-psc.ap.gov.in' ([Errno -3] Temporary failure in name resolution)\"))"
+        "error": "HTTPSConnectionPool(host='portal-psc.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)')))"
       }
     ],
     "source_read": false,
-    "error": "HTTPSConnectionPool(host='portal-psc.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='portal-psc.ap.gov.in', port=443): Failed to resolve 'portal-psc.ap.gov.in' ([Errno -3] Temporary failure in name resolution)\"))"
+    "error": "HTTPSConnectionPool(host='portal-psc.ap.gov.in', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)')))"
   },
   {
     "source": "Gazette of India",
     "source_id": "gazette",
     "category": "Primary legal documents",
     "url": "https://egazette.gov.in/",
-    "time": "2026-11-13T07:35:44.237417+00:00",
+    "time": "2026-11-14T07:19:47.478056+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -131,7 +131,7 @@
     "source_id": "isro",
     "category": "Science",
     "url": "https://www.isro.gov.in/Updates.html",
-    "time": "2026-11-13T07:35:42.205309+00:00",
+    "time": "2026-11-14T07:19:43.675412+00:00",
     "status": "ok",
     "discovered": 5,
     "attempts": [
@@ -152,7 +152,7 @@
     "source_id": "express-explained",
     "category": "Newspapers",
     "url": "https://indianexpress.com/section/explained/feed/",
-    "time": "2026-11-13T07:35:42.174042+00:00",
+    "time": "2026-11-14T07:19:43.603851+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -177,7 +177,7 @@
     "source_id": "express-india",
     "category": "Newspapers",
     "url": "https://indianexpress.com/section/india/feed/",
-    "time": "2026-11-13T07:35:41.869792+00:00",
+    "time": "2026-11-14T07:19:43.266878+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -208,7 +208,7 @@
     "source_id": "pib-reviews",
     "category": "Historical reconciliation",
     "url": "https://www.pib.gov.in/EventDetail.aspx?ID=1229&reg=3&lang=1",
-    "time": "2026-11-13T07:35:41.441975+00:00",
+    "time": "2026-11-14T07:19:43.044730+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -227,7 +227,7 @@
     "source_id": "pib-daily",
     "category": "Official releases",
     "url": "https://www.pib.gov.in/allrelease.aspx?reg=3&lang=1",
-    "time": "2026-11-13T07:35:41.441442+00:00",
+    "time": "2026-11-14T07:19:43.044322+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -264,7 +264,7 @@
     "source_id": "prs-2025",
     "category": "Historical reconciliation",
     "url": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2025",
-    "time": "2026-11-13T07:35:41.443575+00:00",
+    "time": "2026-11-14T07:19:43.045663+00:00",
     "status": "ok",
     "discovered": 12,
     "attempts": [
@@ -285,7 +285,7 @@
     "source_id": "prs-current",
     "category": "Legislation",
     "url": "https://prsindia.org/policy/monthly-policy-review?month=All&year=2026",
-    "time": "2026-11-13T07:35:41.444110+00:00",
+    "time": "2026-11-14T07:19:43.046716+00:00",
     "status": "ok",
     "discovered": 10,
     "attempts": [
@@ -306,9 +306,9 @@
     "source_id": "rbi",
     "category": "Economy",
     "url": "https://www.rbi.org.in/commonman/English/Scripts/PressReleases.aspx",
-    "time": "2026-11-13T07:35:43.870971+00:00",
-    "status": "ok",
-    "discovered": 10,
+    "time": "2026-11-14T07:19:47.398458+00:00",
+    "status": "failed",
+    "discovered": 0,
     "attempts": [
       {
         "url": "https://www.rbi.org.in/commonman/English/Scripts/PressReleases.aspx",
@@ -319,22 +319,25 @@
       {
         "url": "https://www.rbi.org.in/pressreleases_rss.xml",
         "format": "rss",
-        "status": "ok",
-        "http_status": 200,
-        "discovered": 10
+        "status": "failed",
+        "error": "418 Client Error: Unknown Code for url: https://www.rbi.org.in/pressreleases_rss.xml"
+      },
+      {
+        "url": "https://website.rbi.org.in/web/rbi/press-releases",
+        "format": "html",
+        "status": "failed",
+        "error": "418 Client Error: Unknown Code for url: https://www.rbi.org.in/"
       }
     ],
     "source_read": false,
-    "error": "418 Client Error: Unknown Code for url: https://www.rbi.org.in/commonman/English/Scripts/PressReleases.aspx",
-    "route_used": "https://www.rbi.org.in/pressreleases_rss.xml",
-    "fallback_used": true
+    "error": "418 Client Error: Unknown Code for url: https://www.rbi.org.in/"
   },
   {
     "source": "Supreme Court judgments",
     "source_id": "supreme-court",
     "category": "Primary legal documents",
     "url": "https://www.sci.gov.in/judgements-case-no/",
-    "time": "2026-11-13T07:35:44.841666+00:00",
+    "time": "2026-11-14T07:19:48.293386+00:00",
     "status": "review_required",
     "discovered": 0,
     "attempts": [
@@ -368,7 +371,7 @@
     "source_id": "hindu-ap",
     "category": "Andhra Pradesh",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/feeder/default.rss",
-    "time": "2026-11-13T07:35:41.445039+00:00",
+    "time": "2026-11-14T07:19:43.047652+00:00",
     "status": "ok",
     "discovered": 60,
     "attempts": [
@@ -389,7 +392,7 @@
     "source_id": "hindu-national",
     "category": "Newspapers",
     "url": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "time": "2026-11-13T07:35:41.444537+00:00",
+    "time": "2026-11-14T07:19:43.047186+00:00",
     "status": "ok",
     "discovered": 60,
     "attempts": [
@@ -410,7 +413,7 @@
     "source_id": "vision-daily",
     "category": "Magazine gap checks",
     "url": "https://visionias.in/current-affairs/news-today/archive",
-    "time": "2026-11-13T07:35:42.387003+00:00",
+    "time": "2026-11-14T07:19:43.750802+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
@@ -441,7 +444,7 @@
     "source_id": "vision-monthly",
     "category": "Magazine gap checks",
     "url": "https://visionias.in/current-affairs/monthly-magazine/archive",
-    "time": "2026-11-13T07:35:42.398107+00:00",
+    "time": "2026-11-14T07:19:43.788785+00:00",
     "status": "failed",
     "discovered": 0,
     "attempts": [
