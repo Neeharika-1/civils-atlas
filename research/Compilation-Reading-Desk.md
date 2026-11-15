@@ -1,5 +1,5 @@
 # Compilation reading desk
-2026-11-14T07:20:26.161888+00:00
+2026-11-15T07:31:13.990113+00:00
 Secondary sources. Collection dates are not article publication dates; links are not verified study notes.
 
 ## First Principles IAS topic archive
@@ -75,6 +75,8 @@ https://www.legacyias.com/feed/
 - [PIB Summaries 14 November 2026](https://www.legacyias.com/pib-summaries-14-november-2026/)
 - [Editorials/Opinions Analysis For UPSC 14 November 2026](https://www.legacyias.com/editorials-opinions-analysis-for-upsc-14-november-2026/)
 - [Current Affairs Quiz 13 November 2026](https://www.legacyias.com/current-affairs-quiz-13-november-2026/)
+- [Current Affairs Quiz 14 November 2026](https://www.legacyias.com/current-affairs-quiz-14-november-2026/)
+- [Current Affairs 14 November 2026](https://www.legacyias.com/current-affairs-14-november-2026/)
 ## Insights IAS daily current affairs and PIB digest
 
 https://www.insightsonindia.com/feed/
@@ -85,6 +87,8 @@ https://www.insightsonindia.com/feed/
 - [UPSC Editorials Quiz : 10 November 2026](https://www.insightsonindia.com/2026/11/10/upsc-editorials-quiz-10-november-2026/)
 - [UPSC Editorials Quiz : 11 November 2026](https://www.insightsonindia.com/2026/11/11/upsc-editorials-quiz-11-november-2026/)
 - [UPSC Editorials Quiz : 14 November 2026](https://www.insightsonindia.com/2026/11/14/upsc-editorials-quiz-14-november-2026/)
+- [UPSC Current Affairs Quiz – 14 November 2026 | Daily Prelims Quiz](https://www.insightsonindia.com/2026/11/14/upsc-current-affairs-quiz-14-november-2026-daily-prelims-quiz/)
+- [UPSC CURRENT AFFAIRS – 14 NOVEMBER 2026](https://www.insightsonindia.com/2026/11/14/upsc-current-affairs-14-november-2026/)
 ## ForumIAS 9 PM monthly newspaper compilations
 Historical monthly archive; inspect edition dates, not collection date.
 https://forumias.com/blog/tag/9-pm-monthly/
