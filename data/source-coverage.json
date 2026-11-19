@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T08:11:24.976637+00:00",
+  "updated_at": "2026-11-19T08:25:38.862132+00:00",
   "fully_utilised": false,
   "scope": "Endpoint access is not article reading. Archive domain references are historical, not proof of daily utilisation.",
   "sources": [
@@ -62,7 +62,7 @@
       "name": "Indian Express India",
       "category": "Newspapers",
       "required": true,
-      "status": "failed",
+      "status": "ok",
       "archive_notes_referencing_domain": 5,
       "today_utilisation_verified": false
     },
@@ -71,7 +71,7 @@
       "name": "Indian Express Explained",
       "category": "Newspapers",
       "required": true,
-      "status": "failed",
+      "status": "ok",
       "archive_notes_referencing_domain": 5,
       "today_utilisation_verified": false
     },

@@ -1,5 +1,5 @@
 # Compilation reading desk
-2026-11-18T08:11:28.104057+00:00
+2026-11-19T08:25:42.069211+00:00
 Secondary sources. Collection dates are not article publication dates; links are not verified study notes.
 
 ## First Principles IAS topic archive
@@ -50,9 +50,6 @@ https://www.firstprinciplesias.com/current-affairs
 
 https://www.legacyias.com/feed/
 
-- [Current Affairs Quiz 07 November 2026](https://www.legacyias.com/current-affairs-quiz-07-november-2026/)
-- [Current Affairs 07 November 2026](https://www.legacyias.com/current-affairs-07-november-2026/)
-- [Editorials/Opinions Analysis For UPSC 07 November 2026](https://www.legacyias.com/editorials-opinions-analysis-for-upsc-07-november-2026/)
 - [PIB Summaries 07 November 2026](https://www.legacyias.com/pib-summaries-07-november-2026/)
 - [MONTHLY EDITORIAL ANALYSIS OCTOBER 2026 | MONTHLY COMPILATION FOR UPSC](https://www.legacyias.com/monthly-editorial-analysis-october-2026/)
 - [MONTHLY PIB SUMMARIES OCTOBER 2026 | MONTHLY COMPILATION FOR UPSC](https://www.legacyias.com/monthly-pib-summaries-october-2026-monthly-compilation-for-upsc/)
@@ -89,6 +86,10 @@ https://www.legacyias.com/feed/
 - [PIB Summaries 18 November 2026](https://www.legacyias.com/pib-summaries-18-november-2026/)
 - [Current Affairs Quiz 17 November 2026](https://www.legacyias.com/current-affairs-quiz-17-november-2026/)
 - [Current Affairs 17 November 2026](https://www.legacyias.com/current-affairs-17-november-2026/)
+- [Current Affairs Quiz 19 November 2026](https://www.legacyias.com/current-affairs-quiz-19-november-2026/)
+- [Current Affairs 19 November 2026](https://www.legacyias.com/current-affairs-19-november-2026/)
+- [Editorials/Opinions Analysis For UPSC 19 November 2026](https://www.legacyias.com/editorials-opinions-analysis-for-upsc-19-november-2026/)
+- [PIB Summaries 19 November 2026](https://www.legacyias.com/pib-summaries-19-november-2026/)
 ## Insights IAS daily current affairs and PIB digest
 
 https://www.insightsonindia.com/feed/
@@ -104,6 +105,9 @@ https://www.insightsonindia.com/feed/
 - [UPSC Editorials Quiz : 16 November 2026](https://www.insightsonindia.com/2026/11/16/upsc-editorials-quiz-16-november-2026/)
 - [UPSC Editorials Quiz : 17 November 2026](https://www.insightsonindia.com/2026/11/17/upsc-editorials-quiz-17-november-2026/)
 - [UPSC Editorials Quiz : 18 November 2026](https://www.insightsonindia.com/2026/11/18/upsc-editorials-quiz-18-november-2026/)
+- [UPSC Editorial Analysis: Personal Choices and Public Consequences](https://www.insightsonindia.com/2026/11/19/upsc-editorial-analysis-personal-choices-and-public-consequences/)
+- [UPSC Editorial Analysis: Judicial Transfers vs. Speedy Justice](https://www.insightsonindia.com/2026/11/19/upsc-editorial-analysis-judicial-transfers-vs-speedy-justice/)
+- [UPSC Editorials Quiz : 19 November 2026](https://www.insightsonindia.com/2026/11/19/upsc-editorials-quiz-19-november-2026/)
 ## ForumIAS 9 PM monthly newspaper compilations
 Historical monthly archive; inspect edition dates, not collection date.
 https://forumias.com/blog/tag/9-pm-monthly/
